@@ -1,0 +1,12 @@
+{
+  "lean-terminal:new-terminal-tab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}

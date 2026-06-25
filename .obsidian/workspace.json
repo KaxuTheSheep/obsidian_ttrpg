@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "f609a3960c0b66c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "75ae980d2df92ae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fee906c502b3614",
+            "type": "leaf",
+            "state": {
+              "type": "terminal-view",
+              "state": {
+                "tabs": [
+                  {
+                    "name": "Terminal 1",
+                    "color": "",
+                    "cwd": "C:\\Users\\KaxuTheSheep\\Documents\\Obsidian\\obsidian_xenos",
+                    "bufferSerial": "\u001b[37;1m ⢠⠣⡀\r\n⢀⠇⠀⠉⠙⠕⡆⠀⢀⠠⠀⠂⠀⠁⠈⠀⠁⠀⠂⠠⠀⡀⠀⠀⣀⡠⠰⠐⠘⢩----------\u001b[36mKaxuTheSheep\u001b[0m@\u001b[36;1mDESKTOP-656JHJ0\r\n\u001b[37m⢸⡆⠀⠀⠀⠀⢼⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢾⠀⠀⠀⠀⢠\u001b[0m         ╭───────────────────────────╮\r\n\u001b[37;1m⠸⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⢸\u001b[0m        \u001b[31;1m󰍲 \u001b[0m -> WIN32_NT 10.0.26200.7462\r\n\u001b[37;1m⠀⠰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠴⣶⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠤⠒⠚\u001b[0m        \u001b[32;1m \u001b[0m -> Desktop Window Manager 10.0.26100.7309 (with komorebi 0.)\r\n\u001b[37;1m⠀⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢀⣿⡟⠉⡇⠀⠀⠀⠀⠀⠀⠀⠀⢄⠀\u001b[0m        \u001b[33;1m \u001b[0m -> PowerShell 7.6.1\r\n\u001b[37;1m⠀⡃⠀⠀⠀⣠⣶⡮⠻⣿⣿⣦⡀⠀⣸⢿⢿⡧⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠀\u001b[0m        \u001b[34;1m \u001b[0m -> Obsidian 1.11.7.0\r\n\u001b[37;1m⠁⠄⠀⢠⣾⣿⠇⠀⠀⠈⠻⣿⣿⣆⠁⠋⠘⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⢰⠀\u001b[0m        \u001b[35;1m󰍛 \u001b[0m -> Intel(R) Core(TM) i7-9700 (8) @ 4.70 GHz\r\n\u001b[37;1m⠈⠰⡀⣿⣿⢿⠀⠀⠀⠀⣰⣿⣿⣿⣷⣶⣶⣿⣿⣿⠿⠿⠛⢀⠀⠀⠀⠀⠨⠀\u001b[0m        \u001b[36;1m󰻠 \u001b[0m -> 15.81 GiB / 15.94 GiB\r\n\u001b[37;1m⠀⠀⠀⣋⣭⣤⠳⡀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠸⣿⡆⠀⠀⠀⠐⠀\u001b[0m        \u001b[37;1m󰔛 \u001b[0m -> 54 mins\r\n\u001b[37;1m⠀⢠⣾⣿⣿⣧⡔⣾⣿⣿⣿⣿⣿⣐⣊⣿⣿⣿⡀⠀⠀⠀⣼⣿⣿⠀⠀⠀⠠⠀\u001b[0m   \u001b[10C────────────────────────╯\r\n\u001b[37;1m⠀⣿⣿⣿⣿⣿⢃⣿⣿⣿⠟⠛⠛⠻⠿⣿⣿⣿⣷⣤⣤⣾⣿⣿⡇⠀⠀⠀⠂⠀----------\u001b[1C\u001b[31;22m󰫢  \u001b[32m󰫢  \u001b[33m󰫢  \u001b[34m󰫢  \u001b[35m󰫢  \u001b[36m󰫢  \u001b[37m󰫢  \u001b[90m󰫢\r\n\u001b[37;1m⠀⠙⠿⠟⠛⠁⠈⠻⠿⡿⠀⢀⡜⠁⠀⢸⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠐⠀⠀\r\n⠀⠀⠀⢠⣴⣦⣤⣶⣴⠁⠄⡘⠀⠀⢀⡾⣿⣿⣿⠿⠿⠟⣍⡀⡀⠄⠂⠀⠀⠀\r\n⠀⠀⢠⢈⡻⡇⡸⣇⣿⢿⢶⣶⣴⡻⠃⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n⠀⠀⠘⠈⠁⠀⠀⠉⣘⡚⠸⠟⢿⠄⠀⠠⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n\r\n\u001b[0mEnter passphrase for C:\\Users\\KaxuTheSheep\\.ssh\\id_windows:\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!⇡]\r\n\u001b[32m❯\u001b[0m \u001b[93mvf \u001b[37m.git\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!⇡]\u001b[0m took \u001b[33;1m8s\r\n\u001b[32m❯\r\n\r\n\u001b[36mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!⇡]\u001b[0m took \u001b[33;1m8s\r\n\u001b[32m❯\u001b[0m \u001b[93mvf \u001b[37m.git\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!⇡]\u001b[0m took \u001b[33;1m27s\u001b[0m \r\n\u001b[32;1m❯\u001b[0m \u001b[93mgit \u001b[37mstatus\r\n\u001b[0mOn branch main\r\nYour branch is ahead of 'origin/main' by 1 commit.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (\u001b[8C restore <file>...\" to discard changes in working directory)\r\n---\u001b[8C\u001b[31mified:   .gitignore\r\n--------modified:   Visual/Timeline_Data.jsonc\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!⇡]\u001b[0m \r\n\u001b[32;1m❯\u001b[0m \u001b[93mgit \u001b[37madd .\r\n\u001b[0mwarning: in the working copy of 'Visual/Timeline_Data.jsonc', LF will be replaced by CRLF the next time Git touches it\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[+⇡]\u001b[0m \r\n\u001b[32;1m❯\u001b[0m \u001b[93mgit \u001b[37mhelp\u001b[0m \r\nusage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\r\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\r\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\r\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\r\n           <command> [<args>]\r\n\r\nThese are common Git commands used in various situations:\r\n\r\nstart a working area (see also: git help tutorial)\r\n   clone      Clone a repository into a new directory\r\n   init       Create an empty Git repository or reinitialize an existing one\r\n\r\nwork on the current change (see also: git help everyday)\r\n   add        Add file contents to the index\r\n\u001b[37;1m ⢠⠣⡀\r\n⢀⠇⠀⠉⠙⠕⡆⠀⢀⠠⠀⠂⠀⠁⠈⠀⠁⠀⠂⠠⠀⡀⠀⠀⣀⡠⠰⠐⠘⢩\u001b[10C\u001b[36mKaxuTheSheep\u001b[0m@\u001b[36;1mDESKTOP-656JHJ0\r\n\u001b[37m⢸⡆⠀⠀⠀⠀⢼⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢾⠀⠀⠀⠀⢠\u001b[0m         ╭───────────────────────────╮\r\n\u001b[37;1m⠸⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⢸\u001b[0m        \u001b[31;1m󰍲 \u001b[0m -> WIN32_NT 10.0.26200.7462\r\n\u001b[37;1m⠀⠰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠴⣶⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠤⠒⠚\u001b[0m        \u001b[32;1m \u001b[0m -> Desktop Window Manager 10.0.26100.7309 (with komorebi 0.1.41) \r\n\u001b[37;1m⠀⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢀⣿⡟⠉⡇⠀⠀⠀⠀⠀⠀⠀⠀⢄⠀\u001b[0m        \u001b[33;1m \u001b[0m -> PowerShell 7.6.1\r\n\u001b[37;1m⠀⡃⠀⠀⠀⣠⣶⡮⠻⣿⣿⣦⡀⠀⣸⢿⢿⡧⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠀\u001b[0m        \u001b[34;1m \u001b[0m -> Obsidian 1.11.7.0\r\n\u001b[37;1m⠁⠄⠀⢠⣾⣿⠇⠀⠀⠈⠻⣿⣿⣆⠁⠋⠘⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⢰⠀\u001b[0m        \u001b[35;1m󰍛 \u001b[0m -> Intel(R) Core(TM) i7-9700 (8) @ 4.70 GHz\r\n\u001b[37;1m⠈⠰⡀⣿⣿⢿⠀⠀⠀⠀⣰⣿⣿⣿⣷⣶⣶⣿⣿⣿⠿⠿⠛⢀⠀⠀⠀⠀⠨⠀\u001b[0m        \u001b[36;1m󰻠 \u001b[0m -> 7.86 GiB / 15.94 GiB\r\n\u001b[37;1m⠀⠀⠀⣋⣭⣤⠳⡀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠸⣿⡆⠀⠀⠀⠐⠀\u001b[0m        \u001b[37;1m󰔛 \u001b[0m -> 6 hours, 39 mins\r\n\u001b[37;1m ⢠⠣⡀\r\n⢀⠇⠀⠉⠙⠕⡆⠀⢀⠠⠀⠂⠀⠁⠈⠀⠁⠀⠂⠠⠀⡀⠀⠀⣀⡠⠰⠐⠘⢩\u001b[10C\u001b[36mKaxuTheSheep\u001b[0m@\u001b[36;1mDESKTOP-656JHJ0\r\n\u001b[37m⢸⡆⠀⠀⠀⠀⢼⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢾⠀⠀⠀⠀⢠\u001b[0m         ╭───────────────────────────╮\r\n\u001b[37;1m⠸⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⢸\u001b[0m        \u001b[31;1m󰍲 \u001b[0m -> WIN32_NT 10.0.26200.7462\r\n\u001b[37;1m⠀⠰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠴⣶⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠤⠒⠚\u001b[0m        \u001b[32;1m \u001b[0m -> Desktop Window Manager 10.0.26100.7)\r\n\u001b[37;1m⠀⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢀⣿⡟⠉⡇⠀⠀⠀⠀⠀⠀⠀⠀⢄⠀\u001b[0m        \u001b[33;1m \u001b[0m -> PowerShell 7.6.1\r\n\u001b[37;1m⠀⡃⠀⠀⠀⣠⣶⡮⠻⣿⣿⣦⡀⠀⣸⢿⢿⡧⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠀\u001b[0m        \u001b[34;1m \u001b[0m -> Obsidian 1.11.7.0\r\n\u001b[37;1m⠁⠄⠀⢠⣾⣿⠇⠀⠀⠈⠻⣿⣿⣆⠁⠋⠘⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⢰⠀\u001b[0m        \u001b[35;1m󰍛 \u001b[0m -> Intel(R) Core(TM) i7-9700 (8) @ 4.7z\r\n\u001b[37;1m⠈⠰⡀⣿⣿⢿⠀⠀⠀⠀⣰⣿⣿⣿⣷⣶⣶⣿⣿⣿⠿⠿⠛⢀⠀⠀⠀⠀⠨⠀\u001b[0m        \u001b[36;1m󰻠 \u001b[0m -> 5.92 GiB / 15.94 GiB\r\n\u001b[37;1m⠀⠀⠀⣋⣭⣤⠳⡀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠸⣿⡆⠀⠀⠀⠐⠀\u001b[0m        \u001b[37;1m󰔛 \u001b[0m -> 11 mins\r\n\u001b[37;1m⠀⢠⣾⣿⣿⣧⡔⣾⣿⣿⣿⣿⣿⣐⣊⣿⣿⣿⡀⠀⠀⠀⣼⣿⣿⠀⠀⠀⠠⠀\u001b[0m         ╰───────────────────────────╯\r\n\u001b[37;1m⠀⣿⣿⣿⣿⣿⢃⣿⣿⣿⠟⠛⠛⠻⠿⣿⣿⣿⣷⣤⣤⣾⣿⣿⡇⠀⠀⠀⠂⠀\u001b[11C\u001b[31;22m󰫢  \u001b[32m󰫢  \u001b[33m󰫢  \u001b[34m󰫢  \u001b[35m󰫢  \u001b[36m󰫢  \u001b[37m󰫢  \u001b[90m󰫢\r\n\u001b[37;1m⠀⠙⠿⠟⠛⠁⠈⠻⠿⡿⠀⢀⡜⠁⠀⢸⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠐⠀⠀\r\n⠀⠀⠀⢠⣴⣦⣤⣶⣴⠁⠄⡘⠀⠀⢀⡾⣿⣿⣿⠿⠿⠟⣍⡀⡀⠄⠂⠀⠀⠀\r\n⠀⠀⢠⢈⡻⡇⡸⣇⣿⢿⢶⣶⣴⡻⠃⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n⠀⠀⠘⠈⠁⠀⠀⠉⣘⡚⠸⠟⢿⠄⠀⠠⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\r\n\r\n\u001b[0mEnter passphrase for C:\\Users\\KaxuTheSheep\\.ssh\\id_windows:\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[+⇡]\r\n\u001b[32m❯\u001b[0m \u001b[93mnvim \u001b[37m.\\Visual\\Timeline_Rendering.html\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[✘+?⇡]\u001b[0m took \u001b[33;1m4m18s\r\n\u001b[32m❯\u001b[1C\u001b[93;22mnvim \u001b[37m.\\Visual\\Timeline_Rendering.html\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[9A\u001b[0m\u001b[?1049h\u001b[H\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[+]\r\n\u001b[32m❯\u001b[0m \u001b[93mgit \u001b[37mstatus\r\n\u001b[0mOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n        \u001b[32mmodified:   .gitignore\r\n\u001b[0m        \u001b[32mmodified:   Visual/Timeline_Data.jsonc\r\n\r\n\r\n\u001b[36;1mobsidian_xenos\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[+]\r\n\u001b[32m❯\u001b[1C\u001b[93;22mcd \u001b[37mC:\\Users\\KaxuTheSheep\\Documents\\Obsidian\\obsidian_ttrpg\\\r\n\r\n\u001b[36;1mDocuments\\Obsidian\\obsidian_ttrpg\r\n\u001b[32m❯\u001b[1C\u001b[93;22mgit \u001b[37minit\u001b[0m  \r\n\u001b[33mhint: Using 'master' as the name for the initial branch. This default branch name\r\nhint: will change to \"main\" in Git 3.0. To configure the initial branch name\r\nhint: to use in all of your new repositories, which will suppress this warning,\r\nhint: call:\r\nhint:\r\nhint:   git config --global init.defaultBranch <name>\r\nhint:\r\nhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and\r\nhint: 'development'. The just-created branch can be renamed via this command:\r\nhint:\r\nhint:   git branch -m <name>\r\nhint:\r\nhint: Disable this message with \"git config set advice.defaultBranchName false\"\r\n\u001b[0mInitialized empty Git repository in C:/Users/KaxuTheSheep/Documents/Obsidian/obsidian_ttrpg/.git/\r\n\r\n\u001b[36;1mobsidian_ttrpg\u001b[0m on \u001b[35;1m master\u001b[0m \u001b[31;1m[?]\r\n\u001b[32m❯\u001b[1C\u001b[0m\u001b[?2004h\u001b[?1004h\u001b[?1002h"
+                  }
+                ],
+                "activeIndex": 0
+              },
+              "icon": "terminal",
+              "title": "Terminal"
+            }
+          },
+          {
+            "id": "755d7a1f442ee216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment/Weapon.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapon.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebb6c595b026dc8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "938d3f4bfe98e95b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e663393fa42b73e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ba7173155119ed3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "era",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4add92b863fd03d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "right": {
+    "id": "9dce0ee892fbca59",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f23990d07bcb89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd2fb04a2a639ac7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timeline/Timeline.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timeline"
+            }
+          },
+          {
+            "id": "b16a266a0d6c8f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Timeline/timeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from timeline"
+            }
+          },
+          {
+            "id": "77ff15191c5a8f23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc179a3cfbd1c32b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "302c5235a6db1865",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9ccffcb64b6c82c9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 865.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "lean-terminal:Open terminal": false,
+      "vscode-editor:Create Code File": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "6fee906c502b3614",
+  "lastOpenFiles": [
+    "Equipment/Weapon.md.md",
+    "Visual/Timeline_Data.jsonc",
+    "Visual/Timeline_Data.json",
+    "Star_System/Procyon.md",
+    "Visual/Timeline_Rendering.html~",
+    "Visual/Tree_of_Life.canvas",
+    "_help/help/can_you_see_my_vault@20260529_150028.md",
+    "_help/help",
+    "_help",
+    "Star_System/Stars/Procyon_B.md",
+    "Star_System/Stars/Procyon_A.md",
+    "Star_System/Capture_Event.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Sulphovita/Captor/Sulphovita_Captor_Carpens.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Sulphovita/Captor/Sulphovita_Captor.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Sulphovita/Sulphovita.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Novus/Ferrovita_Novus_Fugax.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Munitus/Ferrovita_Munitus_Primus.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Munitus/Ferrovita_Munitus.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Novus/Ferrovita_Novus_Parcus.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Munitus",
+    "Star_System/Planets/Procyon_Ab/Environment/3-Photian/1-Desmos/Desmos_Hydrology.md",
+    "Star_System/Planets/Procyon_Ab/Environment/3-Photian/1-Desmos/Desmos_Geology.md",
+    "Star_System/Planets/Procyon_Ab/Environment/3-Photian/1-Desmos/Desmos_Atmosphere.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Novus/Ferrovita_Novus_Liber.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Patiens/Ferrovita_Patiens_Stratus.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Sulphovita/Copula/Sulphovita_Copula_Incitor.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Sulphovita/Copula/Sulphovita_Copula.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Patiens/Ferrovita_Patiens.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Novus/Ferrovita_Novus.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Firmus/Ferrovita_Firmus.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Ferrovita.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Firmus/Ferrovita_Firmus_Tactus.md",
+    "Star_System/Planets/Procyon_Ab/Biology/Ferrovita/Patiens",
+    "Meta/Property_Template.md",
+    "Environment/2-Erebian/2-Erisian",
+    "Environment/2-Erebian",
+    "Environment",
+    "Timeline/Timeline.canvas"
+  ]
+}
