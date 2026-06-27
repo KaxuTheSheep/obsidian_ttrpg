@@ -4,8 +4,6 @@ tags:
 ---
 Grappling is a body-based method of controlling another creature. It represents seizing, restraining, and manipulating a target through physical force rather than weapons. While Grappling, the initiator can drag, reposition, and set up follow-up actions, with deeper manipulation options unlocked through class abilities.
 
-Grappling is distinct from [[Weapon Traits#Weapon Bind|Binding]] — Grappling is a body state that enables class ability interactions and physical control, while Binding is a weapon state focused on locking and disarming an opponent's weapon.
-
 ## Initiating a Grapple
 **Action Cost:** Full Action
 **Roll:** 2d10 + Might or Grace vs target's Evasion
@@ -23,7 +21,6 @@ Maintaining a Grapple costs a **Full Action** each round. If the initiator does 
 While Grappling, the initiator:
 - May move, dragging the target with them. Walk rate is halved. Cannot Run.
 - Cannot use Reach or Cumbersome weapons — attacks with these weapons are at Disadvantage while maintaining a Grapple.
-- Unlocks class ability interactions that specifically require the Grappling state.
 
 ## Escaping a Grapple
 The Grappled target may attempt to escape as a **Full Action**:
