@@ -10,7 +10,7 @@ Unlike Blood, Sturdiness has more sources available to replenish it mid-combat a
 **Sturdiness = Vitality + Bought Increases + Other Modifiers**
 
 - **Vitality:** Your Vitality Attribute added directly, representing physical endurance and robustness.
-- **Bought Increases:** Additional Sturdiness purchased through Progression Points during advancement.
+- **Bought Increases:** Additional Sturdiness purchased through Trait Points during advancement.
 - **Other Modifiers:** Bonuses or penalties from abilities, conditions, equipment, or situational factors.
 
 ## Damage Absorption
@@ -30,7 +30,7 @@ Sturdiness can be recovered through:
 > Sturdiness recovers more easily and from more sources than Blood. Managing when to Brace and when to press an attack is a core tactical decision.
 
 ## Buying Sturdiness
-Additional Sturdiness can be purchased using Progression Points. As bought Sturdiness increases, each point costs more and requires greater physical conditioning to sustain.
+Additional Sturdiness can be purchased using Trait Points. As bought Sturdiness increases, each point costs more and requires greater physical conditioning to sustain.
 
 | Bought Sturdiness | Cost Per Point | Vitality Requirement |
 |---|---|---|

@@ -17,6 +17,13 @@ You cannot see.
 Your breath is restricted.
 - **Might** and **Vitality** **Tests** are at **Disadvantage**.
 
+### Bound
+Your weapon arm is locked by an opponent's weapon. See [[Weapon Traits#Weapon Bind|Weapon Bind]] for how Bound is applied.
+- You cannot use your bound weapon in any way — no attacks, Parry, or Block with it.
+- Your movement is unaffected.
+- You may attempt to escape as a **Full Action**: opposed Might or Grace vs the initiator's Might or Grace. On success, Bound ends.
+- Bound ends if the initiator drops the Bind voluntarily or is incapacitated.
+
 ### Deafened
 You cannot hear.
 - Automatically fail any **Tests** requiring hearing.
@@ -67,10 +74,10 @@ Frightened ends when:
 - You make a Resolve Test at the start of your turn (DN set by the source). On success, Frightened ends immediately.
 
 ### Grappled
-Your body is physically restrained.
+Your body is physically restrained by another creature. See [[Grapple]] for full rules on how Grappled is applied and maintained.
 - Your **movement distance becomes 0**.
 - You can still take Actions.
-- You may escape using either **Might** or **Grace** Tests.
+- You may attempt to escape as a **Full Action**: opposed Might or Grace vs the initiator's Might or Grace. On success, Grappled ends and the initiator's Grappling state ends.
 
 ### Immobilised
 You cannot move from your space.
