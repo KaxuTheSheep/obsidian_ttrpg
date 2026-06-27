@@ -5,19 +5,82 @@ tags:
   - Mechanics
   - Wip
 ---
-When a character falls from a significant height, they take Blunt damage on impact.
+When a character falls, they travel downward at a rate of **10m per Speed step** during the Resolution Phase. Falling damage bypasses [[Sturdiness]] and is applied directly to [[Blood]].
 
-# Falling Damage
-- Falls of **3 squares or less** deal no damage.
-- For every **3 squares beyond the first 3**, the character takes **1d6 Blunt damage**.
-- Falling damage **bypasses Sturdiness** and is applied directly to Blood.
-- On landing, the character is knocked **prone**.
+## Fall Damage
 
-> **Example:** A character falling 9 squares takes 2d6 Blunt damage directly to Blood.
+Damage is calculated based on total distance fallen.
 
-## #Wip
+- Falls of **3m or less** deal no damage.
+- For every **6m fallen beyond the first 3m**, the character takes **1d4 Blunt damage** directly to Blood.
+- On landing, the character is knocked **Prone**.
 
-- Fall distance per Speed value
-- Catching surfaces mid-fall
-- Falling onto other creatures
-- Controlled descent rules
+|Total Distance Fallen|Damaging Distance|Damage|
+|---|---|---|
+|3m or less|0m|None|
+|4–9m|1–6m|1d4|
+|10–15m|7–12m|2d4|
+|16–21m|13–18m|3d4|
+|22–27m|19–24m|4d4|
+|28–33m|25–30m|5d4|
+
+Continue the pattern — one additional 1d4 per 6m of damaging distance.
+
+## Catching a Surface
+
+If a climbable or graspable surface is within reach during a fall, the character may attempt to catch it and halt their descent.
+
+Catching a surface is a **Reaction** on the first attempt. Each subsequent attempt costs a **Half Action**, allowing up to **6 total attempts** per round across a character's available actions.
+
+### Catch Test
+
+Roll **2d10 + Grace or Might** against the **Catch DN**.
+
+**Base DN** scales with how many Speed steps the character has been falling:
+
+|Speed Steps Fallen|Base DN|
+|---|---|
+|1|8|
+|2|10|
+|3|12|
+|4|14|
+|5+|+2 per additional step|
+
+### Surface Modifier
+
+The surface type modifies the Catch DN.
+
+|Surface Type|DN Modifier|
+|---|---|
+|Rough natural rock|–3|
+|Uneven stone|–2|
+|Worked stone|–1|
+|Smooth stone|+0|
+|Polished stone|+1|
+|Fully smooth wall|+3|
+
+### Wetness Modifier
+
+Wet conditions stack with surface type.
+
+|Wetness|DN Modifier|
+|---|---|
+|Damp|+1|
+|Wet|+2|
+|Soaking|+3|
+
+> **Example:** A rough natural rock wall that is soaking wet has a net modifier of –3 + 3 = +0. A fully smooth soaking wall is +3 + 3 = +6 added to base DN.
+
+### Failed Catches
+
+Each failed catch attempt reduces the DN by **2** for all subsequent attempts, representing the character scrabbling and slowing their descent slightly even without fully catching.
+
+A failed catch deals **full falling damage for the total distance fallen so far**, calculated using the formula above.
+
+### Successful Catches
+
+On success, the fall ends immediately. The character is stable and hanging at that surface. No further tests are required to hold on. The character may climb, reposition, or take other actions from this position normally.
+
+## Controlled Descent
+
+A character descending under magical or equivalent control — such as a spell that governs fall speed — negates all falling damage and allows the character to choose their landing point freely. The specific means of controlled descent defines its own rules.
