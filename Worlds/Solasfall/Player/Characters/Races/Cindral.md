@@ -33,7 +33,7 @@ Your fire-touched physiology reduces all incoming fire damage by 2. This reflect
 ## Emberstrike
 When you make a melee or ranged attack, you may choose to channel your body heat through your weapon as part of that attack, adding +1 fire damage. This is a biological output, not a magical effect, and has no usage limit.
 
-## Fireforged Endurance
+## Fire-forged Endurance
 Gain +1 training in one of the following skills of your choice at character creation: Athletics, Crafting, or Endurance.
 
 # Racial Web
@@ -60,7 +60,7 @@ Your channelling technique becomes faster. Channelled Emberstrike now costs a Ha
 ## Sustained Burn
 Prerequisites: Channelled Emberstrike.
 Cost: 2 Trait Points. 
-Your body sustains the heat output longer. Channelled Emberstrike charges increase to Vitality per Short Rest, minimum 1.
+Your body sustains the heat output longer. The amount of Channelled Emberstrike charges increases to an amount equal to Vitality per Short Rest, minimum 1.
 
 ## Reinforced Resistance
 Prerequisites: Tempered Resistance. 

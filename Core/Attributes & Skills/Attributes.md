@@ -11,7 +11,7 @@ tags:
   - Mechanics
   - Character
 ---
-InYour character's Attributes are the core lenses through which you experience and interact with the world. These six qualities represent your body, mind, spirit, and influence. They aren't just numbers — they tell the story of how you survive, adapt, and shape the world around you.
+In your character's Attributes are the core lenses through which you experience and interact with the world. These six qualities represent your body, mind, spirit, and influence. They aren't just numbers — they tell the story of how you survive, adapt, and shape the world around you.
 
 Each Attribute is rated from 0 to 6. The higher your score, the stronger your connection to that aspect of your being. Your Attribute score is added directly to relevant rolls.
 

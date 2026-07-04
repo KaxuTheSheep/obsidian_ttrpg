@@ -237,7 +237,9 @@ The accessible entry to polearms. Versatile enough for one or two hands, reliabl
 **Damage Type:** Piercing
 **Speed (Base):** 9 + (Might or Grace)
 **Range:** +1.50m
-**Handedness:** Versatile **Weight Class:** Standard **Traits:** Reach, Reliable
+**Handedness:** Versatile
+**Weight Class:** Standard
+**Traits:** Reach, Reliable
 
 ### Pike
 A weapon built entirely around denying approach. Longer than anything else on the field — devastating at range, defenceless up close. 
@@ -256,7 +258,7 @@ A hooked polearm that rewards patience and control. Where other polearms strike,
 **Speed (Base):** 8 + Might 
 **Range:** +1.40m 
 **Handedness:** Two-Handed 
-**Weight Class:** Standard **Traits:** Reach, Hooking, Guarded(+2), Weapon Bind #wip
+**Weight Class:** Standard **Traits:** Reach, Hooking, Guarded(+2), Weapon Bind
 
 ### Halberd
 A heavy hybrid that combines axe, hook, and reach into a single punishing weapon. Offensively dominant, defensively minimal. 

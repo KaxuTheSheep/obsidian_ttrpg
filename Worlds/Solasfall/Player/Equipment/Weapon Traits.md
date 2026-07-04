@@ -20,7 +20,7 @@ The weapon geometry, balance, and hand protection make it **exceptional for defe
 When you make a **[[Parry]]**, add **+N** to your **[[Parry]] Test** result.  
 This affects only **[[Parry]]**, not [[Attacks]] or [[Block]].
 
-## Unpredictable(+N)
+### Unpredictable(+N)
 The weapon's articulated striking head moves along an arc that rigid weapons cannot predict or cleanly intercept. When a creature attempts to Parry an attack made with this weapon, increase the DN of their Parry Test by N.
 
 ### Unbalanced

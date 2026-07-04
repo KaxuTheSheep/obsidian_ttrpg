@@ -47,7 +47,7 @@ Read roughly in this order:
 6. [[Faith]] and [[Religion]] — you'll need this for Faith Point allocation at creation
 7. [[Magic]] (overview) — only if you're playing a mage; skip otherwise for now
 
-## 3. Solasfall — Reference (as it becomes relevant)
+## 3. Solasfall — Reference 
 
 ### Magic (mage characters, or once magic comes up in play)
 - [[Mana]], [[Soul]] — underlying theory
@@ -56,7 +56,7 @@ Read roughly in this order:
 - [[Magic Institutions]] (overview), then individual institutions:
   [[Aetherbron Institution]], [[Riftconjurors Institution]], [[Lifebinders Institution]], [[Prismshapers Institution]], [[Runeweavers Institution]], [[Elemental Conflux Institution]], [[Common Arcanum]]
 
-### Religion (once Faith matters in play, or if playing a Follower)
+### Religion (follower characters, or once faith comes up in play)
 - Individual deities: [[The Blind Shepherd]], [[The Candle Mother]], [[The Verdant Hand]], [[The Emberwright]], [[The Pale Bloom]], [[The Ashen Crown]]
 - Forbidden: [[The Maw Below]], [[The Red Thorn]], [[The Hollow Shade]] 
 - [[Blessings]]
