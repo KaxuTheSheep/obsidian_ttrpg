@@ -86,7 +86,7 @@ Worship of Forbidden Deities grants powerful Blessings but carries unique curses
 
 See Faith and individual Deity notes for full details.
 ## Step 5 — Buy Equipment
-Spend your starting Gilded Mints on weapons, armour, and gear before play begins. You enter Solasfall with what you can afford.
+Spend your starting Gilded Mints on weapons, armour, and gear before play begins. You enter Solasfall with what you can afford. You start with 400 Gilded Mints, check out [[Starting Gear Shop]].
 
 Equipment purchased here represents everything your character owns at the start of the game. Spend wisely — the Weighing does not care what you spent your coins on.
 
