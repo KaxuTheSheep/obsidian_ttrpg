@@ -35,7 +35,7 @@ Even when not fully depleted, low Blood imposes penalties reflecting the strain 
 > Thresholds are based on your current Blood as a percentage of your maximum. A character with higher maximum Blood is not penalised more heavily than one with lower maximum Blood at the same relative point.
 
 ## Blood Dice
-Blood Dice represent your body's natural capacity to recover during rest. They start at **d4** and may increase through progression as defined in the relevant module or origin system. Spent dice are regained on a Long Rest.
+Blood Dice represent your body's natural capacity to recover during rest. They start at **d4** and you gain 1 die every level, settings define how the die value increases. Spent dice are regained on a Long Rest.
 
 ## Special Cases
 - Some attacks or effects bypass Sturdiness entirely, directly reducing Blood to represent grievous wounds or powerful strikes.

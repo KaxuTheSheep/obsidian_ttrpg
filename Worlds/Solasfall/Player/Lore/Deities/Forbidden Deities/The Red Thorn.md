@@ -24,4 +24,4 @@ Legends say The Red Thorn bends memory and emotion to shape desires and secret t
 Her influence is quiet, pervasive, and often indirect. Cultists operate in secrecy, manipulating social and personal networks to advance hidden agendas or protect forbidden loves. Her power manifests in the soft distortion of memory, clandestine meetings, and whispered secrets that change the course of events.
 
 **Worshippers:**  
-Followed by spies, secret lovers, and those seeking to forget or alter painful memories. See Red Thorn Cult.
+Followed by spies, secret lovers, and those seeking to forget or alter painful memories.

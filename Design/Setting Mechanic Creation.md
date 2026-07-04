@@ -1,12 +1,9 @@
-# Module Design Guide
+# Mechanic Design Guide
 
-This document defines the contract between the core system and any module built on top of it. Each module exists in its own vault alongside its world lore. This file is self-contained — no cross-vault links are assumed.
-
----
-
+This document defines the contract between the core system and any setting mechanics built on top of it. 
 ## What the Core Guarantees
 
-These mechanics are fixed. A module must not override or contradict them.
+These mechanics are fundamental and is ideally not changed.
 
 **Resolution**
 
@@ -58,9 +55,9 @@ These mechanics are fixed. A module must not override or contradict them.
 
 ---
 
-## What a Module Must Define
+## What a setting mechanics must define
 
-A module is not functional without these. They have no core default beyond the framework.
+A setting is not functional without these. They have no core default beyond the framework.
 
 **Armour DR**
 
@@ -96,7 +93,7 @@ A module is not functional without these. They have no core default beyond the f
 
 ---
 
-## What a Module May Override
+## What a Mechanics May Override
 
 These are core defaults that a module can replace if the setting requires it.
 

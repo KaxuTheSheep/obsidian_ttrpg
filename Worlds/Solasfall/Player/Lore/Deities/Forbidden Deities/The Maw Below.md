@@ -24,4 +24,4 @@ Legends describe The Maw Below as a primordial force lurking beneath the world, 
 Cultists and secretive sects invoke The Maw Below in pursuit of forbidden power, wealth, or knowledge. Shrines are hidden underground, in abandoned ruins, or beneath the city, often marked by blood or devoured offerings. Its presence inspires both awe and fear, emphasizing the peril of unrestrained appetite and obsession.
 
 **Worshippers:**  
-Followed by cultists craving power, hoarders, and those lost to greed. See Maw Below Cult.
+Followed by cultists craving power, hoarders, and those lost to greed. 

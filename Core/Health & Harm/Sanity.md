@@ -27,4 +27,4 @@ Sanity is reduced by fear, trauma, psychological strain, and certain encounters 
 | 0 | Break | Gain 1 Affliction, then restore Sanity to 1. |
 
 ## Sanity Dice
-Sanity Dice represent your mind's natural capacity to recover during rest. They start at **d4** and may increase through progression as defined in the relevant module or origin system. Spent dice are regained on a Long Rest.
+Sanity Dice represent your mind's natural capacity to recover during rest. They start at **d4** and you gain 1 die every level, settings define how the die value increases.. Spent dice are regained on a Long Rest.

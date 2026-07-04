@@ -24,4 +24,4 @@ Legends describe The Hollow Shade as the guardian of what the world has abandone
 Cultists of The Hollow Shade operate from secrecy and obscurity, often in hidden rooms, abandoned tunnels, or secret societies. Its influence manifests through unseen guidance, whispered secrets, and the manipulation of knowledge, often sowing paranoia or obsession in those who seek forbidden truths.
 
 **Worshippers:**  
-Followed by assassins, outcasts, and seekers of forbidden knowledge. See Hollow Shade Cult.
+Followed by assassins, outcasts, and seekers of forbidden knowledge. 

@@ -42,7 +42,7 @@ Rare. Requires security, shelter, and absence of life-threatening stress.
 > Permanent Injuries remain until treated by advanced means as defined by the relevant module.
 
 ## Blood Dice & Sanity Dice
-Blood Dice and Sanity Dice start at **d4**. They represent your body's and mind's natural capacity to recover during rest. Spent dice are regained on a Long Rest. Progression and scaling are defined by the relevant module's origin or advancement system.
+Blood Dice and Sanity Dice start at **d4**. They represent your body's and mind's natural capacity to recover during rest. Spent dice are regained on a Long Rest. You gain 1 die every level, settings define how the die value increases.
 
 ## Rest Activities (≈ 30 minutes each)
 
