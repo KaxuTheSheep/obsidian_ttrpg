@@ -5,7 +5,7 @@ tags:
 **Evasion** represents your character's ability to avoid incoming attacks through agility, reflexes, and awareness.
 
 **Calculation:**  
-**Evasion Score = Base Evasion + Grace + Class Bonuses + Other Modifiers**
+**Evasion Score = Base Evasion + Grace + Other Modifiers**
 
 - **Base Evasion:** Starts at **6**.
 - **Grace:** Your Grace Attribute, reflecting your natural nimbleness.

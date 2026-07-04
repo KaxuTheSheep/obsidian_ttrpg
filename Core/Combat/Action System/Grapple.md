@@ -2,7 +2,7 @@
 tags:
   - Mechanics/Combat
 ---
-Grappling is a body-based method of controlling another creature. It represents seizing, restraining, and manipulating a target through physical force rather than weapons. While Grappling, the initiator can drag, reposition, and set up follow-up actions, with deeper manipulation options unlocked through class abilities.
+Grappling is a body-based method of controlling another creature. It represents seizing, restraining, and manipulating a target through physical force rather than weapons. While Grappling, the initiator can drag, reposition, and set up follow-up actions, with deeper manipulation options unlocked through Discipline abilities.
 
 ## Initiating a Grapple
 **Action Cost:** Full Action

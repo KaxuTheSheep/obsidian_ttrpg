@@ -8,7 +8,6 @@ Unlike [[Sturdiness]], Blood is difficult to restore mid-combat and between enco
 
 ## Calculation
 **Blood = Base Blood + Vitality + Other Modifiers**
-
 - **Base Blood:** A starting value determined by your species or origin as defined in the relevant module.
 - **Vitality:** Your Vitality Attribute added directly, representing physical robustness and endurance.
 - **Other Modifiers:** Bonuses or penalties from abilities, conditions, or equipment.

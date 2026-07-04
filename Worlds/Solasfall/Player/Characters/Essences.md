@@ -10,9 +10,9 @@ Essences are rare, potent, and permanent. Consuming one merges a fragment of ano
 # Acquisition
 Essences have a chance to manifest after killing a creature in the [[Hollowdeep]]. Not every creature produces one — the density of [[mana]] required for crystallisation means it is an uncommon occurrence rather than a guaranteed reward.
 
-Skinwalkers interact with Essences differently from other characters and can eventually transform fully into the creatures they have consumed. See the Skinwalker class tree for details.
+Skinwalkers interact with Essences differently from other characters and can eventually transform fully into the creatures they have consumed. See the Skinwalker Discipline tree for details.
 # Essence Capacity
-Characters begin with a capacity of 1 Essence at level 0. Increasing capacity costs Trait Points. Skinwalkers can cheapen this cost through their class tree.
+Characters begin with a capacity of 1 Essence at level 0. Increasing capacity costs Trait Points. Skinwalkers can cheapen this cost through their Discipline tree.
 # Effect
 After consumption, the Essence grants numeric bonuses to [[Attributes]], modifications to defensive stats, or new abilities reflecting the creature it originated from. Each Essence is unique. Players choose which character receives an Essence — no checks or contests are required.
 # Risks
