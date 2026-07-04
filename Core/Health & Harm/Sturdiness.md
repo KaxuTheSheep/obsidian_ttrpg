@@ -8,7 +8,6 @@ Unlike Blood, Sturdiness has more sources available to replenish it mid-combat a
 
 ## Calculation
 **Sturdiness = 6+ Vitality + Bought Increases + Other Modifiers**
-
 - **Vitality:** Your Vitality Attribute added directly, representing physical endurance and robustness.
 - **Bought Increases:** Additional Sturdiness purchased through Trait Points during advancement.
 - **Other Modifiers:** Bonuses or penalties from abilities, conditions, equipment, or situational factors.

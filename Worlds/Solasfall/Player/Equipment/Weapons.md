@@ -11,8 +11,6 @@ All weapons share the following properties:
 **Handedness:** One-Handed, Two-Handed, or Versatile.
 **Weight Class:** Light, Standard, or Heavy.
 **Traits:** Additional rules that modify how the weapon interacts with combat.
-
-Weapons built around articulated striking heads — ball, blade, or weight connected to haft or handle by chain or rope. Where maces transfer force through rigid structure, flails and chains exploit momentum and unpredictable arcing movement to defeat guard entirely. A skilled defender can read a sword or axe; a flail gives them nothing to read. The category rewards aggression and punishes hesitation, but the same articulation that confounds enemies makes precise defensive use nearly impossible.
 # Weapons
 ## Daggers
 Small blades intended for [[Close-Quarters]] control, grappling, and precision strikes. Excel in tight spaces where longer weapons lose leverage.

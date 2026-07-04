@@ -6,7 +6,6 @@ Sanity represents your character's mental steadiness — the ability to remain f
 
 ## Calculation
 **Sanity = 6+ Resolve + Origin Bonus + Level Bonus + Other Modifiers**
-- **Base
 - **Resolve:** Core mental strength and determination.
 - **Level Bonus:** Each level up grants +1 to your maximum Sanity, reflecting the hardened mind of a veteran.
 - **Other Modifiers:** Can arise from training, abilities, or rare mental conditioning.

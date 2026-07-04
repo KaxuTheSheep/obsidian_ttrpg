@@ -16,36 +16,49 @@ Characters begin at **level 0** — deliberately vulnerable, barely above civili
 
 Disciplines trees are **hard locked** at level 0. No Trait Points can be spent on Disciplines nodes regardless of prerequisites met. Disciplines trees unlock at level 1.
 
-## Step 1 — Choose Race
-Your race determines your biology, culture, and place in Solasfall. It is the foundation everything else builds on.
+## Step 1 — Spend Trait Points (Attributes & Skills)
+Before choosing a race, allocate Trait Points from your level 0 pool of **25** across:
+
+- **Attributes** — six attributes rated 0–6, each added directly to relevant rolls. Costs scale as attributes increase. All attributes start at 0.
+- **Skill Training** — each point raises training level by 1, up to the maximum of your highest linked Attribute.
+- **Sturdiness Increases** — additional Sturdiness beyond the base value, subject to Vitality requirements (see the universal cost table).
+- **Essence Capacity** — you begin with capacity for 1 Essence; additional capacity may be purchased here.
+
+Racial Tree Nodes and Discipline Nodes **cannot** be purchased yet. You haven't chosen a race, and Disciplines are hard-locked at level 0 regardless of prerequisites.
+
+> **Note:** Base Blood, Movement, and any bonus skill training all come from Race (Step 2), which you haven't picked yet. If you'd rather not commit Attribute points blind, hold some back and spend them once your race is locked in — nothing here forces you to spend the full 25 in this step.
+
+## Step 2 — Choose Race
+Choose from: Human, Cindral, Drenek, Kenku, Murk, Stitched, Velkhari.
+
 Race determines:
 - **Base Blood** — your starting life force before any investment
-- **Movement** — your travel rates and any movement deviations from standard
+- **Movement** — your travel rates and any deviations from standard
 - **Languages** — what you speak at creation
-- **Racial Tree Access** — the only tree available at level 0
-- **Starting traits** — biological and cultural abilities unique to your people
-
-Choose from: Human, Cindral, Drenek, Kenku, Murk, Stitched, Velkhari
+- **Racial Tree Access** — now unlocked
+- **Starting Traits** — biological and cultural abilities unique to your people, no Trait Point cost
 
 See individual Race notes for full details.
 
-## Step 2 — Spend Trait Points
-You receive a pool of Trait Points to spend freely across the following:
-**Attributes** Six attributes rated 0–6, each added directly to relevant rolls. Costs scale as attributes increase. All attributes start at 0.
+## Step 3 — Spend Remaining Trait Points (Racial Tree)
+With your race chosen, spend any Trait Points still in your pool on Racial Tree Nodes, subject to prerequisites — some nodes are gated behind level requirements and cannot be purchased at creation regardless of point availability. If you held points back in Step 1, this is also where you can retroactively commit them to Attributes, Skills, Sturdiness, or Essence Capacity now that you know your race's numbers.
 
-**Skill Training** Each point raises training level by 1, up to the maximum of your highest linked attribute.
-Additional training may come from your race.
+> **Hard Lock Reminder:** Trait Points still cannot be spent on Disciplines tree nodes here. Disciplines unlock at level 1 regardless of prerequisites met.
 
-**Racial Tree Nodes** The only tree available at level 0. Racial nodes represent biological development and cultural mastery. Some nodes are gated behind level requirements and cannot be purchased at creation regardless of point availability.
+## Step 4 — Calculate Derived Stats
+With Attributes and Race both locked in, calculate your derived pools:
 
-**Sturdiness Increases** All characters begin with a default Sturdiness of 6. Additional Sturdiness may be purchased using the universal cost table, subject to Vitality requirements.
+| Stat           | Formula                                                           |
+| -------------- | ----------------------------------------------------------------- |
+| **Blood**      | Base Blood (race) + Vitality + Other Modifiers                    |
+| **Sturdiness** | 6 (base) + Vitality + Bought Increases + Other Modifiers          |
+| **Evasion**    | 8 (base) + Grace + Other Modifiers                                |
+| **Sanity**     | 6 (base) + Resolve + Origin Bonus + Level Bonus + Other Modifiers |
 
-**Essence Capacity** Characters begin with capacity for 1 Essence. Additional capacity may be purchased at creation.
+Write these down now. Everything downstream — equipment choices, combat viability, whether you can even survive a first encounter — depends on knowing these numbers before you start spending money.
 
-> **Hard Lock Reminder:** Trait points cannot be spent on Disciplines tree nodes. Disciplines trees unlock at level 1 regardless of prerequisites.
-
-## Step 3 — Starting Ability
-Every character receives one Starting Ability reflecting personal history, prior experience, or innate talent. This is your level 0 identity before Disciplines investments shapes who you become.
+## Step 5 — Starting Ability
+Every character receives one Starting Ability reflecting personal history, prior experience, or innate talent. This is your level 0 identity before Disciplines investment shapes who you become.
 
 ### Silver Tongue
 Once per Rest, reroll a failed Negotiation Test.
@@ -77,7 +90,7 @@ Once per Rest, force an enemy to make a DN 16 Resolve Test or be Frightened for 
 ### Survivor's Instinct
 Once per Rest, automatically detect the presence of hostile creatures within a short distance, even if they are hidden.
 
-## Step 4 — Faith Distribution
+## Step 6 — Faith Distribution
 You have **9 Faith Points** to allocate among the Deities of Solasfall. Points may be spread across multiple Deities for minor Blessings from each, or concentrated for stronger devotion.
 
 Investing all 9 points in a single Deity and completing a personal quest unlocks Follower status and access to the Follower Disciplines tree at level 1.
@@ -85,8 +98,9 @@ Investing all 9 points in a single Deity and completing a personal quest unlocks
 Worship of Forbidden Deities grants powerful Blessings but carries unique curses. Partial faith in a Forbidden Deity produces minor curses without the full consequences of exclusive devotion.
 
 See Faith and individual Deity notes for full details.
-## Step 5 — Buy Equipment
-Spend your starting Gilded Mints on weapons, armour, and gear before play begins. You enter Solasfall with what you can afford. You start with 400 Gilded Mints, check out [[Starting Gear Shop]].
+
+## Step 7 — Buy Equipment
+Spend your starting **400 Gilded Mints** on weapons, armour, and gear before play begins. You enter Solasfall with what you can afford. You start with 400 Gilded Mints — check out the Starting Gear Shop.
 
 Equipment purchased here represents everything your character owns at the start of the game. Spend wisely — the Weighing does not care what you spent your coins on.
 
@@ -106,8 +120,8 @@ At each level up you receive Trait Points to spend freely across:
 - Attributes
 - Skill training
 - Racial tree nodes (subject to level gates)
-- Discpline tree nodes 
+- Discipline tree nodes
 - Sturdiness increases
 - Essence capacity
 
-Unspent points carry forward. There is no penalty for banking points across levels — some Disciplines nodes are expensive enough to require planning ahead.
+Unspent points carry forward. There is no penalty for banking points across levels — some Discipline nodes are expensive enough to require planning ahead.

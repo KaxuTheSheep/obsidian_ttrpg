@@ -21,7 +21,7 @@ The Gilded Chain enforces Solasfall’s taxation and debt systems with unflinchi
 - **Other Magic Institutions:** Occasional cooperation for enforcement of magical laws.
 
 **Leadership**  
-**General Marius Veylan** – A calculating and austere figure, Kael prioritises efficiency and adherence to law over likability. His demeanor is cold, and he inspires obedience more through fear than respect. Known for a meticulous mind and unforgiving standards, Kael ensures the Gilded Chain operates without error, maintaining the city’s economic lifeblood.
+**General Marius Veylan** – A calculating and austere figure, Kael prioritises efficiency and adherence to law over likability. His demeanor is cold, and he inspires obedience more through fear than respect. Known for a meticulous mind and unforgiving standards, Marius ensures the Gilded Chain operates without error, maintaining the city’s economic lifeblood.
 
 ### Public & Noble Perception
 - **General Public:** Feared for their relentless enforcement; grudges against them are common.

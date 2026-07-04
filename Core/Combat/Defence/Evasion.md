@@ -7,7 +7,7 @@ tags:
 **Calculation:**  
 **Evasion Score = Base Evasion + Grace + Other Modifiers**
 
-- **Base Evasion:** Starts at **6**.
+- **Base Evasion:** Starts at **8**.
 - **Grace:** Your Grace Attribute, reflecting your natural nimbleness.
 - **Other Modifiers:** Bonuses or penalties from abilities, equipment, conditions, or situational factors.
 

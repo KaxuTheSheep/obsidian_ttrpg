@@ -20,16 +20,16 @@ These values are listed as baseline humanoid values. Race or species entries in 
 
 ## Movement Type Table
 
-| Movement Type | Initiation Speed | Travel Rate                        | Action Cost |
-| ------------- | ---------------- | ---------------------------------- | ----------- |
-| Walk          | 10               | 3 squares per Speed                | Free        |
-| Run           | 8                | 8 squares per Speed                | Full        |
-| Climb         | 5                | 1.5 squares per Speed              | Free        |
-| Swim          | 4                | 1.5 squares per Speed              | Free        |
-| Burrow        | 2                | 1 square per Speed                 | Free        |
-| Fly           | 5                | 5 squares per Speed                | Full        |
-| Crawl         | 7                | 1 square per Speed                 | Free        |
-| Jump          | 8                | 1.5 squares + Might per Instant<br>1 square height | Half |
+| Movement Type | Initiation Speed | Travel Rate                                        | Action Cost |
+| ------------- | ---------------- | -------------------------------------------------- | ----------- |
+| Walk          | 10               | 3 squares per Speed                                | Free        |
+| Run           | 8                | 8 squares per Speed                                | Full        |
+| Climb         | 5                | 1.5 squares per Speed                              | Free        |
+| Swim          | 4                | 1.5 squares per Speed                              | Free        |
+| Burrow        | 2                | 1 square per Speed                                 | Free        |
+| Fly           | 5                | 5 squares per Speed                                | Full        |
+| Crawl         | 7                | 1 square per Speed                                 | Free        |
+| Jump          | 8                | 1.5 squares + Might per Instant<br>1 square height | Half        |
 
 ## Movement Types
 

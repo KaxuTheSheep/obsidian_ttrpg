@@ -10,8 +10,7 @@ Players should never see this formula — they see [[Starting Gear Shop]] only. 
 
 ## Anchors
 - **1 night's rest + 3 meals (vegetable soup):** 10 Gilded Mints
-- **Starting character funds:** 500 Gilded Mints
-- **Common Arcanum tuition:** 1000 Gilded Mints per Rift cycle (~monthly), due after each Weighing — see override note at the bottom of this file.
+- **Starting character funds:** 400 Gilded Mints
 
 ## Weapon Formula
 
@@ -150,17 +149,3 @@ Per your ruling: ambient-draw magic tool like any other Runeweaver product (no c
 - Runs indefinitely off ambient mana once purchased, same as any magic tool.
 
 **Price: 180 Gilded Mints.**
-
----
-
-## Required Fix — Common Arcanum Tuition
-
-Both `Worlds/Solasfall/GM/Factions/Institutions/Common Arcanum.md` and `Worlds/Solasfall/Player/Lore/Factions/Institutions/Common Arcanum.md` currently say:
-
-> "Payment of 500 Gilded Mints covers the first year of study."
-
-Replace with:
-
-> "Tuition is 1,000 Gilded Mints per Rift cycle, due in the days following each Weighing. There is no discounted lump sum for a full year — the Ministry prefers the leverage of a recurring payment. The combination of aptitude requirements and this ongoing cost limits access effectively to those with means, connections, or exceptional talent that attracts outside sponsorship."
-
-This makes tuition a genuine, ongoing financial pressure rather than a token barrier — consistent with 10 Mints covering only a single night's food and lodging.

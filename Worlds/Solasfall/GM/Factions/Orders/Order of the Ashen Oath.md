@@ -16,7 +16,7 @@ They are closely tied to The Ashen Crown Faith, with many knights drawing divine
 - **Divinity:** Followers of the Ashen Crown gain access to divine powers. Only followers may channel divinity directly.
 - **Blessings:** Any knight, regardless of personal Faith, may receive Blessings from a devout member. Power scales with the giver’s Faith.
 - **Magic:** Innate and learned magic exists among the order’s members, particularly among magus knights, but is secondary to divine and Essences methods.
-- **Essences:** Certain knights consume Hollowdeep Essences, gaining permanent attribute boosts or abilities. Essences coexist with Blessings, without conflict however a person with an essence cannot learn magic or use divinity.
+- **Essences:** Certain knights consume Hollowdeep Essences, gaining permanent attribute boosts or abilities.
 
 ### Training & Methods
 - **Combat:** Intense martial and battlefield training. Combines swordsmanship, tactical manoeuvres, and synergistic use of Essences and divine abilities.

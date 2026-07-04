@@ -32,7 +32,7 @@ tags:
 ## Overview
 General **Kaelen Thorne** is both zealot and soldier — a living symbol of the Ashen Crown’s grim doctrine that only fire cleanses. His legend began as a young explorer delving into the early, unstable layers of Hollowdeep. Lost for weeks within the frozen third floor, he slew a **Morvudd**, a hulking horned beast of famine and rage, by driving a shattered blade through its eye. Its dying breath seared him, leaving scars that Lifebinders could never fully mend.
 
-He consumed the creature’s **Essence**, gaining unnatural strength and endurance — and forfeiting any chance of true divinity. His sister, newly anointed by the Ashen Crown Sanctum, offered to intercede on his behalf. He refused. That moment, under the half-frozen corpse of the Morvudd, defined them both: she became the Sanctum’s living flame; he became its sword.
+He consumed the creature’s **Essence**, gaining unnatural strength and endurance. His sister, newly anointed by the Ashen Crown Sanctum, offered to intercede on his behalf. He refused. That moment, under the half-frozen corpse of the Morvudd, defined them both: she became the Sanctum’s living flame; he became its sword.
 
 Kaelen’s command of the **Ashen Oath** is marked by relentless discipline and brutal efficiency. His knights march in perfect order, reciting litanies of flame and rebirth. They burn corruption wherever it festers — from Hollowdeep to Solasfall’s darkest alleys. While others see fanaticism, Kaelen sees necessity. “Mercy,” he says, “is the first corruption.”
 
@@ -55,5 +55,5 @@ He wears blackened steel armour with bronze inlays depicting a cracked sword wra
 | Kaelen once cleaved a Riftspawn in half with a single strike.  | True           |
 | He hears the Morvudd whisper when he sleeps.                   | Partially True |
 | His sister secretly blessed his sword against his will.        | False          |
-| He burned a village to halt a spreading Hollowdeep corruption. | Flase          |
+| He burned a village to halt a spreading Hollowdeep corruption. | False          |
 | Kaelen’s blood steams when exposed to the cold.                | Partially True |

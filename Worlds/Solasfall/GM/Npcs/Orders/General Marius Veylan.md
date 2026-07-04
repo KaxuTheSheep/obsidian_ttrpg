@@ -40,10 +40,10 @@ General Marius Veylan is a calculating, austere commander whose devotion to orde
 
 ## Rumour Table
 
-| Rumour                                                                                        |True/False|
+| Rumour                                                                                        | True/False     |
 | --------------------------------------------------------------------------------------------- | -------------- |
-| Marius has personally overseen the execution of an entire debtor’s family for failure to pay. |Partially True|
-| He keeps a ledger detailing the weaknesses of each rival Knight Order.                        |True|
-| Some say he secretly embezzles small amounts to test the loyalty of his subordinates.         |False|
-| He once solved a city-wide tax dispute in a single day without error.                         |True|
-| Kael never sleeps more than three hours a night during fiscal operations.                     |Partially True|
+| Marius has personally overseen the execution of an entire debtor’s family for failure to pay. | Partially True |
+| He keeps a ledger detailing the weaknesses of each rival Knight Order.                        | True           |
+| Some say he secretly embezzles small amounts to test the loyalty of his subordinates.         | False          |
+| He once solved a city-wide tax dispute in a single day without error.                         | True           |
+| Marius never sleeps more than three hours a night during fiscal operations.                   | Partially True |
