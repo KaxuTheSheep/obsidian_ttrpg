@@ -3,7 +3,7 @@ At low investment, Fireball is a simple offensive strike. At high investment, it
 
 **School:** Elemental  
 **Base DN:** Control 8 / Manifest 12  
-**Base [[Sanity]] Cost:** 7
+**Base [[Sanity]] Cost:** 3
 
 ## Base Effect
 Fireball is launched toward a target point within [[Range & Threat|range]] using standard ranged spell projectile rules.
