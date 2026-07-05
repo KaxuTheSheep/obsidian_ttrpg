@@ -38,6 +38,7 @@ When falling, for every 2m you fall you may move 1m horizontally. You take no fa
 Gain +1 training in the Negotiation skill.
 
 # Racial Web
+![[Kenku.png]]
 ## Silent Strike
 Prerequisites: None. 
 Cost: 2 Trait Point. 

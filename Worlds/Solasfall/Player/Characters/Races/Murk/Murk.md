@@ -32,6 +32,7 @@ You have Advantage on Athletics Tests related to swimming and climbing slippery 
 Your Clear Zone extends into what would normally be your Blurry Zone up to 9m. You cannot see in total darkness.
 
 # Racial Web
+![[Murk.png]]
 ## Tongue Lash
 Prerequisites: None.
 Cost: 2 Trait Points. 

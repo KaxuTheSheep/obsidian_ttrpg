@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"802781af5013c3b2","x":-400,"y":-160,"width":1720,"height":760,"color":"2","type":"group","label":"Cindral"},
+		{"id":"t3","type":"text","text":"Tempered Resistance\nPrereq: None\nCost: 2","x":660,"y":0,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Swift Channel\nPrereq: Channelled Emberstrike\nCost: 2","x":-360,"y":220,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Sustained Burn\nPrereq: Channelled Emberstrike\nCost: 2","x":0,"y":220,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Reinforced Resistance\nPrereq: Tempered Resistance\nCost: 2","x":660,"y":220,"width":260,"height":80},
+		{"id":"t10","type":"text","text":"Blastic Arrow\nPrereq: Sustained Burn\nCost: 3","x":180,"y":440,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Nurturing Flame\nPrereq: Reinforced Resistance\nCost: 2","x":660,"y":440,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"Emberwhip\nPrereq: Sustained Burn\nCost: 3","x":-180,"y":440,"width":260,"height":80},
+		{"id":"t1","type":"text","text":"Channelled Emberstrike\nPrereq: None\nCost: 2","x":-180,"y":0,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Suppressed Emberlight\nPrereq: Dimmed Emberlight\nCost: 2","x":310,"y":220,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Dimmed Emberlight\nPrereq: None\nCost: 1","x":310,"y":0,"width":260,"height":80},
+		{"id":"295699a6e75a49a0","x":-360,"y":-120,"width":250,"height":60,"color":"1","type":"text","text":"Red line between nodes means mutually exclusive"},
+		{"id":"t11","type":"text","text":"Crafting Affinity\nPrereq: None\nCost: 2","x":1020,"y":0,"width":260,"height":80}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t4","toSide":"top"},
+		{"id":"e2","fromNode":"t1","fromSide":"bottom","toNode":"t5","toSide":"top"},
+		{"id":"e3","fromNode":"t2","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e4","fromNode":"t3","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e5","fromNode":"t6","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e6","fromNode":"t5","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e7","fromNode":"t5","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e8","fromNode":"t9","fromSide":"right","toNode":"t10","toSide":"left","toEnd":"none","color":"1","label":"X"}
+	]
+}

@@ -31,7 +31,7 @@ Your parasite-enhanced physiology grants you a heightened sense of smell. You ca
 ### Predator's Bite
 As an attack, you may bite a target within melee range, dealing 1d4 + Might Piercing damage at Speed 12 + Grace.
 # Racial Web
-
+![[velkhari.png]]
 ## Spider Climb
 Prerequisites: None.
 Cost: 2 Trait Points. 
@@ -124,14 +124,3 @@ Your parasite's reading sharpens. You now roll 1d8 instead of 2d8 — but you ch
 Prerequisites: Soul Taste, Exclusive to Refined Palate. 
 Cost: 3 Trait Points. 
 Your parasite drinks deeper from the target's signature. Roll 3d8 instead of 2d8. Duplicate rolls reveal nothing additional.
-
-# TEMP
-## Rift Step
-Harnessing their connection to the Rift, Velkhari can momentarily tear open a shimmering portal in space.
-As a Half Action at Speed 10, create a Rift within line of sight and instantly teleport to it, up to **15m** away. Can be used once per any Rest.
-## Spider Climb
-You can crawl on vertical surfaces and ceilings. Movement on walls and ceilings uses your **Crawl Travel Rate**.
-## Predator's Scent
-Your parasite-enhanced physiology grants you a heightened sense of smell. You can detect creatures within 9m by scent alone, even through walls or in total darkness. You cannot be surprised by creatures within this range unless they have suppressed their scent. Heavily obscured or odourless creatures may reduce this range at GM discretion.
-## Predator's Bite 
-As an attack, you may bite a target within melee range, dealing 1d6 + Might Piercing damage at Speed 12 + Grace. If the attack hits, you restore Blood equal to half the damage dealt, rounded down. You may choose to latch on instead — the target becomes Grappled until they break free or you release. While latched, you deal 1d4 Piercing damage and restore half that amount as Blood automatically at the start of each round without spending an action.

@@ -16,7 +16,7 @@ tags:
 ## Faction Relationships
 - **The Royal Mages:** Maintains cautious cooperation; appreciates magical support but distrusts overt experimentation.
 - **The Knights Orders:** Respected but feared; relationships are formal and distanced.
-- **Other Magic Institutions:** Relies heavily on Gloomshapers for Prismshapers and perception-based magic; occasionally conflicts with Runeweavers over security restrictions.
+- **Other Magic Institutions** – Relies heavily on the Prismshapers for perception-based magic; occasionally conflicts with Runeweavers over security restrictions.
 - **Royal Advisors:** Directly reports and collaborates; highly trusted and relied upon for intelligence.
 - **General Public:** Largely unaware; whispers and rumours fuel fear and legend around the Order.
 - **Explorers’ Guild:** Occasionally contracts the Watch for delicate expeditions where secrecy is paramount.
@@ -28,12 +28,12 @@ tags:
 - **Archmagus Oren Valeclay** – Utilizes runic wards and artefacts for covert operations and secure information channels.
 
 ## Overview
-Sereth Varn embodies the perfect fusion of discipline and menace. As a Cindral of moderate height with sleek, muted scales, his presence is unsettling yet precise. Trained from youth as a Gloomshaper and infiltrator, he has honed perception and shadowcraft into lethal efficiency. Rarely displaying emotion, Varn conveys authority through absolute control and calculated intimidation, earning the moniker **“the Quiet.”**
+Sereth Varn embodies the perfect fusion of discipline and menace. As a Cindral of moderate height with sleek, muted scales, his presence is unsettling yet precise. Trained from youth as a Prismshaper and infiltrator, he has honed perception and shadowcraft into lethal efficiency. Rarely displaying emotion, Varn conveys authority through absolute control and calculated intimidation, earning the moniker **“the Quiet.”**
 
 He operates both as strategist and enforcer, personally supervising high-risk operations and mentoring his knights in subterfuge. Varn’s discipline and secrecy make him almost mythic in reputation, ensuring the Veiled Watch remains a silent but unassailable instrument of the Royal Advisors.
 
 ## Appearance
-Sleek grey scales, silver eyes reflecting light like mirrors. Hairless, angular facial structure with faint scar along the jawline — a remnant of early Hollowdeep training. Wears layered dark robes and light armour designed for silent movement, accented with subtle Gloomshaper sigils that shimmer under specific lighting. Hands are calloused, with faint burn-like marks from arcane practice. Movement is deliberate, measured, and unnervingly quiet.
+Sleek grey scales, silver eyes reflecting light like mirrors. Hairless, angular facial structure with faint scar along the jawline — a remnant of early Hollowdeep training. Wears layered dark robes and light armour designed for silent movement, accented with subtle Prismshaper sigils that shimmer under specific lighting. Hands are calloused, with faint burn-like marks from arcane practice. Movement is deliberate, measured, and unnervingly quiet.
 
 ## Traits
 - **Master Infiltrator:** Expert in stealth, reconnaissance, and shadow manipulation.

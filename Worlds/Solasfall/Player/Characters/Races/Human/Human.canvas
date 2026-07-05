@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-720,"y":-160,"width":2120,"height":760,"color":"3","label":"Human"},
+		{"id":"leg","type":"text","text":"Red line between nodes means mutually exclusive","x":-680,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"t1","type":"text","text":"Resilient Spirit\nPrereq: None\nCost: 2","x":-680,"y":0,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Broad Training\nPrereq: None\nCost: 2","x":-340,"y":0,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Borrowed Mastery\nPrereq: 4 Insight, Level 5\nCost: 5","x":740,"y":0,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Networked\nPrereq: 3 Presence, Level 5\nCost: 4","x":1100,"y":0,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Unbreakable Focus\nPrereq: Resilient Spirit\nCost: 3","x":-680,"y":220,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Adaptive Expertise\nPrereq: Broad Training\nCost: 3","x":-340,"y":220,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Jack of All Trades\nPrereq: Adaptive Expertise, Level 5\nCost: 5","x":-340,"y":440,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Driven\nPrereq: Level 3\nCost: 4","x":40,"y":0,"width":260,"height":80},
+		{"id":"t3","type":"text","text":"Disciplined Training\nPrereq: None\nCost: 2","x":380,"y":0,"width":260,"height":80},
+		{"id":"t12","type":"text","text":"Apex Potential\nPrereq: Broad Training, Driven, Level 5\nCost: 6","x":40,"y":440,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"Focused Mastery\nPrereq: Disciplined Training\nCost: 3","x":220,"y":220,"width":260,"height":80},
+		{"id":"t10","type":"text","text":"Cross Training\nPrereq: Disciplined Training\nCost: 3","x":560,"y":220,"width":260,"height":80}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e4","fromNode":"t3","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e5","fromNode":"t8","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e6","fromNode":"t2","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e7","fromNode":"t4","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e8","fromNode":"t9","fromSide":"right","toNode":"t10","toSide":"left","toEnd":"none","color":"1","label":"X"}
+	]
+}

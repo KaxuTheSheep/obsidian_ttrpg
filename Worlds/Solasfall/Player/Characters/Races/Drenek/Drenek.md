@@ -32,7 +32,7 @@ Your stony hide grants natural armour, reducing incoming physical damage by 1. T
 Gain +1 training in Athletics or Endurance of your choice at character creation.
 
 # Racial Web
-
+![[Drenek.png]]
 ## Heavy Impact
 Prerequisites: None. 
 Cost: 2 Trait Points.

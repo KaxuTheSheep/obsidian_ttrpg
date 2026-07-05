@@ -34,7 +34,7 @@ A Stitched must spend time every 3 days maintaining their physical cohesion — 
 
 > **Hollowdeep Note:** Due to the 7:1 time ratio inside the Hollowdeep, a standard expedition between portal openings spans 7 Hollowdeep days — meaning roughly 2 Rethreads are needed during a typical expedition. A stranded Stitched faces severe deterioration before the next portal opens.
 # Racial Web
-
+![[Stitched.png]]
 ## Patchwork Form
 Prerequisites: None.
 Cost: 3 Trait Points. 

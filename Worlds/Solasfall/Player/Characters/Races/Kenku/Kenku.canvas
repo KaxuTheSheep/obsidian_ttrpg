@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-720,"y":-160,"width":1400,"height":980,"color":"#001f47","label":"Kenku"},
+		{"id":"leg","type":"text","text":"Red line between nodes means mutually exclusive","x":-680,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"t1","type":"text","text":"Silent Strike\nPrereq: None\nCost: 2","x":-680,"y":0,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Improved Silent Strike\nPrereq: Silent Strike\nCost: 1","x":-680,"y":220,"width":260,"height":80},
+		{"id":"t3","type":"text","text":"Enhanced Silent Strike\nPrereq: Improved Silent Strike\nCost: 1","x":-680,"y":440,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Mastered Silent Strike\nPrereq: Enhanced Silent Strike\nCost: 1","x":-680,"y":660,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Mimic Confusion\nPrereq: None\nCost: 2","x":-280,"y":0,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Environmental Mimicry\nPrereq: Mimic Confusion\nCost: 2","x":-280,"y":220,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"Wing Dash\nPrereq: Mastered Glide\nCost: 3","x":20,"y":440,"width":260,"height":80},
+		{"id":"t10","type":"text","text":"Wingbeat\nPrereq: Mastered Glide\nCost: 3","x":380,"y":440,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Swift Wing Dash\nPrereq: Wing Dash\nCost: 2","x":20,"y":660,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Enhanced Glide\nPrereq: None\nCost: 2","x":200,"y":0,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Mastered Glide\nPrereq: Enhanced Glide\nCost: 2","x":200,"y":220,"width":260,"height":80}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t2","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t3","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t4","toSide":"top"},
+		{"id":"e4","fromNode":"t5","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e5","fromNode":"t7","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e6","fromNode":"t8","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e7","fromNode":"t8","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e8","fromNode":"t9","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e9","fromNode":"t9","fromSide":"right","toNode":"t10","toSide":"left","toEnd":"none","color":"1","label":"X"}
+	]
+}

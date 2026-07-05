@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1520,"y":-160,"width":2580,"height":980,"color":"1","label":"Velkhari"},
+		{"id":"leg","type":"text","text":"Red line between nodes means mutually exclusive","x":-1480,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"t1","type":"text","text":"Spider Climb\nPrereq: None\nCost: 2","x":-1480,"y":0,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Wall Ceiling\nPrereq: Spider Climb\nCost: 2","x":-1480,"y":220,"width":260,"height":80},
+		{"id":"t3","type":"text","text":"Rift Step\nPrereq: None\nCost: 3","x":-1000,"y":0,"width":260,"height":80},
+		{"id":"t13","type":"text","text":"Death Grip\nPrereq: Latch\nCost: 3","x":-160,"y":440,"width":260,"height":80},
+		{"id":"t15","type":"text","text":"Refined Palate\nPrereq: Soul Taste\nCost: 3","x":120,"y":440,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Keen Scent\nPrereq: None\nCost: 2","x":-500,"y":0,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"Scent Awareness\nPrereq: Keen Scent\nCost: 2","x":-500,"y":220,"width":260,"height":80},
+		{"id":"t10","type":"text","text":"Enhanced Predator's Bite\nPrereq: None\nCost: 2","x":300,"y":0,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Rift Reach\nPrereq: Rift Step\nCost: 2","x":-1180,"y":220,"width":260,"height":80},
+		{"id":"t12","type":"text","text":"Feeding\nPrereq: Enhanced Predator's Bite\nCost: 3","x":760,"y":220,"width":260,"height":80},
+		{"id":"t16","type":"text","text":"Voracious Reading\nPrereq: Soul Taste\nCost: 3","x":520,"y":440,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Blind Step\nPrereq: Rift Step\nCost: 3","x":-820,"y":220,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Rift Surge\nPrereq: Rift Reach, Blind Step\nCost: 3","x":-1000,"y":440,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Enhanced Rift Surge\nPrereq: Rift Surge\nCost: 3","x":-1000,"y":660,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Latch\nPrereq: Enhanced Predator's Bite\nCost: 3","x":-160,"y":220,"width":260,"height":80},
+		{"id":"t14","type":"text","text":"Soul Taste\nPrereq: Enhanced Predator's Bite\nCost: 3","x":300,"y":220,"width":260,"height":80}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t2","toSide":"top"},
+		{"id":"e2","fromNode":"t3","fromSide":"bottom","toNode":"t4","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t5","toSide":"top"},
+		{"id":"e4","fromNode":"t4","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e5","fromNode":"t5","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e6","fromNode":"t6","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e7","fromNode":"t8","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e8","fromNode":"t10","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e9","fromNode":"t10","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e10","fromNode":"t10","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e11","fromNode":"t11","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e12","fromNode":"t14","fromSide":"bottom","toNode":"t15","toSide":"top"},
+		{"id":"e13","fromNode":"t14","fromSide":"bottom","toNode":"t16","toSide":"top"},
+		{"id":"e14","fromNode":"t11","fromSide":"right","toNode":"t14","toSide":"left","toEnd":"none","color":"1","label":"X"},
+		{"id":"e15","fromNode":"t15","fromSide":"right","toNode":"t16","toSide":"left","toEnd":"none","color":"1","label":"X"}
+	]
+}

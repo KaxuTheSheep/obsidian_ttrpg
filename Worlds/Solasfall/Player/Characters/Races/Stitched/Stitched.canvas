@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1060,"y":-160,"width":3060,"height":1200,"color":"#474747","label":"Stitched"},
+		{"id":"leg","type":"text","text":"Red line between nodes means mutually exclusive","x":-1020,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"t16","type":"text","text":"Convergence\nPrereq: Scatter Mastery, Seamless Maintenance\nCost: 4","x":1050,"y":880,"width":260,"height":80},
+		{"id":"t1","type":"text","text":"Patchwork Form\nPrereq: None\nCost: 3","x":-340,"y":0,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Swift Reassembly\nPrereq: Patchwork Form\nCost: 2","x":-500,"y":220,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Extended Range\nPrereq: Patchwork Form\nCost: 2","x":-160,"y":220,"width":260,"height":80},
+		{"id":"t10","type":"text","text":"Effortless Separation\nPrereq: Swift Separation, Swift Reassembly\nCost: 3","x":-670,"y":440,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Far Reach\nPrereq: Extended Range\nCost: 3","x":-160,"y":440,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Multi-Part\nPrereq: Patchwork Form\nCost: 3","x":180,"y":220,"width":260,"height":80},
+		{"id":"t12","type":"text","text":"Scatter\nPrereq: Multi-Part, Composite Awareness\nCost: 4","x":580,"y":440,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Swift Separation\nPrereq: Patchwork Form\nCost: 2","x":-840,"y":220,"width":260,"height":80},
+		{"id":"t14","type":"text","text":"Seamless Maintenance\nPrereq: Resilient Threading\nCost: 3","x":1700,"y":440,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Sensory Projection\nPrereq: Composite Awareness\nCost: 3","x":1100,"y":220,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"Resilient Threading\nPrereq: Hardened Seams\nCost: 2","x":1700,"y":220,"width":260,"height":80},
+		{"id":"t13","type":"text","text":"Simultaneous Projection\nPrereq: Sensory Projection\nCost: 3","x":1100,"y":440,"width":260,"height":80},
+		{"id":"t3","type":"text","text":"Hardened Seams\nPrereq: None\nCost: 2","x":1700,"y":0,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Composite Awareness\nPrereq: None\nCost: 2","x":1100,"y":0,"width":260,"height":80},
+		{"id":"t15","type":"text","text":"Scatter Mastery\nPrereq: Scatter\nCost: 4","x":580,"y":660,"width":260,"height":80}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t4","toSide":"top"},
+		{"id":"e2","fromNode":"t1","fromSide":"bottom","toNode":"t5","toSide":"top"},
+		{"id":"e3","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e4","fromNode":"t1","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e5","fromNode":"t2","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e6","fromNode":"t3","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e7","fromNode":"t4","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e8","fromNode":"t5","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e9","fromNode":"t6","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e10","fromNode":"t7","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e11","fromNode":"t2","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e12","fromNode":"t8","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e13","fromNode":"t9","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e14","fromNode":"t12","fromSide":"bottom","toNode":"t15","toSide":"top"},
+		{"id":"e15","fromNode":"t15","fromSide":"bottom","toNode":"t16","toSide":"top"},
+		{"id":"e16","fromNode":"t14","fromSide":"bottom","toNode":"t16","toSide":"top"}
+	]
+}

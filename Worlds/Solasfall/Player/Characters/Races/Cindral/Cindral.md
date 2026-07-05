@@ -37,6 +37,7 @@ When you make a melee or ranged attack, you may choose to channel your body heat
 Gain +1 training in one of the following skills of your choice at character creation: Athletics, Crafting, or Endurance.
 
 # Racial Web
+![[Cindral.png]]
 ## Channelled Emberstrike
 Prerequisites: None.
 Cost: 2 Trait Points. 
@@ -89,7 +90,6 @@ Cost: 2 Trait Points.
 You gain full control over your internal glow. You may suppress your Emberlight entirely at will, shedding no light whatsoever. You may toggle freely between all states.
 
 ## Crafting Affinity
-
 Prerequisites: None.
 Cost: 2 Trait Points. 
 Your fire-touched nature lends itself naturally to the forge and the workshop. You have Advantage on all Crafting Tests. Time spent crafting is halved. Items you craft gain +3 to any Test or check that would destroy or damage them.

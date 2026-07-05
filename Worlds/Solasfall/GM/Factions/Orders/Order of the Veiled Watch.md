@@ -17,11 +17,10 @@ While the other Orders bear crests and honour, the Veiled Watch bears guilt. Eve
 
 ### Composition & Methods
 The Order operates through **cells**, each sworn by layered oaths and misdirection to prevent betrayal. Members rarely know the full structure, only their immediate superior and assigned purpose.
-Their methods combine **shadowcraft, illusion, and essence augmentation** — blending stealth with supernatural adaptation. The Gloomshapers are thPrismshapersinstitutional allies, training them in silence, disguise, and perception warping. Some knights bear Essences from Hollowdeep predators or shapeshifting beasts, granting them uncanny reflexes or deceptive forms.
-Divinity is rare among them, though a few followers of the The Blind Shepherd serve as trackers — guided by spectral insight to hunt the guilty.
+Their methods combine **shadowcraft, illusion, and essence augmentation** — blending stealth with supernatural adaptation. Their methods combine **shadowcraft, illusion, and essence augmentation** — blending stealth with supernatural adaptation. The Prismshapers are their institutional allies, training them in silence, disguise, and perception warping. Some knights bear Essences from Hollowdeep predators or shapeshifting beasts, granting them uncanny reflexes or deceptive forms.
 
 ### Faith, Magic, and Essence
-- **Magic:** Taught through Gloomshapers tutors — mPrismshaperseaving, illusion masking, and sensory suppression.
+- **Magic:** Taught through Prismshapers tutors — shadow weaving, illusion masking, and sensory suppression.
 - **Divinity:** Sparse and restrained; most who wield it serve as confessors or judges.
 - **Essences:** Common and carefully selected for stealth, agility, or mimicry. Their influence shapes each knight uniquely — some become near-silent phantoms, others predators in Human form..
 

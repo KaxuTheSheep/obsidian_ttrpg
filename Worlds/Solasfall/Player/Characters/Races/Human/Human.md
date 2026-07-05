@@ -32,7 +32,7 @@ Humans gain one additional training in any [[Skills|skill]] of their choosing.
 Humans gain one additional Starting Ability as part of their racial traits. This must differ from the ability already chosen. Choose any ability from the Starting Abilities list in Character Creation.
 
 # Racial Web
-
+![[Human.png]]
 ## Resilient Spirit
 Prerequisites: None.
 Cost: 2 Trait Points.
