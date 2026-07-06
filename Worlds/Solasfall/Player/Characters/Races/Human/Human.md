@@ -78,10 +78,7 @@ Prerequisites: Broad Training, Driven, Level 5.
 Cost: 6 Trait Points. 
 Choose one Attribute. Its maximum increases to 7. The cost to reach 7 from 6 is 6 Trait Points. This choice is permanent.
 
-## Borrowed Mastery
-Prerequisites: 4 Insight, Level 5.
-Cost: 5 Trait Points. 
-Through deep cultural immersion, mentorship, or prolonged exposure, you have internalised a capability from another people. Choose any none prerequisite node from another race's racial web. You gain that node's effect. The narrative justification must be established in play — your GM must agree the exposure is credible.
+
 
 ## Jack of All Trades
 Prerequisites: Adaptive Expertise, Level 5.

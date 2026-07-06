@@ -11,8 +11,8 @@
 		{"id":"t7","type":"text","text":"Leap Strike\nPrereq: None\nCost: 2","x":660,"y":0,"width":260,"height":80},
 		{"id":"t8","type":"text","text":"Improved Leap Strike\nPrereq: Leap Strike\nCost: 1","x":660,"y":220,"width":260,"height":80},
 		{"id":"t6","type":"text","text":"Mastered Swimmer\nPrereq: Swift Swimmer\nCost: 2","x":180,"y":220,"width":260,"height":80},
-		{"id":"t4","type":"text","text":"Tongue Grapple\nPrereq: Tongue Lash\nCost: 3","x":-280,"y":220,"width":260,"height":80},
-		{"id":"t9","type":"text","text":"Enhanced Leap Strike\nPrereq: Improved Leap Strike\nCost: 1","x":660,"y":440,"width":260,"height":80}
+		{"id":"t9","type":"text","text":"Enhanced Leap Strike\nPrereq: Improved Leap Strike\nCost: 1","x":660,"y":440,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Tongue Grapple\nPrereq: Tongue Lash\nCost: 3","x":-300,"y":220,"width":260,"height":80}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t2","toSide":"top"},

@@ -7,7 +7,7 @@ In the city of Solasfall, languages reflect culture, heritage, and secrets. Know
 ### Languages in Solasfall
 - Common — The lingua franca of the city.
 - Solari — The native tongue of Humans, formal and scholarly.
-- Veilscent — The phenomenal language of the Velkhari.
+- Veilscent — The pheromonal language of the Velkhari.
 - Cawscript — Kenku language of mimicry and gestures.
 - Flowtongue — Murks’ fluid, rolling language.
 - Emberglyphs — Cindral language of flame and inscription.
