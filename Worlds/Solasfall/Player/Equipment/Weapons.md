@@ -452,9 +452,20 @@ A large, powerful crossbow with a mechanical cocking mechanism. Slower to reload
 **[[Damage Types|Damage]]Type:** Piercing
 **[[Speed & Resolution|Speed]] (Base):** 9 + [[Attributes|Grace]] 
 **Bolt Travel:** 25m per [[Speed & Resolution|Speed]] 
-**Optimal [[Range & Threat|Range]]:** 90m **
-Minimum [[Range & Threat|Range]]:** 1m 
+**Optimal [[Range & Threat|Range]]:** 90m 
+**Minimum [[Range & Threat|Range]]:** 1m 
 **Handedness:** Two-Handed
 **Weight Class:** Heavy
 **Ammunition:** Heavy Bolts
 **Traits:** Ranged, Loading Mechanism, Crossbow Loading, Collateral(3), Cumbersome
+
+## Unique 
+### Whip
+
+**Damage Die:** 1d4 + Grace
+**Damage Type:** Cutting
+**Speed (Base):** 12 + Grace 
+**Range:** +1.50m
+**Handedness:** One-Handed
+**Weight Class:** Light 
+**Traits:** Reach, Nimble, Unpredictable(+2), Weapon Bind

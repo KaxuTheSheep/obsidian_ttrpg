@@ -10,6 +10,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 ## Weapons
 
 ### Daggers
+
 | Item | Price |
 |---|---|
 | Dagger | 40 |
@@ -19,6 +20,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Kukri | 55 |
 
 ### Swords
+
 | Item | Price |
 |---|---|
 | Shortsword | 35 |
@@ -30,6 +32,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Greatsword | 110 |
 
 ### Axes
+
 | Item | Price |
 |---|---|
 | Hand Axe | 50 |
@@ -38,6 +41,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Greataxe | 125 |
 
 ### Maces & Hammers
+
 | Item | Price |
 |---|---|
 | Club | 50 |
@@ -47,6 +51,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Maul | 130 |
 
 ### Polearms
+
 | Item | Price |
 |---|---|
 | Spear | 75 |
@@ -56,6 +61,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Glaive | 140 |
 
 ### Flails & Chains
+
 | Item | Price |
 |---|---|
 | Flail | 75 |
@@ -64,6 +70,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Meteor Hammer | 130 |
 
 ### Throwing Weapons
+
 | Item | Price |
 |---|---|
 | Throwing Knife | 45 |
@@ -72,6 +79,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Throwing Axe | 30 |
 
 ### Bows
+
 | Item | Price | Might Requirement |
 |---|---|---|
 | Shortbow | 60 | — |
@@ -80,10 +88,17 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Warbow | 200 | **4** |
 
 ### Crossbows
-| Item | Price |
-|---|---|
-| Light Crossbow | 70 |
-| Heavy Crossbow | 145 |
+
+| Item           | Price |
+| -------------- | ----- |
+| Light Crossbow | 70    |
+| Heavy Crossbow | 145   |
+### Unique
+
+| Item  | Price |
+| ----- | ----- |
+| Whips | 55    |
+
 
 ---
 
@@ -167,7 +182,3 @@ Below the Might requirement, armour cannot be used effectively — check your At
 | Item | Price | Notes |
 |---|---|---|
 | Wayfinder's Compass | 180 | Ambient-draw magic tool. Short-range mana pulse, coarse readings only — enough to tell something's nearby and roughly where, nothing finer. No conducting ability required to use it. |
-
----
-
-*Mana Stones are not sold or bought here — Explorers surrender what they recover to the Ministry of Balance or a sponsoring noble in exchange for Gilded Mints, not the other way around.*
