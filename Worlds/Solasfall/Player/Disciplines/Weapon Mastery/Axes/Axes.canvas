@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-980,"y":-80,"width":1720,"height":1140,"color":"#c2c2c2","label":"Axes"},
+		{"id":"t3","type":"text","text":"Reckless Momentum\nPrereq: None\nCost: 2","x":-220,"y":-60,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Overcommit\nPrereq: Reckless Momentum\nCost: 2","x":-220,"y":160,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"All In\nPrereq: Overcommit\nCost: 3","x":-220,"y":400,"width":260,"height":80},
+		{"id":"t12","type":"text","text":"Unstoppable Swing\nPrereq: All In\nCost: 3","x":-220,"y":640,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Opened Seams\nPrereq: None\nCost: 2","x":440,"y":-60,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Deepened Sunder\nPrereq: Opened Seams\nCost: 2","x":440,"y":160,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Cracking Point\nPrereq: Deepened Sunder\nCost: 3","x":440,"y":400,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Armour Breaker\nPrereq: Cracking Point\nCost: 3","x":440,"y":640,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Cushioned Cleave\nPrereq: Broadening Arc\nCost: 3","x":-960,"y":400,"width":260,"height":80},
+		{"id":"t10","type":"text","text":"Full Cleave\nPrereq: Cushioned Cleave\nCost: 3","x":-960,"y":640,"width":260,"height":80},
+		{"id":"t14","type":"text","text":"Unbreakable Rhythm\nPrereq: Armour Breaker,\nUnstoppable Swing\nCost: 4","x":20,"y":940,"width":300,"height":100},
+		{"id":"t1","type":"text","text":"Wide Swing\nPrereq: None\nCost: 2","x":-960,"y":-60,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Broadening Arc\nPrereq: Wide Swing\nCost: 2","x":-960,"y":160,"width":260,"height":80},
+		{"id":"t13","type":"text","text":"Reaper's Arc\nPrereq: Full Cleave,\nAll In\nCost: 4","x":-720,"y":940,"width":280,"height":100}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t4","toSide":"top"},
+		{"id":"e2","fromNode":"t4","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e3","fromNode":"t7","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e4","fromNode":"t2","fromSide":"bottom","toNode":"t5","toSide":"top"},
+		{"id":"e5","fromNode":"t5","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e6","fromNode":"t8","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e7","fromNode":"t3","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e8","fromNode":"t6","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e9","fromNode":"t9","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e10","fromNode":"t10","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e11","fromNode":"t9","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e12","fromNode":"t11","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e13","fromNode":"t12","fromSide":"bottom","toNode":"t14","toSide":"top"}
+	]
+}

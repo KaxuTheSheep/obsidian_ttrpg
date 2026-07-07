@@ -22,7 +22,6 @@ Before choosing a race, allocate Trait Points from your level 0 pool of **25** a
 - **Attributes** — six attributes rated 0–6, each added directly to relevant rolls. Costs scale as attributes increase. All attributes start at 0.
 - **Skill Training** — each point raises training level by 1, up to the maximum of your highest linked Attribute.
 - **Sturdiness Increases** — additional Sturdiness beyond the base value, subject to Vitality requirements (see the universal cost table).
-- **Essence Capacity** — you begin with capacity for 1 Essence; additional capacity may be purchased here.
 
 Racial Tree Nodes and Discipline Nodes **cannot** be purchased yet. You haven't chosen a race, and Disciplines are hard-locked at level 0 regardless of prerequisites.
 
@@ -96,7 +95,7 @@ You have **9 Faith Points** to allocate among the Deities of Solasfall. Points m
 
 Investing all 9 points in a single Deity and completing a personal quest unlocks Follower status and access to the Follower Disciplines tree at level 1.
 
-Worship of Forbidden Deities grants powerful Blessings but carries unique curses. Partial faith in a Forbidden Deity produces minor curses without the full consequences of exclusive devotion.
+Worshippers of Forbidden Deities grants powerful Blessings but carries unique curses. Partial faith in a Forbidden Deity produces minor curses without the full consequences of exclusive devotion.
 
 See Faith and individual Deity notes for full details.
 
