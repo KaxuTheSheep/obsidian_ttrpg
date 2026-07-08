@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-980,"y":-80,"width":1540,"height":1020,"color":"#c2c2c2","label":"Pugilist"},
+		{"id":"t2","type":"text","text":"Quickened Fists\nPrereq: None\nCost: 2","x":-20,"y":-60,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Flurry\nPrereq: Quickened Fists\nCost: 2","x":-20,"y":180,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Unbreakable\nPrereq: Iron Body\nCost: 3","x":-520,"y":460,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Unbroken Fist\nPrereq: Unbreakable,\nRelentless Combo\nCost: 4","x":-280,"y":820,"width":280,"height":100},
+		{"id":"t9","type":"text","text":"Relentless Combo\nPrereq: Flurry\nCost: 3","x":-20,"y":460,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Callused Knuckles\nPrereq: Iron Fists\nCost: 1","x":-960,"y":180,"width":260,"height":80},
+		{"id":"t1","type":"text","text":"Iron Fists\nPrereq: None\nCost: 2","x":-740,"y":-60,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Iron Body\nPrereq: Iron Fists\nCost: 2","x":-520,"y":180,"width":260,"height":80},
+		{"id":"t3","type":"text","text":"First Stance\nPrereq: None\nCost: 3","x":280,"y":-60,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Second Style\nPrereq: First Stance\n(Level 3)\nCost: 4","x":280,"y":180,"width":260,"height":100},
+		{"id":"t10","type":"text","text":"Third Style\nPrereq: Second Style\n(Level 5)\nCost: 4","x":280,"y":460,"width":260,"height":100},
+		{"id":"t12","type":"text","text":"Perfect Form\nPrereq: Fifth Style,\nRelentless Combo\nCost: 6","x":260,"y":820,"width":280,"height":100}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t4","toSide":"top"},
+		{"id":"e2","fromNode":"t1","fromSide":"bottom","toNode":"t5","toSide":"top"},
+		{"id":"e3","fromNode":"t5","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e4","fromNode":"t2","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e5","fromNode":"t6","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e6","fromNode":"t3","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e7","fromNode":"t7","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e8","fromNode":"t8","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e9","fromNode":"t9","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e10","fromNode":"t9","fromSide":"bottom","toNode":"t12","toSide":"top"}
+	]
+}

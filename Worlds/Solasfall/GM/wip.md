@@ -1,15 +1,14 @@
-Blessing and sanctum faction specifics, more details on npc dynamics
+sanctum faction specifics, more details on npc dynamics
 
 size rules when monsters and npcs exist
 
-classes to disciplines
+
 
 disciplines so far
 
 **Combat**
 
 - **Weapon Mastery** — deep investment in a weapon category, advanced techniques
-	- **Archer** — subtype of weapon mastery focused on ranged combat, bow and crossbow specialisation
 - **Brawler** — unarmed, grapple, close quarters dominance
 - **Defender** — block, parry, shield expertise, damage mitigation
 - **Skirmisher** — mobility, positioning, hit and run

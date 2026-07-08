@@ -4,7 +4,7 @@ tags:
   - Religion
   - Wip
 ---
-Blessings are tangible gifts from the Deities, granting followers divine boons that enhance abilities, provide protections, or offer unique advantages. While each deity’s blessings are unique, the following rules apply to all blessings in [[Solasfall]].
+Blessings are tangible gifts from the Deities via followers, granting followers divine boons that enhance abilities, provide protections, or offer unique advantages. While each deity’s blessings are unique, the following rules apply to all blessings in [[Solasfall]].
 ### Duration and Renewal
 - Blessings last for **one week** of in-game time.
 - Renewal requires **prayer, ritual, or continued [[faith]]**.

@@ -31,7 +31,7 @@ Even when not fully depleted, low Blood imposes penalties reflecting the strain 
 | <10% | Severe penalties: –3 to all physical Tests. Evasion –3. Closed wounds have a 25% chance to reopen. |
 | 0 or below | All closed wounds reopen. |
 
-> Thresholds are based on your current Blood as a percentage of your maximum. A character with higher maximum Blood is not penalised more heavily than one with lower maximum Blood at the same relative point.
+> Thresholds are based on your current Blood as a percentage of your maximum, rounded up to the nearest integer. A character with higher maximum Blood is not penalised more heavily than one with lower maximum Blood at the same relative point.
 
 ## Blood Dice
 Blood Dice represent your body's natural capacity to recover during rest. They start at **d4** and you gain 1 die every level, settings define how the die value increases. Spent dice are regained on a Long Rest.
