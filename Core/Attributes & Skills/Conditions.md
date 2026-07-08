@@ -74,7 +74,7 @@ Frightened ends when:
 - You make a Resolve Test at the start of your turn (DN set by the source). On success, Frightened ends immediately.
 
 ### Grappled
-Your body is physically restrained by another creature. See [[Grapple]] for full rules on how Grappled is applied and maintained.
+Your body is physically restrained by another creature. See [[Core/Combat/Action System/Grapple]] for full rules on how Grappled is applied and maintained.
 - Your **movement distance becomes 0**.
 - You can still take Actions.
 - You may attempt to escape as a **Full Action**: opposed Might or Grace vs the initiator's Might or Grace. On success, Grappled ends and the initiator's Grappling state ends.

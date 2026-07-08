@@ -1,20 +1,19 @@
 {
 	"nodes":[
-		{"id":"grp","type":"group","x":-940,"y":-60,"width":2160,"height":1200,"color":"#c2c2c2","label":"Whip"},
+		{"id":"grp","type":"group","x":-940,"y":-60,"width":2160,"height":1200,"color":"#c2c2c2","label":"Whips"},
 		{"id":"t13","type":"text","text":"Unshakeable Coil\nPrereq: Snapped Coil,\nCoil the Body\nCost: 4","x":160,"y":1020,"width":280,"height":100},
-		{"id":"t2","type":"text","text":"Practiced Coil\nPrereq: None\nCost: 2","x":380,"y":-40,"width":260,"height":80},
-		{"id":"t14","type":"text","text":"Parting Strike\nPrereq: Snapped Coil,\nCoil the Body\nCost: 4","x":520,"y":1020,"width":280,"height":100},
-		{"id":"t6","type":"text","text":"Superior Weapon Bind\nPrereq: Practiced Coil\nCost: 3","x":530,"y":180,"width":260,"height":80},
 		{"id":"t7","type":"text","text":"Held Ground\nPrereq: Coil the Ground,\nSecond Coil\nCost: 3","x":-100,"y":520,"width":260,"height":100},
 		{"id":"t4","type":"text","text":"Second Coil\nPrereq: Snap Guard\nCost: 2","x":90,"y":380,"width":260,"height":80},
 		{"id":"t12","type":"text","text":"Snapped Coil\nPrereq: Held Ground,\nSuperior Weapon Bind\nCost: 4","x":160,"y":700,"width":280,"height":100},
-		{"id":"t11","type":"text","text":"WIP - Coiled Grapple\nPrereq: Superior Weapon Bind\nCost: TBD","x":940,"y":460,"width":260,"height":80},
-		{"id":"t10","type":"text","text":"Coil the Body\nPrereq: Superior Weapon Bind\nCost: 3","x":540,"y":460,"width":260,"height":80},
 		{"id":"t8","type":"text","text":"Wrenching Pull\nPrereq: Tightening Grip\nCost: 3","x":-920,"y":460,"width":260,"height":80},
 		{"id":"t5","type":"text","text":"Tightening Grip\nPrereq: Practiced Coil\nCost: 2","x":-740,"y":180,"width":260,"height":80},
 		{"id":"t9","type":"text","text":"Choke Point\nPrereq: Tightening Grip\nCost: 3","x":-580,"y":460,"width":260,"height":80},
 		{"id":"t3","type":"text","text":"Coil the Ground\nPrereq: Snap Guard\nCost: 2","x":-260,"y":380,"width":260,"height":80},
-		{"id":"t1","type":"text","text":"Snap Guard\nPrereq: None\nCost: 2","x":-100,"y":160,"width":260,"height":80}
+		{"id":"t1","type":"text","text":"Snap Guard\nPrereq: None\nCost: 2","x":-100,"y":160,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Practiced Coil\nPrereq: None\nCost: 2","x":380,"y":-40,"width":260,"height":80},
+		{"id":"t14","type":"text","text":"Parting Strike\nPrereq: Snapped Coil,\nCoil the Body\nCost: 4","x":520,"y":1020,"width":280,"height":100},
+		{"id":"t6","type":"text","text":"Superior Weapon Bind\nPrereq: Practiced Coil\nCost: 3","x":530,"y":180,"width":260,"height":80},
+		{"id":"t10","type":"text","text":"Coil the Body\nPrereq: Superior Weapon Bind\nCost: 3","x":540,"y":460,"width":260,"height":80}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t3","toSide":"top"},
@@ -26,7 +25,6 @@
 		{"id":"e7","fromNode":"t5","fromSide":"bottom","toNode":"t8","toSide":"top"},
 		{"id":"e8","fromNode":"t5","fromSide":"bottom","toNode":"t9","toSide":"top"},
 		{"id":"e9","fromNode":"t6","fromSide":"bottom","toNode":"t10","toSide":"top"},
-		{"id":"e10","fromNode":"t6","fromSide":"bottom","toNode":"t11","toSide":"top"},
 		{"id":"e11","fromNode":"t7","fromSide":"bottom","toNode":"t12","toSide":"top"},
 		{"id":"e12","fromNode":"t6","fromSide":"bottom","toNode":"t12","toSide":"top"},
 		{"id":"e13","fromNode":"t12","fromSide":"bottom","toNode":"t13","toSide":"top"},

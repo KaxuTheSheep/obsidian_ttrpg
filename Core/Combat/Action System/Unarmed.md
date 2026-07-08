@@ -13,4 +13,4 @@ Every character has access to unarmed attacks as a default fallback regardless o
 **Weight Class:** Exempt — does not contribute to carrying capacity
 
 ## Grappling Bonus
-While in the [[Grapple#Grappling State|Grappling]] state, unarmed attacks deal **1d4 + 2× [[Attributes|Might]] or [[Attributes|Grace]]** instead of the standard damage. The doubled attribute must match whichever attribute is being used for the attack roll.
+While in the [[Core/Combat/Action System/Grapple#Grappling State|Grappling]] state, unarmed attacks deal **1d4 + 2× [[Attributes|Might]] or [[Attributes|Grace]]** instead of the standard damage. The doubled attribute must match whichever attribute is being used for the attack roll.

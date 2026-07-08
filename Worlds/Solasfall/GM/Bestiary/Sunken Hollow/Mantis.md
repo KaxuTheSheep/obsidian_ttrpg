@@ -47,7 +47,7 @@ The mantis's chitin shifts to match ambient light and colour. While in [[Vision|
 
 ### Raptorial Grab
 *The mantis seizes its target in its forelimbs with sudden, crushing precision.*
-This functions as a standard [[Grapple]] attempt, using [[Attributes|Grace]] in place of Might or Grace for both the initiating roll and the opposed roll. On success, the target gains **Grappled** and the mantis enters the Grappling state.
+This functions as a standard [[Core/Combat/Action System/Grapple]] attempt, using [[Attributes|Grace]] in place of Might or Grace for both the initiating roll and the opposed roll. On success, the target gains **Grappled** and the mantis enters the Grappling state.
 **Speed:** 11 + [[Attributes|Grace]]
 **Range:** +0.3m
 

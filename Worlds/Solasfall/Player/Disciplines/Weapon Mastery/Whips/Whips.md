@@ -3,7 +3,7 @@ tags:
   - Mechanics/Combat
   - Discipline
 ---
-# Whip
+# Whips
 ![[Whips.png]]
 ## Snap Guard
 **Prerequisites:** None.
@@ -53,12 +53,7 @@ Your **Reach Punish** also inflicts Coil the Ground's Speed penalty on the targe
 ## Coil the Body
 **Prerequisites:** Superior Weapon Bind.
 **Cost:** 3 Trait Points.
-Your Bind Contest may target a creature directly instead of their weapon. On success, the target gains the **Grappled** condition (per standard [[Grapple]] rules) instead of Bound. **You**, however, gain the **Bound** condition yourself for the duration — the whip is wrapped around them, and holding the coil taut occupies your weapon entirely, denying you its use for Attacks, Parry, or Block. You may release the coil at any time as a free action, ending your own Bound state — the target remains Grappled until they escape normally or you otherwise release them.
-
-## WIP — Coiled Grapple
-**Prerequisites:** Superior Weapon Bind.
-**Cost:** TBD.
-*Placeholder — effects to be defined once the Grapple Discipline tree is built.*
+Your Bind Contest may target a creature directly instead of their weapon. On success, the target gains the **Grappled** condition (per standard [[Core/Combat/Action System/Grapple]] rules) instead of Bound. **You**, however, gain the **Bound** condition yourself for the duration — the whip is wrapped around them, and holding the coil taut occupies your weapon entirely, denying you its use for Attacks, Parry, or Block. You may release the coil at any time as a free action, ending your own Bound state — the target remains Grappled until they escape normally or you otherwise release them.
 
 ## Snapped Coil
 **Prerequisites:** Held Ground, Superior Weapon Bind.

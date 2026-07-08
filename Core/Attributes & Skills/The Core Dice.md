@@ -12,10 +12,9 @@ Tests refer to any 2d10 Roll:
 - If it's lower, your action fails or has unintended consequences.
 
 ## Advantage and Disadvantage
-Sometimes, circumstances make your task easier or harder. When that happens, you might gain **Advantage** or suffer from **Disadvantage**.
-
-- **Advantage:** Roll **4d10**, then drop the **two lowest dice**. Add the highest two dice together and apply your modifiers.
-- **Disadvantage:** Roll **4d10**, then drop the **two highest dice**. Add the lowest two dice together and apply your modifiers.
+Sometimes, circumstances make your task easier or harder. When that happens, you might gain **Advantage** or suffer from **Disadvantage**. You may multiple sources of **Advantage** and **Disadvantage** at the same time, first subtract the amount of **Disadvantages** from your **Advantages**, if the number is positive then that's how many advantages you have, if its negative, the modules of that value is how many disadvantages you have.
+- For every advantage, add a 1d10 and then pick the highest 2 values as your 2d10 roll.
+- For every disadvantage, add a 1d10 and then pick the lowest 2 values as your 2d10 roll.
 
 This shifts your chances slightly, giving you a better or worse shot without swinging wildly.
 

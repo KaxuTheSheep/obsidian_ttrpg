@@ -33,7 +33,7 @@ Read roughly in this order:
 - [[Carrying Limits]], [[Ammunition]], [[Toxins]]
 
 ### Combat extras (reference as they come up)
-- [[Grapple]], [[Unarmed]], [[Off-Hand & Dual-Wielding]]
+- [[Worlds/Solasfall/Player/Disciplines/Brawler/Grapple/Grapple]], [[Unarmed]], [[Off-Hand & Dual-Wielding]]
 - [[Brace]], [[Heavy Attack]], [[Ready Action]], [[Drawing & Stowing]]
 - [[Action Fatigue]], [[Reactions]]
 
