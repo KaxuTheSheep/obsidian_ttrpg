@@ -22,21 +22,10 @@ Spell construction proceeds through iterative Tests over multiple downtime perio
 The player describes the spell concept to the GM. The GM sets a DN based on complexity. On success the basic framework exists — a rough shape of what the spell could do, variables without values, a direction rather than a destination.
 
 ### Stage 2 — Development
-Repeated Tests refine the framework over time. Each successful Test fills in more of the spell — [[Damage Types|damage]] ranges, DN values, variable interactions, [[Attributes|Presence]] effects. The GM introduces elements incrementally as the research progresses.
+Repeated Tests refine the framework over time. Each successful Test fills in more of the spell — [[Damage Types|damage]] ranges, DN values, variable interactions. The GM introduces elements incrementally as the research progresses.
 
 ### Stage 3 — Completion
 When the GM determines the framework is sufficiently refined, the spell becomes usable. The player has a finished spell that genuinely emerged from their character's research.
-
-## Choosing an [[Attributes|Attribute]]
-Different aspects of development call for different Mental [[Attributes]]. The player chooses which [[Attributes|attribute]] to apply per Test based on their approach.
-
-|[[Attributes\|Attribute]]|Approach|
-|---|---|
-|[[Attributes\|Insight]]|Theoretical refinement. Thinking through the problem, studying the phenomenon, working out the [[mana]] configuration on paper before attempting it physically.|
-|[[Attributes\|Resolve]]|Brute force development. Repeated experimental casting, pushing through instability, forcing the framework into shape through persistence.|
-|[[Attributes\|Presence]]|Experimental reach. Pushing the spell's effects further, testing the boundaries of what the configuration can amplify or extend.|
-
-Some stages of development lean naturally toward a particular [[Attributes|attribute]] — early conception favours [[Attributes|Insight]], stabilising a dangerous framework favours [[Attributes|Resolve]], refining effects favours [[Attributes|Presence]]. However the player chooses their approach per Test and the GM responds accordingly.
 
 ## Failed Tests
 Failure during development is not merely a lack of progress. Experimental casting means real [[mana]] flow through an incomplete framework. The worse the failure, the worse the consequence.
@@ -50,10 +39,12 @@ Consequences scale with how badly the Test was failed and the spell's complexity
 - Backlash equivalent to a combat cast of the incomplete spell.
 
 ## Institutional Learning
-Learning a pre-existing spell framework from an institution bypasses the development process entirely. The mage receives a finished framework — variables, DN values, [[Sanity]] costs, and [[Attributes|Presence]] interactions already defined.
+Learning a pre-existing spell framework from an institution bypasses the development process entirely. The mage receives a finished framework — variables, DN values, [[Sanity]] costs.
 
 Institutional learning costs money and time, fitting within the institution's fee structure. The mage is working within someone else's understanding of [[mana]] rather than developing their own, but the risk of experimental backlash is eliminated.
 
+## Morphing Spells
+Spells the player already know can be modified to introduce other variables or options to pre-existing, this uses the same rule as creating a new spell. However, development time and resource expenditure is reduced due to a simpler creation. 
 # Spell Blueprint Template 
 This is a template for a spell, these don't all necessarily need to be filled in,
 
@@ -107,13 +98,6 @@ Each must state:
 - shape
 - range behaviour
 - resolution behaviour
-
-## Presence Interaction
-How [[Attributes|Presence]] modifies the spell after resolution.
-
-- What is amplified
-- Scaling rule
-- Cap or limit (if any)
 
 ## Backlash Profile
 What happens on failure below Control DN.

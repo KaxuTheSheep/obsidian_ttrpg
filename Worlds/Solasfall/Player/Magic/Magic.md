@@ -78,5 +78,4 @@ Weave Casting constrains mana through structure. Woven Casting executes a prepar
 | Drawn Weave Casting | Medium             | Medium    | Medium      | Partial (in-combat)     |
 | Woven Casting       | Fast activation    | High      | Low         | Full pre-combat setup   |
 
-# Radiant and Umbral Magic
-Radiant and Umbral damage types cannot be produced by trained mages regardless of skill. These forces originate from deities — mana constructs sustained by collective belief — and can only be channelled through Followers. No amount of Insight, Resolve, or Presence grants a mage access to these types.
+
