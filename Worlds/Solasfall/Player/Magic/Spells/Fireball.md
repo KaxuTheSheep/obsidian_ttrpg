@@ -3,6 +3,7 @@ At low investment, Fireball is a simple offensive strike. At high investment, it
 
 **School:** Elemental  
 **Base DN:** Control 8 / Manifest 12  
+**Speed:** 6 + Grace
 ## Base Effect
 Fireball is launched toward a target point within [[Range & Threat|range]] using standard ranged spell projectile rules.
 It travels through space as a projectile and resolves using the [[Ranged Attacks]] system.
@@ -27,13 +28,13 @@ Burn can be removed through logical physical countermeasures (smothering, immers
 ## Variables
 Each point increases Control DN and Manifest DN.
 
-| Variable                  | Base        | Per Point                                        |
-| ------------------------- | ----------- | ------------------------------------------------ |
-| [[Damage Types\|Damage]]  | 1d6 fire    | +1 die step.                                     |
-| Radius                    | 1m          | +1m                                              |
-| [[Range & Threat\|Range]] | 15m         | +5m                                              |
-| Delivery                  | Lobbed ball | 2 points unlocks an alternative delivery method. |
-| Burn                      | 2 rounds    | +1 Round                                         |
+| Variable                 | Base          | Per Point                                        |
+| ------------------------ | ------------- | ------------------------------------------------ |
+| [[Damage Types\|Damage]] | 1d6 fire      | +1 die step.                                     |
+| Radius                   | 1m            | +1m                                              |
+| Travel Rate              | 15m per Speed | +5m per Speed                                    |
+| Delivery                 | Lobbed ball   | 2 points unlocks an alternative delivery method. |
+| Burn                     | 2 rounds      | +1 Round                                         |
 
 ## Delivery Modes
 All Fireball forms follow projectile travel rules unless stated otherwise.
