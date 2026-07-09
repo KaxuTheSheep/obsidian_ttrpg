@@ -12,10 +12,7 @@ The Sunken Hollow is a natural cave system serving as one of the entry nexuses a
 The strangeness here is restrained. Things mostly look like things should. They just aren't quite right.
 
 ### Structure
-- **Entry Chamber** — A large, well-lit chamber where the portal from the Shattered Expanse opens. Bioluminescent growth is thickest here. Old Explorers' Guild markers and the remains of a previous expedition's camp can be found, offering basic orientation and narrative breadcrumbs.
-- **Branching Passages** — Two or three tunnels lead from the entry chamber toward distinct medium chambers, each with its own character: one carries a shallow underground stream forming a ford, one is drier with heavy stalactite formations, one is lower-ceilinged and tight.
-- **The Main Hall** — A large chamber serving as the nexus's primary setpiece. High-ceilinged with multiple entry points and a significant ledge drop, it offers strong bioluminescent lighting and room for genuine tactical movement.
-- **Evidence of Something Older** — Scattered through the Hollow are bones, hollowed spaces, and markings too large for any current inhabitant. What made them is not answered here.
+
 
 ### Portals
 The Sunken Hollow has two portals:
@@ -25,7 +22,7 @@ The Sunken Hollow has two portals:
 ### Ecosystem
 The Sunken Hollow supports a small, self-contained food web built around its bioluminescent growth. Every carnivorous creature in this chain is opportunistic — there is no clean hierarchy, only a web where size, numbers, and circumstance decide outcomes.
 
-- **Bioluminescent moss and fungi** — the base of the chain, food for [[Aphids and Caterpillars]].
+- **Bioluminescent moss and fungi** — the base of the chain, food for Aphids and Caterpillars.
 - **Aphids and Caterpillars** — non-combat ambient wildlife, tended by the ant colony.
 - **[[Ant Worker|Ant Workers]] and [[Ant Soldier|Ant Soldiers]]** — a poly-queen *Formica Rufa* colony that tends the aphid herds and raids for food, including [[Cockroach|cockroaches]] and stray prey.
 - **[[Cockroach|Cockroaches]]** — scavengers, hunted by the ants and larger predators alike, surviving through avoidance rather than combat strength.
