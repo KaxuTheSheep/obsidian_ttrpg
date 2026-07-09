@@ -11,13 +11,13 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 
 ### Daggers
 
-| Item | Price |
-|---|---|
-| Dagger | 40 |
-| Stiletto | 40 |
-| Parrying Dagger | 30 |
-| Dirk | 30 |
-| Kukri | 55 |
+| Item            | Price |
+| --------------- | ----- |
+| Dagger          | 40    |
+| Stiletto        | 40    |
+| Parrying Dagger | 30    |
+| Dirk            | 30    |
+| Kukri           | 55    |
 
 ### Swords
 
@@ -62,12 +62,12 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 
 ### Flails & Chains
 
-| Item | Price |
-|---|---|
-| Flail | 75 |
-| Tetsu Chigaki | 75 |
-| Kusarigama | 70 |
-| Meteor Hammer | 130 |
+| Item          | Price |
+| ------------- | ----- |
+| Flail         | 75    |
+| Tetsu Chigaki | 75    |
+| Kusarigama    | 70    |
+| Meteor Hammer | 130   |
 
 ### Throwing Weapons
 
@@ -104,14 +104,14 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 
 ## Armour
 
-| Item | Price | Might Requirement | DR |
-|---|---|---|---|
-| Clothing | 10 | 0 | 0 |
-| Leather | 55 | 1 | 1 |
-| Brigandine | 90 | 2 | 2 |
-| Chainmail | 125 | 3 | 3 |
-| Half Plate | 200 | **4** | 4 |
-| Full Plate | 300 | **6** | 5 |
+| Item       | Price | Might Requirement | DR  |
+| ---------- | ----- | ----------------- | --- |
+| Clothing   | 10    | 0                 | 0   |
+| Leather    | 55    | 1                 | 1   |
+| Brigandine | 90    | 2                 | 2   |
+| Chainmail  | 125   | 3                 | 3   |
+| Half Plate | 200   | **4**             | 4   |
+| Full Plate | 300   | **6**             | 5   |
 
 Below the Might requirement, armour cannot be used effectively — check your Attributes before you buy.
 
@@ -156,24 +156,25 @@ Below the Might requirement, armour cannot be used effectively — check your At
 
 ## General Adventuring Gear
 
-| Item | Price |
-|---|---|
-| Backpack (+10 capacity) | 20 |
-| Bedroll | 8 |
-| Rope (15m) | 10 |
-| Torches (bundle of 3) | 6 |
-| Lantern | 15 |
-| Lantern Oil (flask) | 5 |
-| Rations (per day, dried) | 3 |
-| Waterskin | 5 |
-| Flint & Steel | 5 |
-| Medicine Kit | 40 |
-| Bandages (5 uses) | 15 |
-| Climbing Kit | 25 |
-| Thieves' Tools | 30 |
-| Whetstone | 5 |
-| Common Clothes | 10 |
-| Traveller's Cloak | 12 |
+| Item                                         | Price |
+| -------------------------------------------- | ----- |
+| Backpack (+10 capacity)                      | 20    |
+| Bedroll                                      | 8     |
+| Rope (15m)                                   | 10    |
+| Torches (bundle of 3)                        | 6     |
+| Lantern                                      | 15    |
+| Lantern Oil (flask)                          | 5     |
+| Rations (per day, dried)                     | 3     |
+| Waterskin                                    | 5     |
+| Flint & Steel                                | 5     |
+| Medicine Kit (Removes open or closed wounds) | 40    |
+| Bandages (5 uses, closes open wounds)        | 15    |
+| Climbing Kit                                 | 25    |
+| Thieves' Tools                               | 30    |
+| Whetstone                                    | 5     |
+| Common Clothes                               | 10    |
+| Traveller's Cloak                            | 12    |
+| Sewing Kit                                   | 3     |
 
 ---
 

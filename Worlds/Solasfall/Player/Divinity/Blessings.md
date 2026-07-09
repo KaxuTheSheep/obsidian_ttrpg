@@ -28,12 +28,12 @@ Blessings are tangible gifts from the Deities via followers, granting followers 
 ## How Scaling Works
 Each Deity grants a Blessing at three bands, each three Faith Points wide. Within a band, the Blessing's strength is measured by **Rank**, which always runs 1–3:
 
-|Band|Faith Points|Rank|
-|---|---|---|
-|**Minor**|1–3|Rank = Faith Points|
-|**Moderate**|4–6|Rank = Faith Points − 3|
-|**Major**|7–9|Rank = Faith Points − 6|
-|**Follower**|10 (post-quest)|Major Blessing, Rank locked at 3, permanent|
+| Band         | Faith Points    | Rank                                        |
+| ------------ | --------------- | ------------------------------------------- |
+| **Minor**    | 1–3             | Rank = Faith Points                         |
+| **Moderate** | 4–6             | Rank = Faith Points − 3                     |
+| **Major**    | 7–9             | Rank = Faith Points − 6                     |
+| **Follower** | 10 (post-quest) | Major Blessing, Rank locked at 3, permanent |
 
 At **Follower**, the Major Blessing's Rank locks at 3 and any "per Rest" limit on it is removed — it becomes an at-will or passive ability rather than a limited-use one.
 

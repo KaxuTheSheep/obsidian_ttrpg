@@ -24,7 +24,7 @@ Murks are amphibious, with smooth, moist skin ranging from green-grey to slate-b
 Common and Flowtongue.
 # Traits
 
-## Amphibious Breathing=
+## Amphibious Breathing
 You can breathe underwater indefinitely and on land.
 ## Water Adaptation
 You have Advantage on Athletics Tests related to swimming and climbing slippery or wet surfaces.
