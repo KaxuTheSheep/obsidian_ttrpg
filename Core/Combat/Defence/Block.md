@@ -2,7 +2,7 @@
 tags:
   - Mechanics/Combat
 ---
-**Block** is a defensive stance that uses a weapon or shield to intercept incoming force, reducing damage rather than avoiding it.
+**Block** is a defensive stance that uses a [[Weapon|weapon]] or shield to intercept incoming force, reducing [[Damage Types|damage]] rather than avoiding it.
 
 ## Declaration
 Block is declared during the Declaration Phase.
@@ -12,41 +12,41 @@ Block is active immediately upon declaration.
 
 ## Effect Window
 While active:
-- The first instance of **physical damage** you take each Round is reduced by your Block Value
-- Block only applies from your Facing direction
+- The first instance of **physical [[Damage Types|damage]]** you take each [[Rounds|Round]] is reduced by your Block Value
+- Block only applies from your [[Facing]] direction
 
 ## Resolution Timing
 When Block is triggered:
-- Resolve at the Speed of the weapon with additions from your shield.
+- [[Attributes|Resolve]] at the [[Speed & Resolution|Speed]] of the [[Weapon|weapon]] with additions from your shield.
 
 ## Block Value
 When triggered:
-- Roll weapon damage die (or unarmed die if no weapon)
+- Roll [[Weapon|weapon]] [[Damage Types|damage]] die (or [[Unarmed|unarmed]] die if no [[Weapon|weapon]])
 - If using a shield, also roll shield Block die
-- Add Vitality
+- Add [[Attributes|Vitality]]
 
-**Block Value = Weapon Die + Shield Die (if any) + Vitality**
+**Block Value = [[Weapon]] Die + Shield Die (if any) + [[Attributes|Vitality]]**
 
 ## Effect
-Incoming physical damage from the front arc is reduced by Block Value.
-Remaining damage applies to:
-1. Sturdiness
-2. Blood
+Incoming physical [[Damage Types|damage]] from the front arc is reduced by Block Value.
+Remaining [[Damage Types|damage]] applies to:
+1. [[Sturdiness]]
+2. [[Blood]]
 
 Block does not reduce:
 - Status effects
-- Environmental damage
+- Environmental [[Damage Types|damage]]
 - Non-physical effects (unless stated)
 
-## Facing
-- Block only applies to attacks within your front arc
-- Rear and side attacks bypass Block entirely
+## [[Facing]]
+- Block only applies to [[Attacks|attacks]] within your front arc
+- Rear and side [[Attacks|attacks]] bypass Block entirely
 
-## Movement While Blocking
+## [[Movement Types|Movement]] While Blocking
 - You may move up to half your walking travel rate while maintaining Block
-- Facing may be adjusted, but only during your Speed resolution window
+- [[Facing]] may be adjusted, but only during your [[Speed & Resolution|Speed]] resolution window
 
-## End Condition
+## End [[Conditions|Condition]]
 Block ends when:
 - Your next turn begins
 - You switch to another defensive stance

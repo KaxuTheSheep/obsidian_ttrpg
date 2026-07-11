@@ -34,7 +34,7 @@ Building-integrated photovoltaic coating — not panels bolted onto existing str
 
 **Forgotten district buildings** may have older photovoltaic coating from a previous era — degraded from years without maintenance, generating some power unpredictably from infrastructure nobody is actively managing. Not reliable but not zero.
 
-**Degradation:** photovoltaic efficiency drops as the coating ages and accumulates damage. Self-healing concrete maintains the structural substrate but the coating is a separate material with its own lifespan. Wealthy buildings have coating renewal on maintenance schedules. Forgotten district buildings do not.
+**Degradation:** photovoltaic efficiency drops as the coating ages and accumulates [[Damage Types|damage]]. Self-healing concrete maintains the structural substrate but the coating is a separate material with its own lifespan. Wealthy buildings have coating renewal on maintenance schedules. Forgotten district buildings do not.
 
 ---
 

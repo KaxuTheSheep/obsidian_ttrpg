@@ -57,7 +57,7 @@ This is the augment equivalent of SQL injection: not attacking the security syst
 **What an injection can do** depends on what permissions were granted and how sophisticated the payload is:
 
 - **Device manipulation** — controlling paired consumer devices against the user's intent
-- **Limb takeover** — injecting false motor commands through the NI/NN pathway, causing augmented limbs to execute actions the user did not choose. The user is conscious and aware. They cannot stop it. This is probably the most psychologically significant attack in this world
+- **Limb takeover** — injecting false motor commands through the NI/NN pathway, causing augmented limbs to execute [[Actions|actions]] the user did not choose. The user is conscious and aware. They cannot stop it. This is probably the most psychologically significant attack in this world
 - **NI overload** — pushing the write channel of the neural interface beyond biological tissue tolerance. The NI limiter (see below) exists specifically to prevent this becoming fatal
 
 ---

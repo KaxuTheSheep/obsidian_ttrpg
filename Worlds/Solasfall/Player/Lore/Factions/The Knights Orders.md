@@ -5,7 +5,7 @@ tags:
   - Player
 ---
 ### Overview
-More than a military force, the Knights Orders stand as Solasfall's shield and sword — upholding ancient oaths, enforcing royal authority, and projecting stability in a city cloaked in hidden powers. Knights swear fealty to the King, and their Generals answer to the Crown's authority. Split across four distinct Orders, each division carries unique responsibilities, ideals, and sacred ties to magic and the divine.
+More than a military force, the Knights Orders stand as [[Solasfall]]'s shield and sword — upholding ancient oaths, enforcing royal authority, and projecting stability in a city cloaked in hidden powers. Knights swear fealty to the King, and their Generals answer to the Crown's authority. Split across four distinct Orders, each division carries unique responsibilities, ideals, and sacred ties to [[Magic|magic]] and the divine.
 
 ### Structure and Command
 - Each of the four Orders is led by a General.
@@ -20,7 +20,7 @@ More than a military force, the Knights Orders stand as Solasfall's shield and s
     - Close allies of the Aetherbron Institution.
     - **Symbol:** Five-pointed iron star over a stone wall.
 2. **Order of the Ashen Oath – Glory in Death / Only Fire Cleanses**
-    - Zealots and crusaders leading purges into the Hollowdeep.
+    - Zealots and crusaders leading purges into the [[Hollowdeep]].
     - Deep ties to the Ashen Crown Sanctum, the Emberwright, and the Lifebinders.
     - **Symbol:** Cracked sword wrapped in flame.
 3. **Order of the Gilded Chain – Law Has Weight / Debts Must Be Paid**
@@ -33,7 +33,7 @@ More than a military force, the Knights Orders stand as Solasfall's shield and s
 
 ### Faith and Allegiances
 - Many knights are devout followers of the Ashen Crown and the Blind Shepherd, guiding principles of sacrifice and law.
-- Each Order aligns with a specific Magic Institution, drawing upon their teachings and magical assistance.
+- Each Order aligns with a specific [[Magic]] Institution, drawing upon their teachings and magical assistance.
 
 ### Public Perception
 - Respected by most citizens as defenders of order and symbols of honour.

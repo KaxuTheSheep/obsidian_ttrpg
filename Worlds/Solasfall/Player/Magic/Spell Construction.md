@@ -51,7 +51,7 @@ This is a template for a spell, these don't all necessarily need to be filled in
 ## Spell Name
 **Name:** [Spell Name]  
 **School:** [Element / Discipline / Source]  
-**Type:** [Attack / Utility / Control / Ritual / etc.]
+**Type:** [[Attacks|Attack]] / Utility / Control / Ritual / etc.]
 
 ## Core Concept
 A short description of what the spell _is doing in-world_.
@@ -70,13 +70,13 @@ How the spell is formed and delivered.
 | ----------- | ----- |
 | Control DN  | X     |
 | Manifest DN | X     |
-| Base Speed  | X     |
+| Base [[Speed & Resolution|Speed]]  | X     |
 
 ## Base Effect
 What happens at minimum investment.
 - Primary effect
 - Target rules
-- Damage / utility outcome
+- [[Damage Types|Damage]] / utility outcome
 - Immediate secondary effects (if any)
 
 ## Variables
@@ -84,7 +84,7 @@ Each variable is something the spell can be tuned during construction.
 
 | Variable         | Base | Scaling      |
 | ---------------- | ---- | ------------ |
-| Damage           | X    | +X per point |
+| [[Damage Types|Damage]]           | X    | +X per point |
 | Travel Rate      | X    | +X per point |
 | Radius / Shape   | X    | +X per point |
 | Special Variable | X    | rule-defined |
@@ -96,7 +96,7 @@ Unlocked configurations of the spell.
 - Form C: description
 Each must state:
 - shape
-- range behaviour
+- [[Range & Threat|range]] behaviour
 - resolution behaviour
 
 ## Backlash Profile

@@ -63,7 +63,7 @@ A high-tier MPU in this world is approximately: Gate-All-Around or pillar transi
 
 ## The MPU Placement Logic
 
-The MPU in augment systems is housed in the chest cavity. This is a thermal decision as much as an anatomical one — the chest cavity provides the largest available volume for heat management infrastructure and surgical access. Signal travel between the MPU and brain-adjacent augments has a measurable round trip delay at this distance, which premium augment manufacturers address through local processing in limb and sensory augments rather than by relocating the MPU.
+The MPU in augment systems is housed in the chest cavity. This is a thermal decision as much as an anatomical one — the chest cavity provides the largest available volume for heat management infrastructure and surgical access. Signal travel between the MPU and brain-adjacent augments has a measurable [[Rounds|round]] trip delay at this distance, which premium augment manufacturers address through local processing in limb and sensory augments rather than by relocating the MPU.
 
 See [[Core Stack]] for the full MPU dependency chain.
 
@@ -75,7 +75,7 @@ Processor technology in this world is not uniformly accessible. The materials an
 
 Mid-tier frameworks run earlier generation 3D stacked designs without the photonic interconnect layer. Budget and salvage frameworks run flat or early 3D architectures with copper interconnects and silicon substrates — functional but generating more heat, consuming more power, and processing more slowly than current-generation equivalents.
 
-The performance gap between a Tier 1 and Tier 5 framework is not just a number. It is a different class of hardware at the materials level.
+The performance gap between a Tier 1 and Tier 5 [[Framework|framework]] is not just a number. It is a different class of hardware at the materials level.
 
 ---
 

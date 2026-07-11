@@ -3,7 +3,7 @@ tags:
   - Lore
   - Religion
 ---
-_In Solasfall, Faith is power — literally. The Deities exist only through Faith, and their influence on the world grows or fades in proportion to their followers. This has shaped a unique spiritual ecosystem: one of open choice, quiet competition, and pragmatic worship._
+_In [[Solasfall]], Faith is power — literally. The Deities exist only through Faith, and their influence on the world grows or fades in proportion to their followers. This has shaped a unique spiritual ecosystem: one of open choice, quiet competition, and pragmatic worship._
 
 ### Worship in the City
 - The state is secular. There is no official religion endorsed or enforced by the King or Royal Advisors.
@@ -24,7 +24,7 @@ _In Solasfall, Faith is power — literally. The Deities exist only through Fait
 - Monotheistic Followers often rise higher in Sanctum's hierarchies and are more likely to receive Divinity.
 
 ### Courts of Deities 
-In Solasfall, worship is diverse and pragmatic. The city recognizes a set of **Accepted Deities** and a handful of **Forbidden Deities**, each with unique domains and followers.
+In [[Solasfall]], worship is diverse and pragmatic. The city recognizes a set of **Accepted Deities** and a handful of **Forbidden Deities**, each with unique domains and followers.
 #### Accepted Deities
 1. The Blind Shepherd — God of Death, Law, Guidance, Vows, and Exchange
 2. The Candle Mother — Goddess of Home, Light, and Love

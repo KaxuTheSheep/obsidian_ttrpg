@@ -26,7 +26,7 @@ Whether that outcome is designed or emergent is a question nobody in New Halcyon
 
 ## The Class Divide
 
-Real food — specifically GMO agricultural imports from the United Territories (see [[GMO Agricultural Imports]]) — functions as a luxury micronutrient supplement in New Halcyon. Wealthy residents eat it regularly. Middle-tier residents eat it occasionally. Poor residents eat synthetic exclusively and show it over time — physically, cognitively, in ways that compound across generations.
+Real food — specifically [[GMO Agricultural Imports|GMO agricultural imports]] from the United Territories (see [[GMO Agricultural Imports]]) — functions as a luxury micronutrient supplement in New Halcyon. Wealthy residents eat it regularly. Middle-tier residents eat it occasionally. Poor residents eat synthetic exclusively and show it over time — physically, cognitively, in ways that compound across generations.
 
 The divide is visible. A person's diet can often be read from their appearance after enough years in the city.
 

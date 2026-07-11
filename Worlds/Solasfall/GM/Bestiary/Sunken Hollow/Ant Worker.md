@@ -19,13 +19,13 @@ Found throughout [[The Sunken Hollow]] tending aphid herds and harvesting the ca
 | Sturdiness | 2 |
 | Evasion | 15 |
 
-## Attributes
+## [[Attributes]]
 
-| Might | Grace | Vitality | Insight | Resolve | Presence |
+| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
 |---|---|---|---|---|---|
 | 1 | 3 | 1 | 1 | 2 | 0 |
 
-## Movement
+## [[Movement Types|Movement]]
 
 | Type | Initiation | Travel Rate |
 |---|---|---|
@@ -35,17 +35,17 @@ Found throughout [[The Sunken Hollow]] tending aphid herds and harvesting the ca
 
 Workers climb walls and ceilings with the same ease as flat ground, reflecting their small size and weight.
 
-## Actions
+## [[Actions]]
 
 ### Mandible Bite
 *The worker clamps down with disproportionate force for its size.*
-**Damage:** 1d4 + 1 [[Damage Types|Piercing]]
-**Speed:** 13 + [[Attributes|Grace]] (16)
-**Range:** +0m
+**[[Damage Types|Damage]]:** 1d4 + 1 [[Damage Types|Piercing]]
+**[[Speed & Resolution|Speed]]:** 13 + [[Attributes|Grace]] (16)
+**[[Range & Threat|Range]]:** +0m
 **Type:** Melee
 
 ## Behaviour
-Workers do not hunt. They respond. They move toward disturbances near aphid herds or colony infrastructure, investigate before engaging, and attack only when a threat is confirmed or a worker is harmed nearby. Isolated from the colony they become erratic and directionless, often retreating rather than pressing an attack. They do not value their own survival over the colony's function.
+Workers do not hunt. They respond. They move toward disturbances near aphid herds or colony infrastructure, investigate before engaging, and [[Attacks|attack]] only when a threat is confirmed or a worker is harmed nearby. Isolated from the colony they become erratic and directionless, often retreating rather than pressing an [[Attacks|attack]]. They do not value their own survival over the colony's function.
 
 ## Ecosystem Notes
-See [[The Sunken Hollow]] for the full ecosystem relationships. Workers tend [[Aphids and Caterpillars]], are defended by [[Ant Soldier|Ant Soldiers]], and are themselves opportunistic prey for the [[Mantis]], [[Tarantula]], and even [[Cockroach|Cockroaches]] under the right circumstances.
+See [[The Sunken Hollow]] for the full ecosystem relationships. Workers tend Aphids and Caterpillars, are defended by [[Ant Soldier|Ant Soldiers]], and are themselves opportunistic prey for the [[Mantis]], [[Tarantula]], and even [[Cockroach|Cockroaches]] under the right circumstances.

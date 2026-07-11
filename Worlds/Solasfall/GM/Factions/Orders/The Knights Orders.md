@@ -4,7 +4,7 @@ tags:
   - Faction
 ---
 ### Overview 
-More than a military force, the The Knights Orders stands as Solasfall’s shield and sword — upholding ancient oaths, enforcing royal authority, and projecting stability in a city cloaked in hidden powers. While knights swear fealty to the King, their true chain of command leads higher — to the secretive Royal Advisors who direct their generals from behind the throne. Split across four distinct Orders, each division carries unique responsibilities, ideals, and sacred ties to magic and the divine.
+More than a military force, the The Knights Orders stands as [[Solasfall]]’s shield and sword — upholding ancient oaths, enforcing royal authority, and projecting stability in a city cloaked in hidden powers. While knights swear fealty to the King, their true chain of command leads higher — to the secretive Royal Advisors who direct their generals from behind the throne. Split across four distinct Orders, each division carries unique responsibilities, ideals, and sacred ties to [[Magic|magic]] and the divine.
 
 ### Structure and Command
 - Each of the four Orders is led by a General who answers directly to the King, but ultimately to the Royal Advisors.
@@ -19,7 +19,7 @@ More than a military force, the The Knights Orders stands as Solasfall’s shiel
     - Close allies of the Aetherbron.
     - **Symbol:** Five-pointed iron star over a stone wall.
 2. **Order of the Ashen Oath – Glory in Death / Only Fire Cleanses**
-    - Zealots and crusaders leading purges into the Hollowdeep.
+    - Zealots and crusaders leading purges into the [[Hollowdeep]].
     - Deep ties to Ashen Crown Sanctum, The Emberwright, and Lifebinders.
     - **Symbol:** Cracked sword wrapped in flame.
 3. **Order of the Gilded Chain – Law Has Weight / Debts Must Be Paid**

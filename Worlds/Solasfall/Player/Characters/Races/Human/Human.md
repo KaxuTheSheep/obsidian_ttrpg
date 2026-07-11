@@ -36,37 +36,37 @@ Humans gain one additional Starting Ability as part of their racial traits. This
 ## Resilient Spirit
 Prerequisites: None.
 Cost: 2 Trait Points.
-Gain +2 maximum Sanity, reflecting the mental fortitude humans develop surviving Solasfall's relentless pressures.
+Gain +2 maximum Sanity, reflecting the mental fortitude humans develop surviving [[Solasfall]]'s relentless pressures.
 
 ## Broad Training
 Prerequisites: None.
 Cost: 2 Trait Points.
-Gain +1 training in any skill of your choice. This may exceed your linked Attribute cap by 1.
+Gain +1 training in any [[Skills|skill]] of your choice. This may exceed your linked [[Attributes|Attribute]] cap by 1.
 
 ## Disciplined Training
 Prerequisites: None.
 Cost: 2 Trait Points.
-Choose a weapon category. All weapon mastery nodes within that category cost 1 fewer Trait Point. This choice is permanent.
+Choose a [[Weapon|weapon]] category. All [[Weapon|weapon]] mastery nodes within that category cost 1 fewer Trait Point. This choice is permanent.
 
 ## Unbreakable Focus
 Prerequisites: Resilient Spirit. 
 Cost: 3 Trait Points. 
-When you would gain an Affliction, make a Resolve Test DN 12. On success, reduce the Affliction to the previous severity tier. If it would be Minor, negate it entirely.
+When you would gain an Affliction, make a [[Attributes|Resolve]] Test DN 12. On success, reduce the Affliction to the previous severity tier. If it would be Minor, negate it entirely.
 
 ## Adaptive Expertise
 Prerequisites: Broad Training. 
 Cost: 3 Trait Points. 
-Your skill training from Broad Training may be upgraded once more beyond the Attribute cap. Additionally, once per Rest when making an untrained skill Test, treat your training level as Trained (+1).
+Your [[Skills|skill]] training from Broad Training may be upgraded once more beyond the [[Attributes|Attribute]] cap. Additionally, once per Rest when making an untrained [[Skills|skill]] Test, treat your training level as Trained (+1).
 
 ## Focused Mastery
 Prerequisites: Disciplined Training, Exclusive to Cross Training.
 Cost: 3 Trait Points.
-Mastery nodes in your chosen weapon category cost 2 fewer Trait Points instead of 1, representing deeper institutional access to formal training.
+Mastery nodes in your chosen [[Weapon|weapon]] category cost 2 fewer Trait Points instead of 1, representing deeper institutional access to formal training.
 
 ## Cross Training
 Prerequisites: Disciplined Training, Exclusive to Focused Mastery.
 Cost: 3 Trait Points. 
-Choose a second weapon category. Mastery nodes in that category cost 1 fewer Trait Point, extending your institutional training access across a broader martial discipline.
+Choose a second [[Weapon|weapon]] category. Mastery nodes in that category cost 1 fewer Trait Point, extending your institutional training access across a broader martial discipline.
 
 ## Driven
 Prerequisites: Level 3. 
@@ -76,16 +76,16 @@ Once per Long Rest, reroll any Test and take the higher result. Represents human
 ## Apex Potential
 Prerequisites: Broad Training, Driven, Level 5.
 Cost: 6 Trait Points. 
-Choose one Attribute. Its maximum increases to 7. The cost to reach 7 from 6 is 6 Trait Points. This choice is permanent.
+Choose one [[Attributes|Attribute]]. Its maximum increases to 7. The cost to reach 7 from 6 is 6 Trait Points. This choice is permanent.
 
 
 
 ## Jack of All Trades
 Prerequisites: Adaptive Expertise, Level 5.
 Cost: 5 Trait Points.
-Gain +1 training in every skill up to your linked Attribute cap. This applies permanently and updates automatically as your Attributes increase.
+Gain +1 training in every [[Skills|skill]] up to your linked [[Attributes|Attribute]] cap. This applies permanently and updates automatically as your [[Attributes]] increase.
 
 ## Networked
-Prerequisites: 3 Presence, Level 5.
+Prerequisites: 3 [[Attributes|Presence]], Level 5.
 Cost: 4 Trait Points. 
-Once per expedition cycle you may set a request in motion through Solasfall's human social network. The request travels through intermediaries and may return altered, delayed, or partially fulfilled depending on how it moves through the chain. Requests aligned with human institutional interests are more likely to succeed unchanged. The GM determines what comes back and when.
+Once per expedition cycle you may set a request in motion through [[Solasfall]]'s human social network. The request travels through intermediaries and may return altered, delayed, or partially fulfilled depending on how it moves through the chain. Requests aligned with human institutional interests are more likely to succeed unchanged. The GM determines what comes back and when.

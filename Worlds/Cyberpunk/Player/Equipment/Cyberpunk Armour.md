@@ -11,22 +11,22 @@ tags:
 
 ## Overview
 
-External armour provides flat damage reduction to covered segments. It is the primary defensive option for unaugmented characters and a supplementary layer for partially augmented builds. Fully augmented characters rely on subdermal augment plating rather than external armour — the protection is worn inside the body.
+External armour provides flat [[Damage Types|damage]] reduction to covered segments. It is the primary defensive option for unaugmented characters and a supplementary layer for partially augmented builds. Fully augmented characters rely on subdermal augment plating rather than external armour — the protection is worn inside the body.
 
-Armour degrades under sustained damage. It does not self repair. Repair requires a fitter or a repair pack.
+Armour degrades under sustained [[Damage Types|damage]]. It does not self repair. Repair requires a fitter or a repair pack.
 
 ---
 
 ## How Armour Works
 
-Each armour set covers specific segments. When a covered segment takes damage, the armour's **DR value** reduces that damage before Sturdiness and Integrity are affected.
+Each armour set covers specific segments. When a covered segment takes [[Damage Types|damage]], the armour's **DR value** reduces that [[Damage Types|damage]] before Sturdiness and Integrity are affected.
 
-**Damage resolution with armour:**
-1. Incoming damage to a covered segment is reduced by the armour's DR
-2. Remaining damage reduces global Sturdiness
-3. If Sturdiness is 0, remaining damage reduces that segment's Integrity
+**[[Damage Types|Damage]] resolution with armour:**
+1. Incoming [[Damage Types|damage]] to a covered segment is reduced by the armour's DR
+2. Remaining [[Damage Types|damage]] reduces global Sturdiness
+3. If Sturdiness is 0, remaining [[Damage Types|damage]] reduces that segment's Integrity
 
-Armour only reduces damage to segments it covers. Uncovered segments receive no DR benefit.
+Armour only reduces [[Damage Types|damage]] to segments it covers. Uncovered segments receive no DR benefit.
 
 ---
 
@@ -48,7 +48,7 @@ Armour Integrity does not recover through rest. It must be repaired.
 
 **Repair Pack** — a consumable that restores a fixed amount of armour Integrity in the field. Not widely available. Useful for extending armour life during extended operations without access to a fitter.
 
-**Fitter repair** — full Integrity restoration. Requires visiting a fitter with the appropriate equipment. Cost varies by armour quality and damage sustained.
+**Fitter repair** — full Integrity restoration. Requires visiting a fitter with the appropriate equipment. Cost varies by armour quality and [[Damage Types|damage]] sustained.
 
 ---
 
@@ -102,7 +102,7 @@ Augments are the dominant form of protection for anyone with the means and the f
 
 **Partial builds** have unprotected segments alongside augmented ones. Armour fills those gaps cheaply without requiring additional augment installation and fitter fees.
 
-**Framework rejection or avoidance** — characters who refuse augmentation for philosophical, political, or practical reasons still need to survive a city with no public safety infrastructure. Armour is the answer that requires no corporate dependency, no subscription, and no vulnerability to injection attacks.
+**Framework rejection or avoidance** — characters who refuse augmentation for philosophical, political, or practical reasons still need to survive a city with no public safety infrastructure. Armour is the answer that requires no corporate dependency, no subscription, and no vulnerability to injection [[Attacks|attacks]].
 
 ---
 

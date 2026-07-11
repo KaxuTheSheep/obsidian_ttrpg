@@ -48,7 +48,7 @@ Conglomerates that position themselves in the feedstock supply chain have levera
 
 A print node and feedstock are necessary but not sufficient. The third requirement is the design file — the specification that tells the print node what to produce.
 
-Design files are controlled, traded, stolen, and forged. A verified design file for a specific augment component, a particular weapon configuration, or a critical infrastructure part is worth real money to factions that cannot access it through legitimate channels. Conglomerates file proprietary designs and actively pursue unauthorised printing of their specifications.
+Design files are controlled, traded, stolen, and forged. A verified design file for a specific augment component, a particular [[Weapon|weapon]] configuration, or a critical infrastructure part is worth real money to factions that cannot access it through legitimate channels. Conglomerates file proprietary designs and actively pursue unauthorised printing of their specifications.
 
 **The black market dimension:** design files for weapons, augment components, and restricted hardware circulate through the same channels as other contraband. A faction with a print node, appropriate feedstock, and the right design file can produce almost anything — with quality dependent on feedstock quality and print node capability. Grey market designs may be incomplete, outdated, or intentionally degraded. The provenance of a design file is as uncertain as the provenance of black market biological components.
 

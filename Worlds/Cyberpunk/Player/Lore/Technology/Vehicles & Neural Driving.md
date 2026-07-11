@@ -22,9 +22,9 @@ The distinction is important: neural driving is not a more futuristic way to go 
 
 ## Neural Input — The Seat Plate
 
-The mechanism is an extension of the existing [[Framework|SOMA framework]] infrastructure. The vehicle seat contains a wireless neural plate — a transmitter/receiver array embedded in the seat surface that interfaces with the driver's framework through the same pairing protocol used for other devices.
+The mechanism is an extension of the existing [[Framework|SOMA framework]] infrastructure. The vehicle seat contains a wireless neural plate — a transmitter/receiver array embedded in the seat surface that interfaces with the driver's [[Framework|framework]] through the same pairing protocol used for other devices.
 
-The driver pairs with the vehicle. The seat plate reads motor intent from the framework's NI/NN output — not raw neural signal but the interpreted intention the framework has already processed. This is forwarded to the vehicle's control systems, which execute the input with the vehicle's own mechanical and electronic response systems handling the physical translation.
+The driver pairs with the vehicle. The seat plate reads motor intent from the [[Framework|framework]]'s NI/NN output — not raw neural signal but the interpreted intention the [[Framework|framework]] has already processed. This is forwarded to the vehicle's control systems, which execute the input with the vehicle's own mechanical and electronic response systems handling the physical translation.
 
 **What this produces:** the vehicle responds to where the driver intends to go before the conscious decision to execute a specific steering input has fully formed. The lag between intention and vehicle response approaches zero. At speed, in a pursuit or combat situation, this is a meaningful advantage over any physical control interface.
 

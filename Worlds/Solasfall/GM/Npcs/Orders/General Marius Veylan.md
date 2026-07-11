@@ -17,16 +17,16 @@ tags:
 ## Faction Relationships
 - **The Royal Mages:** Useful for sanctioned projects involving magical records or enforcement; occasionally frustrated by Marius’s rigid methods.
 - **The Knights Orders:** Respected for efficiency; grudging acceptance from the Iron Star and Veiled Watch due to his uncompromising style.
-- **Other Magic Institutions:** Minimal direct contact; primarily involved when artefacts are required for enforcement.
+- **Other [[Magic]] Institutions:** Minimal direct contact; primarily involved when artefacts are required for enforcement.
 - **Royal Advisors:** Primary operational liaison; his efficiency makes him indispensable
 - **General Public:** Feared and often disliked; grumbles over taxes and debt recovery are common.
-- **The Explorers' Guild & Hollowdeep Expeditions:** Limited interaction; may supply legal oversight for guild contracts.
+- **The Explorers' Guild & [[Hollowdeep]] Expeditions:** Limited interaction; may supply legal oversight for guild contracts.
 - **The Rebel Group & Cultists** – Viewed as threats or liabilities; operations against them conducted with caution and procedural rigor.
 
 ## NPC Relationships
 - **Archmagus Oren Valeclay** – Occasionally coordinates on artefacts for enforcement; values precision.
 - **Archmagus Tyren Holl** – Professional courtesy; minimal interaction unless required.
-- **General Kaelen Thorne** – Mutual professional distance; occasionally collaborate when debts intersect with Hollowdeep operations.
+- **General Kaelen Thorne** – Mutual professional distance; occasionally collaborate when debts intersect with [[Hollowdeep]] operations.
 
 ## Overview
 General Marius Veylan is a calculating, austere commander whose devotion to order and procedure defines the Gilded Chain. Obedience is earned through fear of consequence rather than personal respect, and mistakes are rarely tolerated. While his methods make him unpopular among common citizens, they ensure the city’s fiscal operations run without error. Marius embodies the principle that law is unyielding, and efficiency above all is the greatest virtue.

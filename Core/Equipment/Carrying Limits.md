@@ -2,12 +2,12 @@
 tags:
   - Mechanics
 ---
-Characters can only carry what their body can physically manage. Carrying capacity is determined by Might and represents the total load a character can bear before they are simply unable to move effectively.
+Characters can only carry what their body can physically manage. Carrying capacity is determined by [[Attributes|Might]] and represents the total load a character can bear before they are simply unable to move effectively.
 
 ## Carrying Capacity
-**Capacity = 6 + (Might × 3)**
+**Capacity = 6 + ([[Attributes|Might]] × 3)**
 
-| Might | Capacity |
+| [[Attributes|Might]] | Capacity |
 |---|---|
 | 0 | 6 |
 | 1 | 9 |

@@ -21,7 +21,7 @@ Solid state batteries replace the liquid electrolyte of current lithium-ion batt
 
 For implanted frameworks and augments, that last point is as important as the performance gains. A battery technology that can be implanted safely and left in the body for years without maintenance is a prerequisite for the augmentation ecosystem your world runs on.
 
-Solid state is the standard across all framework tiers. A Tier 1 framework has a small, lower-capacity solid state battery. A Tier 5 has a larger, higher-capacity one with faster recharge. The technology is the same; the implementation differs by tier.
+Solid state is the standard across all [[Framework|framework]] tiers. A Tier 1 [[Framework|framework]] has a small, lower-capacity solid state battery. A Tier 5 has a larger, higher-capacity one with faster recharge. The technology is the same; the implementation differs by tier.
 
 ---
 
@@ -32,9 +32,9 @@ Quantum batteries exploit quantum mechanical effects — specifically quantum co
 This is real theoretical physics being actively researched. By 2100 it is plausible that quantum batteries exist in functional form, though they remain expensive and difficult to manufacture compared to mature solid state technology.
 
 **Where quantum batteries appear in this world:**
-- Tier 4 and Tier 5 framework configurations at the high end
+- Tier 4 and Tier 5 [[Framework|framework]] configurations at the high end
 - Military augment packages issued by conglomerate forces
-- Specialist weapon systems — railguns and directed energy weapons that require high instantaneous discharge rates that solid state cannot match at compact sizes
+- Specialist [[Weapon|weapon]] systems — railguns and directed energy weapons that require high instantaneous discharge rates that solid state cannot match at compact sizes
 - High-end vehicles requiring sustained high-performance power delivery
 
 Quantum batteries are not a consumer product. They are issued, contracted, or black-market acquired rather than purchased off the shelf.
@@ -54,7 +54,7 @@ Solid state batteries are significantly more resistant to electromagnetic interf
 - Military and specialist frameworks using quantum batteries require additional EMP shielding, adding cost and bulk
 - Some operators deliberately choose solid state over quantum batteries specifically for EMP resistance, accepting the performance tradeoff for operational security
 
-This connects directly to [[Weapons Technology]] and the EMP weapon design discussion.
+This connects directly to [[Weapons Technology]] and the EMP [[Weapon|weapon]] design discussion.
 
 ---
 
@@ -62,7 +62,7 @@ This connects directly to [[Weapons Technology]] and the EMP weapon design discu
 
 Both battery types recharge through the same two methods established in the [[Bandwidth & Power]] game systems document:
 
-**Wireless sleep recharge** — the framework draws power from ambient electromagnetic infrastructure during sleep. Requires being within range of charging infrastructure, which in New Halcyon tracks district quality exactly as other infrastructure does. Wealthy districts have dense wireless charging coverage. Forgotten districts have none, or intermittent coverage from degraded infrastructure.
+**Wireless sleep recharge** — the [[Framework|framework]] draws power from ambient electromagnetic infrastructure during sleep. Requires being within range of charging infrastructure, which in New Halcyon tracks district quality exactly as other infrastructure does. Wealthy districts have dense wireless charging coverage. Forgotten districts have none, or intermittent coverage from degraded infrastructure.
 
 **Wired fast charge** — direct connection through the charging port, significantly faster, requires being stationary and physically connected. The charging port is also a data transfer port — see [[Pairing Protocol & Network Security]] for the security implications of this.
 

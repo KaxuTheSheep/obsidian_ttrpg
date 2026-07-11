@@ -18,7 +18,7 @@ The name is street vernacular that has become the universal term across all tier
 
 Employed directly by conglomerates as part of their internal infrastructure. These are the most technically equipped fitters in New Halcyon — access to current hardware, sterile facilities, full diagnostic suites, and direct supply chain relationships with augment manufacturers.
 
-They are not available to the general public. Access is through conglomerate employment, conglomerate adjacent relationships, or paying rates that effectively restrict them to the wealthy. Their work is legitimate in every formal sense the Federal States' limited regulatory framework recognises.
+They are not available to the general public. Access is through conglomerate employment, conglomerate adjacent relationships, or paying rates that effectively restrict them to the wealthy. Their work is legitimate in every formal sense the Federal States' limited regulatory [[Framework|framework]] recognises.
 
 Conglomerate fitters operate under institutional oversight — their work reflects on the conglomerate's brand and they are held to internal standards accordingly.
 

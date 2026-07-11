@@ -7,7 +7,7 @@ tags:
 ---
 *Periplaneta Cavensis*
 
-Stocky and low to the ground, roughly the mass of a large cat despite its compact build. Its carapace shimmers faintly with a translucent, glass-like sheen — a thin shell of conducted mana wrapped permanently around its body. When startled badly enough, that shell can leap free of its skin entirely.
+Stocky and low to the ground, roughly the mass of a large cat despite its compact build. Its carapace shimmers faintly with a translucent, glass-like sheen — a thin shell of conducted [[Mana|mana]] wrapped permanently around its body. When startled badly enough, that shell can leap free of its skin entirely.
 
 Found scavenging throughout [[The Sunken Hollow]], usually alone or in small pairs rather than true colonies.
 
@@ -20,13 +20,13 @@ Found scavenging throughout [[The Sunken Hollow]], usually alone or in small pai
 | Evasion | 12 |
 | Barrier HP | 5 |
 
-## Attributes
+## [[Attributes]]
 
-| Might | Grace | Vitality | Insight | Resolve | Presence |
+| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
 |---|---|---|---|---|---|
 | 2 | 2 | 3 | 1 | 1 | 0 |
 
-## Movement
+## [[Movement Types|Movement]]
 
 | Type | Initiation | Travel Rate |
 |---|---|---|
@@ -34,21 +34,21 @@ Found scavenging throughout [[The Sunken Hollow]], usually alone or in small pai
 | Run | 8 | 5m per [[Speed & Resolution\|Speed]] |
 | Crawl | 7 | 1.5m per [[Speed & Resolution\|Speed]] |
 
-## Mana Shell (Passive)
-The cockroach is permanently coated in a thin barrier of conducted mana. This barrier has **5 HP** and absorbs all damage before it reaches [[Sturdiness]] or [[Blood]]. Once reduced to 0, the barrier is gone. If the cockroach goes **5 Speed** without the barrier taking damage, it is recast to full at the start of the next Speed step — this is an active recast, not passive regeneration.
+## [[Mana]] Shell (Passive)
+The cockroach is permanently coated in a thin barrier of conducted [[Mana|mana]]. This barrier has **5 HP** and absorbs all [[Damage Types|damage]] before it reaches [[Sturdiness]] or [[Blood]]. Once reduced to 0, the barrier is gone. If the cockroach goes **5 [[Speed & Resolution|Speed]]** without the barrier taking [[Damage Types|damage]], it is recast to full at the start of the next [[Speed & Resolution|Speed]] step — this is an active recast, not passive regeneration.
 
-## Actions
+## [[Actions]]
 
 ### Bite
 *Mandibles built more for tearing detritus than flesh, but effective enough.*
-**Damage:** 1d4 + 1 [[Damage Types|Piercing]]
-**Speed:** 11 + [[Attributes|Grace]] (13)
-**Range:** +0m
+**[[Damage Types|Damage]]:** 1d4 + 1 [[Damage Types|Piercing]]
+**[[Speed & Resolution|Speed]]:** 11 + [[Attributes|Grace]] (13)
+**[[Range & Threat|Range]]:** +0m
 **Type:** Melee
 
 ### Shell Cast (Reaction)
-*The cockroach hurls its own mana shell outward as a barrier in space rather than wearing it.*
-As a Reaction, when targeted by a ranged attack or spell requiring a roll, the cockroach may sacrifice its current passive Mana Shell to create a barrier of equal remaining HP in a 1m square within 3m of itself. This barrier absorbs the triggering attack and any further attacks until depleted, or until 5 Speed passes without it taking damage, at which point it dissipates rather than recasting. The cockroach's own passive shell remains down until it next goes 5 Speed without taking damage.
+*The cockroach hurls its own [[Mana|mana]] shell outward as a barrier in space rather than wearing it.*
+As a Reaction, when targeted by a ranged [[Attacks|attack]] or spell requiring a roll, the cockroach may sacrifice its current passive [[Mana]] Shell to create a barrier of equal remaining HP in a 1m square within 3m of itself. This barrier absorbs the triggering [[Attacks|attack]] and any further [[Attacks|attacks]] until depleted, or until 5 [[Speed & Resolution|Speed]] passes without it taking [[Damage Types|damage]], at which point it dissipates rather than recasting. The cockroach's own passive shell remains down until it next goes 5 [[Speed & Resolution|Speed]] without taking [[Damage Types|damage]].
 
 ## Behaviour
 Cockroaches are scavengers first, fighters only when cornered. They retreat toward gaps and crevices well before [[Blood]] loss becomes serious, attempting to squeeze through openings too small for pursuit. They do not coordinate with ants or other cockroaches and will flee past an ally without hesitation if it improves their own odds. A cockroach with no escape route fights only enough to create one.

@@ -42,7 +42,7 @@ Public terminals exist in wealthy and middle districts for transactions, navigat
 
 Payment friction is a class signal as legible as any other.
 
-**Wealthy augmented:** transactions complete through eye movement and confirmed intention — a look, a thought, a payment made. The friction is so low it barely registers as an action. Augmented users with full financial system integration do not experience purchasing as a distinct activity.
+**Wealthy augmented:** transactions complete through eye movement and confirmed intention — a look, a thought, a payment made. The friction is so low it barely registers as an [[Actions|action]]. Augmented users with full financial system integration do not experience purchasing as a distinct activity.
 
 **Middle tier:** gestural or ocular confirmation, slightly more deliberate, occasionally requiring a second factor. Noticeable but minimal.
 

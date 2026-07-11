@@ -10,11 +10,11 @@ tags: [technology, augments, combat, weapons]
 
 ## Design Philosophy
 
-These augments are not about raw damage output. They are about the conditions under which a kill becomes possible — positioning, geometry, contact, patience. Each requires setup. Each rewards understanding over button-pressing. None of them replace conventional weapons for the roles conventional weapons handle better.
+These augments are not about raw [[Damage Types|damage]] output. They are about the conditions under which a kill becomes possible — positioning, geometry, contact, patience. Each requires setup. Each rewards understanding over button-pressing. None of them replace conventional weapons for the roles conventional weapons handle better.
 
-The set owns the close-quarters space where carrying a weapon is a liability — where being searched matters, where distance is already zero, where the fight has moved past the point where a gun is useful. That space is specifically theirs.
+The set owns the close-quarters space where carrying a [[Weapon|weapon]] is a liability — where being searched matters, where distance is already zero, where the fight has moved past the point where a gun is useful. That space is specifically theirs.
 
-All combat augments draw on the framework's power system. Flashy use has a battery cost. Resource management in sustained engagements is real.
+All combat augments draw on the [[Framework|framework]]'s power system. Flashy use has a battery cost. Resource management in sustained engagements is real.
 
 ---
 
@@ -26,13 +26,13 @@ All combat augments draw on the framework's power system. Flashy use has a batte
 
 **Mechanism:** the forearm augment separates longitudinally along the division between ulna and radius — the two bones of the forearm that already cross over each other during normal rotation. The inner faces of the two separated sections carry ceramic or graphene composite cutting edges. The attack is a closure — the two sections hinge together, driven by the augment's mechanism rather than the user's muscular force.
 
-**Why the anatomy works:** pronation and supination already involve the radius rotating over the ulna. The scissor motion is an exaggeration of a movement the forearm already makes, which means it reads as natural extension rather than something grafted on. The closure force comes from the augment's hydraulic or pneumatic drive, not the user's strength — the damage scales with the mechanism, not the build.
+**Why the anatomy works:** pronation and supination already involve the radius rotating over the ulna. The scissor motion is an exaggeration of a movement the forearm already makes, which means it reads as natural extension rather than something grafted on. The closure force comes from the augment's hydraulic or pneumatic drive, not the user's strength — the [[Damage Types|damage]] scales with the mechanism, not the build.
 
-**Combat logic:** this is not a weapon for fighting at arm's length. It is the payoff for a control-oriented fight — the kill at zero distance after positioning has been established. The two sections must close around something. Getting a target or part of a target between the sections before closure is the entire challenge.
+**Combat logic:** this is not a [[Weapon|weapon]] for fighting at arm's length. It is the payoff for a control-oriented fight — the kill at zero distance after positioning has been established. The two sections must close around something. Getting a target or part of a target between the sections before closure is the entire challenge.
 
-**Visible characteristics:** a seam runs along the forearm even in normal configuration — visible structural reinforcement at the split line. Reads as a heavy prosthetic rather than a weapon to anyone who doesn't know what they're looking at. Deployment produces a visible and audible separation as the sections divide and the edge elements lock into position. Not a subtle augment in use.
+**Visible characteristics:** a seam runs along the forearm even in normal configuration — visible structural reinforcement at the split line. Reads as a heavy prosthetic rather than a [[Weapon|weapon]] to anyone who doesn't know what they're looking at. Deployment produces a visible and audible separation as the sections divide and the edge elements lock into position. Not a subtle augment in use.
 
-**Weak point:** the split mechanism — the hinge point where sections separate — is structurally the most complex element. A fighter who knows what they're dealing with targets the mechanism rather than the edges. Jamming the split so it cannot close completely neutralises the weapon without defeating the user.
+**Weak point:** the split mechanism — the hinge point where sections separate — is structurally the most complex element. A fighter who knows what they're dealing with targets the mechanism rather than the edges. Jamming the split so it cannot close completely neutralises the [[Weapon|weapon]] without defeating the user.
 
 **Power draw:** moderate per engagement, significant under sustained operation.
 
@@ -46,9 +46,9 @@ All combat augments draw on the framework's power system. Flashy use has a batte
 
 **Housing:** the metacarpal space between middle and ring finger provides sufficient volume for the blade housing without significantly compromising hand structural integrity. The deployment mechanism anchors at the wrist. The blade channel is visible as a slight track between those two fingers even when retracted — a tell for anyone who knows what to look for.
 
-**Combat logic:** the hand remains fully functional around the blade in both states. A fist with a blade emerging from it is a different weapon than either alone. This is not a weapon for fighting at arm's length — it is for when grip has already been established. The kill is the consequence of contact that has already happened rather than the initiation of an attack.
+**Combat logic:** the hand remains fully functional around the blade in both states. A fist with a blade emerging from it is a different [[Weapon|weapon]] than either alone. This is not a [[Weapon|weapon]] for fighting at arm's length — it is for when grip has already been established. The kill is the consequence of contact that has already happened rather than the initiation of an attack.
 
-**Defensive use:** the push knife is viable as a street defence augment — low profile, reactive, no wind-up, no drawing a weapon. Someone who grabs the user incorrectly encounters the blade without the user having made a visible aggressive motion. This is both its street utility and its legal ambiguity in contexts where legal questions still apply.
+**Defensive use:** the push knife is viable as a street defence augment — low profile, reactive, no wind-up, no drawing a [[Weapon|weapon]]. Someone who grabs the user incorrectly encounters the blade without the user having made a visible aggressive motion. This is both its street utility and its legal ambiguity in contexts where legal questions still apply.
 
 **Blade profile:** puncture rather than slash — the push motion drives the point. Ceramic or graphene composite tip that defeats light armour. Deep, narrow wound channel. Anatomical knowledge matters — a precise strike to the MPU housing location in the chest, or the NI installation site, does different things than a generic stab.
 
@@ -70,7 +70,7 @@ The venom system stores a synthesised compound in reservoirs distributed through
 
 A refill port on the wrist or palm accepts a specific interface tool to replenish the compound. This is a maintenance requirement and a supply chain dependency — the augment has ongoing operational cost beyond initial installation.
 
-**The compound:** not biological venom. A synthesised agent designed for 2100 biotech knowledge, targeting augment vulnerabilities rather than purely biological systems. Possible variants include neural interface interference compounds, framework insulation degraders that cause progressive augment failure, or MPU thermal management disruptors. Different compounds loaded for different operational requirements. The refill port accepts whatever compound fits the interface — the augment is a delivery system, not a fixed weapon.
+**The compound:** not biological venom. A synthesised agent designed for 2100 biotech knowledge, targeting augment vulnerabilities rather than purely biological systems. Possible variants include neural interface interference compounds, [[Framework|framework]] insulation degraders that cause progressive augment failure, or MPU thermal management disruptors. Different compounds loaded for different operational requirements. The refill port accepts whatever compound fits the interface — the augment is a delivery system, not a fixed [[Weapon|weapon]].
 
 **Scaling with augmentation:** a synthesised compound targeting augment components becomes more effective against more heavily augmented targets, not less. The attack surface increases with augmentation level. This is the inverse of biological venom, which becomes less effective as biological tissue is replaced.
 
@@ -111,7 +111,7 @@ A refill port on the wrist or palm accepts a specific interface tool to replenis
 
 The shared resource between claw and flechette ties the set together. A player investing in this identity invests in the compound supply chain once and receives both close and ranged delivery capability from it.
 
-The gap in the set — medium to long range, heavy damage, area effect — is covered by conventional weapons. These augments do not attempt to compete with firearms for firearm territory. They own the close-quarters space where firearms are a liability and extend that identity to short range through the flechette system.
+The gap in the set — medium to long range, heavy [[Damage Types|damage]], area effect — is covered by conventional weapons. These augments do not attempt to compete with firearms for firearm territory. They own the close-quarters space where firearms are a liability and extend that identity to short range through the flechette system.
 
 ---
 

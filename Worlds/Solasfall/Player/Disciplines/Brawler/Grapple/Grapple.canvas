@@ -5,16 +5,16 @@
 		{"id":"t10","type":"text","text":"Slip the Hold\nPrereq: Improved Break\nCost: 2","x":10,"y":260,"width":260,"height":80},
 		{"id":"t9","type":"text","text":"Second Grip\nPrereq: Efficient Hold\nCost: 3","x":10,"y":560,"width":260,"height":80},
 		{"id":"t5","type":"text","text":"Improved Break\nPrereq: None\nCost: 2","x":10,"y":20,"width":260,"height":80},
-		{"id":"t4","type":"text","text":"Efficient Hold\nPrereq: None\nCost: 3","x":-310,"y":20,"width":260,"height":80},
 		{"id":"t1","type":"text","text":"Crushing Grip\nPrereq: None\nCost: 2","x":-950,"y":20,"width":260,"height":80},
 		{"id":"t6","type":"text","text":"Vice Hold\nPrereq: Crushing Grip\nCost: 2","x":-950,"y":260,"width":260,"height":80},
-		{"id":"t2","type":"text","text":"Takedown\nPrereq: None\nCost: 2","x":-630,"y":20,"width":260,"height":80},
 		{"id":"t3","type":"text","text":"Unshaken Grip\nPrereq: None\nCost: 2","x":330,"y":20,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Suffocating Pressure\nPrereq: Vice Hold\nCost: 3","x":-950,"y":560,"width":260,"height":80},
+		{"id":"t8","type":"text","text":"Locked Bind\nPrereq: Unshaken Grip\nCost: 3","x":330,"y":260,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Efficient Hold\nPrereq: None\nCost: 3","x":-310,"y":20,"width":260,"height":80},
+		{"id":"t2","type":"text","text":"Takedown\nPrereq: None\nCost: 2","x":-630,"y":20,"width":260,"height":80},
 		{"id":"t7","type":"text","text":"Ground Control\nPrereq: Takedown\nCost: 2","x":-630,"y":260,"width":260,"height":80},
 		{"id":"t12","type":"text","text":"Throw\nPrereq: Ground Control\nCost: 3","x":-630,"y":560,"width":260,"height":80},
-		{"id":"t13","type":"text","text":"Master Grappler\nPrereq: Any two of\nEfficient Hold,\nSuffocating Pressure,\nThrow\nCost: 4","x":-330,"y":900,"width":300,"height":120},
-		{"id":"t11","type":"text","text":"Suffocating Pressure\nPrereq: Vice Hold\nCost: 3","x":-950,"y":560,"width":260,"height":80},
-		{"id":"t8","type":"text","text":"Locked Bind\nPrereq: Unshaken Grip\nCost: 3","x":330,"y":260,"width":260,"height":80}
+		{"id":"t13","type":"text","text":"Master Grappler\nPrereq: Any two of\nEfficient Hold,\nSuffocating Pressure,\nThrow\nCost: 4","x":-330,"y":900,"width":300,"height":120}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},

@@ -3,7 +3,7 @@ At low investment, Fireball is a simple offensive strike. At high investment, it
 
 **School:** Elemental  
 **Base DN:** Control 8 / Manifest 12  
-**Speed:** 6 + Grace
+**[[Speed & Resolution|Speed]]:** 6 + [[Attributes|Grace]]
 ## Base Effect
 Fireball is launched toward a target point within [[Range & Threat|range]] using standard ranged spell projectile rules.
 It travels through space as a projectile and resolves using the [[Ranged Attacks]] system.
@@ -32,31 +32,31 @@ Each point increases Control DN and Manifest DN.
 | ------------------------ | ------------- | ------------------------------------------------ |
 | [[Damage Types\|Damage]] | 1d6 fire      | +1 die step.                                     |
 | Radius                   | 1m            | +1m                                              |
-| Travel Rate              | 15m per Speed | +5m per Speed                                    |
+| Travel Rate              | 15m per [[Speed & Resolution|Speed]] | +5m per [[Speed & Resolution|Speed]]                                    |
 | Delivery                 | Lobbed ball   | 2 points unlocks an alternative delivery method. |
-| Burn                     | 2 rounds      | +1 Round                                         |
+| Burn                     | 2 [[Rounds|rounds]]      | +1 [[Rounds|Round]]                                         |
 
 ## Delivery Modes
 All Fireball forms follow projectile travel rules unless stated otherwise.
 
 ### Lobbed Ball (Base)
 - Arcs toward target point
-- Detonates on first valid impact or end of range
+- Detonates on first valid impact or end of [[Range & Threat|range]]
 
 ### Piercing Bolt (2 points)
 A linear projectile of compressed flame.
 - Travels in a straight line through space
 - Uses full projectile resolution rules
 - Continues until:
-    - it exceeds range, or
-    - caster’s current round resolution ends
+    - it exceeds [[Range & Threat|range]], or
+    - caster’s current [[Rounds|round]] resolution ends
 - Detonates on each valid target or surface it intersects (GM-defined if multi-hit allowed per cast; default is **first valid hit only unless enhanced**)
 
 ### Cone Burst (2 points)
 A directional wave of flame.
 - Projects a forward cone from caster
 - Uses projectile travel rules as a sweeping shape
-- Limited to **half normal range**
+- Limited to **half normal [[Range & Threat|range]]**
 - Intersects all valid targets in its path during travel
 
 ## Backlash
@@ -65,13 +65,13 @@ When Fireball falls below Control DN, [[mana]] destabilises during travel or ign
 Possible outcomes:
 
 - Premature detonation at caster position
-- Detonation mid-flight at random Speed step
+- Detonation mid-flight at random [[Speed & Resolution|Speed]] step
 - Inverted thermal reaction (cold burst)
 - Fragmentation into uncontrolled sub-projectiles
 - Delayed ignition with random spatial displacement along path
 
 ## Key Integration Notes
 - Fireball is fully governed by [[Ranged Attacks]] projectile resolution
-- It interacts with movement, cover, and interception naturally via Speed steps
+- It interacts with movement, cover, and interception naturally via [[Speed & Resolution|Speed]] steps
 - No special AoE timing rules exist outside of impact resolution
 - Explosion is instantaneous and does not persist in space

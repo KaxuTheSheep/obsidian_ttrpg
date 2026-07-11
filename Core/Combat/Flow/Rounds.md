@@ -17,15 +17,15 @@ The number and type of [[actions]] a character may take during the Round are def
 
 ## Resolution Phase
 After all declarations are made, the Round is resolved.
-[[Actions]] resolve in order of **[[Speed & Resolution|Speed]]**, with **higher Speed finishing earlier**.  
-When multiple actions share the same Speed value, they are treated as happening simultaneously. If exact sequencing matters, the combatant with the higher Grace resolves their part first; if still tied, the GM determines the order in whatever way best maintains clarity and fairness.
-If a combatant becomes unable to act (for example: knocked unconscious, disarmed, or killed) before one of their declared actions would occur, that action simply does not happen.
-Reactions may be taken during this phase if their trigger conditions are met.
+[[Actions]] [[Attributes|resolve]] in order of **[[Speed & Resolution|Speed]]**, with **higher [[Speed & Resolution|Speed]] finishing earlier**.  
+When multiple [[Actions|actions]] share the same [[Speed & Resolution|Speed]] value, they are treated as happening simultaneously. If exact sequencing matters, the combatant with the higher [[Attributes|Grace]] resolves their part first; if still tied, the GM determines the order in whatever way best maintains clarity and fairness.
+If a combatant becomes unable to act (for example: knocked unconscious, disarmed, or killed) before one of their declared [[Actions|actions]] would occur, that [[Actions|action]] simply does not happen.
+[[Reactions]] may be taken during this phase if their trigger [[Conditions|conditions]] are met.
 
 ## End of the Round
-Once all actions have resolved:
+Once all [[Actions|actions]] have resolved:
 - Ongoing effects progress (bleeding, burning, stance duration, etc.)
-- Conditions are updated
+- [[Conditions]] are updated
 - The next Round begins with a new Declaration Phase
 
-Position, facing, distance, stances, and environmental states **carry over**; combat does not reset between Rounds.
+Position, [[Facing|facing]], distance, stances, and environmental states **carry over**; combat does not reset between Rounds.

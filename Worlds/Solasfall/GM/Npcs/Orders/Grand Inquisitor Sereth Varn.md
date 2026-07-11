@@ -16,7 +16,7 @@ tags:
 ## Faction Relationships
 - **The Royal Mages:** Maintains cautious cooperation; appreciates magical support but distrusts overt experimentation.
 - **The Knights Orders:** Respected but feared; relationships are formal and distanced.
-- **Other Magic Institutions** – Relies heavily on the Prismshapers for perception-based magic; occasionally conflicts with Runeweavers over security restrictions.
+- **Other [[Magic]] Institutions** – Relies heavily on the Prismshapers for perception-based [[Magic|magic]]; occasionally conflicts with Runeweavers over security restrictions.
 - **Royal Advisors:** Directly reports and collaborates; highly trusted and relied upon for intelligence.
 - **General Public:** Largely unaware; whispers and rumours fuel fear and legend around the Order.
 - **Explorers’ Guild:** Occasionally contracts the Watch for delicate expeditions where secrecy is paramount.
@@ -33,7 +33,7 @@ Sereth Varn embodies the perfect fusion of discipline and menace. As a Cindral o
 He operates both as strategist and enforcer, personally supervising high-risk operations and mentoring his knights in subterfuge. Varn’s discipline and secrecy make him almost mythic in reputation, ensuring the Veiled Watch remains a silent but unassailable instrument of the Royal Advisors.
 
 ## Appearance
-Sleek grey scales, silver eyes reflecting light like mirrors. Hairless, angular facial structure with faint scar along the jawline — a remnant of early Hollowdeep training. Wears layered dark robes and light armour designed for silent movement, accented with subtle Prismshaper sigils that shimmer under specific lighting. Hands are calloused, with faint burn-like marks from arcane practice. Movement is deliberate, measured, and unnervingly quiet.
+Sleek grey scales, silver eyes reflecting light like mirrors. Hairless, angular facial structure with faint scar along the jawline — a remnant of early [[Hollowdeep]] training. Wears layered dark robes and light armour designed for silent [[Movement Types|movement]], accented with subtle Prismshaper sigils that shimmer under specific lighting. Hands are calloused, with faint burn-like marks from arcane practice. [[Movement Types|Movement]] is deliberate, measured, and unnervingly quiet.
 
 ## Traits
 - **Master Infiltrator:** Expert in stealth, reconnaissance, and shadow manipulation.
@@ -49,5 +49,5 @@ Sleek grey scales, silver eyes reflecting light like mirrors. Hairless, angular 
 |Sereth can vanish entirely in plain sight for hours.|Partially True|
 |He keeps a personal ledger of all citizens who have wronged the Crown.|True|
 |The Veiled Watch under him can infiltrate any building without leaving trace.|Partially True|
-|Sereth once used illusions to convince an entire Hollowdeep expedition they were lost.|True|
+|Sereth once used illusions to convince an entire [[Hollowdeep]] expedition they were lost.|True|
 |He carries poisoned sigils on his person at all times, ready to use if betrayed.|Partially True|

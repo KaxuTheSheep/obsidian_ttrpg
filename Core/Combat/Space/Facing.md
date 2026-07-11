@@ -6,7 +6,7 @@ tags:
 ---
 ### Facing & Directional Arcs
 Every creature has a **facing direction** — the way their body and attention are oriented.  
-This determines **where defensive actions are effective** and where they are vulnerable.
+This determines **where defensive [[Actions|actions]] are effective** and where they are vulnerable.
 
 Creatures are divided into **four arcs**:
 
@@ -17,27 +17,27 @@ Creatures are divided into **four arcs**:
 | **Rear** | 90° directly behind | Blind / vulnerable angle |
 
 ### Changing Facing
-**During Action Declaration:**  
+**During [[Actions|Action]] Declaration:**  
 You may change your facing freely.  
 (No cost — this reflects awareness and planning before motion begins.)
 
-**During Action Resolution:**  
-Changing your facing costs your **Reaction** for the round. If you use your Reaction to do so, you are able to turn however you like until the start of the next round.  
+**During [[Actions|Action]] Resolution:**  
+Changing your facing costs your **Reaction** for the [[Rounds|round]]. If you use your Reaction to do so, you are able to turn however you like until the start of the next [[Rounds|round]].  
 This represents actively turning under threat.
 
 > **If you have already spent your Reaction, you cannot change facing during the resolution.**
 
-## Rear Attacks
-If an attack originates from **your Rear Arc**:
-- The **attacker gains Advantage** on the attack roll.
-- **Parry cannot be used** (you cannot respond in time).
-- **Block does not apply** (your guard isn't facing them).
-- **Dodge still applies** (because Dodge is movement-based).
+## Rear [[Attacks]]
+If an [[Attacks|attack]] originates from **your Rear Arc**:
+- The **attacker gains Advantage** on the [[Attacks|attack]] roll.
+- **[[Parry]] cannot be used** (you cannot respond in time).
+- **[[Block]] does not apply** (your guard isn't facing them).
+- **[[Dodge]] still applies** (because [[Dodge]] is [[Movement Types|movement]]-based).
 
 ## Flanking
 **Flanking** occurs when:
 - One enemy is in your **Front Arc**, actively engaging you, **and**
-- Another enemy **attacks you from a Side Arc or Rear Arc**.
+- Another enemy **[[Attacks|attacks]] you from a Side Arc or Rear Arc**.
 
 The flanking attacker gains:
-> **Advantage on their Attack roll.**
+> **Advantage on their [[Attacks|Attack]] roll.**

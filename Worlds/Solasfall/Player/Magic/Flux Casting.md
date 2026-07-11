@@ -1,10 +1,10 @@
-11Flux Casting is the real-time shaping of [[mana]] as it flows through the caster’s soul. It is the most direct form of magic — no structure, no pre-defined containment, only controlled acceleration of natural processes as they are being formed.
+11Flux Casting is the real-time shaping of [[mana]] as it flows through the caster’s [[Soul|soul]]. It is the most direct form of [[Magic|magic]] — no structure, no pre-defined containment, only controlled acceleration of natural processes as they are being formed.
 Because the spell is built at the moment of release, Flux Casting is highly flexible but inherently unstable. Even minor deviations in control can cascade into dramatically different outcomes.
 ## Core Principle
 
-Flux Casting operates under the fundamental nature of magic:
+Flux Casting operates under the fundamental nature of [[Magic|magic]]:
 
-> Magic is chaotic in the mathematical sense. Small variations in control produce wildly different outputs.
+> [[Magic]] is chaotic in the mathematical sense. Small variations in control produce wildly different outputs.
 
 A skilled caster reduces this chaos through precision. A novice allows it to express itself freely.
 
@@ -15,7 +15,7 @@ Every spell has a **Base DN** split into two thresholds:
 - **Control DN** — minimum stability required to keep the spell coherent
 - **Manifest DN** — threshold required to fully realise the intended effect
 To cast a Flux spell, roll:
-> **2d10 + Insight**
+> **2d10 + [[Attributes|Insight]]**
 
 Then compare the result to both DN values.
 
@@ -26,7 +26,7 @@ Then compare the result to both DN values.
 |Below Control DN|Backlash — spell misfires into an uncontrolled but real magical effect|
 
 ## Enhancement Points
-Spells can be modified by investing Enhancement Points into variables such as range, damage, area, or special effects.
+Spells can be modified by investing Enhancement Points into variables such as [[Range & Threat|range]], [[Damage Types|damage]], area, or special effects.
 - Each point increases:
     - **Control DN by +1**
     - **Manifest DN by +2**
@@ -35,7 +35,7 @@ Spells can be modified by investing Enhancement Points into variables such as ra
 Flux Casting rewards ambition but punishes overreach.
 
 ## [[Sanity]] Cost
-All Flux Casting strains the caster’s mind and soul.
+All Flux Casting strains the caster’s mind and [[Soul|soul]].
 
 |Outcome|Cost|
 |---|---|

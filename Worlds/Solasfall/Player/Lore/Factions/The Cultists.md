@@ -5,7 +5,7 @@ tags:
   - Player
 ---
 ### Overview
-The Cultists are Solasfall's forbidden congregations — secret sects devoted to the three Forbidden Deities: The Maw Below, The Red Thorn, and The Hollow Shade. Unlike the Sanctums, they hold no legal standing, no public shrines, and no protection from the law. Discovery means persecution, imprisonment, or death. Despite this, worship persists in hidden rooms, abandoned tunnels, and quiet gatherings across every district.
+The Cultists are [[Solasfall]]'s forbidden congregations — secret sects devoted to the three Forbidden Deities: The Maw Below, The Red Thorn, and The Hollow Shade. Unlike the Sanctums, they hold no legal standing, no public shrines, and no protection from the law. Discovery means persecution, imprisonment, or death. Despite this, worship persists in hidden rooms, abandoned tunnels, and quiet gatherings across every district.
 
 ### Structure & Organisation
 Cult cells are small, secretive, and compartmentalised — exposure is fatal, so cells rarely know of each other even within worship of the same deity. There is no citywide unifying structure for "the Cultists" as a whole; the term is a catch-all used by outsiders for a phenomenon that is really dozens of unconnected, unaffiliated congregations.

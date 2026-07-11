@@ -2,83 +2,83 @@
 tags:
   - Mechanics/Combat
 ---
-Ranged attacks allow characters to strike targets at a distance using bows, thrown weapons, firearms, or similar arms. They follow the same core attack resolution as melee but interact differently with movement, cover, and spatial timing.
+Ranged [[attacks]] allow characters to strike targets at a distance using bows, thrown weapons, firearms, or similar arms. They follow the same core [[Attacks|attack]] resolution as melee but interact differently with [[Movement Types|movement]], cover, and spatial timing.
 
-## Attack Roll
-Roll **2d10 + Grace** and compare to the target's Evasion.
+## [[Attacks|Attack]] Roll
+Roll **2d10 + [[Attributes|Grace]]** and compare to the target's [[Evasion]].
 
 ## Projectile Types
-Ranged weapons fall into two categories based on how their projectiles are tracked.
+Ranged weapons [[Falling|fall]] into two categories based on how their projectiles are tracked.
 
 ### Tracked Projectiles
-Bows, crossbows, thrown weapons, and similar arms use tracked projectile movement. The projectile travels through space during the Resolution Phase and can interact with anything in its path.
+Bows, crossbows, thrown weapons, and similar arms use tracked projectile [[Movement Types|movement]]. The projectile travels through space during the Resolution Phase and can interact with anything in its path.
 
 ### Instant Projectiles
-Firearms resolve instantly at the Speed they are fired. Bullet travel time is irrelevant at encounter scale — the projectile arrives in the same Speed step it is launched. No path tracking occurs. The attack simply resolves against the declared target at Initiation Speed.
+Firearms [[Attributes|resolve]] instantly at the [[Speed & Resolution|Speed]] they are fired. Bullet travel time is irrelevant at encounter scale — the projectile arrives in the same [[Speed & Resolution|Speed]] step it is launched. No path tracking occurs. The [[Attacks|attack]] simply resolves against the declared target at Initiation [[Speed & Resolution|Speed]].
 
 ## Tracked Projectile Resolution
 Tracked projectiles move through space in **path segments** during the Resolution Phase.
 
-- At **Initiation Speed X** the projectile leaves the weapon at position Y.
-- At **Speed X–1** it has travelled one Travel Rate worth of squares, reaching position Z.
-- **Any creature in the direct path between Y and Z** at that Speed step is a valid hit candidate.
+- At **Initiation [[Speed & Resolution|Speed]] X** the projectile leaves the [[weapon]] at position Y.
+- At **[[Speed & Resolution|Speed]] X–1** it has travelled one Travel Rate worth of squares, reaching position Z.
+- **Any creature in the direct path between Y and Z** at that [[Speed & Resolution|Speed]] step is a valid hit candidate.
 - The projectile checks the closest creature to Y first.
 - **Non-piercing projectiles** stop at the first creature hit within a segment. Tracking ends.
-- **Piercing projectiles** continue through targets. How many they can pierce is defined by the weapon (e.g. a heavy crossbow may pierce 1 additional target; a high-powered piercing weapon may pierce many).
+- **Piercing projectiles** continue through targets. How many they can pierce is defined by the [[weapon]] (e.g. a heavy crossbow may pierce 1 additional target; a high-powered piercing [[weapon]] may pierce many).
 
-If a creature **moves into the projectile's path** at their own Speed step, their updated position is used at that step. If the projectile has already passed that position in a prior segment, they are unaffected.
+If a creature **moves into the projectile's path** at their own [[Speed & Resolution|Speed]] step, their updated position is used at that step. If the projectile has already passed that position in a prior segment, they are unaffected.
 
 **Friendly fire applies.** If an ally moves into the projectile's path between segments, they are a valid hit candidate the same as an enemy. Intent does not redirect physics.
 
 ### Travel Rate
-Travel Rate is expressed in **squares per Speed step**. This is listed on the weapon.
+Travel Rate is expressed in **squares per [[Speed & Resolution|Speed]] step**. This is listed on the [[weapon]].
 
 ### Example
-A shortbow is fired at **Initiation Speed 16** with a Travel Rate of **15 squares per Speed step**.
-- Speed 16 → Arrow leaves bow at position Y.
-- Speed 15 → Arrow has travelled 15 squares, reaching position Z. Any creature in the Y–Z path is checked, closest first.
-- Speed 14 → Arrow continues another 15 squares. New segment checked.
-- This continues until the arrow hits a target or reaches maximum range.
+A shortbow is fired at **Initiation [[Speed & Resolution|Speed]] 16** with a Travel Rate of **15 squares per [[Speed & Resolution|Speed]] step**.
+- [[Speed & Resolution|Speed]] 16 → Arrow leaves bow at position Y.
+- [[Speed & Resolution|Speed]] 15 → Arrow has travelled 15 squares, reaching position Z. Any creature in the Y–Z path is checked, closest first.
+- [[Speed & Resolution|Speed]] 14 → Arrow continues another 15 squares. New segment checked.
+- This continues until the arrow hits a target or reaches maximum [[Range & Threat|range]].
 
 ## Firearms
-Firearms resolve instantly — no path tracking. The attack resolves at Initiation Speed against the declared target. Initiation Speed represents handling characteristics (aim time, draw, cycling) rather than projectile speed.
+Firearms [[Attributes|resolve]] instantly — no path tracking. The [[Attacks|attack]] resolves at Initiation [[Speed & Resolution|Speed]] against the declared target. Initiation [[Speed & Resolution|Speed]] represents handling characteristics (aim time, draw, cycling) rather than projectile [[Speed & Resolution|speed]].
 
 **General firearm characteristics:**
-- **Pistols / SMGs** — high Initiation Speed, lower damage, short–medium optimal range
-- **Rifles** — moderate Initiation Speed, high damage, long optimal range
-- **Sniper rifles** — low Initiation Speed (significant aim time), very high damage, extreme range, high pierce count
-- **Shotguns** — moderate Initiation Speed, hits a **cone** rather than a line (width defined by weapon), no pierce, effective at short range only
+- **Pistols / SMGs** — high Initiation [[Speed & Resolution|Speed]], lower [[Damage Types|damage]], short–medium optimal [[Range & Threat|range]]
+- **Rifles** — moderate Initiation [[Speed & Resolution|Speed]], high [[Damage Types|damage]], long optimal [[Range & Threat|range]]
+- **Sniper rifles** — low Initiation [[Speed & Resolution|Speed]] (significant aim time), very high [[Damage Types|damage]], extreme [[Range & Threat|range]], high pierce count
+- **Shotguns** — moderate Initiation [[Speed & Resolution|Speed]], hits a **cone** rather than a line (width defined by [[Weapon|weapon]]), no pierce, effective at short [[Range & Threat|range]] only
 
-Specific stats are defined in the relevant module's weapon list.
+Specific stats are defined in the relevant module's [[Weapon|weapon]] list.
 
-## Range
-Each ranged weapon has an optimal range in squares.
-- Within optimal range: no penalty.
-- Beyond optimal range: **–1 to Attack and Damage per 20 squares beyond optimal range**.
+## [[Range & Threat|Range]]
+Each ranged [[Weapon|weapon]] has an optimal [[Range & Threat|range]] in squares.
+- Within optimal [[Range & Threat|range]]: no penalty.
+- Beyond optimal [[Range & Threat|range]]: **–1 to [[Attacks|Attack]] and [[Damage Types|Damage]] per 20 squares beyond optimal [[Range & Threat|range]]**.
 
-There is no cap on range penalties.
+There is no cap on [[Range & Threat|range]] penalties.
 
-## Minimum Range
-If a target is within minimum range:
-- Attack rolls are made at **Disadvantage**.
+## Minimum [[Range & Threat|Range]]
+If a target is within minimum [[Range & Threat|range]]:
+- [[Attacks|Attack]] rolls are made at **Disadvantage**.
 
-This represents awkward handling at extreme close range.
+This represents awkward handling at extreme close [[Range & Threat|range]].
 
 ## Cover
 
 | Cover | Effect |
 |---|---|
-| Partial (25–50%) | –2 to Attack |
-| Significant (75%) | –4 to Attack |
-| Full (100%) | Attack automatically fails |
+| Partial (25–50%) | –2 to [[Attacks|Attack]] |
+| Significant (75%) | –4 to [[Attacks|Attack]] |
+| Full (100%) | [[Attacks|Attack]] automatically fails |
 
 On a Critical Success against Full Cover, the shot may find a gap or ricochet at GM discretion.
 
-## Facing
+## [[Facing]]
 - Attacking from the rear arc grants **Advantage**.
-- Parry does not apply to ranged attacks.
-- Block only applies if a shield is actively facing the attacker.
-- Dodge applies normally.
+- [[Parry]] does not apply to ranged [[Attacks|attacks]].
+- [[Block]] only applies if a shield is actively [[Facing|facing]] the attacker.
+- [[Dodge]] applies normally.
 
-## Reactions and Cover
-A character may use a Reaction during the Resolution Phase to move into cover. Whether they reach cover before impact depends on their movement Speed steps relative to the projectile's travel Speed steps (for tracked projectiles) or the firing Speed (for instant projectiles).
+## [[Reactions]] and Cover
+A character may use a Reaction during the Resolution Phase to move into cover. Whether they reach cover before impact depends on their [[Movement Types|movement]] [[Speed & Resolution|Speed]] steps relative to the projectile's travel [[Speed & Resolution|Speed]] steps (for tracked projectiles) or the firing [[Speed & Resolution|Speed]] (for instant projectiles).

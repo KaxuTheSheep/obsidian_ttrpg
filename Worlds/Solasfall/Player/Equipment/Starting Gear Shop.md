@@ -4,9 +4,9 @@ tags:
   - Economy
   - Item
 ---
-# Starting Gear Shop — Solasfall Market District
+# Starting Gear Shop — [[Solasfall]] Market District
 
-A legitimate outfitter's stall in the Market District, the kind every fresh Explorer passes through before their first descent. Everything here is sold openly and taxed accordingly — toxins included, since Hollowdeep expeditions are the reason the city has a toxin trade to begin with.
+A legitimate outfitter's stall in the Market District, the kind every fresh Explorer passes through before their first descent. Everything here is sold openly and taxed accordingly — toxins included, since [[Hollowdeep]] expeditions are the reason the city has a toxin trade to begin with.
 ## Weapons
 
 ### Daggers
@@ -80,7 +80,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 
 ### Bows
 
-| Item | Price | Might Requirement |
+| Item | Price | [[Attributes|Might]] Requirement |
 |---|---|---|
 | Shortbow | 60 | — |
 | Recurve | 65 | — |
@@ -104,7 +104,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 
 ## Armour
 
-| Item       | Price | Might Requirement | DR  |
+| Item       | Price | [[Attributes|Might]] Requirement | DR  |
 | ---------- | ----- | ----------------- | --- |
 | Clothing   | 10    | 0                 | 0   |
 | Leather    | 55    | 1                 | 1   |
@@ -113,7 +113,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 | Half Plate | 200   | **4**             | 4   |
 | Full Plate | 300   | **6**             | 5   |
 
-Below the Might requirement, armour cannot be used effectively — check your Attributes before you buy.
+Below the [[Attributes|Might]] requirement, armour cannot be used effectively — check your [[Attributes]] before you buy.
 
 ---
 
@@ -182,4 +182,4 @@ Below the Might requirement, armour cannot be used effectively — check your At
 
 | Item | Price | Notes |
 |---|---|---|
-| Wayfinder's Compass | 180 | Ambient-draw magic tool. Short-range mana pulse, coarse readings only — enough to tell something's nearby and roughly where, nothing finer. No conducting ability required to use it. |
+| Wayfinder's Compass | 180 | Ambient-draw [[Magic|magic]] tool. Short-[[Range & Threat|range]] [[Mana|mana]] pulse, coarse readings only — enough to tell something's nearby and roughly where, nothing finer. No conducting ability required to use it. |

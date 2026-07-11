@@ -18,7 +18,7 @@ The Slum District is a tangled warren of collapsing buildings, makeshift housing
 
 **The Cindral Enclaves**
 - Cindral dominate the political and cultural heart of the slums, forming tight-knit families, black markets, and unofficial leaders.
-- Some enclaves are deeply spiritual, practicing forms of forbidden or ancestral magic kept alive in secrecy.
+- Some enclaves are deeply spiritual, practicing forms of forbidden or ancestral [[Magic|magic]] kept alive in secrecy.
 
 **The Velkhari Shadowspaces**
 - Velkhari, with their strange physiology and traditions, have carved out shadowy grottos and hidden gathering spaces where they speak in smoke and symbol.
@@ -31,7 +31,7 @@ The Slum District is a tangled warren of collapsing buildings, makeshift housing
 - Some work with the Thieves' Guild or Rebel Group, while others just try to protect their Block.
 
 **Black Markets**
-- Smuggled Hollowdeep artefacts, stolen mana stones, banned texts, and illegal alchemy — if it cannot be sold elsewhere, it ends up here.
+- Smuggled [[Hollowdeep]] artefacts, stolen [[Mana|mana]] stones, banned texts, and illegal alchemy — if it cannot be sold elsewhere, it ends up here.
 
 **Street Faith & Cultic Blends**
 - Strange, syncretic beliefs thrive — some mix sanctioned faiths with forbidden gods, while others follow lost spirits or local saints.

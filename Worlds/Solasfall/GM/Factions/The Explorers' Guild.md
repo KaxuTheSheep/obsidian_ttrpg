@@ -4,11 +4,11 @@ tags:
   - Lore
 ---
 ### Overview
-The Explorers' Guild is the body that turns the Hollowdeep from an abstract existential dependency into an organised, staffed, repeatable operation. They contract, train, equip, and dispatch the parties who descend through the Shattered Expanse every four-week cycle, and they hold the accumulated expedition knowledge — maps, safe zone locations, nexus behaviour — that makes survival past the first few trips possible at all. Nobody loves the Guild. Almost everybody needs it.
+The Explorers' Guild is the body that turns the [[Hollowdeep]] from an abstract existential dependency into an organised, staffed, repeatable operation. They contract, train, equip, and dispatch the parties who descend through the Shattered Expanse every four-week cycle, and they hold the accumulated expedition knowledge — maps, safe zone locations, nexus behaviour — that makes survival past the first few trips possible at all. Nobody loves the Guild. Almost everybody needs it.
 
 ### Role & Function
-- Recruits, vets, and organises expedition parties for the Rift cycle window.
-- Maintains the only substantial body of Hollowdeep cartography and survival knowledge in the city, most of it guarded rather than published.
+- Recruits, vets, and organises expedition parties for the [[Rift]] cycle window.
+- Maintains the only substantial body of [[Hollowdeep]] cartography and survival knowledge in the city, most of it guarded rather than published.
 - Brokers Mordant Stone, Essence, and relic yields — some to the Ministry of Balance at fixed rates, some on a grey secondary market the Ministry tolerates rather than controls.
 - Supplies Wayfinders, guides, and logistics contractors to independent expeditions who pay for Guild support without being full Guild members.
 - Functions as an unofficial pressure valve for the Weighing: citizens who cannot pay often end up in Guild-adjacent expedition work, willingly or otherwise.
@@ -29,17 +29,17 @@ This creates a hard split the Guild does not advertise: well-funded expeditions 
 Safe zone locations within mapped nexuses are among the most closely held information the Guild possesses, shared only with Delvers and above or sold at extreme premium to desperate independents. A party that discovers one through luck rather than Guild intelligence is, unofficially, encouraged to report it back — and discouraged, through subtler means, from selling that knowledge themselves.
 
 ### Relationships
-- **Ministry of Balance** — the Guild's most important and least comfortable relationship. The Ministry sets Mana Stone exchange rates and effectively controls Guild profitability without controlling Guild membership. Friction is constant but neither side can afford to break it; the Guild needs the Ministry's exchange infrastructure, the Ministry needs the Guild's supply chain to keep the Weighing's fiction of "productive contribution" intact.
-- **Magic Institutions** — practical, transactional. Aetherbron supplies Wayfinders, Lifebinders provide expedition medical support and crisis care, Riftconjurors coordinate the rift cycle timing, Runeweavers sell artefacts and tools at commercial rates.
+- **Ministry of Balance** — the Guild's most important and least comfortable relationship. The Ministry sets [[Mana]] Stone exchange rates and effectively controls Guild profitability without controlling Guild membership. Friction is constant but neither side can afford to break it; the Guild needs the Ministry's exchange infrastructure, the Ministry needs the Guild's supply chain to keep the Weighing's fiction of "productive contribution" intact.
+- **[[Magic]] Institutions** — practical, transactional. Aetherbron supplies Wayfinders, Lifebinders provide expedition medical support and crisis care, Riftconjurors coordinate the [[Rift|rift]] cycle timing, Runeweavers sell artefacts and tools at commercial rates.
 - **Knights Orders** — occasional escort or extraction contracts, particularly Iron Star.
 - **Nobility** — sponsor expeditions for profit, prestige, or to offload family obligations onto a hired party instead of a family member. The Guild takes noble coin without much comment on why a given sponsorship exists.
 - **Rebel Group & Cultists** — treated as a liability rather than an enemy; the Guild would rather not know which of its Registered members hold sympathies either way, since asking invites scrutiny it doesn't want either.
 
 ### Public Perception
-The Guild is respected the way a dangerous, necessary trade is respected — not romanticised. Citizens know explorers die often and that the Guild profits regardless. Individual explorers can and do become genuinely admired figures — survivors of famous expeditions, people who pulled others out at cost to themselves — but that reputation belongs to the person, not the institution. The Guild itself is understood as a business that happens to be indispensable, and businesses in Solasfall are never trusted further than their books are open.
+The Guild is respected the way a dangerous, necessary trade is respected — not romanticised. Citizens know explorers die often and that the Guild profits regardless. Individual explorers can and do become genuinely admired figures — survivors of famous expeditions, people who pulled others out at cost to themselves — but that reputation belongs to the person, not the institution. The Guild itself is understood as a business that happens to be indispensable, and businesses in [[Solasfall]] are never trusted further than their books are open.
 
 ### Symbol & Motto
-A compass rose overlaid on a broken circle, echoing the rift itself.
+A compass rose overlaid on a broken circle, echoing the [[Rift|rift]] itself.
 _"Return with something."_ — deliberately transactional, not heroic.
 
 ### Notes

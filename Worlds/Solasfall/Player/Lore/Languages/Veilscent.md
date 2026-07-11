@@ -14,7 +14,7 @@ The system is highly organic and metabolically linked: emotional state, intent, 
 - **Cold metal / iron trace** → conflict, challenge, dominance signalling
 - **Ozone-like sharpness** → alert, urgency, attention shift
 - **Moss and shaded growth** → trust, familiarity, social bonding
-- **Fungal earth / rich decay-organic notes** → group cohesion, shared intent, collective action
+- **Fungal earth / rich decay-organic notes** → group cohesion, shared intent, collective [[Actions|action]]
 - **Saltwater brine** → inquiry, uncertainty, probing intent
 - **Resinous sap / warm plant exudate** → commitment, promise, resolve
 - **Ash-like dryness (organic combustion residue)** → loss, grief, closure

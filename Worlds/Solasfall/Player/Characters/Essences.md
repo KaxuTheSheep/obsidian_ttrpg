@@ -4,7 +4,7 @@ tags:
   - lore
   - Wip
 ---
-Every living thing carries a unique [[mana]] signature — a pattern that defines its nature, instincts, and capabilities. This signature is the soul. In life it is inseparable from the creature. In [[death]], particularly within the [[Hollowdeep]] where [[mana]] is dense and reality unstable, it can crystallise into a physical form rather than dissipating. These crystallised signatures are Essences.
+Every living thing carries a unique [[mana]] signature — a pattern that defines its nature, instincts, and capabilities. This signature is the [[Soul|soul]]. In life it is inseparable from the creature. In [[death]], particularly within the [[Hollowdeep]] where [[mana]] is dense and reality unstable, it can crystallise into a physical form rather than dissipating. These crystallised signatures are Essences.
 
 Essences are rare, potent, and permanent. Consuming one merges a fragment of another creature's [[mana]] signature into your own, permanently altering your physical and mental capabilities to reflect the nature of the creature it came from. Most carry drawbacks for the same reason — you are not just gaining a creature's strengths, you are absorbing its nature entirely.
 # Acquisition

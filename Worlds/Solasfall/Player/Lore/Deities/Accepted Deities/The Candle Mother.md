@@ -17,7 +17,7 @@ Home, Light, Love
 Often portrayed as a robed woman carrying a single lit candle whose flame never wavers, even in storms. Her symbol — a candle cradled by two hands — is etched above hearths and doorways as a ward against despair and darkness.
 
 **Mythos:**  
-It is said that when the world was still cloaked in night, the Candle Mother offered her flame so mortals would never be without warmth. Her light does not burn; it comforts. In the city of Solasfall, she is said to walk unseen among the homes of the grieving, rekindling dying hearths when hope begins to fade.
+It is said that when the world was still cloaked in night, the Candle Mother offered her flame so mortals would never be without warmth. Her light does not burn; it comforts. In the city of [[Solasfall]], she is said to walk unseen among the homes of the grieving, rekindling dying hearths when hope begins to fade.
 
 **Influence & Presence:**  
 Temples to the Candle Mother are simple — rarely grand structures, more often community hearths open to all. Her light is considered the first spark that greets newborns and the final candle that burns for the dead. Her teachings emphasise compassion, shared burdens, and the belief that love endures beyond the dark.

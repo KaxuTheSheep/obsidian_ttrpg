@@ -43,11 +43,11 @@ At **Follower**, the Major Blessing's Rank locks at 3 and any "per Rest" limit o
 
 _Death, Law, Guidance, Vows, Exchange_
 
-**Minor:** Gain **+Rank** to Intuition Tests made to detect broken vows, oaths, or lies about debts.
+**Minor:** Gain **+Rank** to [[Skills|Intuition]] Tests made to detect broken vows, oaths, or lies about debts.
 
-**Moderate:** **Rank** times per Rest, force a Resolve Test (DN 12) on a creature who has broken a vow sworn to you. On failure they gain **Disoriented**.
+**Moderate:** **Rank** times per Rest, force a [[Attributes|Resolve]] Test (DN 12) on a creature who has broken a vow sworn to you. On failure they gain **Disoriented**.
 
-**Major:** **Rank** times per Rest, stabilise a dying creature within 3m as a Reaction, with no Medicine Test required.
+**Major:** **Rank** times per Rest, stabilise a dying creature within 3m as a Reaction, with no [[Skills|Medicine]] Test required.
 
 **Follower:** The Major Blessing becomes at-will — stabilise a dying creature this way as often as needed. You also gain a passive sense: you automatically know when a creature within 10m drops to or below 10% Blood.
 
@@ -55,11 +55,11 @@ _Death, Law, Guidance, Vows, Exchange_
 
 _Home, Light, Love_
 
-**Minor:** Gain **+Rank** to Negotiation Tests made to calm, comfort, or soothe — not to persuade for personal gain.
+**Minor:** Gain **+Rank** to [[Skills|Negotiation]] Tests made to calm, comfort, or soothe — not to persuade for personal gain.
 
 **Moderate:** **Rank** times per Rest, touch a willing creature to end **Frightened** on them, or restore 1 Sanity Die's worth of Sanity.
 
-**Major:** **Rank** times per Rest, shed dim light (Light Level 2, 2m radius) for a scene at no action cost; allies within that light halve Sanity loss from Frightened sources.
+**Major:** **Rank** times per Rest, shed dim light (Light Level 2, 2m radius) for a scene at no [[Actions|action]] cost; allies within that light halve Sanity loss from Frightened sources.
 
 **Follower:** The light effect becomes permanent and always active around you, with no uses to track, and its radius increases to 4m.
 
@@ -79,37 +79,37 @@ _Harvest, Growth, Luck_
 
 _Craft, Fire, Invention_
 
-**Minor:** Gain **+Rank** to Crafting Tests.
+**Minor:** Gain **+Rank** to [[Skills|Crafting]] Tests.
 
-**Moderate:** Reduce fire damage you take by **Rank**. Time spent on mundane Crafting Tests is reduced by 10% per Rank.
+**Moderate:** Reduce fire [[Damage Types|damage]] you take by **Rank**. Time spent on mundane [[Skills|Crafting]] Tests is reduced by 10% per Rank.
 
-**Major:** **Rank** times per Rest, complete a Crafting Test's time requirement instantly, representing a moment of inspired invention.
+**Major:** **Rank** times per Rest, complete a [[Skills|Crafting]] Test's time requirement instantly, representing a moment of inspired invention.
 
-**Follower:** Instant completion becomes at-will. You are also entirely immune to damage from fires you create or control yourself.
+**Follower:** Instant completion becomes at-will. You are also entirely immune to [[Damage Types|damage]] from fires you create or control yourself.
 
 ## The Pale Bloom
 
-_Suffering, Endurance, Tragic Beauty_
+_Suffering, [[Skills|Endurance]], Tragic Beauty_
 
 **Minor:** Reduce Sanity loss from Frightened sources caused by mundane pain or hardship by **Rank**.
 
-**Moderate:** While below 30% Blood, gain **+Rank** to Resolve Tests.
+**Moderate:** While below 30% Blood, gain **+Rank** to [[Attributes|Resolve]] Tests.
 
-**Major:** **Rank** times per Rest, when you would take damage, convert up to (Rank × 25)% of it into Sanity loss instead.
+**Major:** **Rank** times per Rest, when you would take [[Damage Types|damage]], convert up to (Rank × 25)% of it into Sanity loss instead.
 
-**Follower:** This conversion becomes at-will, fixed at 75% of incoming damage convertible to Sanity loss on any hit.
+**Follower:** This conversion becomes at-will, fixed at 75% of incoming [[Damage Types|damage]] convertible to Sanity loss on any hit.
 
 ## The Ashen Crown
 
 _War, Glory, Ruin_
 
-**Minor:** Gain **+Rank** to Intimidation Tests made during combat.
+**Minor:** Gain **+Rank** to [[Skills|Intimidation]] Tests made during combat.
 
-**Moderate:** The first Attack you make each combat after taking damage that round deals **+Rank** damage.
+**Moderate:** The first [[Attacks|Attack]] you make each combat after taking [[Damage Types|damage]] that [[Rounds|round]] deals **+Rank** [[Damage Types|damage]].
 
-**Major:** **Rank** times per Rest, when reduced below 20% Blood, immediately gain a free Attack action at no action cost.
+**Major:** **Rank** times per Rest, when reduced below 20% Blood, immediately gain a free [[Attacks|Attack]] [[Actions|action]] at no [[Actions|action]] cost.
 
-**Follower:** The free Attack triggers every time you drop below 20% Blood, with no Rest limit.
+**Follower:** The free [[Attacks|Attack]] triggers every time you drop below 20% Blood, with no Rest limit.
 
 # Forbidden Deities
 
@@ -119,14 +119,14 @@ Worship of a Forbidden Deity is illegal and socially condemned (see [[The Cultis
 
 _Hunger, Obsession, Insatiable Desire_
 
-**Minor Blessing:** The first successful Attack you make each combat deals **+Rank** damage. 
+**Minor Blessing:** The first successful [[Attacks|Attack]] you make each combat deals **+Rank** [[Damage Types|damage]]. 
 **Minor Curse:** You require double rations. Missing a meal imposes **Disadvantage** on your next Test, once per missed meal, up to Rank times.
 
 **Moderate Blessing:** **Rank** times per Rest, when you reduce a creature to 0 Blood, restore 1d4 Blood to yourself. 
-**Moderate Curse:** Gain **Disadvantage** on Resolve Tests to resist hoarding or refusing to share resources; the DN to resist any such Test increases by Rank.
+**Moderate Curse:** Gain **Disadvantage** on [[Attributes|Resolve]] Tests to resist hoarding or refusing to share resources; the DN to resist any such Test increases by Rank.
 
 **Major Blessing:** **Rank** times per Rest, gain **Advantage** on all Tests made in direct pursuit of a specific obsession or target declared to the GM, for one scene.
-**Major Curse:** When denied the object of that obsession, make a Resolve Test (DN 10 + Rank × 2) or lose 1d4 Sanity immediately.
+**Major Curse:** When denied the object of that obsession, make a [[Attributes|Resolve]] Test (DN 10 + Rank × 2) or lose 1d4 Sanity immediately.
 
 **Follower:** The Advantage effect becomes at-will. The Curse becomes permanent and unconditional — you are never sated, and your maximum Sanity is permanently reduced by 2.
 
@@ -134,27 +134,27 @@ _Hunger, Obsession, Insatiable Desire_
 
 _Forbidden Love, Secrets, Memory Manipulation_
 
-**Minor Blessing:** Gain **+Rank** to Negotiation Tests made to seduce, charm, or draw a secret from one individual. 
-**Minor Curse:** Gain **Disadvantage** on Tests to resist social manipulation directed at you. At Rank 3, this extends to Insight Tests to notice you're being manipulated at all.
+**Minor Blessing:** Gain **+Rank** to [[Skills|Negotiation]] Tests made to seduce, charm, or draw a secret from one individual. 
+**Minor Curse:** Gain **Disadvantage** on Tests to resist social manipulation directed at you. At Rank 3, this extends to [[Attributes|Insight]] Tests to notice you're being manipulated at all.
 
 **Moderate Blessing:** **Rank** times per Rest, plant a small false memory in a creature you've spoken with for at least a minute (GM adjudicates scope and duration). 
 **Moderate Curse:** **Rank** times per session, at GM discretion, you misremember a minor personal detail of your own — a name, a promise, a face.
 
-**Major Blessing:** Gain **+Rank** to Insight Tests made to detect secrets or deception in others.
-**Major Curse:** Repeated dealings with the same NPC impose a cumulative **–Rank** to Negotiation with them, resetting only through significant roleplay repair.
+**Major Blessing:** Gain **+Rank** to [[Attributes|Insight]] Tests made to detect secrets or deception in others.
+**Major Curse:** Repeated dealings with the same NPC impose a cumulative **–Rank** to [[Skills|Negotiation]] with them, resetting only through significant roleplay repair.
 
-**Follower:** The Insight bonus becomes permanent at Rank 3. The Curse becomes permanent and unconditional — and once per Long Rest, the GM may quietly alter or remove one of your own established memories without warning.
+**Follower:** The [[Attributes|Insight]] bonus becomes permanent at Rank 3. The Curse becomes permanent and unconditional — and once per Long Rest, the GM may quietly alter or remove one of your own established memories without warning.
 
 ## The Hollow Shade
 
 _Shadows, Lost Souls, Forgotten Truths_
 
-**Minor Blessing:** Gain **+Rank** to Stealth Tests while in Light Level 2 or below.
+**Minor Blessing:** Gain **+Rank** to [[Skills|Stealth]] Tests while in Light Level 2 or below.
 **Minor Curse:** Gain **–Rank** to all Tests while in Light Level 4 or above.
 
-**Moderate Blessing:** **Rank** times per Rest, sense the general direction of a lost or restless soul within 20m. **Moderate Curse:** Extended exposure to Light Level 4–5 costs 1 Sanity per Rank per scene, at GM discretion.
+**Moderate Blessing:** **Rank** times per Rest, sense the general direction of a lost or restless [[Soul|soul]] within 20m. **Moderate Curse:** Extended exposure to Light Level 4–5 costs 1 Sanity per Rank per scene, at GM discretion.
 
-**Major Blessing:** **Rank** times per Rest, become nearly imperceptible while stationary in shadow for a scene — Attacks against you from outside your Blurry Zone are made at **Disadvantage**. 
-**Major Curse:** Gain **–Rank** to Negotiation Tests with anyone who can see you clearly and doesn't already know you well.
+**Major Blessing:** **Rank** times per Rest, become nearly imperceptible while stationary in shadow for a scene — [[Attacks]] against you from outside your Blurry Zone are made at **Disadvantage**. 
+**Major Curse:** Gain **–Rank** to [[Skills|Negotiation]] Tests with anyone who can see you clearly and doesn't already know you well.
 
 **Follower:** The concealment effect becomes at-will, with no Rest limit and no need to remain stationary. The Curse becomes permanent — your name and face fade from the minds of others over time unless they share a strong personal bond with you.

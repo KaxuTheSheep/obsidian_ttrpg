@@ -5,11 +5,11 @@ tags:
   - Player
 ---
 ### Overview
-The Explorers' Guild is the body that turns the Hollowdeep from a distant threat into an organised, staffed, repeatable operation. They contract, train, equip, and dispatch the parties who descend through the Shattered Expanse every four-week cycle, and they hold the largest body of Hollowdeep cartography and survival knowledge in the city — most of it guarded rather than published. Nobody loves the Guild. Almost everybody needs it.
+The Explorers' Guild is the body that turns the [[Hollowdeep]] from a distant threat into an organised, staffed, repeatable operation. They contract, train, equip, and dispatch the parties who descend through the Shattered Expanse every four-week cycle, and they hold the largest body of [[Hollowdeep]] cartography and survival knowledge in the city — most of it guarded rather than published. Nobody loves the Guild. Almost everybody needs it.
 
 ### Role & Function
-- Recruits, vets, and organises expedition parties for the Rift cycle window.
-- Maintains accumulated Hollowdeep maps, safe zone knowledge, and nexus intelligence, shared according to membership tier.
+- Recruits, vets, and organises expedition parties for the [[Rift]] cycle window.
+- Maintains accumulated [[Hollowdeep]] maps, safe zone knowledge, and nexus intelligence, shared according to membership tier.
 - Brokers Mordant Stone, Essence, and relic yields with the Ministry of Balance at fixed rates.
 - Supplies Wayfinders, guides, and logistics support to independent expeditions who pay for Guild backing without becoming full members.
 
@@ -28,14 +28,14 @@ Expeditions are contracted, not salaried — the Guild takes a cut of whatever a
 Safe zone locations within mapped nexuses are among the most closely held information the Guild possesses, shared only with Delvers and above or sold at extreme premium to desperate independents.
 
 ### Relationships
-- **Ministry of Balance** — the Guild's most important relationship. The Ministry sets Mana Stone exchange rates, giving it significant leverage over Guild profitability; friction between the two is constant but neither side can afford to break the arrangement.
-- **Magic Institutions** — practical and transactional. Aetherbron supplies Wayfinders, Lifebinders provide expedition medical support, Riftconjurors coordinate rift cycle timing, Runeweavers sell artefacts and tools at commercial rates.
+- **Ministry of Balance** — the Guild's most important relationship. The Ministry sets [[Mana]] Stone exchange rates, giving it significant leverage over Guild profitability; friction between the two is constant but neither side can afford to break the arrangement.
+- **[[Magic]] Institutions** — practical and transactional. Aetherbron supplies Wayfinders, Lifebinders provide expedition medical support, Riftconjurors coordinate [[Rift|rift]] cycle timing, Runeweavers sell artefacts and tools at commercial rates.
 - **Knights Orders** — occasional escort or extraction contracts, particularly the Iron Star.
 - **Nobility** — sponsor expeditions for profit, prestige, or to offload family obligations onto a hired party.
 
 ### Public Perception
-The Guild is respected the way a dangerous, necessary trade is respected — not romanticised. Citizens know explorers die often and that the Guild profits regardless. Individual explorers can and do become genuinely admired figures — survivors of famous expeditions, people who pulled others out at cost to themselves — but that reputation belongs to the person, not the institution. The Guild itself is understood as a business that happens to be indispensable, and businesses in Solasfall are never trusted further than their books are open.
+The Guild is respected the way a dangerous, necessary trade is respected — not romanticised. Citizens know explorers die often and that the Guild profits regardless. Individual explorers can and do become genuinely admired figures — survivors of famous expeditions, people who pulled others out at cost to themselves — but that reputation belongs to the person, not the institution. The Guild itself is understood as a business that happens to be indispensable, and businesses in [[Solasfall]] are never trusted further than their books are open.
 
 ### Symbol & Motto
-A compass rose overlaid on a broken circle, echoing the rift itself.
+A compass rose overlaid on a broken circle, echoing the [[Rift|rift]] itself.
 _"Return with something."_

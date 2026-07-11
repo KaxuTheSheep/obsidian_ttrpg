@@ -5,17 +5,17 @@ tags:
   - Mechanics
   - Wip
 ---
-When a character falls, they travel downward at a rate of **10m per Speed step** during the Resolution Phase. Falling damage bypasses [[Sturdiness]] and is applied directly to [[Blood]].
+When a character falls, they travel downward at a rate of **10m per [[Speed & Resolution|Speed]] step** during the Resolution Phase. Falling [[Damage Types|damage]] bypasses [[Sturdiness]] and is applied directly to [[Blood]].
 
-## Fall Damage
+## Fall [[Damage Types|Damage]]
 
-Damage is calculated based on total distance fallen.
+[[Damage Types|Damage]] is calculated based on total distance fallen.
 
-- Falls of **3m or less** deal no damage.
-- For every **6m fallen beyond the first 3m**, the character takes **1d4 Blunt damage** directly to Blood.
+- Falls of **3m or less** deal no [[Damage Types|damage]].
+- For every **6m fallen beyond the first 3m**, the character takes **1d4 Blunt [[Damage Types|damage]]** directly to [[Blood]].
 - On landing, the character is knocked **Prone**.
 
-|Total Distance Fallen|Damaging Distance|Damage|
+|Total Distance Fallen|Damaging Distance|[[Damage Types|Damage]]|
 |---|---|---|
 |3m or less|0m|None|
 |4–9m|1–6m|1d4|
@@ -30,15 +30,15 @@ Continue the pattern — one additional 1d4 per 6m of damaging distance.
 
 If a climbable or graspable surface is within reach during a fall, the character may attempt to catch it and halt their descent.
 
-Catching a surface is a **Reaction** on the first attempt. Each subsequent attempt costs a **Half Action**, allowing up to **6 total attempts** per round across a character's available actions.
+Catching a surface is a **Reaction** on the first attempt. Each subsequent attempt costs a **Half [[Actions|Action]]**, allowing up to **6 total attempts** per [[Rounds|round]] across a character's available [[Actions|actions]].
 
 ### Catch Test
 
-Roll **2d10 + Grace or Might** against the **Catch DN**.
+Roll **2d10 + [[Attributes|Grace]] or [[Attributes|Might]]** against the **Catch DN**.
 
-**Base DN** scales with how many Speed steps the character has been falling:
+**Base DN** scales with how many [[Speed & Resolution|Speed]] steps the character has been falling:
 
-|Speed Steps Fallen|Base DN|
+|[[Speed & Resolution|Speed]] Steps Fallen|Base DN|
 |---|---|
 |1|8|
 |2|10|
@@ -61,7 +61,7 @@ The surface type modifies the Catch DN.
 
 ### Wetness Modifier
 
-Wet conditions stack with surface type.
+Wet [[Conditions|conditions]] stack with surface type.
 
 |Wetness|DN Modifier|
 |---|---|
@@ -75,12 +75,12 @@ Wet conditions stack with surface type.
 
 Each failed catch attempt reduces the DN by **2** for all subsequent attempts, representing the character scrabbling and slowing their descent slightly even without fully catching.
 
-A failed catch deals **full falling damage for the total distance fallen so far**, calculated using the formula above.
+A failed catch deals **full falling [[Damage Types|damage]] for the total distance fallen so far**, calculated using the formula above.
 
 ### Successful Catches
 
-On success, the fall ends immediately. The character is stable and hanging at that surface. No further tests are required to hold on. The character may climb, reposition, or take other actions from this position normally.
+On success, the fall ends immediately. The character is stable and hanging at that surface. No further tests are required to hold on. The character may climb, reposition, or take other [[Actions|actions]] from this position normally.
 
 ## Controlled Descent
 
-A character descending under magical or equivalent control — such as a spell that governs fall speed — negates all falling damage and allows the character to choose their landing point freely. The specific means of controlled descent defines its own rules.
+A character descending under magical or equivalent control — such as a spell that governs fall [[Speed & Resolution|speed]] — negates all falling [[Damage Types|damage]] and allows the character to choose their landing point freely. The specific means of controlled descent defines its own rules.

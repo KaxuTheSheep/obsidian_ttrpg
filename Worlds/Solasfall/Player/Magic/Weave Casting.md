@@ -41,24 +41,24 @@ Once activated, [[mana]] flows through the encoded structure and produces the de
 The structure determines:
 
 - effect type (fire, healing, force, etc.)
-- magnitude scaling (based on mana input)
-- spatial behaviour (range, radius, travel rate)
+- magnitude scaling (based on [[Mana|mana]] input)
+- spatial behaviour ([[Range & Threat|range]], radius, travel rate)
 - conditional logic (if defined by runes)
 
 ## Rune Logic System
 Runes act as **instructional nodes** within a weave.
 Each rune encodes a specific parameter, such as:
 - elemental behaviour (fire, frost, lightning)
-- magnitude scaling (damage, intensity, force)
+- magnitude scaling ([[Damage Types|damage]], intensity, force)
 - spatial rules (radius, direction, travel rate)
 - conditional modifiers (on hit, on contact, delayed trigger)
 A completed weave is effectively a **network of instructions interpreted by [[mana]] flow**.
 
 ## Stability vs Flexibility
-Weave Casting exists between Flux Casting and pure ritual magic:
+Weave Casting exists between Flux Casting and pure ritual [[Magic|magic]]:
 - More stable than Flux Casting (structured constraints reduce variance)
 - Less flexible than Flux Casting (predefined behaviour limits adaptation)
-- More flexible than rigid ritual magic (can include variable inputs like mana scaling or conditional runes)
+- More flexible than rigid ritual [[Magic|magic]] (can include variable inputs like [[Mana|mana]] scaling or conditional runes)
 
 ## Disruption and Failure
 Weave Casting can fail in two primary ways:
@@ -78,8 +78,8 @@ Unlike Flux Casting, failure in Weave Casting is usually **localized and structu
 
 ## Casting Identity
 Weave Casting is:
-- Structured mana programming
+- Structured [[Mana|mana]] programming
 - Geometry-based instruction encoding
 - Stable execution system
-- Medium-speed casting framework
-- Foundation for combat sigils and pre-prepared magic
+- Medium-[[Speed & Resolution|speed]] casting framework
+- Foundation for combat sigils and pre-prepared [[Magic|magic]]

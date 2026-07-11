@@ -2,47 +2,47 @@
 tags:
   - Mechanics/Combat
 ---
-**Dodge** is an evasive defensive stance focused on footwork, spacing, and avoiding the line of attack. It prevents a hit entirely by repositioning the body rather than absorbing force.
+**Dodge** is an evasive defensive stance focused on footwork, spacing, and avoiding the line of [[Attacks|attack]]. It prevents a hit entirely by repositioning the body rather than absorbing force.
 
 ## Declaration
 Dodge is declared during the Declaration Phase.
 
 ## Activation (Trigger)
-If Dodge is declared, it activates when the **first attack targets you this Round**.
-When triggered, you perform a Dodge (movement, reflex, or evasive repositioning).
+If Dodge is declared, it activates when the **first [[Attacks|attack]] targets you this [[Rounds|Round]]**.
+When triggered, you perform a Dodge ([[Movement Types|movement]], reflex, or evasive repositioning).
 
 ## Effect Window
 When activated:
-- Your **Evasion increases by (Grace + Insight)**
-- This bonus lasts until actions of **Speed equal to (triggering attack Speed − 3)** have resolved
-- While the bonus is active, any attack you make is at Disadvantage.
-- You may make one free reposition of up to **2 squares** after the triggering attack.
-- This reposition does not provoke Reactions.
-- You may freely adjust Facing as part of this movement.
+- Your **[[Evasion]] increases by ([[Attributes|Grace]] + [[Attributes|Insight]])**
+- This bonus lasts until [[Actions|actions]] of **[[Speed & Resolution|Speed]] equal to (triggering [[Attacks|attack]] [[Speed & Resolution|Speed]] − 3)** have resolved
+- While the bonus is active, any [[Attacks|attack]] you make is at Disadvantage.
+- You may make one free reposition of up to **2 squares** after the triggering [[Attacks|attack]].
+- This reposition does not provoke [[Reactions]].
+- You may freely adjust [[Facing]] as part of this [[Movement Types|movement]].
 
 ## Reactive Dodge (Alternative Use)
-If you did not declare Dodge, you may instead use it as a Reaction when targeted by an attack:
-- Gain **+Grace to Evasion against that attack only**
+If you did not declare Dodge, you may instead use it as a Reaction when targeted by an [[Attacks|attack]]:
+- Gain **+[[Attributes|Grace]] to [[Evasion]] against that [[Attacks|attack]] only**
 - No reposition is gained
-- You may still adjust Facing as part of the reaction
+- You may still adjust [[Facing]] as part of the reaction
 
 ## Applies Against
-- Melee attacks
+- Melee [[Attacks|attacks]]
 - Thrown weapons
-- Ranged attacks
-- Spell attacks that require an attack roll
+- Ranged [[Attacks|attacks]]
+- Spell [[Attacks|attacks]] that require an [[Attacks|attack]] roll
 
 Does not apply to:
 - Area effects (cones, explosions, clouds)
-- Attacks explicitly marked as unavoidable
+- [[Attacks]] explicitly marked as unavoidable
 
 ## Restrictions
 You cannot Dodge if:
 - Immobilised
 - Grappled
 - Paralysed
-- Reduced to 0 Sanity
+- Reduced to 0 [[Sanity]]
 
-## End Condition
-- Effect expires after the defined speed-based duration window
-- Reactive Dodge ends immediately after resolving the triggering attack
+## End [[Conditions|Condition]]
+- Effect expires after the defined [[Speed & Resolution|speed]]-based duration window
+- Reactive Dodge ends immediately after resolving the triggering [[Attacks|attack]]

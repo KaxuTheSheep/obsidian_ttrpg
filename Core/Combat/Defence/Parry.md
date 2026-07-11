@@ -2,52 +2,52 @@
 tags:
   - Mechanics/Combat
 ---
-**Parry** is a precise defensive stance that deflects an incoming attack using timing and technique. A successful Parry negates the attack entirely, but failure increases vulnerability.
+**Parry** is a precise defensive stance that deflects an incoming [[Attacks|attack]] using timing and technique. A successful Parry negates the [[Attacks|attack]] entirely, but failure increases vulnerability.
 
 ## Declaration
 Parry is declared during the Declaration Phase.
 
 ## Activation
-Parry activates when the **first attack targets you this Round**.
+Parry activates when the **first [[Attacks|attack]] targets you this [[Rounds|Round]]**.
 
 ## Resolution Sequence
 When triggered:
 
-### Step 1 — Speed Comparison
-- Compare Parry Speed (weapon/shield/unarmed) to Attack Speed
-- If Parry Speed < Attack Speed → Parry is at Disadvantage
+### Step 1 — [[Speed & Resolution|Speed]] Comparison
+- Compare Parry [[Speed & Resolution|Speed]] ([[Weapon|weapon]]/shield/[[Unarmed|unarmed]]) to [[Attacks|Attack]] [[Speed & Resolution|Speed]]
+- If Parry [[Speed & Resolution|Speed]] < [[Attacks|Attack]] [[Speed & Resolution|Speed]] → Parry is at Disadvantage
 
 ### Step 2 — Parry Test
-Make a **Grace Test**:
-- DN = attacker's Attack roll result
+Make a **[[Attributes|Grace]] Test**:
+- DN = attacker's [[Attacks|Attack]] roll result
 
 ## Effect Window
 
 ### Success
-- Attack is fully negated
+- [[Attacks|Attack]] is fully negated
 - You may choose:
-    - Make a counter-attack at the Speed of the parried attack
+    - Make a counter-[[Attacks|attack]] at the [[Speed & Resolution|Speed]] of the parried [[Attacks|attack]]
     - OR remain in Parrying stance for another attempt
 
 ### Critical Success
-- Attack is negated
-- You gain a free counter-attack
-- You may continue Parrying without penalty this Round
+- [[Attacks|Attack]] is negated
+- You gain a free counter-[[Attacks|attack]]
+- You may continue Parrying without penalty this [[Rounds|Round]]
 
 ### Failure
-- You take full damage
-- Damage die is increased by +2
-- All defensive stances end immediately
+- You take full [[Damage Types|damage]]
+- [[Damage Types|Damage]] die is increased by +2
+- All [[Defensive Stances|defensive stances]] end immediately
 
 ## Successive Parries
 If you continue Parrying:
 - Each additional Parry attempt gains Disadvantage
-- You may continue until failure or Round end
+- You may continue until failure or [[Rounds|Round]] end
 
-## Counter-Attack
+## Counter-[[Attacks|Attack]]
 If chosen:
-- Resolves at the Speed of the incoming attack
-- Does not consume Action economy
+- Resolves at the [[Speed & Resolution|Speed]] of the incoming [[Attacks|attack]]
+- Does not consume [[Actions|Action]] economy
 - Ends Parry stance afterward
 
 ## Restrictions
@@ -55,17 +55,17 @@ You cannot Parry if:
 - Stunned
 - Prone
 - Restrained
-- Unable to use arms or weapon
+- Unable to use arms or [[Weapon|weapon]]
 
-## Facing
+## [[Facing]]
 - Normal from front arc
 - Disadvantage from rear arc
-- No Parry possible if completely unaware of attack direction (GM discretion)
+- No Parry possible if completely unaware of [[Attacks|attack]] direction (GM discretion)
 
-## End Condition
+## End [[Conditions|Condition]]
 Parry ends when:
 - You fail a Parry
-- You choose counter-attack
-- The Round ends
+- You choose counter-[[Attacks|attack]]
+- The [[Rounds|Round]] ends
 - You switch stance
 - You become incapacitated

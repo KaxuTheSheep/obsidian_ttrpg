@@ -12,23 +12,23 @@ Players should never see this formula — they see [[Starting Gear Shop]] only. 
 - **1 night's rest + 3 meals (vegetable soup):** 10 Gilded Mints
 - **Starting character funds:** 400 Gilded Mints
 
-## Weapon Formula
+## [[Weapon]] Formula
 
-**Price = Weight Base + Damage Modifier + Trait Modifier + Range Modifier + Handedness Modifier**
+**Price = Weight Base + [[Damage Types|Damage]] Modifier + Trait Modifier + [[Range & Threat|Range]] Modifier + Handedness Modifier**
 
 | Component | Value |
 |---|---|
 | Weight Base | Light 15 / Standard 35 / Heavy 70 |
-| Damage Modifier | (Average damage − 2.5) × 6, minimum 0 |
+| [[Damage Types|Damage]] Modifier | (Average [[Damage Types|damage]] − 2.5) × 6, minimum 0 |
 | Trait Modifier | 8 × (number of traits − 1), minimum 0 — first trait is "free" |
-| Range Modifier | Reach +15 / Thrown: (Thrown Range ÷ 5) × 2 / Ranged (bow/crossbow): (Optimal Range ÷ 10) × 3 |
+| [[Range & Threat|Range]] Modifier | Reach +15 / Thrown: (Thrown [[Range & Threat|Range]] ÷ 5) × 2 / Ranged (bow/crossbow): (Optimal [[Range & Threat|Range]] ÷ 10) × 3 |
 | Handedness Modifier | Versatile +10 / Two-Handed −5 / One-Handed +0 |
 
-Round the total to the nearest 5.
+[[Rounds|Round]] the total to the nearest 5.
 
-### Computed Weapon Prices
+### Computed [[Weapon]] Prices
 
-| Weapon | Price |
+| [[Weapon]] | Price |
 |---|---|
 | Dagger | 40 |
 | Stiletto | 40 |
@@ -93,7 +93,7 @@ Round the total to the nearest 5.
 |---|---|
 | Buckler | 35 |
 | Heater | 70 |
-| Pavise | **100** *(override down from 122 — Evasion/Speed penalties offset raw Block value)* |
+| Pavise | **100** *(override down from 122 — Evasion/[[Speed & Resolution|Speed]] penalties offset raw Block value)* |
 
 ## Ammunition (per bundle of 20)
 
@@ -117,7 +117,7 @@ Round the total to the nearest 5.
 | Dreamroot | 55 | 25 |
 | Veilbane | 75 | 25 |
 
-Sold openly per your ruling — Hollowdeep expedition income means venoms/poisons cycle through the legitimate market every rift cycle rather than being black-market exclusive.
+Sold openly per your ruling — [[Hollowdeep]] expedition income means venoms/poisons cycle through the legitimate market every [[Rift|rift]] cycle rather than being black-market exclusive.
 
 ## General Adventuring Gear (not previously defined — GM invention, adjust freely)
 
@@ -142,10 +142,10 @@ Sold openly per your ruling — Hollowdeep expedition income means venoms/poison
 
 ## Wayfinder's Compass
 
-Per your ruling: ambient-draw magic tool like any other Runeweaver product (no charge/recharge tracking) — the "worse than a real Wayfinder" gap lives entirely in **range and information quality**, not uptime.
+Per your ruling: ambient-draw [[Magic|magic]] tool like any other Runeweaver product (no charge/recharge tracking) — the "worse than a real Wayfinder" gap lives entirely in **[[Range & Threat|range]] and information quality**, not uptime.
 
-- Mana-sensing pulse radius roughly half a trained Aetherbron Wayfinder's effective range.
-- Returns coarse information only — "something's there," rough distance and direction — not fine structural detail or excited Mana Stone signatures.
-- Runs indefinitely off ambient mana once purchased, same as any magic tool.
+- [[Mana]]-sensing pulse radius roughly half a trained Aetherbron Wayfinder's effective [[Range & Threat|range]].
+- Returns coarse information only — "something's there," rough distance and direction — not fine structural detail or excited [[Mana]] Stone signatures.
+- Runs indefinitely off ambient [[Mana|mana]] once purchased, same as any [[Magic|magic]] tool.
 
 **Price: 180 Gilded Mints.**

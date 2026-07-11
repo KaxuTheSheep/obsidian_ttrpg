@@ -19,13 +19,13 @@ Found stalking the margins of [[The Sunken Hollow]]'s larger chambers, preying o
 | Sturdiness | 4 |
 | Evasion | 14 |
 
-## Attributes
+## [[Attributes]]
 
-| Might | Grace | Vitality | Insight | Resolve | Presence |
+| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
 |---|---|---|---|---|---|
 | 2 | 4 | 2 | 2 | 1 | 1 |
 
-## Movement
+## [[Movement Types|Movement]]
 
 | Type | Initiation | Travel Rate |
 |---|---|---|
@@ -34,34 +34,34 @@ Found stalking the margins of [[The Sunken Hollow]]'s larger chambers, preying o
 | Climb | 5 | 1.5m per [[Speed & Resolution\|Speed]] |
 
 ## Adaptive Camouflage (Passive)
-The mantis's chitin shifts to match ambient light and colour. While in [[Vision|Light Level]] 2 or below and not having taken an action that breaks concealment, attacks made against the mantis are at **Disadvantage**, and the mantis's first Attack Test against an unaware target gains **Advantage**. This bonus is negated entirely at Light Level 4 or above.
+The mantis's chitin shifts to match ambient light and colour. While in [[Vision|Light Level]] 2 or below and not having taken an [[Actions|action]] that breaks concealment, [[Attacks|attacks]] made against the mantis are at **Disadvantage**, and the mantis's first [[Attacks|Attack]] Test against an unaware target gains **Advantage**. This bonus is negated entirely at Light Level 4 or above.
 
-## Actions
+## [[Actions]]
 
 ### Slash
 *A fast, almost incidental strike from its forelimbs.*
-**Damage:** 1d6 + [[Attributes|Grace]] [[Damage Types|Cutting]]
-**Speed:** 12 + [[Attributes|Grace]]
-**Range:** +0.3m
+**[[Damage Types|Damage]]:** 1d6 + [[Attributes|Grace]] [[Damage Types|Cutting]]
+**[[Speed & Resolution|Speed]]:** 12 + [[Attributes|Grace]]
+**[[Range & Threat|Range]]:** +0.3m
 **Type:** Melee
 
 ### Raptorial Grab
 *The mantis seizes its target in its forelimbs with sudden, crushing precision.*
-This functions as a standard [[Core/Combat/Action System/Grapple]] attempt, using [[Attributes|Grace]] in place of Might or Grace for both the initiating roll and the opposed roll. On success, the target gains **Grappled** and the mantis enters the Grappling state.
-**Speed:** 11 + [[Attributes|Grace]]
-**Range:** +0.3m
+This functions as a standard [[Core/Combat/Action System/Grapple]] attempt, using [[Attributes|Grace]] in place of [[Attributes|Might]] or [[Attributes|Grace]] for both the initiating roll and the opposed roll. On success, the target gains **Grappled** and the mantis enters the Grappling state.
+**[[Speed & Resolution|Speed]]:** 11 + [[Attributes|Grace]]
+**[[Range & Threat|Range]]:** +0.3m
 
 ### Feeding Bite
 *A rapid series of bites, far more effective against a target that cannot pull away.*
-**Damage:** 1d6 + [[Attributes|Might]] [[Damage Types|Piercing]]
-**Speed:** 10 + [[Attributes|Might]]
-**Range:** +0m
+**[[Damage Types|Damage]]:** 1d6 + [[Attributes|Might]] [[Damage Types|Piercing]]
+**[[Speed & Resolution|Speed]]:** 10 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0m
 **Type:** Melee
-If the target is currently Grappled by the mantis, this attack instead deals **2d6 + Might Piercing**.
+If the target is currently Grappled by the mantis, this [[Attacks|attack]] instead deals **2d6 + [[Attributes|Might]] Piercing**.
 
 ### Iridescent Burst (GM Triggered)
 *Its colours erupt without warning, a wash of impossible hues sweeping across its body.*
-When triggered by the GM — typically under severe stress, after landing a killing blow, or during a mating display — all creatures within 6m who can see the mantis must make a [[Attributes|Resolve]] Test (DN 12) or gain **Dazed** until the end of their next turn. This has no inherent attack cost and does not consume the mantis's action economy.
+When triggered by the GM — typically under severe stress, after landing a killing blow, or during a mating display — all creatures within 6m who can see the mantis must make a [[Attributes|Resolve]] Test (DN 12) or gain **Dazed** until the end of their next turn. This has no inherent [[Attacks|attack]] cost and does not consume the mantis's [[Actions|action]] economy.
 
 ## Behaviour
 The mantis hunts from stillness, preferring to let prey approach rather than pursuing openly. It targets isolated or distracted creatures first, using camouflage to close distance before committing to a grab. Once engaged it commits fully — pressing the grab and feeding bite combination rather than disengaging, even against superior numbers, unless badly wounded. It does not flee readily once latched onto prey.

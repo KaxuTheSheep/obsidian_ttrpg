@@ -12,17 +12,17 @@ tags: [technology, materials, construction, concrete]
 
 Self-healing concrete by 2100 combines two separate approaches that current research is developing independently.
 
-**Bacterial self-healing:** dormant bacteria embedded in the concrete matrix activate when water reaches a crack through the concrete surface. The bacteria produce calcium carbonate — limestone — which fills the crack from within. The process is relatively fast compared to passive mineral growth, responding to acute damage within days to weeks. This technology exists in prototype form today.
+**Bacterial self-healing:** dormant bacteria embedded in the concrete matrix activate when water reaches a crack through the concrete surface. The bacteria produce calcium carbonate — limestone — which fills the crack from within. The process is relatively fast compared to passive mineral growth, responding to acute [[Damage Types|damage]] within days to weeks. This technology exists in prototype form today.
 
 **Mineral crystal growth:** inspired by Roman concrete, which used volcanic ash (pozzolana) that reacts with water over time to grow mineral crystals that fill micro-cracks and actually strengthen the material as it ages. The mechanism was confirmed by modern research analysing 2000-year-old Roman harbour structures. By 2100 synthetic equivalents to Roman pozzolana are mature and incorporated as standard additives in construction concrete.
 
-Together: the bacterial mechanism handles acute damage quickly, the mineral crystal growth handles long-term strengthening and micro-crack management continuously. The concrete gets stronger over decades rather than weaker.
+Together: the bacterial mechanism handles acute [[Damage Types|damage]] quickly, the mineral crystal growth handles long-term strengthening and micro-crack management continuously. The concrete gets stronger over decades rather than weaker.
 
 ---
 
 ## What This Produces in Practice
 
-A conglomerate building constructed with self-healing concrete and maintained under a building management contract looks almost new after forty years. The material has been quietly repairing itself continuously. Minor damage — cracks from thermal expansion, surface impacts, minor structural stress — does not accumulate into visible deterioration.
+A conglomerate building constructed with self-healing concrete and maintained under a building management contract looks almost new after forty years. The material has been quietly repairing itself continuously. Minor [[Damage Types|damage]] — cracks from thermal expansion, surface impacts, minor structural stress — does not accumulate into visible deterioration.
 
 A forgotten district building of equivalent age looks its age and more. Not necessarily because it was built differently — it may have been constructed with the same materials in a previous era — but because self-healing concrete requires water to activate its mechanisms, and in a building with failed drainage or sealed surfaces, the healing chemistry never triggers. Or because the building predates self-healing concrete entirely and is original construction slowly losing the fight against entropy with nobody intervening.
 
@@ -56,7 +56,7 @@ During New Halcyon's founding period, before common architectural standards had 
 
 The result is concrete that heals itself just as effectively as the city standard, but is incompatible with every maintenance, management, and diagnostic system designed around the standard. Vantage's current teams cannot fully interpret what the buildings' systems are doing. The documentation for the original formulation is incomplete. The engineers who designed it are gone.
 
-This is why the ghost district cannot be reclaimed. The buildings are structurally sound and actively self-maintaining. They cannot be integrated into any current infrastructure without knowledge Vantage no longer possesses. And they cannot be conventionally demolished — damage is repaired faster than it can be inflicted without disproportionate methods.
+This is why the ghost district cannot be reclaimed. The buildings are structurally sound and actively self-maintaining. They cannot be integrated into any current infrastructure without knowledge Vantage no longer possesses. And they cannot be conventionally demolished — [[Damage Types|damage]] is repaired faster than it can be inflicted without disproportionate methods.
 
 The non-standard variant is not inferior. It is simply isolated.
 

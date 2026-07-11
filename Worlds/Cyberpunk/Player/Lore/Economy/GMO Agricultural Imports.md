@@ -54,7 +54,7 @@ The [[Continental Freight Authority]] handles significant goods flows into New H
 
 ## The UT's Position
 
-The United Territories does not use food exports as an overt diplomatic weapon — doing so would risk its own economic stability, since the Federal States remains its largest customer. The leverage exists but cannot be fully exercised without mutual damage. See [[FS-UT Relations]].
+The United Territories does not use food exports as an overt diplomatic [[Weapon|weapon]] — doing so would risk its own economic stability, since the Federal States remains its largest customer. The leverage exists but cannot be fully exercised without mutual [[Damage Types|damage]]. See [[FS-UT Relations]].
 
 ---
 
