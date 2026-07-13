@@ -35,15 +35,14 @@ Each Incantation has its own charge pool, refreshing on a Rest as defined by the
 
 ### Incantations vs Spells at a Glance
 
-| Property | Spells (Flux/Weave) | Incantations |
-|---|---|---|
-| **Origin** | Researched, taught, or institutionally learned | Granted through the Follower Discipline tree |
-| **Casting [[Attributes|Attribute]]** | [[Attributes|Insight]], [[Attributes|Resolve]], or [[Attributes|Presence]] (chosen per cast) | [[Attributes|Resolve]] (always) |
-| **Resolution** | Control DN / Manifest DN, partial success possible | Single DN, succeed or fail |
-| **Cost** | [[Sanity]], scaling with enhancement invested | One use from the Incantation's own charge pool |
-| **Failure Consequence** | Backlash — a real, physically unstable magical effect | The charge is spent; nothing else happens |
-| **Transferable?** | Yes — taught, copied, reverse-engineered | No — personal to the Follower who was granted it |
-| **Preparation** | None (Flux) to full pre-combat setup (Woven) | None |
+| Property                              | Spells (Flux/Weave)                                           | Incantations                                     |
+| ------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------ |
+| **Origin**                            | Researched, taught, or institutionally learned                | Granted through the Follower Discipline tree     |
+| **Casting [[Attributes\|Attribute]]** | [[Attributes                                     \| Insight]] | [[Attributes \| Resolve]]                        |
+| **Resolution**                        | Control DN / Manifest DN, partial success possible            | Single DN, succeed or fail                       |
+| **Failure Consequence**               | Backlash — a real, physically unstable magical effect         | The charge is spent; nothing else happens        |
+| **Transferable?**                     | Yes — taught, copied, reverse-engineered                      | No — personal to the Follower who was granted it |
+| **Preparation**                       | None (Flux) to full pre-combat setup (Woven)                  | None                                             |
 
 ## Acquiring Incantations
 Incantations are Discipline nodes, available only within a Deity's Follower Discipline tree (see [[wip]] for the planned "one branch per Deity" structure), and only once Follower status is reached. A Major-devotion believer sitting at 7–9 Faith Points has no access to Incantations at all, regardless of how strong their Blessing is — Incantations are strictly Follower-gated, in the same way the Blessings document treats Divinity access as a Follower-exclusive unlock.

@@ -34,17 +34,6 @@ Spells can be modified by investing Enhancement Points into variables such as [[
 
 Flux Casting rewards ambition but punishes overreach.
 
-## [[Sanity]] Cost
-All Flux Casting strains the caster’s mind and [[Soul|soul]].
-
-|Outcome|Cost|
-|---|---|
-|Full Success|Base cost + 1 per enhancement point spent|
-|Partial Success|Half total cost|
-|Backlash|Double total cost|
-
-Each spell defines its own base [[Sanity]] cost.
-
 ## Backlash
 If the cast fails to meet Control DN, [[mana]] does not dissipate harmlessly.
 Instead, it is expelled outward in an uncontrolled catalytic reaction.
