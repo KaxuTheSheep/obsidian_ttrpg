@@ -23,8 +23,8 @@ All three corporations are roughly equal in power — this is a genuine three-wa
 - Consciousness backup technology is high-tier, expensive, imperfect, and ethically fraught even within Ossuary. It is not advertised to the wider public and treated as sensitive/prestige technology.
 - Ossuary is the players' employer, but "employer" doesn't mean "trusted" — plenty of room for the company to have its own agenda for the players' missions that isn't fully disclosed.
 
-## Xenos as Flashpoint
-Xenos is the exception to the cold war rule — a genuine, live, localised conflict zone, because it's the first confirmed site of extraterrestrial multicellular life and each corp desperately wants either the prestige, the biological asset, or the strategic foothold it represents. This is where corp rivalry turns hot, in miniature, without escalating to full interstellar war. Consider Xenos the pressure valve: as long as the fighting stays there, the wider cold war holds.
+## 36 Ophiuchi Ab as Flashpoint
+36 Ophiuchi Ab is the exception to the cold war rule — a genuine, live, localised conflict zone, because it's the first confirmed site of extraterrestrial multicellular life and each corp desperately wants either the prestige, the biological asset, or the strategic foothold it represents. This is where corp rivalry turns hot, in miniature, without escalating to full interstellar war. Consider 36 Ophiuchi Ab the pressure valve: as long as the fighting stays there, the wider cold war holds.
 
 ## Cross-Corp Commerce
 Corp rivalry does not mean corp isolation. Each corp sells its specialism's labour and product to the other two — Halvorsen leases Cast labour, Kuro-Faulkner licenses synthetic units, Ossuary contracts augmented/brain-cased operators — because it's simply profitable to do so, rivalry notwithstanding. Think Samsung selling Apple its displays: competitors, but not fools.
