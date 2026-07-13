@@ -25,3 +25,10 @@ All three corporations are roughly equal in power — this is a genuine three-wa
 
 ## Xenos as Flashpoint
 Xenos is the exception to the cold war rule — a genuine, live, localised conflict zone, because it's the first confirmed site of extraterrestrial multicellular life and each corp desperately wants either the prestige, the biological asset, or the strategic foothold it represents. This is where corp rivalry turns hot, in miniature, without escalating to full interstellar war. Consider Xenos the pressure valve: as long as the fighting stays there, the wider cold war holds.
+
+## Cross-Corp Commerce
+Corp rivalry does not mean corp isolation. Each corp sells its specialism's labour and product to the other two — Halvorsen leases Cast labour, Kuro-Faulkner licenses synthetic units, Ossuary contracts augmented/brain-cased operators — because it's simply profitable to do so, rivalry notwithstanding. Think Samsung selling Apple its displays: competitors, but not fools.
+
+This creates a genuine three-way feedback loop rather than a stalemate. A workforce combining all three body types outperforms any single-type workforce at resource extraction and production — each type covers the others' weaknesses. Better extraction means more surplus. More surplus means more to sell to (and buy from) the other two corps. That purchased labour improves your own extraction further, and the cycle repeats.
+
+The result is a cold war held together as much by mutual economic dependence as by mutual deterrence — no corp can afford to disrupt the arrangement without damaging its own supply chain along with its rivals'.
