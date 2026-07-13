@@ -66,11 +66,11 @@ How the spell is formed and delivered.
 
 ## Base Stats
 
-| Stat        | Value |
-| ----------- | ----- |
-| Control DN  | X     |
-| Manifest DN | X     |
-| Base [[Speed & Resolution|Speed]]  | X     |
+| Stat                               | Value |
+| ---------------------------------- | ----- |
+| Control DN                         | X     |
+| Manifest DN                        | X     |
+| Base [[Speed & Resolution\|Speed]] | X     |
 
 ## Base Effect
 What happens at minimum investment.
@@ -82,12 +82,12 @@ What happens at minimum investment.
 ## Variables
 Each variable is something the spell can be tuned during construction.
 
-| Variable         | Base | Scaling      |
-| ---------------- | ---- | ------------ |
-| [[Damage Types|Damage]]           | X    | +X per point |
-| Travel Rate      | X    | +X per point |
-| Radius / Shape   | X    | +X per point |
-| Special Variable | X    | rule-defined |
+| Variable                 | Base | Scaling      |
+| ------------------------ | ---- | ------------ |
+| [[Damage Types\|Damage]] | X    | +X per point |
+| Travel Rate              | X    | +X per point |
+| Radius / Shape           | X    | +X per point |
+| Special Variable         | X    | rule-defined |
 
 ## Delivery Options (if applicable)
 Unlocked configurations of the spell.

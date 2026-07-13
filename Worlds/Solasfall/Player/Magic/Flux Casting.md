@@ -1,4 +1,4 @@
-11Flux Casting is the real-time shaping of [[mana]] as it flows through the caster’s [[Soul|soul]]. It is the most direct form of [[Magic|magic]] — no structure, no pre-defined containment, only controlled acceleration of natural processes as they are being formed.
+Flux Casting is the real-time shaping of [[mana]] as it flows through the caster’s [[Soul|soul]]. It is the most direct form of [[Magic|magic]] — no structure, no pre-defined containment, only controlled acceleration of natural processes as they are being formed.
 Because the spell is built at the moment of release, Flux Casting is highly flexible but inherently unstable. Even minor deviations in control can cascade into dramatically different outcomes.
 ## Core Principle
 
