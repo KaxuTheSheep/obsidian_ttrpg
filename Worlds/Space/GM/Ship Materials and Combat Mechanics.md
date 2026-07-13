@@ -17,7 +17,7 @@ This expands the player-facing shuttle combat overview with the corp-specific ma
 
 ## Corp Material Defaults
 
-**Halvorsen Genomics — organic/bio-grown hulls**
+**Halvorsen Genetics — organic/bio-grown hulls**
 - Passive self-heal over time (Engineer-ship style regeneration), even outside active shipwright attention.
 - Vulnerable to repeated/precision strikes on the same location — regeneration falters if the same spot keeps getting hit.
 - Thematically weaker against Fire and Acid [[Damage Types|damage types]] (organic material read as flammable/corrodible) — use as flavour/GM discretion until formal resistances are needed.

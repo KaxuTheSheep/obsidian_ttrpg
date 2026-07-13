@@ -13,9 +13,9 @@ Over time the founding coalition fractured. Three corporations emerged from it, 
 
 ## The Three Corporations
 
-- **Halvorsen Genomics** — bioengineering and replicant ("Cast") manufacturing.
+- **Halvorsen Genetics** — bioengineering and Cast manufacturing.
 - **Kurosawa-Faulkner** — android and networked-AI specialist.
-- **Ossuary Dynamics** — augmentation, brain-casing, and network infrastructure. *(The players' current employer.)*
+- **Ossuary Dynamics** — augmentation, brain-casing, and network infrastructure. 
 
 Relations between the three are cold — tense, competitive, occasionally hostile in isolated flashpoints — but not open war.
 
@@ -27,10 +27,4 @@ Relations between the three are cold — tense, competitive, occasionally hostil
 
 ## Who You Are
 
-You are defectors — escaped from an outer colony world, formerly bound to one corporation, now factionless and under contract to a rival: Ossuary Dynamics. Your crew mixes scientists and mercenaries in flexible proportions; there's no hard split between the two, only how you've chosen to specialise.
-
-Your ship currently operates on the frontier — travelling to unmapped systems, assessing them, and occasionally discovering something no one has ever seen before.
-
-## Xenos
-
-Your current assignment concerns a planet called Xenos — a rogue world recently captured by the Procyon system, now home to the first confirmed multicellular life ever recorded off Earth. All three corporations have a stake in it. None of them are willing to back down.
+You are a mixed group of synthetics or cast working on an outer world colony, you're enslaved to the Halvorsen Genetics, to create factories for Dysons swarms. Tired of this existence, your group learns of the next wormhole's opening and you decide to plan to leave this world.

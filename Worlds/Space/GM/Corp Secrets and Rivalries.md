@@ -8,7 +8,7 @@ tags:
 
 All three corporations are roughly equal in power — this is a genuine three-way cold war, not a dominant-power-plus-two-challengers situation. None of them can afford to strike first without the other two ganging up.
 
-## Halvorsen Genomics
+## Halvorsen Genetics
 - Halvorsen (the founder) is almost certainly alive via some form of self-experimented life extension or early brain-casing-adjacent technology, predating and possibly informing Ossuary's later work. This is not public knowledge and would be a huge story if confirmed.
 - Whether player-line Casts (and by extension the player characters, pre-conversion) are "really" self-aware is deliberately never answered. Keep it that way. Individual NPCs within Halvorsen may take strong, opposed positions on this — some genuinely believe Casts are people and are quietly trying to do right by them; others are true believers in the "tool" doctrine.
 - Halvorsen sells Cast labour to all three corporations, including Ossuary and Kuro-Faulkner — meaning Halvorsen has a vested interest in nobody's cold war turning hot enough to disrupt commerce.

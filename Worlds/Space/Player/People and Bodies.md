@@ -11,7 +11,7 @@ By 2300, humanity's population is well past 100 billion. A "person" in this sett
 ## Baseline Humans
 Fully organic. Numerous, but not as expendable as Casts or synthetics — still the most resource-costly to raise and train. Retain full survival instinct and the full range of human emotion, for better and worse.
 
-## Casts (Halvorsen Genomics)
+## Casts (Halvorsen Genetics)
 Engineered biological humans, grown rather than born, produced in a handful of common models plus many rarer variants. Casts have genuine survival instinct — enough biology intact for real fight-or-flight — which makes them more self-sufficient than androids but also more unpredictable than their manufacturer would like. Officially "tools." Unofficially, a live and unresolved question.
 
 Identifiable by a 3D-depth marking beneath the left eye, encoding their model and batch.

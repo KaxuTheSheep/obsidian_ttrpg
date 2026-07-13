@@ -14,7 +14,7 @@ Over time, as the coalition expanded outward for resources, the arrangement calc
 The origin world itself still exists, presumably still populated and still politically relevant, though it is not one of the three corp factions itself — treat it as a background power/legacy authority with its own interests, potentially useful as a neutral-ish location or as a source of "old world" legitimacy any corp might want to invoke.
 
 ## The Players' Outer Colony
-Before their current lives, the player characters were Casts — manufactured by Halvorsen Genomics, deployed as slave labour on an outer colony world within one corp's Dyson swarm system (a planet, not the swarm/origin world itself). Biological Casts were used there because certain frontier/colony work was more efficient with organic bodies than androids or pure synthetics could provide.
+Before their current lives, the player characters were Casts — manufactured by Halvorsen Genetics, deployed as slave labour on an outer colony world within one corp's Dyson swarm system (a planet, not the swarm/origin world itself). Biological Casts were used there because certain frontier/colony work was more efficient with organic bodies than androids or pure synthetics could provide.
 
 The player characters escaped this life together, became factionless defectors, and were subsequently contracted by a rival corporation — currently Ossuary Dynamics. Full brain-casing conversion was partly practical (frontier work benefits from it) and partly deliberate erasure: removing the organic body destroys the visible product markers (the under-eye 3D QR code) that would otherwise make them identifiable/reclaimable by their original owner.
 
