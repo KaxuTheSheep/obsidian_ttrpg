@@ -15,13 +15,13 @@ Found throughout [[The Sunken Hollow]] tending aphid herds and harvesting the ca
 
 | Stat | Value |
 |---|---|
-| Blood | 4 |
-| Sturdiness | 2 |
+| Blood | 4/4 |
+| Sturdiness | 2/2 |
 | Evasion | 15 |
 
 ## [[Attributes]]
 
-| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
+| [[Attributes\|Might]] | [[Attributes\|Grace]] | [[Attributes\|Vitality]] | [[Attributes\|Insight]] | [[Attributes\|Resolve]] | [[Attributes\|Presence]] |
 |---|---|---|---|---|---|
 | 1 | 3 | 1 | 1 | 2 | 0 |
 

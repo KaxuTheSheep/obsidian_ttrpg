@@ -15,14 +15,14 @@ Found scavenging throughout [[The Sunken Hollow]], usually alone or in small pai
 
 | Stat | Value |
 |---|---|
-| Blood | 8 |
-| Sturdiness | 3 |
+| Blood | 8/8 |
+| Sturdiness | 3/3 |
 | Evasion | 12 |
-| Barrier HP | 5 |
+| Barrier HP | 5/5 |
 
 ## [[Attributes]]
 
-| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
+| [[Attributes\|Might]] | [[Attributes\|Grace]] | [[Attributes\|Vitality]] | [[Attributes\|Insight]] | [[Attributes\|Resolve]] | [[Attributes\|Presence]] |
 |---|---|---|---|---|---|
 | 2 | 2 | 3 | 1 | 1 | 0 |
 

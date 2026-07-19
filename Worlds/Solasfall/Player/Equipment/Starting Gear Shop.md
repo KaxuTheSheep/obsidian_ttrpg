@@ -80,12 +80,12 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 
 ### Bows
 
-| Item | Price | [[Attributes|Might]] Requirement |
-|---|---|---|
-| Shortbow | 60 | — |
-| Recurve | 65 | — |
-| Longbow | 95 | — |
-| Warbow | 200 | **4** |
+| Item     | Price | [[Attributes\|Might]] Requirement |
+| -------- | ----- | ------------- | ------------------- |
+| Shortbow | 60    | —             |                     |
+| Recurve  | 65    | —             |                     |
+| Longbow  | 95    | —             |                     |
+| Warbow   | 200   | **4**         |                     |
 
 ### Crossbows
 
@@ -104,7 +104,7 @@ A legitimate outfitter's stall in the Market District, the kind every fresh Expl
 
 ## Armour
 
-| Item       | Price | [[Attributes|Might]] Requirement | DR  |
+| Item       | Price | [[Attributes\|Might]] Requirement | DR  |
 | ---------- | ----- | ----------------- | --- |
 | Clothing   | 10    | 0                 | 0   |
 | Leather    | 55    | 1                 | 1   |

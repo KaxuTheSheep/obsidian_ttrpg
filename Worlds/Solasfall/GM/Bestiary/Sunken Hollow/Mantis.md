@@ -15,13 +15,13 @@ Found stalking the margins of [[The Sunken Hollow]]'s larger chambers, preying o
 
 | Stat | Value |
 |---|---|
-| Blood | 9 |
-| Sturdiness | 4 |
+| Blood | 9/9 |
+| Sturdiness | 4/4 |
 | Evasion | 14 |
 
 ## [[Attributes]]
 
-| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
+| [[Attributes\|Might]] | [[Attributes\|Grace]] | [[Attributes\|Vitality]] | [[Attributes\|Insight]] | [[Attributes\|Resolve]] | [[Attributes\|Presence]] |
 |---|---|---|---|---|---|
 | 2 | 4 | 2 | 2 | 1 | 1 |
 

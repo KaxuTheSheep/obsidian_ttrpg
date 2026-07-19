@@ -71,10 +71,10 @@ Weave Casting constrains [[Mana|mana]] through structure. Woven Casting executes
 
 # Casting Comparison
 
-| Method              | [[Speed & Resolutionx\|Speed]]            | Stability | Flexibility | Preparation             |
-| ------------------- | ------------------ | --------- | ----------- | ----------------------- |
-| Flux Casting        | Fastest execution  | Low       | Very high   | None                    |
-| Drawn Weave Casting | Medium             | Medium    | Medium      | Partial (in-combat)     |
-| Woven Casting       | Fast activation    | High      | Low         | Full pre-combat setup   |
+| Method              | [[Speed & Resolution\|Speed]] | Stability | Flexibility | Preparation           |
+| ------------------- | ----------------------------- | --------- | ----------- | --------------------- |
+| Flux Casting        | Fastest execution             | Low       | Very high   | None                  |
+| Drawn Weave Casting | Medium                        | Medium    | Medium      | Partial (in-combat)   |
+| Woven Casting       | Fast activation               | High      | Low         | Full pre-combat setup |
 
 

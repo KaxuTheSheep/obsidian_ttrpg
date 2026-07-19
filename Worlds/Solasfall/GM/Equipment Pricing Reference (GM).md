@@ -16,61 +16,61 @@ Players should never see this formula — they see [[Starting Gear Shop]] only. 
 
 **Price = Weight Base + [[Damage Types|Damage]] Modifier + Trait Modifier + [[Range & Threat|Range]] Modifier + Handedness Modifier**
 
-| Component | Value |
-|---|---|
-| Weight Base | Light 15 / Standard 35 / Heavy 70 |
-| [[Damage Types|Damage]] Modifier | (Average [[Damage Types|damage]] − 2.5) × 6, minimum 0 |
-| Trait Modifier | 8 × (number of traits − 1), minimum 0 — first trait is "free" |
-| [[Range & Threat|Range]] Modifier | Reach +15 / Thrown: (Thrown [[Range & Threat|Range]] ÷ 5) × 2 / Ranged (bow/crossbow): (Optimal [[Range & Threat|Range]] ÷ 10) × 3 |
-| Handedness Modifier | Versatile +10 / Two-Handed −5 / One-Handed +0 |
+| Component                          | Value                                                                                                                                |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Weight Base                        | Light 15 / Standard 35 / Heavy 70                                                                                                    |
+| [[Damage Types\|Damage]] Modifier  | (Average [[Damage Types\|damage]] − 2.5) × 6, minimum 0                                                                              |
+| Trait Modifier                     | 8 × (number of traits − 1), minimum 0 — first trait is "free"                                                                        |
+| [[Range & Threat\|Range]] Modifier | Reach +15 / Thrown: (Thrown [[Range & Threat\|Range]] ÷ 5) × 2 / Ranged (bow/crossbow): (Optimal [[Range & Threat\|Range]] ÷ 10) × 3 |
+| Handedness Modifier                | Versatile +10 / Two-Handed −5 / One-Handed +0                                                                                        |
 
 [[Rounds|Round]] the total to the nearest 5.
 
 ### Computed [[Weapon]] Prices
 
-| [[Weapon]] | Price |
-|---|---|
-| Dagger | 40 |
-| Stiletto | 40 |
-| Parrying Dagger | 30 |
-| Dirk | 30 |
-| Kukri | 55 |
-| Shortsword | 35 |
-| Longsword | 55 |
-| Rapier | 35 |
-| Estoc | 65 |
-| Schiavona | 55 |
-| Falchion | 55 |
-| Greatsword | 110 |
-| Hand Axe | 50 |
-| Bearded Axe | 55 |
-| Dane Axe | 110 |
-| Greataxe | 125 |
-| Club | 50 |
-| Mace | 65 |
-| Morningstar | 60 |
-| War Hammer | 120 |
-| Maul | 130 |
-| Spear | 75 |
-| Pike | 100 |
-| Bill | 80 |
-| Halberd | 120 |
-| Glaive | 140 |
-| Flail | 75 |
-| Tetsu Chigaki | 75 |
-| Kusarigama | 70 |
-| Meteor Hammer | 130 |
-| Throwing Knife | 45 |
-| Francisca | 60 |
-| Javelin | 45 |
-| Throwing Axe | 30 |
-| Shortbow | 60 |
-| Recurve | 65 |
-| Longbow | 95 |
-| **Warbow** | ~~160~~ **200** *(override — Might-gated, Heavy Draw, rarity)* |
-| Light Crossbow | 70 |
-| Heavy Crossbow | 145 |
-| Unarmed | — (free, always available) |
+| [[Weapon]]      | Price                                                          |
+| --------------- | -------------------------------------------------------------- |
+| Dagger          | 40                                                             |
+| Stiletto        | 40                                                             |
+| Parrying Dagger | 30                                                             |
+| Dirk            | 30                                                             |
+| Kukri           | 55                                                             |
+| Shortsword      | 35                                                             |
+| Longsword       | 55                                                             |
+| Rapier          | 35                                                             |
+| Estoc           | 65                                                             |
+| Schiavona       | 55                                                             |
+| Falchion        | 55                                                             |
+| Greatsword      | 110                                                            |
+| Hand Axe        | 50                                                             |
+| Bearded Axe     | 55                                                             |
+| Dane Axe        | 110                                                            |
+| Greataxe        | 125                                                            |
+| Club            | 50                                                             |
+| Mace            | 65                                                             |
+| Morningstar     | 60                                                             |
+| War Hammer      | 120                                                            |
+| Maul            | 130                                                            |
+| Spear           | 75                                                             |
+| Pike            | 100                                                            |
+| Bill            | 80                                                             |
+| Halberd         | 120                                                            |
+| Glaive          | 140                                                            |
+| Flail           | 75                                                             |
+| Tetsu Chigaki   | 75                                                             |
+| Kusarigama      | 70                                                             |
+| Meteor Hammer   | 130                                                            |
+| Throwing Knife  | 45                                                             |
+| Francisca       | 60                                                             |
+| Javelin         | 45                                                             |
+| Throwing Axe    | 30                                                             |
+| Shortbow        | 60                                                             |
+| Recurve         | 65                                                             |
+| Longbow         | 95                                                             |
+| **Warbow**      | 200  |
+| Light Crossbow  | 70                                                             |
+| Heavy Crossbow  | 145                                                            |
+| Unarmed         | — (free, always available)                                     |
 
 ## Armour Formula
 
@@ -93,7 +93,7 @@ Players should never see this formula — they see [[Starting Gear Shop]] only. 
 |---|---|
 | Buckler | 35 |
 | Heater | 70 |
-| Pavise | **100** *(override down from 122 — Evasion/[[Speed & Resolution|Speed]] penalties offset raw Block value)* |
+| Pavise | **100** *(override down from 122 — Evasion/[[Speed & Resolution\|Speed]] penalties offset raw Block value)* |
 
 ## Ammunition (per bundle of 20)
 

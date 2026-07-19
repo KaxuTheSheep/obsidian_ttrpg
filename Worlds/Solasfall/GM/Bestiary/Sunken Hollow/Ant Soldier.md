@@ -15,13 +15,13 @@ Found throughout [[The Sunken Hollow]], soldiers defend the colony's aphid herds
 
 | Stat | Value |
 |---|---|
-| Blood | 10 |
-| Sturdiness | 4 |
+| Blood | 10/10 |
+| Sturdiness | 4/4 |
 | Evasion | 11 |
 
 ## [[Attributes]]
 
-| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
+| [[Attributes\|Might]] | [[Attributes\|Grace]] | [[Attributes\|Vitality]] | [[Attributes\|Insight]] | [[Attributes\|Resolve]] | [[Attributes\|Presence]] |
 |---|---|---|---|---|---|
 | 3 | 1 | 3 | 1 | 3 | 0 |
 

@@ -15,13 +15,13 @@ The apex predator of [[The Sunken Hollow]] within the scope of its known ecosyst
 
 | Stat | Value |
 |---|---|
-| Blood | 22 |
-| Sturdiness | 10 |
+| Blood | 22/22 |
+| Sturdiness | 10/10 |
 | Evasion | 9 |
 
 ## [[Attributes]]
 
-| [[Attributes|Might]] | [[Attributes|Grace]] | [[Attributes|Vitality]] | [[Attributes|Insight]] | [[Attributes|Resolve]] | [[Attributes|Presence]] |
+| [[Attributes\|Might]] | [[Attributes\|Grace]] | [[Attributes\|Vitality]] | [[Attributes\|Insight]] | [[Attributes\|Resolve]] | [[Attributes\|Presence]] |
 |---|---|---|---|---|---|
 | 5 | 1 | 5 | 1 | 3 | 2 |
 
