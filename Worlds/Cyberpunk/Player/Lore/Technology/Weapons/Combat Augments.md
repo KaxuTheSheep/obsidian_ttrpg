@@ -96,14 +96,13 @@ A refill port on the wrist or palm accepts a specific interface tool to replenis
 
 **Range limitation:** compressed gas propulsion does not achieve conventional firearm velocities. Effective range is meaningful at close quarters and building interiors but not at open ground distances. This is the correct positioning — the augment fills the gap between contact range and conventional firearm range rather than competing with firearms for their territory.
 
-**Power draw:** minimal per shot, moderate for compressor recharge between shots. Rate of fire is limited by compressor recharge time rather than mechanism speed.
+**Power draw:** minimal per shot, moderate for compressor recharge between shots. Rate of fire is limited by compressor recharge time rather than mechanism Priority.
 
 ---
 
 ## The Set as a System
 
-| Augment | Distance | Kill Mechanism | Visibility | Power Cost |
-|---|---|---|---|---|
+| Augment | Distance | Kill Mechanism | Visibility | Power CoPriority|---|---|---|---|---|
 | Scissor Arm | Zero — grip required | Mechanical closure | High | Moderate-High |
 | Push Knife | Touch — contact | Puncture | Very Low | Minimal |
 | Claw and Venom | Surface contact | Compound delivery | Medium | Low-Moderate |

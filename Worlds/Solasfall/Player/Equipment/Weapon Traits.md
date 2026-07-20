@@ -6,7 +6,7 @@ tags:
 ### Reach
 [[Solasfall Weapons]] with **Reach** threaten space **beyond normal melee [[Range & Threat|range]]**.
 When a creature **enters your melee threat [[Range & Threat|range]]**, you may make **one melee [[Attacks|attack]]** against them at the **expense of your Reaction**. This is called a **Reach Punish**.
-- The Punish resolves at the **same [[Speed & Resolution|Speed]]** the creature moves into [[Range & Threat|range]].
+- The Punish resolves at the **same [[Ticks, Priority & Resolution|Priority]]*Priority creature moves into [[Range & Threat|range]].
 - The defender uses the **[[Defensive Stances]]** they declared during [[Actions|action]] declaration. 
     You may only perform **one Reach Punish per [[Rounds|round]]**, even if multiple creatures enter your [[Range & Threat|range]].
 **Close-In Penalty:**  
@@ -43,10 +43,10 @@ When you deal [[Damage Types|damage]] to a target wearing [[Solasfall Armour|Arm
 Thrives on **committed, powerful swings**.  
 If you make a **[[Heavy Attack]]** with this [[Weapon|weapon]]:
 - **Roll one additional [[Damage Types|damage]] die** of the [[Weapon|weapon]]’s type ([[Heavy Attack]] [[Damage Types|damage]] is calculated after the dice have rolled).
-- On the **next [[Rounds|round]]**, your **first [[Actions|action]]** has **–3 to its [[Speed & Resolution|Speed]]**
+- On the **next [[Rounds|round]]**, your **first [[Actions|action]]** has **–3 to its [[Ticks, Priority & Resolution|Priority]]**
 
 ### Crushing
-This [[Weapon|weapon]] delivers force that can **break guard on impact**.
+This [[Weapon|weapon]Priorityivers force that can **break guard on impact**.
 When you hit a target who is currently **Blocking**, roll **1d6**.
 Reduce the target’s **[[Block]] DR** by the amount rolled **immediately**, for the **remainder of this [[Rounds|Round]]**.
 This reduction applies **before** [[Damage Types|damage]] is resolved.
@@ -160,9 +160,9 @@ The [[Weapon|weapon]] tumbles in flight, presenting multiple impact faces on arr
 - Can be **dual-wielded**.
 
 ### Thrown
-This [[Weapon|weapon]] is designed to be hurled at [[Range & Threat|range]]. Thrown weapons resolve at their Initiation [[Speed & Resolution|Speed]] — the projectile travels its full [[Range & Threat|range]] in a single [[Speed & Resolution|Speed]] instance and does not continue into subsequent steps. Any creature or object in the path is a valid hit candidate, resolved nearest first.
+This [[Weapon|weapon]] is designed to be hurled at [[Range & Threat|range]]. Thrown weapons resolve at their Initiation [[Ticks, Priority & Resolution|Priority]] — the projectile travels its full [[Range & Threat|range]] in a single [[Ticks, Priority & Resolution|Priority]] instance and does not continue into subsequePriorityeps. Any creature or object in the path is a valid hit candidate, resolved nearest first.
 **Retrieval:**
-- Thrown weapons that miss land at their maximum [[Range & Threat|range]] or at the first obstruction along their path. Moving to their location is sufficient to retrieve them — no [[Actions|action]] cost.
+Priorityown weapons that miss land at their maximum [[Range & Threat|range]] or at the first obstruction along their path. Moving to their location is sufficient to retrieve them — no [[Actions|action]] cost.
 - Thrown weapons that hit an unarmoured or lightly armoured target (Leather and below) remain retrievable. Moving adjacent to a downed target is sufficient to retrieve them — no [[Actions|action]] cost.
 - Thrown weapons that hit a target wearing Chainmail or above are not automatically destroyed but may be damaged or awkwardly lodged at GM discretion.
 - Thrown weapons are only destroyed on a Critical Failure or in extreme circumstances at GM discretion (striking solid stone, structural impacts, etc).

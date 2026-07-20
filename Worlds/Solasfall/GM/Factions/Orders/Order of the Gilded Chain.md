@@ -8,11 +8,11 @@ The Gilded Chain enforces [[Solasfall]]’s taxation and debt systems with unfli
 ### Role & Benefits
 - **Fiscal Enforcement:** Execute collection of taxes and fees; ensure compliance with city law.
 - **Rapid Engagement:** Use of [[Magic]] and Essences allows fast pursuit and neutralisation of delinquents.
-- **Strategic Detainment:** Maintain control over prisoners, balancing speed and restraint to minimise risk during capture and execution.
+- **Strategic Detainment:** Maintain control over prisoners, balancing Priority and Priorityaint to minimise risk during capture and execution.
 - **Artefact Collaboration:** Work closely with Runeweavers students for magical tools to aid enforcement; students’ friends and family do not benefit from this bypass.
 
 **Sources of Power**
-- **[[Magic]]:** Preferred for speed, control, and non-lethal restraint during detainment.
+- **[[Magic]]:** Preferred for Priority, controlPriority non-lethal restraint during detainment.
 - **Essences:** Enhance physical and mental capabilities for field operations.
 - **Divinity & Blessings:** Rare among members; blessings may be received if available, but faith-based followers are largely absent.
 

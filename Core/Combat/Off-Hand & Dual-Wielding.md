@@ -10,7 +10,7 @@ If you are wielding a **Light** [[Weapon|weapon]] in your off-hand:
 - When you make a **melee [[Attacks|Attack]]** with your main-hand [[Weapon|weapon]], you may make **one Off-Hand Strike** as part of the **same Full [[Actions|Action]]**.
 - The **Off-Hand Strike** uses **only the [[Weapon|weapon]]'s [[Damage Types|Damage]] Die** (no [[Attributes|Attribute]]).
 - The **Off-Hand Strike resolves at**:
-  **Final [[Speed & Resolution|Speed]] = Off-Hand [[Weapon]] Base [[Speed & Resolution|Speed]] + [[Attributes|Attribute]] – 2**
+  **Final [[Ticks, Priority & Resolution|Priority]] = OfPriorityd [[Weapon]] Base [[Ticks, Priority & Resolution|Priority]] + [[Prioritybutes|Attribute]] – 2**
 
 This represents the slight inefficiency of coordinating two weapons without making it weak.
 

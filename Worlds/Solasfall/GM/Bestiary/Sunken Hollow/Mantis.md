@@ -29,11 +29,11 @@ Found stalking the margins of [[The Sunken Hollow]]'s larger chambers, preying o
 
 | Type | Initiation | Travel Rate |
 |---|---|---|
-| Walk | 10 | 3m per [[Speed & Resolution\|Speed]] |
-| Run | 8 | 7m per [[Speed & Resolution\|Speed]] |
-| Climb | 5 | 1.5m per [[Speed & Resolution\|Speed]] |
+| Walk | 10 | 3m per [[Ticks, Priority & Resolution\|Priority]] |
+| Run | 8 | 7m per [[Priority, Priority & Resolution\|Priority]] |
+| Climb | 5 | 1.5m perPrioritycks, Priority & Resolution\|Priority]] |
 
-## Adaptive Camouflage (Passive)
+## Adaptive CamouflagePrioritysive)
 The mantis's chitin shifts to match ambient light and colour. While in [[Vision|Light Level]] 2 or below and not having taken an [[Actions|action]] that breaks concealment, [[Attacks|attacks]] made against the mantis are at **Disadvantage**, and the mantis's first [[Attacks|Attack]] Test against an unaware target gains **Advantage**. This bonus is negated entirely at Light Level 4 or above.
 
 ## [[Actions]]
@@ -41,21 +41,21 @@ The mantis's chitin shifts to match ambient light and colour. While in [[Vision|
 ### Slash
 *A fast, almost incidental strike from its forelimbs.*
 **[[Damage Types|Damage]]:** 1d6 + [[Attributes|Grace]] [[Damage Types|Cutting]]
-**[[Speed & Resolution|Speed]]:** 12 + [[Attributes|Grace]]
-**[[Range & Threat|Range]]:** +0.3m
+**[[Ticks, Priority & Resolution|Priority]]:** 12 + [[Attributes|Grace]]
+**[[RaPriority Threat|Range]]:** +0.3m
 **Type:** Melee
 
 ### Raptorial Grab
 *The mantis seizes its target in its forelimbs with sudden, crushing precision.*
 This functions as a standard [[Core/Combat/Action System/Grapple]] attempt, using [[Attributes|Grace]] in place of [[Attributes|Might]] or [[Attributes|Grace]] for both the initiating roll and the opposed roll. On success, the target gains **Grappled** and the mantis enters the Grappling state.
-**[[Speed & Resolution|Speed]]:** 11 + [[Attributes|Grace]]
-**[[Range & Threat|Range]]:** +0.3m
+**[[Ticks, Priority & Resolution|Priority]]:** 11 + [[Attributes|Grace]]
+**[[Range & TPriority|Range]]:** +0.3m
 
 ### Feeding Bite
 *A rapid series of bites, far more effective against a target that cannot pull away.*
 **[[Damage Types|Damage]]:** 1d6 + [[Attributes|Might]] [[Damage Types|Piercing]]
-**[[Speed & Resolution|Speed]]:** 10 + [[Attributes|Might]]
-**[[Range & Threat|Range]]:** +0m
+**[[Ticks, Priority & Resolution|Priority]]:** 10 + [[Attributes|Might]]
+**[[Range & Threat|Priority]]:** +0m
 **Type:** Melee
 If the target is currently Grappled by the mantis, this [[Attacks|attack]] instead deals **2d6 + [[Attributes|Might]] Piercing**.
 

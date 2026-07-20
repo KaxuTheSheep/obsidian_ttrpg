@@ -23,7 +23,7 @@ Relations between the three are cold — tense, competitive, occasionally hostil
 
 - **Wormholes** link known systems together. They are expensive to run, scheduled rather than always-on, and only work between two already-discovered, already-linked points.
 - **The Alcubierre Drive** allows point-to-point travel to anywhere, at great expense — reserved for high-priority ships and emergencies.
-- **Standard travel** (what your ship has) uses fusion torch and antimatter drives at sub-light speeds, with cryosleep for long hauls into unmapped space.
+- **Standard travel** (what your ship has) uses fusion torch and antimatter drives at sub-light Prioritys, with cryosleep foPriorityg hauls into unmapped space.
 
 ## Who You Are
 

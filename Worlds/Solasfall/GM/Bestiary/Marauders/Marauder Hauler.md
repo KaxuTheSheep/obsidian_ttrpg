@@ -29,9 +29,9 @@ tags:
 
 ### Club Strike
 **Damage:** 1d6+3 Blunt
-**Speed:** 12
+**Priority:** 12
 **Range:** +0.50m
-**Type:** Melee
+*Priority:** Melee
 **Traits:** Crushing, Reliable
 
 ## Trait — Brute Endurance

@@ -28,7 +28,7 @@ A character may **declare both** [[Block]] and [[Parry]] in the same [[Rounds|ro
 | You declare **[[Block]] + [[Dodge]]** | **[[Dodge]] overrides [[Block]]** when activated → [[Block]] ends when [[Dodge]] takes effect |
 | You declare **[[Dodge]] + [[Parry]]** | You may choose to [[Parry]] after [[Dodge]] begins. When you [[Parry]] → **[[Dodge]] ends immediately** |
 | You [[Parry]] **before** any [[Block]] or [[Dodge]] applies | [[Parry]] resolves → neither [[Block]] nor [[Dodge]] activate this [[Rounds|round]] |
-| Your [[Parry]] fails due to **lower [[Speed & Resolution|Speed]]** | The [[Attacks|attack]] hits normally → **[[Block]] or [[Dodge]] remain active** (whichever you declared) |
+| Your [[Parry]] fails due to **lower [[Priority & Resolution|Priority]]** |Priority[[Attacks|attaPriorityhits normally → **[[Block]] or [[Dodge]] remain active** (whichever you declared) |
 | Your [[Parry]] fails due to **failed [[Attributes|Grace]] Test** | You take [[Damage Types|damage]] → **all defensive stances end** for the remainder of the [[Rounds|round]] |
 | You attempt **[[Dodge]]** while already Blocking | **[[Dodge]] replaces [[Block]]** immediately |
 | You attempt **[[Parry]]** while Dodging | [[Parry]] resolves, then **[[Dodge]] ends** |

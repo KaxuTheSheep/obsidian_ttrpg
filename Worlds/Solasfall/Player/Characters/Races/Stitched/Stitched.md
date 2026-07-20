@@ -38,7 +38,7 @@ A Stitched must spend time every 3 days maintaining their physical cohesion — 
 ## Patchwork Form
 Prerequisites: None.
 Cost: 3 Trait Points. 
-Your composite body can begin to separate under conscious control. As a Full [[Actions|Action]] at [[Speed & Resolution|Speed]] 13, you may detach one body part (hand, arm, leg, eye, etc.). Detached parts remain within 5m of your brain or go inert. Detached parts share your Blood and Sturdiness pools and cannot act independently — all [[Actions|actions]] and [[Movement Types|movement]] come from your own turn's resources. As a Full [[Actions|Action]] at [[Speed & Resolution|Speed]] 12, you may reattach a detached part.
+Your composite body can begin to separate under conscious control. As a Full [[Actions|Action]] at [[Ticks, Priority & Resolution|Priority]] 13, you may detach one body partPriorityd, arm, leg, eye, etc.). Detached parts remain within 5m of your brain or go inert. Detached parts share your Blood and Sturdiness pools and cannot act independently — all [[Actions|actions]] and [[Movement Types|movement]] come from your own turn's resources. As a Full [[Actions|Action]] at [[Ticks, Priority & Resolution|Priority]] 12, you may reattach a detached Priority
 
 ## Composite Awareness
 Prerequisites: None. 
@@ -83,7 +83,7 @@ Your stitching and [[Mana|mana]] bindings become significantly more robust. Miss
 ## Scatter
 Prerequisites: Multi-Part, Composite Awareness.
 Cost: 4 Trait Points.
-You learn to weaponise your composite nature as a defensive Reaction. When targeted by an [[Attacks|attack]], you may trigger Scatter — your body separates outward in all directions. Compare your Scatter [[Speed & Resolution|Speed]] (13 + [[Attributes|Grace]]) to the incoming [[Attacks|attack]] [[Speed & Resolution|Speed]]. If your Scatter [[Speed & Resolution|Speed]] is higher, the [[Attacks|attack]] finds no coherent target and misses entirely. If equal or lower, you were mid-separation on impact — reduce incoming [[Damage Types|damage]] by 3 and Unravel as normal. Scatter consumes your Reaction.
+You learn to weaponise your composite nature as a defensive Reaction. When targeted by an [[Attacks|attack]], you may trigger Scatter — your body separates outward in all directions. Compare your Scatter [[Ticks, Priority & Resolution|Priority]] (13 + [[Attributes|Grace]]) to the incoming [[Attacks|attack]] [[Ticks, PriorPriority Resolution|Priority]]. If your Scatter [[Ticks, Priority & Resolution|Priority]] is higher, the [[AttaPriorityttack]] finds no coherent target and misses entirelPriority equal or lower, you were mid-separation on impact — reduce incoming [[Damage Types|damage]] by 3 and Unravel as normal. Scatter consumes your Reaction.
 
 ## Effortless Separation
 Prerequisites: Swift Separation, Swift Reassembly. 

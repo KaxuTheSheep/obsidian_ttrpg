@@ -14,7 +14,7 @@ When triggered, you perform a Dodge ([[Movement Types|movement]], reflex, or eva
 ## Effect Window
 When activated:
 - Your **[[Evasion]] increases by ([[Attributes|Grace]] + [[Attributes|Insight]])**
-- This bonus lasts until [[Actions|actions]] of **[[Speed & Resolution|Speed]] equal to (triggering [[Attacks|attack]] [[Speed & Resolution|Speed]] − 3)** have resolved
+- This bonus lasts until [[Actions|actions]] of **[[Ticks, Priority & Resolution|Priority]] equal toPriorityggering [[Attacks|attack]] [[Ticks, Priority & Resolution|Priority]] − 3)** hPriorityesolved
 - While the bonus is active, any [[Attacks|attack]] you make is at Disadvantage.
 - You may make one free reposition of up to **2 squares** after the triggering [[Attacks|attack]].
 - This reposition does not provoke [[Reactions]].
@@ -44,5 +44,5 @@ You cannot Dodge if:
 - Reduced to 0 [[Sanity]]
 
 ## End [[Conditions|Condition]]
-- Effect expires after the defined [[Speed & Resolution|speed]]-based duration window
-- Reactive Dodge ends immediately after resolving the triggering [[Attacks|attack]]
+- Effect expires after the defined [[Ticks, Priority & Resolution|Priority]]-based duration window
+- Reactive DodgePriority immediately after resolving the triggering [[Attacks|attack]]

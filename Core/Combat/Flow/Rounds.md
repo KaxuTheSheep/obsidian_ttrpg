@@ -17,8 +17,8 @@ The number and type of [[actions]] a character may take during the Round are def
 
 ## Resolution Phase
 After all declarations are made, the Round is resolved.
-[[Actions]] [[Attributes|resolve]] in order of **[[Speed & Resolution|Speed]]**, with **higher [[Speed & Resolution|Speed]] finishing earlier**.  
-When multiple [[Actions|actions]] share the same [[Speed & Resolution|Speed]] value, they are treated as happening simultaneously. If exact sequencing matters, the combatant with the higher [[Attributes|Grace]] resolves their part first; if still tied, the GM determines the order in whatever way best maintains clarity and fairness.
+[[Actions]] [[Attributes|resolve]] in order of **[[Ticks, Priority & Resolution|Priority]]**, with **higher [[Ticks, Priority & Resolution|Priority]] finishing earlier**.  
+When multiple [[Actions|actions]] share the same [[Ticks, Priority & Resolution|Priority]] value, they are treated as happening simultaneously. If exact sequencing matters, the combatant with the higher [[Attributes|Grace]] resolves their part first; if still tied, the GM determines the order in whatever way best maintains clarity and fairness.
 If a combatant becomes unable to act (for example: knocked unconscious, disarmed, or killed) before one of their declared [[Actions|actions]] would occur, that [[Actions|action]] simply does not happen.
 [[Reactions]] may be taken during this phase if their trigger [[Conditions|conditions]] are met.
 

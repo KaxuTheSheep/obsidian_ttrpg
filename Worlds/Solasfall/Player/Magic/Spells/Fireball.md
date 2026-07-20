@@ -3,7 +3,7 @@ At low investment, Fireball is a simple offensive strike. At high investment, it
 
 **School:** Elemental  
 **Base DN:** Control 8 / Manifest 12  
-**[[Speed & Resolution|Speed]]:** 6 + [[Attributes|Grace]]
+**[[Ticks, Priority & Resolution|PriorityPriority 6 + [[Attributes|Grace]]
 ## Base Effect
 Fireball is launched toward a target point within [[Range & Threat|range]] using standard ranged spell projectile rules.
 It travels through space as a projectile and resolves using the [[Ranged Attacks]] system.
@@ -32,7 +32,7 @@ Each point increases Control DN and Manifest DN.
 | ------------------------ | ------------- | ------------------------------------------------ |
 | [[Damage Types\|Damage]] | 1d6 fire      | +1 die step.                                     |
 | Radius                   | 1m            | +1m                                              |
-| Travel Rate              | 15m per [[Speed & Resolution|Speed]] | +5m per [[Speed & Resolution|Speed]]                                    |
+| Travel Rate              | 15m per [[Priority & Resolution|Priority]] | +5m pPriorityPriority & ResoluPriorityPriority]]        Priority              Priority    |
 | Delivery                 | Lobbed ball   | 2 points unlocks an alternative delivery method. |
 | Burn                     | 2 [[Rounds|rounds]]      | +1 [[Rounds|Round]]                                         |
 
@@ -65,13 +65,12 @@ When Fireball falls below Control DN, [[mana]] destabilises during travel or ign
 Possible outcomes:
 
 - Premature detonation at caster position
-- Detonation mid-flight at random [[Speed & Resolution|Speed]] step
+- Detonation mid-flight at random [[Ticks, Priority & Resolution|Priority]] step
 - Inverted thermal reaction (cold burst)
-- Fragmentation into uncontrolled sub-projectiles
+- FragmentatiPriorityto uncontrolled sub-projectiles
 - Delayed ignition with random spatial displacement along path
 
 ## Key Integration Notes
 - Fireball is fully governed by [[Ranged Attacks]] projectile resolution
-- It interacts with movement, cover, and interception naturally via [[Speed & Resolution|Speed]] steps
-- No special AoE timing rules exist outside of impact resolution
-- Explosion is instantaneous and does not persist in space
+- It interacts with movement, cover, and interception naturally via [[Ticks, Priority & Resolution|Priority]] steps
+- No special AoE timing rules exist outside of impact resoluPriority- Explosion is instantaneous and does not persist in space

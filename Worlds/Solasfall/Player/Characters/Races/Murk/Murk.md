@@ -6,7 +6,7 @@ tags:
 ---
 # Status
 *Alien but accepted.*
-Amphibious and tall, with grey-green skin and long limbs, Murks are a quiet but present part of the city. Often found in the Market and Entertainment Districts, where their flexibility and [[Speed & Resolution|speed]] are valued. Generally scattered throughout [[Solasfall]] but holding lower social status — slightly beneath Kenku in societal standing. Though alien in appearance, Murks are tolerated rather than feared or pitied. Valued for physical capability and craftsmanship, though often underestimated or overlooked.
+Amphibious and tall, with grey-green skin and long limbs, Murks are a quiet but present part of the city. Often found in the Market and Entertainment Districts, where their flexibility and [[Ticks, Priority & Resolution|Priority]] Priorityalued. Generally scattered throughout [[Solasfall]] but holding lower social status — slightly beneath Kenku in societal standing. Though alien in appearance, Murks are tolerated rather than feared or pitied. Valued for physical capability and craftsmanship, though often underestimated or overlooked.
 # Culture
 Murks favour learning practical, physical [[Skills|skills]] — [[Skills|crafting]], combat, and [[Skills|endurance]]-based trades. Their culture is shaped by a sense of impermanence; they accept their shorter lifespans and seek to live fully. Social bonds resemble loose communal groupings, more fluid than rigid family units, akin to amphibious spawning pools or seasonal gatherings.
 
@@ -18,8 +18,8 @@ Murks are amphibious, with smooth, moist skin ranging from green-grey to slate-b
 # Stats
 **Base Blood:** 8
 **[[Movement Types|Movement]]:** Standard — see [[Movement Types|Movement]] Types for travel rates.
-	**Run Travel Rate:** 6m per [[Speed & Resolution|Speed]] 
-	**Jump:** 1.5m + [[Attributes|Might]] (Height 3m)
+	**Run Travel Rate:** 6m per [[Ticks, Priority & Resolution|Priority]] 
+	**Jump:** Priority+ [[Attributes|Might]] (Height 3m)
 # Languages
 Common and Flowtongue.
 # Traits
@@ -36,7 +36,7 @@ Your Clear Zone extends into what would normally be your Blurry Zone up to 9m. Y
 ## Tongue Lash
 Prerequisites: None.
 Cost: 2 Trait Points. 
-As an [[Attacks|attack]], you may lash out with your tongue at a target within 4.5m, dealing 1d4 + [[Attributes|Grace]] Bludgeoning [[Damage Types|damage]] at [[Speed & Resolution|Speed]] 12 + [[Attributes|Grace]]. You may also use your tongue to grab or retrieve small unattended objects within [[Range & Threat|range]] as a Half [[Actions|Action]], though not to manipulate tools or weapons.
+As an [[Attacks|attack]], you may lash out with your tongue at a target within 4.5m, dealing 1d4 + [[Attributes|Grace]] Bludgeoning [[Damage Types|damage]] at [[Ticks, Priority & Resolution|Priority]] 12 + [[Attributes|Grace]]. YouPriorityalso use your tongue to grab or retrieve small unattended objects within [[Range & Threat|range]] as a Half [[Actions|Action]], though not to manipulate tools or weapons.
 
 ## Improved Tongue Lash
 Prerequisites: Tongue Lash.
@@ -56,15 +56,14 @@ You may use your tongue to grapple a target within Tongue Lash [[Range & Threat|
 ## Swift Swimmer
 Prerequisites: None. 
 Cost: 2 Trait Points. 
-Whenever you make an [[Attacks|attack]] while underwater, you may move a number of metres equal to half your Walk Travel Rate per [[Speed & Resolution|Speed]] point as part of that [[Attacks|attack]].
+Whenever you make an [[Attacks|attack]] while underwater, you may move a number of metres equal to half your Walk Travel Rate per [[Ticks, Priority & Resolution|Priority]] point as part of that [[Attacks|attack]].
 
-## Mastered Swimmer
+## MastPrioritySwimmer
 Prerequisites: Swift Swimmer. 
 Cost: 2 Trait Points. 
-Your underwater combat mobility improves. When making an [[Attacks|attack]] underwater, you may move a number of metres equal to your full Walk Travel Rate per [[Speed & Resolution|Speed]] point as part of that [[Attacks|attack]].
+Your underwater combat mobility improves. When making an [[Attacks|attack]] underwater, you may move a number of metres equal to your full Walk Travel Rate per [[Ticks, Priority & Resolution|Priority]] point as part of that [[Attacks|attack]].
 
-## Leap Strike
-Prerequisites: None. 
+## Leap StriPriorityerequisites: None. 
 Cost: 2 Trait Points. 
 When you make a melee [[Attacks|attack]] immediately after a Jump, you may choose one of the following on hit:
 - Deal +3 [[Damage Types|damage]].

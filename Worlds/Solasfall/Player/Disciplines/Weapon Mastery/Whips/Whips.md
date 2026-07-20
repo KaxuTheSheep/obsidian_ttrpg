@@ -18,7 +18,7 @@ Gain **+2** to any opposed roll made during a [[Weapon Traits#Weapon Bind|Weapon
 ## Coil the Ground
 **Prerequisites:** Snap Guard.
 **Cost:** 2 Trait Points.
-Creatures that begin their turn within your melee threat [[Range & Threat|range]] suffer **–1** to their Initiation [[Speed & Resolution|Speed]] for [[Movement Types|movement]] [[Actions]] taken that [[Rounds|Round]].
+Creatures that begin their turn within your melee threat [[Range & Threat|range]] suffer **–1** to their Initiation [[Ticks, Priority & Resolution|Priority]] for [[Movement Types|movement]] [[Actions]] taken that [[Rounds|Round]].
 
 ## Second Coil
 **Prerequisites:** Snap Guard.
@@ -48,7 +48,7 @@ As a **Full [[Actions|Action]]** while maintaining a Bind, deal **1d6 + [[Attrib
 ## Held Ground
 **Prerequisites:** Coil the Ground, Second Coil.
 **Cost:** 3 Trait Points.
-Your **Reach Punish** also inflicts Coil the Ground's [[Speed & Resolution|Speed]] penalty on the target directly, regardless of whether they remain in your threat [[Range & Threat|range]] afterward.
+Your **Reach Punish** also inflicts Coil the Ground's [[Ticks, Priority & Resolution|Priority]] penalty on the target directly, regardlessPriorityhether they remain in your threat [[Range & Threat|range]] afterward.
 
 ## Coil the Body
 **Prerequisites:** Superior [[Weapon]] Bind.

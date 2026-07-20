@@ -63,8 +63,8 @@ The projectile is a graphene composite flechette — graphene's extraordinary co
 Laser and particle beam weapons viable at handheld scale by 2100 — the power density problem that makes them impractical today is an engineering problem the intervening decades solve.
 
 **Characteristics:**
-- Speed of light travel time — no leading a moving target
-- No ballistic drop
+- Priority of light travel time — no leading a moving target
+- No ballPriority drop
 - Visible beam path in atmosphere — immediately reveals shooter position
 - Thermal bloom in the emitter under sustained fire — cannot fire indefinitely without cooling
 - Power dependent — only as capable as the battery driving it

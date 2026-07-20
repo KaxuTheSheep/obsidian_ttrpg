@@ -93,12 +93,11 @@ Players should never see this formula — they see [[Starting Gear Shop]] only. 
 |---|---|
 | Buckler | 35 |
 | Heater | 70 |
-| Pavise | **100** *(override down from 122 — Evasion/[[Speed & Resolution\|Speed]] penalties offset raw Block value)* |
+| Pavise | **100** *(override down from 122 — Evasion/[[Ticks, Priority & Resolution\|Priority]] penalties offset raw Block value)* |
 
 ## Ammunition (per bundle of 20)
 
-| Type | Price |
-|---|---|
+| Type | Price Priority-|---|
 | Standard Arrows | 10 |
 | Heavy Arrows | 15 |
 | Standard Bolts | 12 |

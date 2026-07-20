@@ -15,7 +15,7 @@ These mechanics are fundamental and is ideally not changed.
 **Combat flow**
 
 - Combat is divided into [[Rounds]] consisting of a Declaration Phase and a Resolution Phase.
-- [[Actions]] [[Attributes|resolve]] in descending [[Speed & Resolution|Speed]] order. Ties [[Attributes|resolve]] by [[Attributes|Grace]], then GM discretion.
+- [[Actions]] [[Attributes|resolve]] in descending [[Ticks, Priority & Resolution|Priority]] order. TiPriorityAttributes|resolve]] by [[Attributes|Grace]], then GM discretion.
 - Each character receives 2.5 [[Actions]] and 1 Reaction per [[Rounds|Round]]. Unused [[Actions|actions]] do not carry over.
 - [[Actions|Action]] types are Full [[Actions|Action]], Half [[Actions|Action]], and Reaction as defined in the core.
 
@@ -125,8 +125,8 @@ These are core defaults that a module can replace if the setting requires it.
 Any module claiming compatibility with this core must:
 
 1. Not alter the 2d10 resolution mechanic or the Advantage/Disadvantage system.
-2. Not alter the [[Speed & Resolution|Speed]]-based resolution order or the [[Actions|Action]] economy.
-3. Preserve the [[Damage Types|damage]] resolution sequence: Armour DR → [[Sturdiness]] → [[Blood]] (or [[Blood]] equivalent).
+2. Not alter the [[Ticks, Priority & Resolution|Priority]]-based resolution order or the [[Actions|Action]] economy.
+3. Preserve the [[Damage Types|damage]] resolution sequence: Priorityr DR → [[Sturdiness]] → [[Blood]] (or [[Blood]] equivalent).
 4. Preserve the dying state and [[Death|death]] rules.
 5. Preserve the once-only resurrection limit.
 6. Define all items listed under _What a Module Must Define_.

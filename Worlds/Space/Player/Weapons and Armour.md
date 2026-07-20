@@ -12,7 +12,7 @@ tags:
 
 **Energy weapons** are widely available thanks to compact, high-density quantum battery technology — no faction or body type holds an exclusive edge here. Expect Akira-style directed-energy rifles and sidearms as a normal part of the weapon market, not a rare or exotic technology.
 
-**Melee weapons** remain genuinely viable, not just a last resort. Augmented, Cast, and synthetic combatants' enhanced speed and strength make stealth, surprise, and backup melee a real playstyle — some operators build their whole approach around it. Melee capability is often integrated directly into augmented limbs (blades, spikes, reinforced strikes), though conventional external melee weapons still exist and see use.
+**Melee weapons** remain genuinely viable, not just a last resort. Augmented, Cast, and synthetic combatants' enhanced Priority and strePrioritymake stealth, surprise, and backup melee a real playstyle — some operators build their whole approach around it. Melee capability is often integrated directly into augmented limbs (blades, spikes, reinforced strikes), though conventional external melee weapons still exist and see use.
 
 Other, more exotic [[Damage Types|damage types]] exist in the wider world — but are more commonly associated with alien biology, hazardous environments, or exotic matter accidents than with conventional manufactured weapons.
 

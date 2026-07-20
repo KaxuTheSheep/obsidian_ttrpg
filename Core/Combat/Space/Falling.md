@@ -5,7 +5,7 @@ tags:
   - Mechanics
   - Wip
 ---
-When a character falls, they travel downward at a rate of **10m per [[Speed & Resolution|Speed]] step** during the Resolution Phase. Falling [[Damage Types|damage]] bypasses [[Sturdiness]] and is applied directly to [[Blood]].
+When a character falls, they travel downward at a rate of **10m per [[Ticks, Priority & Resolution|Priority]]Priority** during the Resolution Phase. Falling [[Damage Types|damage]] bypasses [[Sturdiness]] and is applied directly to [[Blood]].
 
 ## Fall [[Damage Types|Damage]]
 
@@ -36,11 +36,11 @@ Catching a surface is a **Reaction** on the first attempt. Each subsequent attem
 
 Roll **2d10 + [[Attributes|Grace]] or [[Attributes|Might]]** against the **Catch DN**.
 
-**Base DN** scales with how many [[Speed & Resolution|Speed]] steps the character has been falling:
+**Base DN** scales with how many [[Ticks, Priority & Resolution|Priority]] steps the character has been fPriorityg:
 
-|[[Speed & Resolution|Speed]] Steps Fallen|Base DN|
+|[[Priority & Resolution|Priority]] Steps Fallen|PriorityDN|
 |---|---|
-|1|8|
+Priority
 |2|10|
 |3|12|
 |4|14|
@@ -83,4 +83,4 @@ On success, the fall ends immediately. The character is stable and hanging at th
 
 ## Controlled Descent
 
-A character descending under magical or equivalent control — such as a spell that governs fall [[Speed & Resolution|speed]] — negates all falling [[Damage Types|damage]] and allows the character to choose their landing point freely. The specific means of controlled descent defines its own rules.
+A character descending under magical or equivalent control — such as a spell that governs fall [[Ticks, Priority & Resolution|Priority]] — negates all falling [[Damage Types|damage]] and allows the character to choPriorityheir landing point freely. The specific means of controlled descent defines its own rules.

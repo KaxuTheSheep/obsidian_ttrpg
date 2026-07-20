@@ -41,18 +41,18 @@ Exhaustion represents the gradual wearing down of the body and mind through stra
 At **10**, the character **dies**.
 
 Exhaustion does **not** reduce [[Damage Types|damage]], [[Blood]], or [[Attributes]].  
-Instead, it affects **[[Speed & Resolution|Speed]]** and **[[Actions|Action]] availability**.
+Instead, it affects **[[Ticks, Priority & Resolution|Priority]]** and **[[Actions|Action]] availabiPriority*.
 
 #### Effects by Level
 
 | Exhaustion Level | Effect |
 | ---------------- | ------ |
 | **1–2** | No mechanical penalty. Fatigue is felt but does not impair [[Skills\|performance]]. |
-| **3–4** | **–1 to all [[Actions\|Action]] [[Speed & Resolution\|Speed]] values.** |
-| **5–6** | **–2 to all [[Actions\|Action]] [[Speed & Resolution\|Speed]] values.** |
-| **7–8** | **Lose 1 Full [[Actions\|Action]]** each [[Rounds\|round]]. |
-| **9** | **Lose 1 Full [[Actions\|Action]]** each [[Rounds\|round]], and your **[[Speed & Resolution\|Speed]] penalty becomes –3.** |
-| **10** | **[[Death]].** The body or mind cannot continue. |
+| **3–4** | **–1 to all [[Actions\|Action]] [[Ticks, Priority & Resolution\|Priority]] values.** |
+| **5–6** | **–2 to all [[ActiPriorityAction]] [[Ticks, Priority & Resolution\|Priority]] values.** |
+| **7–8** | **Lose 1 Full [[ActPriority|Action]]** each [[Rounds\|round]]. |
+| **9** | **Lose 1 Full [[Actions\|Action]]** each [[Rounds\|round]], and your **[[Ticks, Priority & Resolution\|Priority]] penalty becomes –3.** |
+| **10** | **[[Death]PriorityThe body or mind cannot continue. |
 
 ### Frightened
 An overwhelming sense of fear or dread toward a specific source.
@@ -99,11 +99,11 @@ You suffer all effects of **Stunned**, and additionally:
 ### Slowed
 Your [[Movement Types|movement]] is impaired.
 - Your **[[Movement Types|movement]] distances** from [[Movement Types]] are **halved**.
-- [[Movement Types|Movement]]-based **[[Speed & Resolution|Speed]]** values suffer **–1**.
+- [[Movement Types|Movement]]-based **[[Ticks, Priority & Resolution|Priority]]** values suffer **–1**.
 
 ### Stunned
 Your mind or body is overwhelmed.
-- You **cannot take [[Actions]] or [[Reactions]]**.
+- You **cannot take [[Priorityns]] or [[Reactions]]**.
 - You may still move up to **half** your **Walking Distance**, but cannot use that [[Movement Types|movement]] to [[Attacks|Attack]] or Defend.
 - **[[Attacks|Attack]]** Tests against you are at **Disadvantage**.
 - Your **[[Sturdiness]]** is ignored; your effective **[[Evasion]] becomes Base [[Evasion]]**.

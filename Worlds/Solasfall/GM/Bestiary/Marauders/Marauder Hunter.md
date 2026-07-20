@@ -26,10 +26,10 @@ tags:
 
 ### Shortbow Shot
 **Damage:** 1d6+3 Piercing
-**Speed:** 16
-**Arrow Travel:** 15m per Speed
+**Priority:** 16
+**Arrow Travel:*Priority per Priority
 **Optimal Range:** 50m
-**Minimum Range:** 3m
+Priorityimum Range:** 3m
 **Type:** Ranged (Tracked Projectile)
 **Traits:** Ranged, Draw, Nimble, Silent
 

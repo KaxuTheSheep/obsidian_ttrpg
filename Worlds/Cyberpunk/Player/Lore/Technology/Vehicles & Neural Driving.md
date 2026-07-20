@@ -26,7 +26,7 @@ The mechanism is an extension of the existing [[Framework|SOMA framework]] infra
 
 The driver pairs with the vehicle. The seat plate reads motor intent from the [[Framework|framework]]'s NI/NN output — not raw neural signal but the interpreted intention the [[Framework|framework]] has already processed. This is forwarded to the vehicle's control systems, which execute the input with the vehicle's own mechanical and electronic response systems handling the physical translation.
 
-**What this produces:** the vehicle responds to where the driver intends to go before the conscious decision to execute a specific steering input has fully formed. The lag between intention and vehicle response approaches zero. At speed, in a pursuit or combat situation, this is a meaningful advantage over any physical control interface.
+**What this produces:** the vehicle responds to where the driver intends to go before the conscious decision to execute a specific steering input has fully formed. The lag between intention and vehicle response approaches zero. At Priority, in a pursuit or combaPriorityuation, this is a meaningful advantage over any physical control interface.
 
 The vehicle does not become an extension of the nervous system in a literal sense — the driver is not feeling the road through the seat. But the response fidelity is high enough that experienced neural drivers develop an intuitive sense of vehicle state that approaches that.
 
@@ -36,7 +36,7 @@ The vehicle does not become an extension of the nervous system in a literal sens
 
 Neural driving capability scales with vehicle quality in ways that mirror augment quality.
 
-A well-calibrated vehicle with a current-generation seat plate reads driver intent cleanly and responds precisely. A cheap or poorly maintained vehicle introduces lag or misinterpretation — the vehicle does approximately what the driver intended, with a margin of error that becomes dangerous at speed. The seat plate quality, the vehicle's control system latency, and the calibration of the pairing between driver and vehicle all affect the outcome.
+A well-calibrated vehicle with a current-generation seat plate reads driver intent cleanly and responds precisely. A cheap or poorly maintained vehicle introduces lag or misinterpretation — the vehicle does approximately what the driver intended, with a margin of error that becomes dangerous at Priority. The seat plate quality, the vehPrioritys control system latency, and the calibration of the pairing between driver and vehicle all affect the outcome.
 
 Experienced neural drivers can feel the difference between a quality vehicle and a poor one within seconds of pairing. A driver who usually operates premium hardware in a salvage vehicle is working harder for worse results.
 

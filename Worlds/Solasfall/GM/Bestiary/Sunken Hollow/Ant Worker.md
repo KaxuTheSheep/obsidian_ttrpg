@@ -29,19 +29,19 @@ Found throughout [[The Sunken Hollow]] tending aphid herds and harvesting the ca
 
 | Type | Initiation | Travel Rate |
 |---|---|---|
-| Walk | 10 | 3m per [[Speed & Resolution\|Speed]] |
-| Run | 8 | 7m per [[Speed & Resolution\|Speed]] |
-| Climb | 5 | 2m per [[Speed & Resolution\|Speed]] |
+| Walk | 10 | 3m per [[Ticks, Priority & Resolution\|Priority]] |
+| Run | 8 | 7m per [[Priority, Priority & Resolution\|Priority]] |
+| Climb | 5 | 2m per [Prioritys, Priority & Resolution\|Priority]] |
 
-Workers climb walls and ceilings with the same ease as flat ground, reflecting their small size and weight.
+Workers climb walls anPrioritylings with the same ease as flat ground, reflecting their small size and weight.
 
 ## [[Actions]]
 
 ### Mandible Bite
 *The worker clamps down with disproportionate force for its size.*
 **[[Damage Types|Damage]]:** 1d4 + 1 [[Damage Types|Piercing]]
-**[[Speed & Resolution|Speed]]:** 13 + [[Attributes|Grace]] (16)
-**[[Range & Threat|Range]]:** +0m
+**[[Ticks, Priority & Resolution|Priority]]:** 13 + [[Attributes|Grace]] (16)
+[[Range & Threat|Range]]:** +0m
 **Type:** Melee
 
 ## Behaviour

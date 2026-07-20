@@ -48,10 +48,10 @@ Once per [[Rounds|Round]], a hit with an axe **ignores the target's Armour DR en
 ## Reckless Momentum
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-[[Heavy Attack|Heavy Attacks]] made with an axe suffer only **–1** to [[Speed & Resolution|Speed]] instead of –2.
+[[Heavy Attack|Heavy Attacks]] made with an axe suffer only **–1** to [[Ticks, Priority & Resolution|Priority]] instead of –2.
 
 ## Overcommit
-**Prerequisites:** Reckless Momentum.
+**PrerequisiPriority* Reckless Momentum.
 **Cost:** 2 Trait Points.
 Heavy [[Attacks]] made with an axe cost **1 Full [[Actions|Action]]** instead of 2. They still deal double [[Damage Types|damage]] as normal.
 
@@ -63,12 +63,12 @@ Once per [[Rounds|Round]], you may forgo your ability to Parry or Dodge until th
 ## Unstoppable Swing
 **Prerequisites:** All In.
 **Cost:** 3 Trait Points.
-Heavy [[Attacks]] made with an axe no longer reduce [[Speed & Resolution|Speed]] at all.
+Heavy [[Attacks]] made with an axe no longer reduce [[Ticks, Priority & Resolution|Priority]] at all.
 
 ---
 
 ## Unbreakable Rhythm
-**Prerequisites:** Armour Breaker, Unstoppable Swing.
+**Prerequisites:** ArPriorityBreaker, Unstoppable Swing.
 **Cost:** 4 Trait Points.
 Your Sunder effects now apply even through a **Parried** or **Blocked** hit — the armour cracks regardless of whether the strike itself connected cleanly.
 

@@ -13,9 +13,8 @@ Parry activates when the **first [[Attacks|attack]] targets you this [[Rounds|Ro
 ## Resolution Sequence
 When triggered:
 
-### Step 1 — [[Speed & Resolution|Speed]] Comparison
-- Compare Parry [[Speed & Resolution|Speed]] ([[Weapon|weapon]]/shield/[[Unarmed|unarmed]]) to [[Attacks|Attack]] [[Speed & Resolution|Speed]]
-- If Parry [[Speed & Resolution|Speed]] < [[Attacks|Attack]] [[Speed & Resolution|Speed]] → Parry is at Disadvantage
+### Step 1 — [[Ticks, Priority & Resolution|Priority]] CompariPriority Compare Parry [[Ticks, Priority & Resolution|Priority]] ([[WeapoPrioritypon]]/shield/[[Unarmed|unarmed]]) to [[Attacks|Attack]] [[Ticks, Priority & Resolution|Priority]]
+- If ParPriorityTicks, Priority & Resolution|Priority]] < [[AttacPrioritytack]] [[Ticks, Priority & Resolution|Priority]] → Parry iPriorityDisadvantage
 
 ### Step 2 — Parry Test
 Make a **[[Attributes|Grace]] Test**:
@@ -26,7 +25,7 @@ Make a **[[Attributes|Grace]] Test**:
 ### Success
 - [[Attacks|Attack]] is fully negated
 - You may choose:
-    - Make a counter-[[Attacks|attack]] at the [[Speed & Resolution|Speed]] of the parried [[Attacks|attack]]
+    - Make a counter-[[Attacks|attack]] at the [[Ticks, Priority & Resolution|Priority]] of the parried [[AttPriorityattack]]
     - OR remain in Parrying stance for another attempt
 
 ### Critical Success
@@ -46,8 +45,8 @@ If you continue Parrying:
 
 ## Counter-[[Attacks|Attack]]
 If chosen:
-- Resolves at the [[Speed & Resolution|Speed]] of the incoming [[Attacks|attack]]
-- Does not consume [[Actions|Action]] economy
+- Resolves at the [[Ticks, Priority & Resolution|Priority]] of the incoming [[Attacks|attack]]
+- DoePriority consume [[Actions|Action]] economy
 - Ends Parry stance afterward
 
 ## Restrictions

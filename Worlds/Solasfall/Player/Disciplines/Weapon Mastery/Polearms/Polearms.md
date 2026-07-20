@@ -16,7 +16,7 @@ Polearms you wield can be drawn or stowed as a **Half [[Actions|Action]]** inste
 ## Ground to Hold 
 **Prerequisites:** Measured Distance. 
 **Cost:** 2 Trait Points. 
-Creatures that begin their turn within your melee threat [[Range & Threat|range]] suffer **–1** to their Initiation [[Speed & Resolution|Speed]] for [[Movement Types|movement]] [[Actions]] taken that [[Rounds|Round]]. 
+Creatures that begin their turn within your melee threat [[Range & Threat|range]] suffer **–1** to their Initiation [[Ticks, Priority & Resolution|Priority]] for [[MovePriorityTypes|movement]] [[Actions]] taken that [[Rounds|Round]]. 
 ## Guard the Line 
 **Prerequisites:** Measured Distance.
 **Cost:** 2 Trait Points.
@@ -32,7 +32,7 @@ The first time each [[Rounds|Round]] a creature enters your Close-Quarters [[Ran
 ## Held Ground 
 **Prerequisites:** Ground to Hold, Guard the Line.
 **Cost:** 3 Trait Points.
-Your **Reach Punish** also inflicts Ground to Hold's [[Speed & Resolution|Speed]] penalty on the target directly, regardless of whether they remain in your threat [[Range & Threat|range]] afterward. 
+Your **Reach Punish** also inflicts Ground to Hold's [[Ticks, Priority & Resolution|Priority]] penalty on the target direPriority regardless of whether they remain in your threat [[Range & Threat|range]] afterward. 
 ## Timed Strike
 **Prerequisites:** Guard the Line, Braced Stance.
 **Cost:** 3 Trait Points. If you have not moved this [[Rounds|Round]], your **Reach Punish** deals **one additional [[Weapon|weapon]] [[Damage Types|damage]] die**. 
@@ -58,8 +58,7 @@ As a declared stance (**Half [[Actions|Action]]**), you may collapse your grip o
 ## Unbroken Line
 **Prerequisites:** Denied Ground. **Exclusive to Swift Reversal.**
 **Cost:** 2 Trait Points. 
-Allies within your melee threat [[Range & Threat|range]] benefit from Denied Ground as if they threatened that space themselves — a creature cannot move at full [[Speed & Resolution|speed]] to disengage from an ally standing beside you either. 
-## Swift Reversal 
+Allies within your melee threat [[Range & Threat|range]] benefit from Denied Ground as if they threatened that space themselves — a creature cannot move at full [[Ticks, Priority & Resolution|Priority]] to disengage from an ally standing beside you eitherPriority Swift Reversal 
 **Prerequisites:** Collapsed Guard. **Exclusive to Unbroken Line.**
 **Cost:** 2 Trait Points. 
 Entering or leaving Collapsed Guard's stance no longer costs an [[Actions|action]], up to once per [[Rounds|Round]]. 

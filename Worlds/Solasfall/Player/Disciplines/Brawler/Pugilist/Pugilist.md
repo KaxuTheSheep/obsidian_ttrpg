@@ -28,10 +28,10 @@ While unarmed and wearing no armour heavier than Brigandine, reduce all incoming
 ## Quickened Fists
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-Unarmed [[Attacks]] you make gain **+1 to [[Speed & Resolution|Speed]]**.
+Unarmed [[Attacks]] you make gain **+1 to [[Ticks, Priority & Resolution|Priority]]**.
 
 ## Flurry
-**Prerequisites:** Quickened Fists.
+**PrereqPriorityes:** Quickened Fists.
 **Cost:** 2 Trait Points.
 Once per [[Rounds|Round]], as part of the same Full [[Actions|Action]] as an unarmed [[Attacks|Attack]], you may make **one additional unarmed [[Attacks|Attack]]** at **–2**.
 

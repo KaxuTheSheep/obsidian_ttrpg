@@ -17,7 +17,7 @@ Read roughly in this order:
 4. [[Character Creation]] *([[Solasfall]]-specific but needed early)*
 5. [[Actions]] — Full/Half [[Actions]], Reactions
 6. [[Rounds]] — Declaration/Resolution phases
-7. [[Speed & Resolution]] — turn order
+7. [[Ticks, Priority & Resolution]] — turn order
 8. [[Sturdiness]], [[Blood]], [[Sanity]] — the three pools
 9. [[Death]], [[Injuries]] — what happens when pools hit zero
 10. [[Conditions]], [[Afflictions]] — status effects

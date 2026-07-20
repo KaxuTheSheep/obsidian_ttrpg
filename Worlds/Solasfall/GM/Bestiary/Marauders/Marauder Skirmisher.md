@@ -26,8 +26,8 @@ tags:
 
 ### Throwing Knife
 **Damage:** 1d4+3 Cutting or Piercing
-**Speed:** 15
-**Thrown Range:** 10m
+**Priority:** 15
+**Thrown Range:*Priority
 **Minimum Range:** 1m
 **Type:** Thrown
 **Traits:** Thrown, Close-Quarters Proficiency, Nimble, Concealable

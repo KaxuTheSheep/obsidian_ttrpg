@@ -11,8 +11,8 @@ Movement is measured in **squares**. Positions are declared either relatively ("
 ## How Movement Works
 Every movement type has two values:
 
-- **Initiation [[Speed & Resolution|Speed]]** — when you begin moving, this is your [[Speed & Resolution|Speed]] in the resolution order. Higher Initiation [[Speed & Resolution|Speed]] means you start moving earlier in the [[Rounds|round]].
-- **Travel Rate** — how many squares you move per [[Speed & Resolution|Speed]] point spent after initiating. More committed movement types initiate slower but cover ground more efficiently.
+- **Initiation [[Ticks, Priority & Resolution|Priority]]** — wPriorityou begin moving, this is your [[Ticks, Priority & Resolution|Priority]] in thPriorityolution order. Higher Initiation [[Ticks, Priority & Resolution|Priority]] meansPrioritystart moving earlier in the [[Rounds|round]].
+- **Travel Rate** — how many squares you move per [[Ticks, Priority & Resolution|Priority]] point Priority after initiating. More committed movement types initiate slower but cover ground more efficiently.
 
 Low commitment movement like Walking initiates quickly but travels slowly. High commitment movement like Running initiates slowly but covers ground far more efficiently once underway.
 
@@ -20,15 +20,15 @@ These values are listed as baseline humanoid values. Race or species entries in 
 
 ## Movement Type Table
 
-| Movement Type | Initiation [[Speed & Resolution|Speed]] | Travel Rate                                        | [[Actions|Action]] Cost |
+| Movement Type | Initiation [[Priority & Resolution|SpePriority| Travel Rate Priority                                  | [[Actions|Action]] Cost |
 | ------------- | ---------------- | -------------------------------------------------- | ----------- |
-| Walk          | 10               | 3 squares per [[Speed & Resolution|Speed]]                                | Free        |
-| Run           | 8                | 8 squares per [[Speed & Resolution|Speed]]                                | Full        |
-| Climb         | 5                | 1.5 squares per [[Speed & Resolution|Speed]]                              | Free        |
-| Swim          | 4                | 1.5 squares per [[Speed & Resolution|Speed]]                              | Free        |
-| Burrow        | 2                | 1 square per [[Speed & Resolution|Speed]]                                 | Free        |
-| Fly           | 5                | 5 squares per [[Speed & Resolution|Speed]]                                | Full        |
-| Crawl         | 7                | 1 square per [[Speed & Resolution|Speed]]                                 | Free        |
+| Walk          | 10               | 3 squares per [[Priority & Resolution|PriorityPriority              Priority          | Free        |
+| Run           | 8                | 8 squares per [[Priority & Resolution|Priority]Priority              Priority         | Full        |
+| Climb         | 5                | 1.5 squares per [[Priority & Resolution|Priority]]Priority              Priority      | Free        |
+| Swim          | 4                | 1.5 squares per [[Priority & Resolution|Priority]] Priority              Priority     | Free        |
+| Burrow        | 2                | 1 square per [[Priority & Resolution|Priority]]  Priority              Priority       | Free        |
+| Fly           | 5                | 5 squares per [[Priority & Resolution|Priority]]   Priority              Priority     | Full        |
+| Crawl         | 7                | 1 square per [[Priority & Resolution|Priority]]    Priority              Priority     | Free        |
 | Jump          | 8                | 1.5 squares + [[Attributes|Might]] per Instant<br>1 square height | Half        |
 
 ## Movement Types
@@ -47,9 +47,9 @@ These values are listed as baseline humanoid values. Race or species entries in 
 
 **Crawl** Slow, deliberate movement while low to the ground or through tight spaces. Initiates quickly — you drop immediately — but covers ground very slowly. May be used for [[Skills|stealth]] or navigating confined areas.
 
-**Jump** A specialised burst movement used to cross gaps or obstacles. Covers its distance instantly at the point of initiation — there is no travel rate. Costs a Half [[Actions|Action]]. Repeating a jump requires re-initiating at [[Speed & Resolution|Speed]] 8.
+**Jump** A specialised burst movement used to cross gaps or obstacles. Covers its distance instantly at the point of initiation — there is no travel rate. Costs a Half [[Actions|Action]]. Repeating a jump requires re-initiating at [[Ticks, Priority & Resolution|Priority]] 8.
 
-Base jump distance is defined by species entry. If you have moved at least 3 squares by walking or running immediately before jumping, add your [[Attributes|Might]] in squares to the jump distance.
+Base jump distance is defined by specPriorityntry. If you have moved at least 3 squares by walking or running immediately before jumping, add your [[Attributes|Might]] in squares to the jump distance.
 
 ## Using Movement
 - Movement can be taken before, after, or between your Full and Half [[Actions]] each [[Rounds|Round]], allowing flexible tactics.

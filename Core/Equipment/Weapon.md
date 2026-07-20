@@ -2,13 +2,13 @@
 tags:
   - Mechanics/Combat
 ---
-Weapons define how a character can fight in combat. Each weapon provides its own balance of reach, [[Speed & Resolution|speed]], power, and defensive interaction. Choosing a weapon is choosing a fighting style.
+Weapons define how a character can fight in combat. Each weapon provides its own balance of reach, [[Ticks, Priority & Resolution|speePrioritypower, and defensive interaction. Choosing a weapon is choosing a fighting style.
 
 All weapons share the following properties:
 
 **[[Damage Types|Damage]] Die:** The base [[Damage Types|damage]] the weapon inflicts before adding [[Attributes|Attribute]].
 
-**[[Speed & Resolution|Speed]] (Base):** Determines how quickly the weapon can be brought to bear. Higher [[Speed & Resolution|Speed]] resolves earlier in the [[Rounds|round]].
+**[[Ticks, Priority & Resolution|Priority]] (BPriority** Determines how quickly the weapon can be brought to bear. Higher [[Ticks, Priority & Resolution|Priority]] rePrioritys earlier in the [[Rounds|round]].
 
 **[[Range & Threat|Range]]:** How far from your body the weapon threatens space. Reach is listed as a **+X squares** value added to your natural melee [[Range & Threat|range]].
 

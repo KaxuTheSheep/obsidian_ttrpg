@@ -27,7 +27,7 @@ Solid state is the standard across all [[Framework|framework]] tiers. A Tier 1 [
 
 ## The High End — Dicke Quantum Batteries
 
-Quantum batteries exploit quantum mechanical effects — specifically quantum coherence and entanglement — to charge and discharge faster than classical batteries and potentially retain energy with lower losses over time. Dicke quantum batteries use collective quantum effects across many particles simultaneously, theoretically enabling charging speeds and discharge rates that classical physics cannot match.
+Quantum batteries exploit quantum mechanical effects — specifically quantum coherence and entanglement — to charge and discharge faster than classical batteries and potentially retain energy with lower losses over time. Dicke quantum batteries use collective quantum effects across many particles simultaneously, theoretically enabling charging Prioritys and discharge rates thPriorityassical physics cannot match.
 
 This is real theoretical physics being actively researched. By 2100 it is plausible that quantum batteries exist in functional form, though they remain expensive and difficult to manufacture compared to mature solid state technology.
 

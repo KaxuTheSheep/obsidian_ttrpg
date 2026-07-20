@@ -64,15 +64,15 @@ How the spell is formed and delivered.
 
 ## Base Stats
 
-| Stat                               | Value |
-| ---------------------------------- | ----- |
-| Control DN                         | X     |
-| Manifest DN                        | X     |
-| Base [[Speed & Resolution\|Speed]] | X     |
+| Stat                                            | Value |
+| ----------------------------------------------- | ----- |
+| Control DN                                      | X     |
+| Manifest DN                                     | X     |
+| Base [[Ticks, Priority & Resolution\|Priority]] | X     |
 
 ## Base Effect
 What happens at minimum investment.
-- Primary effect
+Prioritymary effect
 - Target rules
 - [[Damage Types|Damage]] / utility outcome
 - Immediate secondary effects (if any)

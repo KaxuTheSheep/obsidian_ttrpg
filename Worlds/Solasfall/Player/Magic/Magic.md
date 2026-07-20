@@ -40,8 +40,7 @@ Flux Casting requires the caster to form, stabilise, and release [[Mana|mana]] i
 Weave Casting uses a constructed magical framework — circle, rune, or geometric sigil — that constrains [[Mana|mana]] into a predefined pattern. Unlike Flux Casting, the spell's structure exists before or during activation, not during freeform shaping. Weave Casting trades flexibility for consistency and control.
 
 ### Core Properties
-- Medium casting [[Speed & Resolution|speed]] (varies depending on construction)
-- Moderate stability
+- Medium casting [[Ticks, Priority & Resolution|Priority]] (varies depending on construction)Priorityderate stability
 - Requires physical or inscribed structure
 - Can be interrupted during construction (if mid-combat)
 - More consistent than Flux Casting, less flexible than it
@@ -71,8 +70,8 @@ Weave Casting constrains [[Mana|mana]] through structure. Woven Casting executes
 
 # Casting Comparison
 
-| Method              | [[Speed & Resolution\|Speed]] | Stability | Flexibility | Preparation           |
-| ------------------- | ----------------------------- | --------- | ----------- | --------------------- |
+| Method              | [[Ticks, Priority & Resolution\|Priority]] | Stability | Flexibility | Preparation           |
+| -----------Priority--- | ----------------------------- | --------- | ----------- | --------------------- |
 | Flux Casting        | Fastest execution             | Low       | Very high   | None                  |
 | Drawn Weave Casting | Medium                        | Medium    | Medium      | Partial (in-combat)   |
 | Woven Casting       | Fast activation               | High      | Low         | Full pre-combat setup |

@@ -27,21 +27,21 @@ Found throughout [[The Sunken Hollow]], soldiers defend the colony's aphid herds
 
 ## [[Movement Types|Movement]]
 
-| Type | Initiation | Travel Rate |
-|---|---|---|
-| Walk | 10 | 3m per [[Speed & Resolution\|Speed]] |
-| Run | 8 | 6m per [[Speed & Resolution\|Speed]] |
-| Climb | 5 | 0.75m per [[Speed & Resolution\|Speed]] |
+| Type  | Initiation | Travel Rate                                             |
+| ----- | ---------- | ------------------------------------------------------- |
+| Walk  | 10         | 3m per [[Ticks, Priority & Resolution\|Priority]]       |
+| Run   | 8          | 6m per [[Ticks, Priority & Resolution\|Priority]]       |
+| Climb | 5          | 0.75m pePriorityicks, Priority & Resolution\|Priority]] |
 
-Unlike workers, a soldier's size means climbing is genuine effort rather than effortless wall-walking — slower and more deliberate, but still capable.
+Unlike workers, a soldiers size means climbing is genuine effort rather than effortless wall-walking — slower and more deliberate, but still capable.
 
 ## [[Actions]]
 
 ### Acid Mandibles
 *The soldier's bite delivers concentrated, [[Mana|mana]]-enhanced formic acid directly into the wound.*
 **[[Damage Types|Damage]]:** 1d6 + 2 [[Damage Types|Piercing]]
-**[[Speed & Resolution|Speed]]:** 9 + [[Attributes|Might]] (12)
-**[[Range & Threat|Range]]:** +0m
+**[[Ticks, Priority & Resolution|Priority]]:** 9 + [[Attributes|Might]] (12)
+*Prioritynge & Threat|Range]]:** +0m
 **Type:** Melee
 **On Hit:** Target makes a [[Attributes|Vitality]] Test (DN 12). On failure, apply **Burn** (2 [[Rounds|rounds]] — 1d2 fire [[Damage Types|damage]] per [[Rounds|round]], bypasses [[Sturdiness]], as per [[Fireball]]'s Burn effect).
 

@@ -5,7 +5,7 @@ tags:
   - Mechanics/Combat
 ---
 **Actions represent the things your character chooses to do during the Declaration Phase of each [[Rounds|Round]].**  
-Everyone decides their intentions before the [[Rounds|round]] begins, and these intentions [[Attributes|resolve]] in order of [[Speed & Resolution|Speed]] during the Resolution Phase.
+Everyone decides their intentions before the [[Rounds|round]] begins, and these intentions [[Attributes|resolve]] in order of [[Ticks, Priority & Resolution|Priority]]Priorityng the Resolution Phase.
 
 Each [[Rounds|Round]], a character receives:
 - **2.5 Actions**
@@ -29,9 +29,9 @@ Examples of Full Actions:
 
 ### Half Actions
 A Half Action represents a quick or less involved task.  
-Half Actions occur during your Declaration Phase and do not affect [[Speed & Resolution|Speed]] resolution order.
+Half Actions occur during your Declaration Phase and do not affect [[Ticks, Priority & Resolution|Priority]] resolution order.
 
-Examples of Half Actions:
+Example  of Half Actions:
 - Draw or stow a [[weapon]]
 - Jump
 - Interact (simple or quick)
