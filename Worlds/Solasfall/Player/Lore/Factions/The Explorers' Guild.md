@@ -20,13 +20,12 @@ Below the Council, the Guild runs on tiered membership:
 - **Registered** — minimal vetting, access to standard contracts and public maps.
 - **Delvers** — proven survivors, access to better-paying contracts and restricted intelligence.
 - **Council Candidates** — the rare few whose expedition record puts them in consideration for a Council seat.
-
 ### Economy & Contracts
 Expeditions are contracted, not salaried — the Guild takes a cut of whatever a party brings back, plus a flat listing fee for access to their logistics and intelligence network. Independent parties can buy Guild support (a Wayfinder, safe zone directions, emergency extraction priority) without joining, at a steep premium.
-
 ### Guarded Knowledge
 Safe zone locations within mapped nexuses are among the most closely held information the Guild possesses, shared only with Delvers and above or sold at extreme premium to desperate independents.
-
+### Marauders
+Not every name on a missing-party report died to the Hollowdeep itself or it's creatures. "Marauder" is Guild shorthand for an Explorer who has killed one of another for loot, and staged the body to read as a monster kill. There is no cell, no leadership, no shared cause; a Marauder is defined by what they did once, not by any oath or organisation, and two of them meeting underground are as likely to turn on each other as to cooperate. Most operate against the unregistered and the desperate, whose absence draws no formal inquiry. The unsettling truth the Council doesn't advertise is that some hold clean Guild standing and have delved for years without suspicion, the Hollowdeep's ecosystem is violent and inconsistent enough that a well-staged kill rarely earns a second look, and Investigation into a "confirmed predator death" is not standard practice unless something about the scene already smells wrong.
 ### Relationships
 - **Ministry of Balance** — the Guild's most important relationship. The Ministry sets [[Mana]] Stone exchange rates, giving it significant leverage over Guild profitability; friction between the two is constant but neither side can afford to break the arrangement.
 - **[[Magic]] Institutions** — practical and transactional. Aetherbron supplies Wayfinders, Lifebinders provide expedition medical support, Riftconjurors coordinate [[Rift|rift]] cycle timing, Runeweavers sell artefacts and tools at commercial rates.

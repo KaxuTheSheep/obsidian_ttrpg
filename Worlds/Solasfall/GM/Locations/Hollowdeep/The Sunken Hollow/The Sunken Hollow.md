@@ -70,7 +70,7 @@ Short but unmistakably wrong — runework and construction material that does no
 
 **Hidden Portal Chamber**  
 _Connects to: Transitional Passage only_  
-Houses the artificial portal proper — unmistakably constructed, leading onward to an The Root Cradle1. Who built it, and why, remains unanswered.
+Houses the artificial portal proper — unmistakably constructed, leading onward to an The Root Cradle. Who built it, and why, remains unanswered.
 
 **Narrow Vent**  
 _Connects to: Stalactite Passage (up) ↔ Lower Passage (down)_  
