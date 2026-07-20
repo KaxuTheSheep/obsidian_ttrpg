@@ -53,9 +53,9 @@ When you score a **Critical Success** on a Parry, your free counter-[[Attacks|at
 ## Whirling Advance
 **Prerequisites:** Nimble Footing.
 **Cost:** 2 Trait Points.
-When you change Facing via Nimble Footing, you may also shift **1m** to an adjacent unoccupied square as part of the same free [[Actions|action]].
+When you change Facing via Nimble Footing, you may also shift **1m** to an adjacent unoccupied meter as part of the same free [[Actions|action]].
 
-## Opened Wound
+##meterd Wound
 **Prerequisites:** Keen Point.
 **Cost:** 3 Trait Points.
 When an [[Attacks|Attack]] benefiting from Keen Point's bonus hits, the target also takes **1 Blood [[Damage Types|damage]]** at the start of their next turn — a shallow, precise cut left to bleed.

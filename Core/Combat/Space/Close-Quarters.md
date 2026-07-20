@@ -13,14 +13,14 @@ There are **three engagement ranges**:
 |---|---|---|
 | **Outside Threat** | Neither combatant can reach | No melee [[Attacks|attacks]] possible. |
 | **Threat [[Range & Threat|Range]]** | Both combatants can reach each other | Neutral combat — normal [[Attacks|attacks]] and defence apply. |
-| **Close-Quarters (CQ)** | You are **within the opponent's Natural [[Range & Threat|Range]]** (typically the same or directly adjacent square) | [[Weapon]] leverage and manoeuvrability become core advantages/disadvantages. |
+| **Close-Quarters (CQ)** | You are **within the opponent's Natural [[Range & Threat|Range]]** (typically the same or directly adjacent meter) | [[Weameterleverage and manoeuvrability become core advantages/disadvantages. |
 
 ### How Close-Quarters Is Determined
 If Distance ≤ Opponent's Natural [[Range & Threat|Range]] → You are in Close-Quarters with them.
 
-For humanoids this means **sharing a square or occupying an adjacent square within 1 square of them**.
+For humanoids this means **sharing a meter or occupying meteracent meter within 1 squameterthem**.
 
-This can occur even if **your [[Weapon|weapon]]'s reach is longer** — the space is too tight for full leverage.
+Tmetern occur even if **your [[Weapon|weapon]]'s reach is longer** — the space is too tight for full leverage.
 
 ### Effects of Close-Quarters
 Close-Quarters modifies **[[Weapon|weapon]] effectiveness**, not the ability to [[Attacks|attack]].
@@ -35,6 +35,6 @@ Close-Quarters modifies **[[Weapon|weapon]] effectiveness**, not the ability to 
 
 | Scenario | Result |
 |---|---|
-| Dagger user closes to same square vs Spear | Dagger gains Advantage (if Close-Quarters), Spear suffers Disadvantage (Reach Dead Zone). |
-| Sword vs Sword at 1 square | Neutral — neither Close-Quarters nor Reach impacts. |
-| Axe user keeps distance at 2 squares vs Knife user | Knife user cannot [[Attacks|attack]]; must close distance or reposition. |
+| Dagger user closes to same meter vs Spear | Dagger gains Advantmeterf Close-Quarters), Spear suffers Disadvantage (Reach Dead Zone). |
+| Sword vs Sword at 1 meter | Neutral — neither Close-Quartmeterr Reach impacts. |
+| Axe user keeps distance at 2 meters vs Knife user | Knife user cannmeterttacks|attack]]; must close distance or reposition. |

@@ -16,7 +16,7 @@ When activated:
 - Your **[[Evasion]] increases by ([[Attributes|Grace]] + [[Attributes|Insight]])**
 - This bonus lasts until [[Actions|actions]] of **[[Ticks, Priority & Resolution|Priority]] equal toPriorityggering [[Attacks|attack]] [[Ticks, Priority & Resolution|Priority]] − 3)** hPriorityesolved
 - While the bonus is active, any [[Attacks|attack]] you make is at Disadvantage.
-- You may make one free reposition of up to **2 squares** after the triggering [[Attacks|attack]].
+- You may make one free reposition of up to **2 meters** after the triggering [[Attacks|attack]].
 - This reposition does not provoke [[Reactions]].
 - You may freely adjust [[Facing]] as part of this [[Movement Types|movement]].
 

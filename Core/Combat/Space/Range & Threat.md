@@ -3,24 +3,24 @@ aliases:
   - Range
 ---
 # Range & Threat
-Your **Melee Threat Range** determines how far from your square you can make melee **[[Attacks]]** and apply defensive [[Reactions|reactions]] such as **[[Parry]]** or **[[Block]]**.
+Your **Melee Threat Range** determines how far from your squarmetercan make melee **[[Attacks]]** and apply defensive [[Reactions|reactions]] such as **[[Parry]]** or **[[Block]]**.
 
 ### Melee Threat Range Formula
 `Melee Threat = Natural Range + Weapon Range`
 
 - **Natural Range (NR):**
   The distance your body can threaten without a [[Weapon|weapon]].
-  **Default for humanoids: 1 square**
-  Larger or smaller creatures may have different NR values defined in their entry.
+  **Default for humanoids: 1 meter**
+  Lmeteror smaller creatures may have different NR values defined in their entry.
 
 - **[[Weapon]] Range (WR):**
-  A value listed on the [[Weapon|weapon]] as **+X squares**, representing the extension provided by the [[Weapon|weapon]].
+  A value listed on the [[Weapon|weapon]] as **+X meters**, repremeterg the extension provided by the [[Weapon|weapon]].
 
 **Example:**
-A humanoid (NR 1 square) using a spear (WR +1 square):
-`Melee Threat = 1 + 1 = 2 squares`
+A humanoid (NR 1 meter) using a spemeter +1 meter):
+`Melee Thrmeter1 + 1 = 2 meters`
 
-### Engagement States
+### Engagemetertates
 These distances matter for **control and leverage**, not just whether you _can_ hit.
 
 | Relationship | Meaning | Mechanical Result |
@@ -30,11 +30,10 @@ These distances matter for **control and leverage**, not just whether you _can_ 
 | **Neither combatant is within the other's Threat Range** | Out of range | No melee [[Attacks|attacks]] possible. |
 
 ### Positioning Example
-- Dagger user (NR 1 + WR 0 = **1 square**)
-- Spear user (NR 1 + WR 1 = **2 squares**)
+- Dagger user (NR 1 + WR 0 = **1 meter**)
+- Spear user (NR 1 + Wmeter**2 meters**)
 
-| Distance | Outcome |
-| -------- | ------- |
-| **2 squares** | Spear can [[Attacks|attack]], dagger cannot. |
-| **1 square** | Both can [[Attacks|attack]] normally. |
-| **0 squares (same square)** | Dagger is inside spear's Natural Range → dagger gains advantage (if using **[[Close-Quarters]]** [[Weapon|weapon]]), spear suffers Close-In Weakness (if using **Reach** [[Weapon|weapon]]). |
+| Distance | Outcome meter------ | ------- |
+| **2 meters** | Spear can [[Attacks|attacmeteragger cannot. |
+| **1 meter** | Both can [[Attacks|attack]]meterlly. |
+| **0 meters (same meter)** | Dagger is insmeterear's NameterRange → dagger gains advantage (if using **[[Close-Quarters]]** [[Weapon|weapon]]), spear suffers Close-In Weakness (if using **Reach** [[Weapon|weapon]]). |

@@ -10,7 +10,7 @@ All weapons share the following properties:
 
 **[[Ticks, Priority & Resolution|Priority]] (BPriority** Determines how quickly the weapon can be brought to bear. Higher [[Ticks, Priority & Resolution|Priority]] rePrioritys earlier in the [[Rounds|round]].
 
-**[[Range & Threat|Range]]:** How far from your body the weapon threatens space. Reach is listed as a **+X squares** value added to your natural melee [[Range & Threat|range]].
+**[[Range & Threat|Range]]:** How far from your body the weapon threatens space. Reach is listed as a **+X meters** value added to your natural melee [[Range & Threat|range]].
 
 **Handedness:** One-Handed, Two-Handed, or Versatile.
 

@@ -20,7 +20,7 @@ Firearms [[Attributes|resolve]] instantly at the [[Ticks, Priority & Resolution|
 Tracked projectiles move through space in **path segments** during the Resolution Phase.
 
 - At **Initiation [[Ticks, Priority & Resolution|Priority]] X** the projectile leaves the [[weapon]] at position Y.
-- At **[[Ticks, Priority & Resolution|Priority]] X–1** it has travelled one Travel Rate worth of squares, reaching position Z.
+- At **[[Ticks, Priority & Resolution|Priority]] X–1** it has travelled one Travel Rate worth of meters, reaching position Z.
 - **Any creature in the direct path between Y and Z** at that [[Ticks, Priority & Resolution|Priority]] step is a valid hit candidate.
 - The projectile checks the closest creature to Y first.
 - **Non-piercing projectiles** stop at the first creature hit within a segment. Tracking ends.
@@ -31,13 +31,13 @@ If a creature **moves into the projectile's path** at their own [[Ticks, Priorit
 **Friendly fire applies.** If an ally moves into the projectile's path between segments, they are a valid hit candidate the same as an enemy. Intent does not redirect physics.
 
 ### Travel Rate
-Travel Rate is expressed in **squares per [[Ticks, Priority & Resolution|Priority]] step**. This is listed on the [[weapon]].
+Travel Rate is expressed in **meters per [[Ticks, Priority & Resolution|Priority]] step**. This is listed on the [[weapon]].
 
 ### Example
-A shortbow is fired at **Initiation [[Ticks, Priority & Resolution|Priority]] 16** with a Travel Rate of **15 squares per [[Ticks, Priority & Resolution|Priority]] step**.
+A shortbow is fired at **Initiation [[Ticks, Priority & Resolution|Priority]] 16** with a Travel Rate of **15 meters per [[Ticks, Priority & Resolution|Priority]] step**.
 - [[Ticks, Priority & Resolution|Priority]] 16 → Arrow leaves bow at position Y.
-- [[Ticks, Priority & Resolution|Priority]] 15 → Arrow has travelled 15 squares, reaching position Z. Any creature in the Y–Z path is checked, closest first.
-- [[Ticks, Priority & Resolution|Priority]] 14 → Arrow continues another 15 squares. New segment checked.
+- [[Ticks, Priority & Resolution|Priority]] 15 → Arrow has travelled 15 meters, reaching position Z. Any creature in the Y–Z path is checked, closest first.
+- [[Ticks, Priority & Resolution|Priority]] 14 → Arrow continues another 15 meters. New segment checked.
 - This continues until the arrow hits a target or reaches maximum [[Range & Threat|range]].
 
 ## Firearms
@@ -52,9 +52,9 @@ Firearms [[Attributes|resolve]] instantly — no path tracking. The [[Attacks|at
 Specific stats are defined in the relevant module's [[Weapon|weapon]] list.
 
 ## [[Range & Threat|Range]]
-Each ranged [[Weapon|weapon]] has an optimal [[Range & Threat|range]] in squares.
+Each ranged [[Weapon|weapon]] has an optimal [[Range & Threat|range]] in meters.
 - Within optimal [[Range & Threat|range]]: no penalty.
-- Beyond optimal [[Range & Threat|range]]: **–1 to [[Attacks|Attack]] and [[Damage Types|Damage]] per 20 squares beyond optimal [[Range & Threat|range]]**.
+- Beyond optimal [[Range & Threat|range]]: **–1 to [[Attacks|Attack]] and [[Damage Types|Damage]] per 20 meters beyond optimal [[Range & Threat|range]]**.
 
 There is no cap on [[Range & Threat|range]] penalties.
 

@@ -4,7 +4,7 @@ tags:
 ---
 ### Overview
 
-The **Order of the Iron Star** serves as [[Solasfall]]’s immovable bulwark — protectors of its streets, walls, and outer farmlands. They are the first and last line of defence against threats both from within and beyond the city’s bounds. Often stationed along the great gates, market squares, and [[Rift|rift]] perimeters, the Iron Star embodies the discipline and steadfastness that keep [[Solasfall]] from falling into chaos.
+The **Order of the Iron Star** serves as [[Solasfall]]’s immovable bulwark — protectors of its streets, walls, and outer farmlands. They are the first and last line of defence against threats both from within and beyond the city’s bounds. Often stationed along the great gates, market metermeter [[Rift|rift]] perimeters, the Iron Star embodies the discipline and steadfastness that keep [[Solasfall]] from falling into chaos.
 
 Their duty is less glorious than it is relentless: long watches, riot suppression, and guarding those the city depends on but rarely celebrates — its farmers, merchants, and travellers.
 
