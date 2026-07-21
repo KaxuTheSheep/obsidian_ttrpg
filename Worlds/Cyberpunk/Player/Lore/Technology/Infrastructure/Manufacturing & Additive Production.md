@@ -10,7 +10,7 @@ tags: [technology, manufacturing, production, additive]
 
 ## The Shift
 
-By 2100 additive manufacturing — 3D printing in its mature form — has resolved the current limitations of Priority, materPriorityange, and structural integrity. The result is a manufacturing model that differs fundamentally from the factory-to-distribution pipeline of the 20th and early 21st centuries.
+By 2100 additive manufacturing — 3D printing in its mature form — has resolved the current limitations of speed, material range, and structural integrity. The result is a manufacturing model that differs fundamentally from the factory-to-distribution pipeline of the 20th and early 21st centuries.
 
 The factory model shifts from producing finished objects to producing feedstock — the raw material inputs that local print nodes consume. Controlling feedstock is controlling manufacturing. Objects are produced where they are needed rather than shipped from centralised facilities, which reduces logistics complexity but creates a different dependency structure.
 

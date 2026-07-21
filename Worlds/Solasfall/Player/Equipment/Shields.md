@@ -18,30 +18,30 @@ Each shield has:
 ### Buckler
 _A small fist-shield used to deflect rather than absorb._ 
 
-| Property          | Effect                                 |
-| ----------------- | -------------------------------------- |
-| **[[Block]] Die**     | **1d4** per [[Block]]                      |
-| **[[Parry]]**         | **Advantage**                          |
-| **[[Evasion]]**       | No change                              |
-| **[[Ticks, Priority & Resolution\|Priority]]**         | +2   Priority                             |
-| **Weight / Bulk** | Light — does **not** restrict [[Movement Types\|movement]] |
+| Property                                       | Effect                                                     |
+| ---------------------------------------------- | ---------------------------------------------------------- |
+| **[[Block]] Die**                              | **1d4** per [[Block]]                                      |
+| **[[Parry]]**                                  | **Advantage**                                              |
+| **[[Evasion]]**                                | No change                                                  |
+| **[[Ticks, Priority & Resolution\|Priority]]** | +2 Priority                                                |
+| **Weight / Bulk**                              | Light — does **not** restrict [[Movement Types\|movement]] |
 ### Heater
 _A balanced defensive shield offering reliable protection._
 
-| Property                          | Effect                                                       |
-| --------------------------------- | ------------------------------------------------------------ |
-| **[[Block]] Die**                 | **1d8** per [[Block]]                                        |
-| **[[Parry]]**                     | No bonus or penalty                                          |
-| **[[Evasion]]**                   | No change                                                    |
-| **[[Ticks, Priority & Resolution\|Priority]]** | 0                      Priority                                 |
-| **Weight / Bulk**                 | Standard — can be used in one hand without major restriction |
+| Property                                       | Effect                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| **[[Block]] Die**                              | **1d8** per [[Block]]                                        |
+| **[[Parry]]**                                  | No bonus or penalty                                          |
+| **[[Evasion]]**                                | No change                                                    |
+| **[[Ticks, Priority & Resolution\|Priority]]** | 0 Priority                                                   |
+| **Weight / Bulk**                              | Standard — can be used in one hand without major restriction |
 ### Pavise
 _A massive shield used to cover the body and control space._
 
-| Property          | Effect                                                        |
-| ----------------- | ------------------------------------------------------------- |
-| **[[Block]] Die**     | **1d12** per [[Block]]                                            |
-| **[[Parry]]**         | **Disadvantage**                                              |
-| **[[Evasion]]**       | **-2**                                                        |
-| **[[Ticks, Priority & Resolution\|Priority]]**         | -2                       Priority                                |
-| **Weight / Bulk** | Heavy — may restrict [[Movement Types\|movement]] and positioning in tight spaces |
+| Property                                       | Effect                                                                            |
+| ---------------------------------------------- | --------------------------------------------------------------------------------- |
+| **[[Block]] Die**                              | **1d12** per [[Block]]                                                            |
+| **[[Parry]]**                                  | **Disadvantage**                                                                  |
+| **[[Evasion]]**                                | **-2**                                                                            |
+| **[[Ticks, Priority & Resolution\|Priority]]** | -2 Priority                                                                       |
+| **Weight / Bulk**                              | Heavy — may restrict [[Movement Types\|movement]] and positioning in tight spaces |

@@ -30,7 +30,7 @@ Every party knows the Weighing produces desperation before it produces corpses. 
 **Damage:** 1d4+2 Cutting or Piercing
 **Priority:** 13
 **Range:** +0.40m
-Prioritye:** Melee
+**Type:** Melee
 
 ## Trait — Cornered Desperation
 Below 30% Blood, gain **+2** to Attack Tests. Cannot voluntarily Withdraw while this trait is active.

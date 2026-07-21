@@ -27,13 +27,13 @@ Found throughout [[The Sunken Hollow]] tending aphid herds and harvesting the ca
 
 ## [[Movement Types|Movement]]
 
-| Type | Initiation | Travel Rate |
-|---|---|---|
-| Walk | 10 | 3m per [[Ticks, Priority & Resolution\|Priority]] |
-| Run | 8 | 7m per [[Priority, Priority & Resolution\|Priority]] |
-| Climb | 5 | 2m per [Prioritys, Priority & Resolution\|Priority]] |
+| Type  | Initiation | Travel Rate                                          |
+| ----- | ---------- | ---------------------------------------------------- |
+| Walk  | 10         | 3m per [[Ticks, Priority & Resolution\|Tick]]        |
+| Run   | 8          | 7m per [[Ticks, Priority & Resolution\|Tick]]\|      |
+| Climb | 5          | 2m per [Prioritys, Priority & Resolution\|Priority]] |
 
-Workers climb walls anPrioritylings with the same ease as flat ground, reflecting their small size and weight.
+Workers climb walls and ceilings with the same ease as flat ground, reflecting their small size and weight.
 
 ## [[Actions]]
 
@@ -41,7 +41,7 @@ Workers climb walls anPrioritylings with the same ease as flat ground, reflectin
 *The worker clamps down with disproportionate force for its size.*
 **[[Damage Types|Damage]]:** 1d4 + 1 [[Damage Types|Piercing]]
 **[[Ticks, Priority & Resolution|Priority]]:** 13 + [[Attributes|Grace]] (16)
-[[Range & Threat|Range]]:** +0m
+**[[Range & Threat|Range]]:** +0m
 **Type:** Melee
 
 ## Behaviour

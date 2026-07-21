@@ -41,7 +41,7 @@ Unlike workers, a soldiers size means climbing is genuine effort rather than eff
 *The soldier's bite delivers concentrated, [[Mana|mana]]-enhanced formic acid directly into the wound.*
 **[[Damage Types|Damage]]:** 1d6 + 2 [[Damage Types|Piercing]]
 **[[Ticks, Priority & Resolution|Priority]]:** 9 + [[Attributes|Might]] (12)
-*Prioritynge & Threat|Range]]:** +0m
+**[[Range & Threat|Range]]:** +0m
 **Type:** Melee
 **On Hit:** Target makes a [[Attributes|Vitality]] Test (DN 12). On failure, apply **Burn** (2 [[Rounds|rounds]] — 1d2 fire [[Damage Types|damage]] per [[Rounds|round]], bypasses [[Sturdiness]], as per [[Fireball]]'s Burn effect).
 

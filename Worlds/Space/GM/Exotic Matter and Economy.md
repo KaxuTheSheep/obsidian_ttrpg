@@ -27,4 +27,4 @@ All three corps can produce antimatter in bulk — this is not a scarcity point 
 ## Adventure Hooks
 - Sabotaging a rival's collector satellites (not the hub planet itself) is a precise, plausible, high-value sabotage target.
 - A missed or deliberately denied wormhole activation window can strand a crew, delay a mission, or be used as corporate leverage.
-- A rare, high-priority Alcubierre-fitted ship appearing somewhere it shouldn't be is an immediate signal that something urgent or important is happening.
+- A rare, high-speed Alcubierre-fitted ship appearing somewhere it shouldn't be is an immediate signal that something urgent or important is happening.

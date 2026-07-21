@@ -55,7 +55,7 @@ When you score a **Critical Success** on a Parry, your free counter-[[Attacks|at
 **Cost:** 2 Trait Points.
 When you change Facing via Nimble Footing, you may also shift **1m** to an adjacent unoccupied meter as part of the same free [[Actions|action]].
 
-##meterd Wound
+## Open Wound
 **Prerequisites:** Keen Point.
 **Cost:** 3 Trait Points.
 When an [[Attacks|Attack]] benefiting from Keen Point's bonus hits, the target also takes **1 Blood [[Damage Types|damage]]** at the start of their next turn — a shallow, precise cut left to bleed.

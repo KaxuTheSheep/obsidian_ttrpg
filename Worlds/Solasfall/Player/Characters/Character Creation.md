@@ -79,7 +79,7 @@ Once per day, produce a common tool or piece of gear you "happen to have."
 Once per Long Rest, turn a failed roll into a success.
 
 ### Quick Reflexes
-Once per combat, when an enemy declares an [[Attacks|Attack]] or effect that includes you as a target (before any [[Attacks|Attack]] roll or effect resolution), you move a number of metres equal to your Walk Travel Rate + Grace in metres at [[Ticks, Priority & Resolution|Priority]] 14. You count as targeted at the moment the enemy declares intent, even iPriority effect also targets other creatures or areas.
+Once per combat, when an enemy declares an [[Attacks|Attack]] or effect that includes you as a target (before any [[Attacks|Attack]] roll or effect resolution), you move a number of metres equal to your Walk Travel Rate + Grace in metres at [[Ticks, Priority & Resolution|Priority]] 14. You count as targeted at the moment the enemy declares intent, even if the effect also targets other creatures or areas.
 
 ### Craftsman
 You can repair broken gear twice as fast and create simple items given time and materials.

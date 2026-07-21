@@ -5,7 +5,7 @@ tags:
   - Mechanics/Combat
 ---
 **Actions represent the things your character chooses to do during the Declaration Phase of each [[Rounds|Round]].**  
-Everyone decides their intentions before the [[Rounds|round]] begins, and these intentions [[Attributes|resolve]] in order of [[Ticks, Priority & Resolution|Priority]]Priorityng the Resolution Phase.
+Everyone decides their intentions before the [[Rounds|round]] begins, and these intentions resolve in order of [[Ticks, Priority & Resolution|Priority]]during the Resolution Phase.
 
 Each [[Rounds|Round]], a character receives:
 - **2.5 Actions**

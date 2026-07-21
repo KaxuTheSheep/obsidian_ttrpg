@@ -14,15 +14,14 @@ Ranged weapons [[Falling|fall]] into two categories based on how their projectil
 Bows, crossbows, thrown weapons, and similar arms use tracked projectile [[Movement Types|movement]]. The projectile travels through space during the Resolution Phase and can interact with anything in its path.
 
 ### Instant Projectiles
-Firearms [[Attributes|resolve]] instantly at the [[Ticks, Priority & Resolution|Priority]] they are fired. Bullet travel time is irrelevant at encounter scale — the projectile arrives in the same [[Ticks, Priority & Resolution|Priority]] step it is launched. No path tracking occurs. The [[Attacks|attack]] simply resolves against the declared target at Initiation [[Ticks, Priority & Resolution|Priority]].
+Firearms or Very fast projectiles resolve instantly at the [[Ticks, Priority & Resolution|Tick]] they are fired. Bullet travel time is irrelevant at encounter scale — the projectile arrives in the same [[Ticks, Priority & Resolution|Tick]] step it is launched. No path tracking occurs. The [[Attacks|attack]] simply resolves against the declared target at Initiation [[Ticks, Priority & Resolution|Priority]].
 
 ## Tracked Projectile Resolution
 Tracked projectiles move through space in **path segments** during the Resolution Phase.
 
 - At **Initiation [[Ticks, Priority & Resolution|Priority]] X** the projectile leaves the [[weapon]] at position Y.
-- At **[[Ticks, Priority & Resolution|Priority]] X–1** it has travelled one Travel Rate worth of meters, reaching position Z.
+- At **[[Ticks, Priority & Resolution|Tick]] X–1** it has travelled one Travel Rate worth of meters, reaching position Z.
 - **Any creature in the direct path between Y and Z** at that [[Ticks, Priority & Resolution|Priority]] step is a valid hit candidate.
-- The projectile checks the closest creature to Y first.
 - **Non-piercing projectiles** stop at the first creature hit within a segment. Tracking ends.
 - **Piercing projectiles** continue through targets. How many they can pierce is defined by the [[weapon]] (e.g. a heavy crossbow may pierce 1 additional target; a high-powered piercing [[weapon]] may pierce many).
 
@@ -34,11 +33,11 @@ If a creature **moves into the projectile's path** at their own [[Ticks, Priorit
 Travel Rate is expressed in **meters per [[Ticks, Priority & Resolution|Priority]] step**. This is listed on the [[weapon]].
 
 ### Example
-A shortbow is fired at **Initiation [[Ticks, Priority & Resolution|Priority]] 16** with a Travel Rate of **15 meters per [[Ticks, Priority & Resolution|Priority]] step**.
-- [[Ticks, Priority & Resolution|Priority]] 16 → Arrow leaves bow at position Y.
-- [[Ticks, Priority & Resolution|Priority]] 15 → Arrow has travelled 15 meters, reaching position Z. Any creature in the Y–Z path is checked, closest first.
-- [[Ticks, Priority & Resolution|Priority]] 14 → Arrow continues another 15 meters. New segment checked.
-- This continues until the arrow hits a target or reaches maximum [[Range & Threat|range]].
+A shortbow is fired at **Initiation [[Ticks, Priority & Resolution|Priority]] 16** with a Travel Rate of **15 meters per [[Ticks, Priority & Resolution|Tick]] step**.
+- [[Ticks, Priority & Resolution|Tick]] 16 → Arrow leaves bow at position Y.
+- [[Ticks, Priority & Resolution|Tick]] 15 → Arrow has travelled 15 meters, reaching position Z. Any creature in the Y–Z path is checked, closest first.
+- [[Ticks, Priority & Resolution|Tick]] 14 → Arrow continues another 15 meters. New segment checked.
+- This continues until the arrow hits a target or is no longer needed to be tracked for whatever other reason.
 
 ## Firearms
 Firearms [[Attributes|resolve]] instantly — no path tracking. The [[Attacks|attack]] resolves at Initiation [[Ticks, Priority & Resolution|Priority]] against the declared target. Initiation [[Ticks, Priority & Resolution|Priority]] represents handling characteristics (aim time, draw, cycling) rather than projectile [[Ticks, Priority & Resolution|Priority]].
@@ -66,11 +65,11 @@ This represents awkward handling at extreme close [[Range & Threat|range]].
 
 ## Cover
 
-| Cover | Effect |
-|---|---|
-| Partial (25–50%) | –2 to [[Attacks|Attack]] |
-| Significant (75%) | –4 to [[Attacks|Attack]] |
-| Full (100%) | [[Attacks|Attack]] automatically fails |
+| Cover             | Effect                                              |
+| ----------------- | --------------------------------------------------- |
+| Partial (25–50%)  | 1 instance of disadvantage to [[Attacks\|Attack]]   |
+| Significant (75%) | 2 instances of disadvantage to [[Attacks \|Attack]] |
+| Full (100%)       | [[Attacks\|Attack]] automatically fails             |
 
 On a Critical Success against Full Cover, the shot may find a gap or ricochet at GM discretion.
 

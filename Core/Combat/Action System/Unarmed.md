@@ -7,7 +7,7 @@ Every character has access to unarmed [[Attacks|attacks]] as a default fallback 
 ## Unarmed [[Attacks|Attack]]
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Might]] or [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Blunt
-**[[Ticks, Priority & Resolution|Priority]] (Priority:** 11 + [[Attributes|Might]] or [[Attributes|Grace]]
+**[[Ticks, Priority & Resolution|Priority]]:** 11 + [[Attributes|Might]] or [[Attributes|Grace]]
 **[[Range & Threat|Range]]:** +0m
 **Handedness:** Free — does not occupy a hand slot
 **Weight Class:** Exempt — does not contribute to carrying capacity

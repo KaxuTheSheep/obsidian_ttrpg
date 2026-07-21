@@ -51,7 +51,7 @@ Once per [[Rounds|Round]], a hit with an axe **ignores the target's Armour DR en
 [[Heavy Attack|Heavy Attacks]] made with an axe suffer only **–1** to [[Ticks, Priority & Resolution|Priority]] instead of –2.
 
 ## Overcommit
-**PrerequisiPriority* Reckless Momentum.
+**Prerequisites:* Reckless Momentum.
 **Cost:** 2 Trait Points.
 Heavy [[Attacks]] made with an axe cost **1 Full [[Actions|Action]]** instead of 2. They still deal double [[Damage Types|damage]] as normal.
 
@@ -68,7 +68,7 @@ Heavy [[Attacks]] made with an axe no longer reduce [[Ticks, Priority & Resoluti
 ---
 
 ## Unbreakable Rhythm
-**Prerequisites:** ArPriorityBreaker, Unstoppable Swing.
+**Prerequisites:** Armour Breaker, Unstoppable Swing.
 **Cost:** 4 Trait Points.
 Your Sunder effects now apply even through a **Parried** or **Blocked** hit — the armour cracks regardless of whether the strike itself connected cleanly.
 

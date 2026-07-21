@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Solasfall Priority Tracker</title>
+<style>
+  :root {
+    --bg: #14161c;
+    --panel: #1c1f28;
+    --panel-alt: #21242f;
+    --border: #333744;
+    --text: #e6e6ea;
+    --text-dim: #9a9daa;
+    --accent: #7d8bff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    height: 100vh;
+    display: flex;
+  }
+  .pane {
+    height: 100vh;
+    overflow-y: auto;
+    padding: 16px;
+  }
+  #right {
+    flex: 1;
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  h2 {
+    margin: 0 0 8px 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-dim);
+  }
+  textarea {
+    width: 100%;
+    background: var(--panel-alt);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 10px;
+    font-family: 'Cascadia Code', Consolas, monospace;
+    font-size: 13px;
+    resize: vertical;
+  }
+  #notesArea {
+    flex: 1;
+    min-height: 200px;
+  }
+  #inputArea {
+    height: 160px;
+  }
+  button {
+    background: var(--accent);
+    color: #10111a;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 13px;
+  }
+  button.secondary {
+    background: var(--panel-alt);
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+  .row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  #colourTable {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    max-height: 140px;
+    overflow-y: auto;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px;
+    background: var(--panel-alt);
+  }
+  .colourRow {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+  }
+  .colourRow input[type=color] {
+    width: 28px;
+    height: 22px;
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  .colourRow span { flex: 1; }
+
+  #timeline {
+    flex: 1;
+    overflow-y: auto;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--panel);
+    padding: 10px;
+  }
+  .roundHeader {
+    font-size: 13px;
+    color: var(--text-dim);
+    margin: 10px 0 4px 0;
+    padding-bottom: 4px;
+    border-bottom: 1px dashed var(--border);
+  }
+  .tickGroup {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 6px;
+  }
+  .tickLabel {
+    width: 42px;
+    flex-shrink: 0;
+    text-align: right;
+    font-weight: 700;
+    color: var(--text-dim);
+    font-size: 13px;
+    padding-top: 8px;
+  }
+  .actionCards {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    flex: 1;
+  }
+  .card {
+    border-left: 4px solid var(--accent);
+    background: var(--panel-alt);
+    border-radius: 4px;
+    padding: 6px 10px;
+  }
+  .card.openEnded {
+    border-left-style: dashed;
+  }
+  .cardTop {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .cardMeta {
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 2px;
+  }
+  .cardDesc {
+    font-size: 12px;
+    margin-top: 3px;
+    color: var(--text);
+  }
+  .nameTag {
+    font-weight: 700;
+  }
+  .errorBox {
+    background: #3a1f22;
+    border: 1px solid #7a3038;
+    color: #ffb3ba;
+    border-radius: 6px;
+    padding: 8px 10px;
+    font-size: 12px;
+    white-space: pre-wrap;
+  }
+  small { color: var(--text-dim); }
+</style>
+</head>
+<body>
+
+<div id="right" class="pane">
+  <h2>Paste player / enemy action blocks</h2>
+  <small>Format per block — one block per character, paste as many as you like at once:</small>
+  <textarea id="inputArea" placeholder="Name: Teddy 
+Round: 1
+Ticks: [
+Action Name: Ember whip, Action Type: Full, Tick Start: 9, Tick End: 9, Description: Emberwhip
+Action Name: Crawling, Action Type: Free, Tick Start: 7, Tick End: 5, Description: crawl 3m 
+Action Name: Ember whip, Action Type: Full, Tick Start: 3, Tick End: 3, Description: Emberwhip
+]"></textarea>
+  <div class="row">
+    <button id="parseBtn">Add to Timeline</button>
+    <button class="secondary" id="clearInputBtn">Clear Input Box</button>
+    <button class="secondary" id="resetBtn">Reset Whole Timeline</button>
+    <span style="flex:1"></span>
+    <label style="font-size:13px;">Round filter:
+      <select id="roundFilter"><option value="all">All rounds</option></select>
+    </label>
+  </div>
+  <div id="errorOut"></div>
+
+  <h2 style="margin-top:4px;">Name colours</h2>
+  <div id="colourTable"></div>
+
+  <h2>Timeline (sorted by Round, then Tick — highest Tick first)</h2>
+  <div id="timeline"></div>
+</div>
+
+<script>
+const LS_DATA = 'sf_tracker_data';
+const LS_COLOURS = 'sf_tracker_colours';
+
+const inputArea = document.getElementById('inputArea');
+const timelineEl = document.getElementById('timeline');
+const errorOut = document.getElementById('errorOut');
+const colourTableEl = document.getElementById('colourTable');
+const roundFilter = document.getElementById('roundFilter');
+
+let entries = JSON.parse(localStorage.getItem(LS_DATA) || '[]');
+let colours = JSON.parse(localStorage.getItem(LS_COLOURS) || '{}');
+
+const palette = ['#7d8bff','#ff8a7d','#7dffb0','#ffd27d','#c07dff','#7dd8ff','#ff7dc4','#c4ff7d'];
+function colourFor(name) {
+  if (!colours[name]) {
+    const used = Object.values(colours);
+    const next = palette.find(c => !used.includes(c)) || palette[Object.keys(colours).length % palette.length];
+    colours[name] = next;
+    localStorage.setItem(LS_COLOURS, JSON.stringify(colours));
+  }
+  return colours[name];
+}
+
+function saveData() {
+  localStorage.setItem(LS_DATA, JSON.stringify(entries));
+}
+
+// --- Parser ---
+// Splits pasted text into blocks starting at each "Name:" line.
+// Within each block extracts Round and each Ticks[] line via labelled regex,
+// so commas inside Description don't break parsing.
+function parseInput(text) {
+  const errors = [];
+  const blocks = text.split(/(?=^Name:\s*)/im).map(b => b.trim()).filter(Boolean);
+  const parsed = [];
+
+  blocks.forEach((block, bi) => {
+    const nameMatch = block.match(/^Name:\s*(.+)$/im);
+    const roundMatch = block.match(/^Round:\s*(.+)$/im);
+    if (!nameMatch) { errors.push(`Block ${bi+1}: missing "Name:" — skipped.`); return; }
+    const name = nameMatch[1].trim();
+    const round = roundMatch ? parseInt(roundMatch[1].trim(), 10) : NaN;
+    if (isNaN(round)) errors.push(`Block ${bi+1} (${name}): missing/invalid "Round:" — treated as round 0.`);
+
+    const ticksBlockMatch = block.match(/Ticks:\s*\[([\s\S]*?)\]/im);
+    if (!ticksBlockMatch) { errors.push(`Block ${bi+1} (${name}): no Ticks[...] array found — skipped.`); return; }
+
+    const lines = ticksBlockMatch[1].split('\n').map(l => l.trim()).filter(Boolean);
+    lines.forEach((line, li) => {
+      const re = /Action Name:\s*(.*?)\s*,?\s*Action Type:\s*(.*?)\s*,?\s*Tick Start:\s*(.*?)\s*,?\s*Tick End:\s*(.*?)\s*,?\s*Description:\s*(.*)$/i;
+      const m = line.match(re);
+      if (!m) { errors.push(`Block ${bi+1} (${name}), action line ${li+1}: couldn't parse — skipped. Raw: "${line}"`); return; }
+      const tickStart = parseInt(m[3].trim(), 10);
+      const tickEndRaw = m[4].trim();
+      const tickEnd = tickEndRaw === '' || isNaN(parseInt(tickEndRaw,10)) ? null : parseInt(tickEndRaw, 10);
+      if (isNaN(tickStart)) { errors.push(`Block ${bi+1} (${name}), action line ${li+1}: invalid Tick Start — skipped.`); return; }
+      parsed.push({
+        name,
+        round: isNaN(round) ? 0 : round,
+        actionName: m[1].trim(),
+        actionType: m[2].trim(),
+        tickStart,
+        tickEnd,
+        description: m[5].trim()
+      });
+    });
+  });
+
+  return { parsed, errors };
+}
+
+document.getElementById('parseBtn').addEventListener('click', () => {
+  const { parsed, errors } = parseInput(inputArea.value);
+  entries = entries.concat(parsed);
+  saveData();
+  parsed.forEach(e => colourFor(e.name));
+  renderErrors(errors);
+  render();
+});
+
+document.getElementById('clearInputBtn').addEventListener('click', () => {
+  inputArea.value = '';
+});
+
+document.getElementById('resetBtn').addEventListener('click', () => {
+  if (!confirm('Clear the entire timeline? This does not touch your notes.')) return;
+  entries = [];
+  saveData();
+  render();
+});
+
+function renderErrors(errors) {
+  if (!errors.length) { errorOut.innerHTML = ''; return; }
+  errorOut.innerHTML = `<div class="errorBox">${errors.map(e => e.replace(/</g,'&lt;')).join('\n')}</div>`;
+}
+
+function renderColourTable() {
+  const names = [...new Set(entries.map(e => e.name))].sort();
+  colourTableEl.innerHTML = '';
+  if (!names.length) { colourTableEl.innerHTML = '<small>No names yet.</small>'; return; }
+  names.forEach(name => {
+    colourFor(name);
+    const row = document.createElement('div');
+    row.className = 'colourRow';
+    row.innerHTML = `
+      <input type="color" value="${colours[name]}" data-name="${name}">
+      <span>${name}</span>
+    `;
+    row.querySelector('input').addEventListener('input', (e) => {
+      colours[name] = e.target.value;
+      localStorage.setItem(LS_COLOURS, JSON.stringify(colours));
+      render();
+    });
+    colourTableEl.appendChild(row);
+  });
+}
+
+function updateRoundFilterOptions() {
+  const rounds = [...new Set(entries.map(e => e.round))].sort((a,b) => a-b);
+  const current = roundFilter.value;
+  roundFilter.innerHTML = '<option value="all">All rounds</option>' +
+    rounds.map(r => `<option value="${r}">Round ${r}</option>`).join('');
+  if ([...roundFilter.options].some(o => o.value === current)) roundFilter.value = current;
+}
+roundFilter.addEventListener('change', render);
+
+function render() {
+  renderColourTable();
+  updateRoundFilterOptions();
+
+  const filterVal = roundFilter.value;
+  const filtered = filterVal === 'all' ? entries : entries.filter(e => String(e.round) === filterVal);
+
+  const rounds = [...new Set(filtered.map(e => e.round))].sort((a,b) => a-b);
+  timelineEl.innerHTML = '';
+
+  if (!filtered.length) {
+    timelineEl.innerHTML = '<small>Nothing here yet — paste some blocks and hit "Add to Timeline".</small>';
+    return;
+  }
+
+  rounds.forEach(round => {
+    const rh = document.createElement('div');
+    rh.className = 'roundHeader';
+    rh.textContent = `Round ${round}`;
+    timelineEl.appendChild(rh);
+
+    const roundEntries = filtered.filter(e => e.round === round);
+    // group by tickStart, sorted descending (higher tick resolves first)
+    const ticks = [...new Set(roundEntries.map(e => e.tickStart))].sort((a,b) => b-a);
+
+    ticks.forEach(tick => {
+      const group = document.createElement('div');
+      group.className = 'tickGroup';
+      const label = document.createElement('div');
+      label.className = 'tickLabel';
+      label.textContent = tick;
+      group.appendChild(label);
+
+      const cardsWrap = document.createElement('div');
+      cardsWrap.className = 'actionCards';
+
+      roundEntries.filter(e => e.tickStart === tick).forEach(e => {
+        const card = document.createElement('div');
+        card.className = 'card' + (e.tickEnd === null ? ' openEnded' : '');
+        card.style.borderLeftColor = colourFor(e.name);
+        const rangeText = e.tickEnd === null ? `${e.tickStart} → open` : `${e.tickStart} → ${e.tickEnd}`;
+        card.innerHTML = `
+          <div class="cardTop">
+            <span><span class="nameTag" style="color:${colourFor(e.name)}">${e.name}</span> — ${e.actionName}</span>
+            <span class="cardMeta">${e.actionType} · ${rangeText}</span>
+          </div>
+          <div class="cardDesc">${e.description || ''}</div>
+        `;
+        cardsWrap.appendChild(card);
+      });
+
+      group.appendChild(cardsWrap);
+      timelineEl.appendChild(group);
+    });
+  });
+}
+
+render();
+</script>
+</body>
+</html>

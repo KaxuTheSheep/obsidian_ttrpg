@@ -27,13 +27,13 @@ The apex predator of [[The Sunken Hollow]] within the scope of its known ecosyst
 
 ## [[Movement Types|Movement]]
 
-| Type | Initiation | Travel Rate |
-|---|---|---|
-| Walk | 10 | 3m per [[Ticks, Priority & Resolution\|Priority]] |
-| Run | 8 | 6m per [[Priority, Priority & Resolution\|Priority]] |
-| Climb | 5 | 1m per [Prioritys, Priority & Resolution\|Priority]] |
+| Type  | Initiation | Travel Rate                                   |
+| ----- | ---------- | --------------------------------------------- |
+| Walk  | 10         | 3m per [[Ticks, Priority & Resolution\|Tick]] |
+| Run   | 8          | 6m per [[Ticks, Priority & Resolution\|Tick]] |
+| Climb | 5          | 1m per [[Ticks, Priority & Resolution\|Tick]] |
 
-## Vibration Sense (PaPriority)
+## Vibration Sense (Passive)
 The tarantula has poor eyesight and instead detects creatures through ground vibration. Against a creature moving at Walk pace or slower who has made no significant noise, the tarantula's [[Skills|Perception]] Tests are at **Disadvantage**. Against a creature Running, in active combat, or otherwise making significant noise, its Perception Tests are made normally, or at **Advantage** at GM discretion for particularly loud [[Actions|actions]].
 
 ## [[Actions]]
@@ -42,7 +42,7 @@ The tarantula has poor eyesight and instead detects creatures through ground vib
 *Heavy curved fangs deliver a crushing, venomous bite.*
 **[[Damage Types|Damage]]:** 1d10 + [[Attributes|Might]] [[Damage Types|Piercing]]
 **[[Ticks, Priority & Resolution|Priority]]:** 8 + [[Attributes|Might]]
-**[[RanPriorityThreat|Range]]:** +0.4m
+**[[Range & Threat|Range]]:** +0.4m
 **Type:** Melee
 **On Hit:** Target makes a [[Attributes|Vitality]] Test (DN 13). On failure, gain **Disadvantage** on all [[Attributes|Might]] and [[Attributes|Grace]] Tests for 1d4 [[Rounds]] (paralytic venom — debilitating, not lethal).
 
@@ -50,7 +50,7 @@ The tarantula has poor eyesight and instead detects creatures through ground vib
 *Urticating hairs launched with [[Mana|mana]]-directed precision toward a chosen point.*
 **[[Damage Types|Damage]]:** 1d4 [[Damage Types|Piercing]]
 **[[Ticks, Priority & Resolution|Priority]]:** 9 + [[Attributes|Grace]]
-**Optimal [[RanPriorityThreat|Range]]:** 8m
+**Optimal [[Range & Threat|Range]]:** 8m
 **Minimum [[Range & Threat|Range]]:** 1m
 **Type:** Ranged (Instant Projectile, no travel tracking — see [[Ranged Attacks]])
 **On Hit:** Target makes a [[Attributes|Vitality]] Test (DN 11). On failure, gain **Disadvantage** on Perception Tests for 2 [[Rounds]] (eyes and mucous membranes irritated).

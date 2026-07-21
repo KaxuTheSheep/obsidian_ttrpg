@@ -31,7 +31,7 @@ tags:
 **Damage:** 1d6+3 Blunt
 **Priority:** 12
 **Range:** +0.50m
-*Priority:** Melee
+**Type:** Melee
 **Traits:** Crushing, Reliable
 
 ## Trait — Brute Endurance

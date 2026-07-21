@@ -14,22 +14,22 @@ A Woven circle is drawn entirely outside combat, using the rules below with no e
 ### Drawn Weave (Mid-Combat)
 A Drawn Weave uses the same construction rules, but under pressure. Every time the caster is successfully attacked while mid-draw:
 1. Immediately make a **Defect Test** (see below), even if the draw isn't finished.
-2. Add **+1 Priority step** to Priorityemaining draw time.
+2. Add **+1 Tick step** to remaining draw time.
 
 This is the entire risk/reward trade against Flux Casting: no Backlash, ever — but time, exposure, and the compounding chance of a permanent flaw instead.
 
 ## Core Values
 Every Weave circle is defined by the same two values used in Flux Casting, reinterpreted for Weave's purposes:
 
-- **Control DN** — governs **Time**. How many Priority steps the draw taPriorityo complete.
+- **Control DN** — governs **Time**. How many Priority steps the draw takes to complete.
 - **Manifest DN** — governs **Defects**. The target number for the Defect Test.
 
 ## Draw Time
-Drawing starts at **Priority 16** each round it isPriorityed on.
+Drawing starts at **Priority 16** each round it is worked on.
 
 - **Draw Duration (in Priority steps) = Control DN.**
-PriorityControl DN ≤ 16, the draw completes within the round, resolving at Priority `16 − Control DN`.
-- If Priorityol DN > 16, the caster spends the entire round drawing without finishing. Carry the excess (`Control DN − 16`) into the next round as a fresh countdown starting again from Priority 16. Repeat until fully paPriorityf.
+- If Control l DN ≤ 16, the draw completes within the round, resolving at Priority `16 − Control DN`.
+- If Control DN > 16, the caster spends the entire round drawing without finishing. Carry the excess (`Control DN − 16`) into the next round as a fresh countdown starting again from Priority 16. Repeat until fully paid off.
 
 Higher Control DN means a longer, more exposed draw. Complex, powerful circles are safer once activated but dangerous while still being drawn — this is the core tension of Drawn Weave specifically. Woven circles, drawn outside combat, don't feel this tension at all; Time still applies, but nothing can interrupt it.
 
@@ -45,7 +45,7 @@ Insight and Grace here are flat modifiers only — Insight does not govern enhan
 | 1–4 below | Moderate — a persistent mechanical flaw. |
 | 5+ below | Severe — a significant, potentially dangerous flaw. |
 
-The Defect Test is rolled once on completion for a Woven circle or an uninterrupted Drawn Weave. For an interrupted Drawn Weave, it is **re-rolled on every interruption**, and the **worst result stands** — each reroll also carries its own +1 Priority step penalty on top of whatever was alreaPrioritycrued.
+The Defect Test is rolled once on completion for a Woven circle or an uninterrupted Drawn Weave. For an interrupted Drawn Weave, it is **re-rolled on every interruption**, and the **worst result stands** — each reroll also carries its own +1 Priority step penalty on top of whatever was already accrued.
 
 ## Defects Are Permanent
 Once a defect is determined for a specific drawn circle, it is fixed. It is not rerolled on future activations of the same Woven item, and it is not "typical" of that spell in general — two mages who each draw the same spell can end up with entirely different, individually flawed versions. A defect is a property of *that one drawing*, not of the spell as a concept.
@@ -71,7 +71,7 @@ This is numerically identical to Flux Casting's Enhancement scaling — the same
 Weave Casting has no [[Sanity]] cost. Its only costs are:
 
 - **Time** (Control DN, expressed as Priority steps)
-- **Risk of a permanent Defect** (Manifest DN, tested via tPriorityfect Test)
+- **Risk of a permanent Defect** (Manifest DN, tested via the Defect Test)
 
 This distinguishes it from Flux Casting, whose primary drawback is Backlash, and from Incantations, whose cost is limited uses per Rest.
 
@@ -81,7 +81,7 @@ When designing a new Weave circle, use the standard Spell Blueprint Template fro
 ```
 ## Weave Casting Data
 **Control DN:** X   (governs draw time — Priority steps to complete)
-**Manifest DN:** X  (Defect Test target: 2d10 + Insight +Prioritye)
+**Manifest DN:** X  (Defect Test target: 2d10 + Insight + Grace)
 **Enhancement:** Each point invested adds +1 Control DN and +2 Manifest DN.
 **Suggested Defects:**
   - Minor: ...

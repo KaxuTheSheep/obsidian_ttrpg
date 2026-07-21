@@ -49,10 +49,10 @@ Tall and lean, with ember-like eyes and faintly glowing veins. Scaled skin refle
 
 ## Rumour Table
 
-| Rumour                                                                  | True/False     |
-| ----------------------------------------------------------------------- | -------------- |
-| Ignar once set a [[Hollowdeep]] floor ablaze for experimental training. | Partially True |
-| His fingers leave faint burn marks on everything he touches.            | Partially True |
-| He can summon lightning in a city square without harming bystanders.    | Partially True |
-| Someve he can heat the [[Veil]] itself to manipulate climate subtly.    | True           |
-| Ignar has trained a personal elemental familiar of pure fire.           | True           |
+| Rumour                                                                     | True/False     |
+| -------------------------------------------------------------------------- | -------------- |
+| Ignar once set a [[Hollowdeep]] floor ablaze for experimental training.    | Partially True |
+| His fingers leave faint burn marks on everything he touches.               | Partially True |
+| He can summon lightning in a city square without harming bystanders.       | Partially True |
+| Some believe he can heat the [[Veil]] itself to manipulate climate subtly. | True           |
+| Ignar has trained a personal elemental familiar of pure fire.              | True           |

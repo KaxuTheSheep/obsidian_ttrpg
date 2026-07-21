@@ -6,7 +6,7 @@ tags:
 ### Reach
 [[Solasfall Weapons]] with **Reach** threaten space **beyond normal melee [[Range & Threat|range]]**.
 When a creature **enters your melee threat [[Range & Threat|range]]**, you may make **one melee [[Attacks|attack]]** against them at the **expense of your Reaction**. This is called a **Reach Punish**.
-- The Punish resolves at the **same [[Ticks, Priority & Resolution|Priority]]*Priority creature moves into [[Range & Threat|range]].
+- The Punish resolves at the **same [[Ticks, Priority & Resolution|Priority]]** the  creature moves into [[Range & Threat|range]].
 - The defender uses the **[[Defensive Stances]]** they declared during [[Actions|action]] declaration. 
     You may only perform **one Reach Punish per [[Rounds|round]]**, even if multiple creatures enter your [[Range & Threat|range]].
 **Close-In Penalty:**  
@@ -46,7 +46,7 @@ If you make a **[[Heavy Attack]]** with this [[Weapon|weapon]]:
 - On the **next [[Rounds|round]]**, your **first [[Actions|action]]** has **–3 to its [[Ticks, Priority & Resolution|Priority]]**
 
 ### Crushing
-This [[Weapon|weapon]Priorityivers force that can **break guard on impact**.
+This [[Weapon|weapon]] delivers force that can **break guard on impact**.
 When you hit a target who is currently **Blocking**, roll **1d6**.
 Reduce the target’s **[[Block]] DR** by the amount rolled **immediately**, for the **remainder of this [[Rounds|Round]]**.
 This reduction applies **before** [[Damage Types|damage]] is resolved.
@@ -64,7 +64,7 @@ The [[Weapon|weapon]] is easy to hide on the body.
 - [[Drawing & Stowing|Drawing]] this [[Weapon|weapon]] while concealed **does not automatically reveal hostility** (GM decides when tension breaks).
 
 ### Penetrating
-This [[Weapon|weapon]] is designed to slip into **gaps, seams, or weak points** rather than break through [[Cyberpunk Armour]] or muscle.
+This [[Weapon|weapon]] is designed to slip into **gaps, seams, or weak points** rather than break through [[Solasfall Armour|Armour]] or muscle.
 When an [[Attacks|attack]] with this [[Weapon|weapon]] **reduces a creature’s [[Sturdiness]]**, **also apply 1 direct [[Blood]] [[Damage Types|damage]]** to the target.
 This direct [[Blood]] [[Damage Types|damage]] **ignores [[Sturdiness]] and [[Solasfall Armour|Armour]]\ DR.**
 This effect **cannot reduce a creature below 1 [[Blood]]** on its own.
@@ -78,7 +78,7 @@ The [[Weapon|weapon]]’s appearance or reputation provokes caution.
 
 ### Silent
 The [[Weapon|weapon]] does not produce audible noise when striking flesh or moving through air.
-- **[[Attacks]]** with this [[Weapon|weapon]] do **not** produce detectable combat noise unless they strike [[Cyberpunk Armour]] or metal.
+- **[[Attacks]]** with this [[Weapon|weapon]] do **not** produce detectable combat noise unless they strike [[Solasfall Armour|Armour]] or metal.
 - Useful for ambush and [[Hollowdeep]] [[Skills|stealth]] operations.
 
 ### Reliable
@@ -160,9 +160,9 @@ The [[Weapon|weapon]] tumbles in flight, presenting multiple impact faces on arr
 - Can be **dual-wielded**.
 
 ### Thrown
-This [[Weapon|weapon]] is designed to be hurled at [[Range & Threat|range]]. Thrown weapons resolve at their Initiation [[Ticks, Priority & Resolution|Priority]] — the projectile travels its full [[Range & Threat|range]] in a single [[Ticks, Priority & Resolution|Priority]] instance and does not continue into subsequePriorityeps. Any creature or object in the path is a valid hit candidate, resolved nearest first.
+This [[Weapon|weapon]] is designed to be hurled at [[Range & Threat|range]]. Thrown weapons resolve at their Initiation [[Ticks, Priority & Resolution|Priority]] — the projectile travels its full [[Range & Threat|range]] in a single [[Ticks, Priority & Resolution|Priority]] instance and does not continue into  subsequent steps. Any creature or object in the path is a valid hit candidate, resolved nearest first.
 **Retrieval:**
-Priorityown weapons that miss land at their maximum [[Range & Threat|range]] or at the first obstruction along their path. Moving to their location is sufficient to retrieve them — no [[Actions|action]] cost.
+- Thrown  weapons that miss land at their maximum [[Range & Threat|range]] or at the first obstruction along their path. Moving to their location is sufficient to retrieve them — no [[Actions|action]] cost.
 - Thrown weapons that hit an unarmoured or lightly armoured target (Leather and below) remain retrievable. Moving adjacent to a downed target is sufficient to retrieve them — no [[Actions|action]] cost.
 - Thrown weapons that hit a target wearing Chainmail or above are not automatically destroyed but may be damaged or awkwardly lodged at GM discretion.
 - Thrown weapons are only destroyed on a Critical Failure or in extreme circumstances at GM discretion (striking solid stone, structural impacts, etc).

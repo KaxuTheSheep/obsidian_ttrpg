@@ -41,18 +41,18 @@ Exhaustion represents the gradual wearing down of the body and mind through stra
 At **10**, the character **dies**.
 
 Exhaustion does **not** reduce [[Damage Types|damage]], [[Blood]], or [[Attributes]].  
-Instead, it affects **[[Ticks, Priority & Resolution|Priority]]** and **[[Actions|Action]] availabiPriority*.
+Instead, it affects **[[Ticks, Priority & Resolution|Priority]]** and **[[Actions|Action]] availability**.
 
 #### Effects by Level
 
-| Exhaustion Level | Effect |
-| ---------------- | ------ |
-| **1–2** | No mechanical penalty. Fatigue is felt but does not impair [[Skills\|performance]]. |
-| **3–4** | **–1 to all [[Actions\|Action]] [[Ticks, Priority & Resolution\|Priority]] values.** |
-| **5–6** | **–2 to all [[ActiPriorityAction]] [[Ticks, Priority & Resolution\|Priority]] values.** |
-| **7–8** | **Lose 1 Full [[ActPriority|Action]]** each [[Rounds\|round]]. |
-| **9** | **Lose 1 Full [[Actions\|Action]]** each [[Rounds\|round]], and your **[[Ticks, Priority & Resolution\|Priority]] penalty becomes –3.** |
-| **10** | **[[Death]PriorityThe body or mind cannot continue. |
+| Exhaustion Level | Effect                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **1–2**          | No mechanical penalty. Fatigue is felt but does not impair [[Skills\|performance]].                                                     |
+| **3–4**          | **–1 to all [[Actions\|Action]] [[Ticks, Priority & Resolution\|Priority]] values.**                                                    |
+| **5–6**          | **–2 to all [[Actions\|Action]] [[Ticks, Priority & Resolution\|Priority]] values.**                                                    |
+| **7–8**          | **Lose 1 Full [[Actions\|Action]]** each [[Rounds\|round]].                                                                             |
+| **9**            | **Lose 1 Full [[Actions\|Action]]** each [[Rounds\|round]], and your **[[Ticks, Priority & Resolution\|Priority]] penalty becomes –3.** |
+| **10**           | **[[Death]].** The body or mind cannot continue.                                                                                        |
 
 ### Frightened
 An overwhelming sense of fear or dread toward a specific source.
@@ -103,7 +103,7 @@ Your [[Movement Types|movement]] is impaired.
 
 ### Stunned
 Your mind or body is overwhelmed.
-- You **cannot take [[Priorityns]] or [[Reactions]]**.
+- You **cannot take [[Actions]] or [[Reactions]]**.
 - You may still move up to **half** your **Walking Distance**, but cannot use that [[Movement Types|movement]] to [[Attacks|Attack]] or Defend.
 - **[[Attacks|Attack]]** Tests against you are at **Disadvantage**.
 - Your **[[Sturdiness]]** is ignored; your effective **[[Evasion]] becomes Base [[Evasion]]**.

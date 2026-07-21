@@ -10,7 +10,7 @@ Equipment never changes a character’s **[[Attributes]]** directly — instead,
 - [[Blood]] loss potential (via reducing incoming [[Damage Types|damage]])
 - [[Evasion]] (how easily you are struck)
 - [[Movement Types|Movement]] Types (how far you can reposition each [[Rounds|round]])
-- [[Ticks, Priority & Resolution|Priority]] for Priorityin [[Actions]] (e.g., casting, aiming, reacting)
+- [[Ticks, Priority & Resolution|Priority]] for certain [[Actions]] (e.g., casting, aiming, reacting)
 ## Categories of Equipment
 - **[[Solasfall Armour]]**  
   Protects the body by reducing incoming [[Damage Types|damage]] (**DR**).  
@@ -19,4 +19,4 @@ Equipment never changes a character’s **[[Attributes]]** directly — instead,
   Defensive tools used with the **[[Block]]** [[Actions|action]].  
   [[Shields]] enhance reactive defense rather than passive [[Evasion]].
 - **[[Solasfall Weapons]]** 
-  [[Solasfall Weapons]] differ by **[[Damage Types|damage]]**, **[[Ticks, Priority & Resolution|Priority]]**, and later Priorityeuver traits**.
+  [[Solasfall Weapons]] differ by **[[Damage Types|damage]]**, **[[Ticks, Priority & Resolution|Priority]]**, and later **Maneuver traits**.

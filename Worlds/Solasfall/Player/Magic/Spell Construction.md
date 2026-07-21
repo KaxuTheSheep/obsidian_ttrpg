@@ -72,7 +72,7 @@ How the spell is formed and delivered.
 
 ## Base Effect
 What happens at minimum investment.
-Prioritymary effect
+- Primary  effect
 - Target rules
 - [[Damage Types|Damage]] / utility outcome
 - Immediate secondary effects (if any)

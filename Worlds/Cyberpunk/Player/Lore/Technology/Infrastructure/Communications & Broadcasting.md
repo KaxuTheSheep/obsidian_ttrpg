@@ -22,7 +22,7 @@ This collapses the distinction between infrastructure control and editorial cont
 
 **Middle districts:** same content at lower fidelity with more latency. Compression artefacts in video, audio quality reduced, real-time interactive content delayed enough to degrade the experience. The content is nominally the same. The experience is noticeably different.
 
-**Forgotten districts:** whatever leaks through from trunk infrastructure passing beneath them. Primarily text and low-resolution audio at the bandwidth available from degraded coverage. Rich media is technically accessible but practically unusable at the Prioritys available. ResidePriorityn forgotten districts are not informationally isolated — they have access to the same nominal content — but the friction of access is high enough that consumption patterns differ substantially from wealthier districts.
+**Forgotten districts:** whatever leaks through from trunk infrastructure passing beneath them. Primarily text and low-resolution audio at the bandwidth available from degraded coverage. Rich media is technically accessible but practically unusable at the speeds available. Residents in forgotten districts are not informationally isolated — they have access to the same nominal content — but the friction of access is high enough that consumption patterns differ substantially from wealthier districts.
 
 ---
 

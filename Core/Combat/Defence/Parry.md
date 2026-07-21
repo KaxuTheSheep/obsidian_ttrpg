@@ -13,8 +13,9 @@ Parry activates when the **first [[Attacks|attack]] targets you this [[Rounds|Ro
 ## Resolution Sequence
 When triggered:
 
-### Step 1 — [[Ticks, Priority & Resolution|Priority]] CompariPriority Compare Parry [[Ticks, Priority & Resolution|Priority]] ([[WeapoPrioritypon]]/shield/[[Unarmed|unarmed]]) to [[Attacks|Attack]] [[Ticks, Priority & Resolution|Priority]]
-- If ParPriorityTicks, Priority & Resolution|Priority]] < [[AttacPrioritytack]] [[Ticks, Priority & Resolution|Priority]] → Parry iPriorityDisadvantage
+### Step 1 — [[Ticks, Priority & Resolution|Priority]] Comparison
+- Compare Parry [[Ticks, Priority & Resolution|Priority]] ([[Weapon|weapon]]/shield/[[Unarmed|unarmed]]) to [[Attacks|Attack]] [[Ticks, Priority & Resolution|Priority]]
+- If Parry [[Ticks, Priority & Resolution|Priority]] < [[Attacks|Attack]] [[Ticks, Priority & Resolution|Priority]] → Parry is at Disadvantage
 
 ### Step 2 — Parry Test
 Make a **[[Attributes|Grace]] Test**:
@@ -25,7 +26,7 @@ Make a **[[Attributes|Grace]] Test**:
 ### Success
 - [[Attacks|Attack]] is fully negated
 - You may choose:
-    - Make a counter-[[Attacks|attack]] at the [[Ticks, Priority & Resolution|Priority]] of the parried [[AttPriorityattack]]
+    - Make a counter-[[Attacks|attack]] at the [[Ticks, Priority & Resolution|Priority]] of the parried [[Attacks|attack]]
     - OR remain in Parrying stance for another attempt
 
 ### Critical Success

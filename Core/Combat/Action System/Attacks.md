@@ -8,19 +8,15 @@ tags:
 
 ## [[Actions|Action]] Cost
 - A normal attack costs 1 Full [[Actions|Action]].
-- A [[Heavy Attack]] costs 2 Full [[Actions]] and deals double [[Damage Types|damage]] if it hits. [[Heavy Attack|Heavy Attacks]] roll once to hit — either all or nothing.
-- Some weapons are inherently heavy and require 2 Full [[Actions]] to attack but cannot perform [[Heavy Attack|Heavy Attacks]] for extra [[Damage Types|damage]].
 
 ## Attack Rolls
 To make an attack, roll **2d10 + the relevant [[Attributes|Attribute]]** (usually [[Attributes|Might]] for melee, [[Attributes|Grace]] for ranged).  
 Compare the total to the target's **[[Evasion]] DN** to determine if the attack hits.  
 If the total meets or exceeds the [[Evasion]] DN, the attack hits and deals [[Damage Types|damage]].
-
 > [[Ranged attacks]] follow the same hit resolution — roll 2d10 + [[Attributes|Grace]] against the target's [[Evasion]]. For ranged-specific rules including projectile travel, [[Range & Threat|range]] penalties, and cover see [[Ranged Attacks]].
 
 ## [[Damage Types|Damage]]
 - [[Damage Types|Damage]] is rolled on [[weapon]]-specific dice (e.g., 1d8 for a longsword).
-- [[Heavy Attack|Heavy Attacks]] deal double [[Damage Types|damage]], calculated by doubling the rolled [[Damage Types|damage]].
 - Some abilities also deal [[Damage Types|damage]] but may require the target to make an [[Attributes|Attribute]] Test to resist or mitigate effects.
 
 ## Critical Success

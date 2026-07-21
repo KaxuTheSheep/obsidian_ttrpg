@@ -14,12 +14,12 @@ When a weak point thins sufficiently, it tears. The resulting rift connects the 
 ## Time and Connected Worlds
 Worlds connected by a rift do not necessarily share the same time rate. Each world has its own relationship with time, and when two worlds are connected, their time rates exert equilibrium pressure on one another — each pulling the other toward its own rate. The degree of influence depends on the relative time rates involved and the strength of the connection.
 
-[[Mana]] naturally mediates this pressure. Dense ambient [[Mana|mana]] slows the propagation of time equilibrium effects, acting as a passive buffer between connected worlds. Without this buffer, time rate differences would propagate at the [[Ticks, Priority & Resolution|Priority]] of lightPriorityh it, the effect travels far slower — in the case of [[Solasfall]]'s world, roughly the [[Ticks, Priority & Resolution|Priority]] of a runPriorityperson.
+[[Mana]] naturally mediates this pressure. Dense ambient [[Mana|mana]] slows the propagation of time equilibrium effects, acting as a passive buffer between connected worlds. Without this buffer, time rate differences would propagate at the speed of light. With it, the effect travels far slower — in the case of [[Solasfall]]'s world, roughly the speed of a running person.
 
 ## The Two Known Rifts
 
 ### The Fallows Rift
-A natural weak point on the opposite side of [[Solasfall]]'s planet from the city itself. At some point in history it tore open, connecting [[Solasfall]]'s world to a world where time moves at catastrophic [[Ticks, Priority & Resolution|Priority]] — approximatePrioritye second outside the [[Veil]] equating to a century of experienced time. The connected world's time rate began pulling [[Solasfall]]'s world toward synchronisation the moment the rift opened.
+A natural weak point on the opposite side of [[Solasfall]]'s planet from the city itself. At some point in history it tore open, connecting [[Solasfall]]'s world to a world where time moves at catastrophic speed — approximately one second outside the [[Veil]] equating to a century of experienced time. The connected world's time rate began pulling [[Solasfall]]'s world toward synchronisation the moment the rift opened.
 
 The effect propagated outward from the rift's location slowly, mediated by natural [[Mana|mana]] density, spreading at roughly human running pace. Over decades it converted the surrounding land into the Fallows. By the time approximately half the planet had been consumed, word reached [[Solasfall]] via horseback and boat. The city began accepting refugees and engineering a solution.
 

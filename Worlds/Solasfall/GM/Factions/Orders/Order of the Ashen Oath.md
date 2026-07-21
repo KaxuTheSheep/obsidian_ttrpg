@@ -24,8 +24,8 @@ They are closely tied to The Ashen Crown Faith, with many knights drawing divine
 - **Enhancements:** Lifebinders provide physical and magical augmentation, stabilizing essence powers and reinforcing divine channels. Regular infusion of [[Mana|mana]]-based healing wards ensures prolonged endurance.
 
 ### Allies & Affiliations
-- **Lifebinders:** Provide physical and magical enhancements for combat and survival, as well as healing to boost training Priority.
-- **Ashen Crown SanPriority** Spiritual guidance, Blessings, and ritual support.
+- **Lifebinders:** Provide physical and magical enhancements for combat and survival, as well as healing to boost training speed.
+- **Ashen Crown Sanctum** Spiritual guidance, Blessings, and ritual support.
 - **Emberwright Sanctum:** Occasional collaboration for Equipment and expeditionary tools.
 - **Explorers’ Guild:** Joint operations for [[Hollowdeep]] expeditions.
 

@@ -382,7 +382,7 @@ A light, flexible bow suited for quick draws and mobile combat. Effective at med
 **[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]] 
 **[[Damage Types|Damage]] Type:** Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 13 + [[Attributes|Grace]] 
-**Arrow Travel:** 15m per [[Ticks, Priority & Resolution|Priority]] 
+**Arrow Travel:** 15m per [[Ticks, Priority & Resolution|Tick]] 
 **Optimal [[Range & Threat|Range]]:** 50m
 **Minimum [[Range & Threat|Range]]:** 3m
 **Handedness:** Two-Handed
@@ -395,7 +395,7 @@ A shorter bow with recurved limbs that store and release energy efficiently. Tra
 **[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Piercing 
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 12 + [[Attributes|Grace]]
-**Arrow Travel:** 18m per [[Ticks, Priority & Resolution|Priority]] 
+**Arrow Travel:** 18m per [[Ticks, Priority & Resolution|Tick]] 
 **Optimal [[Range & Threat|Range]]:** 45m 
 **Minimum [[Range & Threat|Range]]:** 3m 
 **Handedness:** Two-Handed 
@@ -408,7 +408,7 @@ A tall, powerful bow demanding technique and training. Significantly outranges t
 **[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Grace]] 
 **[[Damage Types|Damage]] Type:** Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 10 + [[Attributes|Grace]] 
-**Arrow Travel:** 22m per [[Ticks, Priority & Resolution|Priority]] 
+**Arrow Travel:** 22m per [[Ticks, Priority & Resolution|Tick]] 
 **Optimal [[Range & Threat|Range]]:** 80m
 **Minimum [[Range & Threat|Range]]:** 5m
 **Handedness:** Two-Handed 
@@ -421,7 +421,7 @@ An extreme draw-weight bow built for devastating power at long [[Range & Threat|
 **[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Might]] 
 **[[Damage Types|Damage]] Type:**Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Grace]]
-**Arrow Travel:** 28m per [[Ticks, Priority & Resolution|Priority]] 
+**Arrow Travel:** 28m per [[Ticks, Priority & Resolution|Tick]] 
 **Optimal [[Range & Threat|Range]]:** 120m
 **Minimum [[Range & Threat|Range]]:** 8m **
 Handedness:** Two-Handed 
@@ -438,7 +438,7 @@ A compact, one-handed crossbow suited for confined spaces and quick deployment. 
 **[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 11 + [[Attributes|Grace]] 
-**Bolt Travel:** 20m per [[Ticks, Priority & Resolution|Priority]] 
+**Bolt Travel:** 20m per [[Ticks, Priority & Resolution|Tick]] 
 **Optimal [[Range & Threat|Range]]:** 60m
 **Minimum [[Range & Threat|Range]]:** 1m
 **Handedness:** One-Handed 
@@ -451,7 +451,7 @@ A large, powerful crossbow with a mechanical cocking mechanism. Slower to reload
 **[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Grace]] 
 **[[Damage Types|Damage]]Type:** Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 9 + [[Attributes|Grace]] 
-**Bolt Travel:** 25m per [[Ticks, Priority & Resolution|Priority]] 
+**Bolt Travel:** 25m per [[Ticks, Priority & Resolution|Tick]] 
 **Optimal [[Range & Threat|Range]]:** 90m 
 **Minimum [[Range & Threat|Range]]:** 1m 
 **Handedness:** Two-Handed
@@ -461,7 +461,6 @@ A large, powerful crossbow with a mechanical cocking mechanism. Slower to reload
 
 ## Unique 
 ### Whip
-
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Cutting
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 12 + [[Attributes|Grace]] 

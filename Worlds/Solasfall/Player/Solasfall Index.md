@@ -29,7 +29,7 @@ Read roughly in this order:
 
 ### Equipment (reference when buying gear)
 - [[Weapon]] / [[Solasfall Weapons]] / [[Weapon Traits]]
-- [[Cyberpunk Armour]], [[Shields]]
+- [[Solasfall Armour]], [[Shields]]
 - [[Carrying Limits]], [[Solasfall Ammunition]], [[Toxins]]
 
 ### Combat extras (reference as they come up)

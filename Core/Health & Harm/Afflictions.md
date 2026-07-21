@@ -103,10 +103,10 @@ _Your body reacts faster than conscious thought when fear increases._
 _If everything is not correct, safety feels impossible._
 - **Minor:** When you start your [[Rest & Recovery|Rest]], one of your [[Rest & Recovery|Rest]] Activities has to be Repairing your Gear.
 - **Moderate:** When performing a **precision [[Actions|action]]** (aimed [[Attacks|attack]], disarming traps, lockpicking, careful spellcasting, medical treatment, [[Skills|crafting]], or manipulating gear), your **[[Actions|Action]]'s [[Ticks, Priority & Resolution|Priority]] is reduced by 1**.
-- **Severe:** When attempting any task where **failing would have serious conPrioritynces**, make a **[[Attributes|Resolve]] Test (DN 14)**. **On failure:** You **cannot initiate the [[Actions|action]] this [[Rounds|round]]** — you hesitate, re-check, or recalculate. You may still Move or Withdraw. **On success:** You may act normally, but your [[Ticks, Priority & Resolution|Priority]] penalty from Moderate still applies.
+- **Severe:** When attempting any task where **failing would have serious consquence**, make a **[[Attributes|Resolve]] Test (DN 14)**. **On failure:** You **cannot initiate the [[Actions|action]] this [[Rounds|round]]** — you hesitate, re-check, or recalculate. You may still Move or Withdraw. **On success:** You may act normally, but your [[Ticks, Priority & Resolution|Priority]] penalty from Moderate still applies.
 
 ## Attachment Fragility
-_When you care about someone, it fePriorityangerous._
+_When you care about someone, it feels dangerous._
 - **Minor:** When acting to **support, protect, or assist** someone you care about, you must **Act immediately**, but take **–1** to the roll.
 - **Moderate:** When an ally you care about is **injured**, make a **[[Attributes|Resolve]] Test (DN 14)**. **On failure:** You **freeze for 1 [[Rounds|round]]** as fear overrides [[Actions|action]].
 - **Severe:** You cannot **willingly place yourself in danger to defend someone you care about** without a **[[Attributes|Resolve]] Test (DN 16)**. **On failure:** You **hesitate** and may only **Move** or **Withdraw** that [[Rounds|round]].
