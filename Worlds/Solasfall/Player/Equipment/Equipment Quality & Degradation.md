@@ -12,8 +12,6 @@ A **Broken** item is treated as though it does not exist for mechanical purposes
 
 It still physically occupies inventory space and can still be carried, sold as scrap, or restored — it is not destroyed, only unusable until repaired back into a functioning tier through [[Skills|Crafting]] or the relevant restoration process below.
 
----
-
 ## Weapons
 
 | Tier | Price Multiplier | Attack / Parry Roll | [[Ticks, Priority & Resolution\|Priority]] | Damage |
@@ -58,10 +56,7 @@ DR changes by 1 per tier moved away from Standard in either direction. Masterwor
 ## Acquiring Quality Items
 Quality above Standard is not something a starting character buys off a shelf casually — Fine and Masterwork items should generally be GM-gated behind commission, reputation, quest reward, or [[Hollowdeep]] recovery rather than sitting in the [[Starting Gear Shop]] price list outright. Shoddy and Worn items, by contrast, are exactly what the Slum District's scavenged black markets or a desperate Weighing-driven pawn sale would produce, and can reasonably be available from character creation.
 
----
-
 ## Degradation
-
 Equipment does not degrade from ordinary use, ordinary combat, or the simple passing of time. It degrades when the GM calls for it, following a **meaningful narrative event** — this is a storytelling tool, not a tracked resource with pips or a wear counter.
 
 ### Triggers
