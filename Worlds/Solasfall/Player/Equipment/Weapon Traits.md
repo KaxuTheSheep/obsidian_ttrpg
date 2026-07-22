@@ -37,7 +37,9 @@ When you **hit** a target who is currently **Blocking**, the target must make a 
 
 ### Sundering
 Built to **deform plates, sheer links, or crack rigid structures**.  
-When you deal [[Damage Types|damage]] to a target wearing [[Solasfall Armour|Armour]], Choose to Sunder before rolling [[Damage Types|damage]]. If any portion of the post-[[Block]] [[Damage Types|damage]] is applied to [[Solasfall Armour|Armour]] DR, reduce the target’s [[Solasfall Armour|Armour]] DR by 2 (until repaired), even if the [[Solasfall Armour|Armour]] reduces the final [[Damage Types|damage]] to 0 at the cost of $\frac{3}{4}$ the [[Damage Types|damage]]. If the [[Attacks|attack]] is Parried, or [[Block]] prevents any [[Damage Types|damage]] from reaching [[Solasfall Armour|Armour]] DR, Sundering does not apply.
+When you deal [[Damage Types|damage]] to a target wearing [[Solasfall Armour|Armour]], Choose to Sunder before rolling [[Damage Types|damage]]. If any portion of the post-[[Block]] [[Damage Types|damage]] is applied to [[Solasfall Armour|Armour]] DR, Sundering successfully applies to a given piece of armour, that armour immediately drops **1 [[Equipment Quality & Degradation|Quality Tier]]**. This can happen up to **3 times** against the same armour without an intervening restoration — the 4th and any subsequent successful Sunder application doesn't drop the Quality Tier.
+
+Restoring the armour's Quality Tier through Repair Gear or a Crafting Test (see [[Equipment Quality & Degradation]]) also resets this 3-hit cap, since the armour has been meaningfully rebuilt rather than just patched.
 
 ### Momentum
 Thrives on **committed, powerful swings**.  

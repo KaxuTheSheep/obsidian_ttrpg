@@ -46,13 +46,13 @@ Rare. Requires security, shelter, and absence of life-threatening stress.
 
 ## Rest Activities (≈ 30 minutes each)
 
-| Activity | Effect |
-| -------- | ------ |
-| Catch Breath | Spend 1 [[Blood]] Die to restore [[Blood]]. |
-| Patch [[Injuries|Wounds]] | [[Skills|Medicine]] Test (DN 14): close 1 Open [[Injuries|Wound]] on success. |
-| Sharpen Focus | Gain advantage on 1 test of your choice. |
-| Keep Watch | You and one ally gain Advantage on [[Skills|Perception]] during the rest. |
-| Cook / Eat | Restore [[Sturdiness]] to full. |
-| Repair Gear | Remove minor [[Weapon|weapon]] or armour wear. |
-| Meditate / Reflect | Reduce Exhaustion by 1. |
-| Study / Research | Learn information via relevant [[Skills|Skill]] Test. |
+| Activity                      | Effect                                                                          |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| Catch Breath                  | Spend 1 [[Blood]] Die to restore [[Blood]].                                     |
+| Patch [[Injuries   \|Wounds]] | [[Skills\|Medicine]] Test (DN 14): close 1 Open [[Injuries\|Wound]] on success. |
+| Sharpen Focus                 | Gain advantage on 1 test of your choice.                                        |
+| Keep Watch                    | You and one ally gain Advantage on [[Skills \|Perception]] during the rest.     |
+| Cook / Eat                    | Restore [[Sturdiness]] to full.                                                 |
+| Repair Gear                   | Remove minor [[Weapon\|weapon]] or armour wear.                                 |
+| Meditate / Reflect            | Reduce Exhaustion by 1.                                                         |
+| Study / Research              | Learn information via relevant [[Skills\|Skill]] Test.                          |
