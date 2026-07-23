@@ -27,11 +27,11 @@ Found throughout [[The Sunken Hollow]] tending aphid herds and harvesting the ca
 
 ## [[Movement Types|Movement]]
 
-| Type  | Initiation | Travel Rate                                          |
-| ----- | ---------- | ---------------------------------------------------- |
-| Walk  | 10         | 3m per [[Ticks, Priority & Resolution\|Tick]]        |
-| Run   | 8          | 7m per [[Ticks, Priority & Resolution\|Tick]]\|      |
-| Climb | 5          | 2m per [Prioritys, Priority & Resolution\|Priority]] |
+| Type  | Initiation | Travel Rate                                   |
+| ----- | ---------- | --------------------------------------------- |
+| Walk  | 10         | 3m per [[Ticks, Priority & Resolution\|Tick]] |
+| Run   | 8          | 7m per [[Ticks, Priority & Resolution\|Tick]] |
+| Climb | 5          | 2m per [[Ticks, Priority & Resolution\|Tick]] |
 
 Workers climb walls and ceilings with the same ease as flat ground, reflecting their small size and weight.
 

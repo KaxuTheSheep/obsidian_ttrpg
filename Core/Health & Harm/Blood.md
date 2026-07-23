@@ -23,13 +23,13 @@ Unlike [[Sturdiness]], Blood is difficult to restore mid-combat and between enco
 ## Blood Thresholds and Penalties
 Even when not fully depleted, low Blood imposes penalties reflecting the strain on the body. Closed [[Injuries|wounds]] may reopen at dangerously low Blood levels.
 
-| Blood Remaining | Effect |
-| --------------- | ------ |
-| >50% | No penalty. The character functions normally. |
-| 30–50% | Gain **Breathless**. Closed [[Injuries|wounds]] have a 5% chance to reopen. |
-| 10–30% | Gain **Dazed** and **Disoriented**. [[Evasion]] –2. Closed [[Injuries|wounds]] have a 10% chance to reopen. |
-| <10% | Severe penalties: –3 to all physical Tests. [[Evasion]] –3. Closed [[Injuries|wounds]] have a 25% chance to reopen. |
-| 0 or below | All closed [[Injuries|wounds]] reopen. |
+| Blood Remaining | Effect                                                                        |                                       |
+| --------------- | ----------------------------------------------------------------------------- | ------------------------------------- |
+| >50%            | No penalty. The character functions normally.                                 |                                       |
+| 30–50%          | Gain **Breathless**. Closed [[Injuries\|wounds]] have a 5% chance to reopen.  |
+| 10–30%          | Gain **Dazed** and **Disoriented**. [[Evasion]] –2. Closed [[Injuries\|wounds]] have a 10% chance to reopen. |
+| <10%            | Severe penalties: –3 to all physical Tests. [[Evasion]] –3. Closed [[Injuries\|wounds]] have a 25% chance to reopen. |
+| 0 or below      | All closed [[Injuries\|wounds]] reopen.                      |
 
 > Thresholds are based on your current Blood as a percentage of your maximum, rounded up to the nearest integer. A character with higher maximum Blood is not penalised more heavily than one with lower maximum Blood at the same relative point.
 

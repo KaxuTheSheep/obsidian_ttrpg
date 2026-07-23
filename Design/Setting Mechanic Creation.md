@@ -90,9 +90,7 @@ A setting is not functional without these. They have no core default beyond the 
 
 - The core [[Skills|skill]] list is the baseline. Modules may add setting-specific [[Skills|skills]] following the same format: [[Skills|skill]] name, linked [[Attributes|attribute]], and description.
 - Modules should not remove core [[Skills|skills]] but may make some irrelevant by context.
-
----
-
+ 
 ## What a Mechanics May Override
 
 These are core defaults that a module can replace if the setting requires it.

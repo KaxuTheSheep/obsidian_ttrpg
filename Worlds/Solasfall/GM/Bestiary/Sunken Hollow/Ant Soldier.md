@@ -27,11 +27,11 @@ Found throughout [[The Sunken Hollow]], soldiers defend the colony's aphid herds
 
 ## [[Movement Types|Movement]]
 
-| Type  | Initiation | Travel Rate                                             |
-| ----- | ---------- | ------------------------------------------------------- |
-| Walk  | 10         | 3m per [[Ticks, Priority & Resolution\|Priority]]       |
-| Run   | 8          | 6m per [[Ticks, Priority & Resolution\|Priority]]       |
-| Climb | 5          | 0.75m pePriorityicks, Priority & Resolution\|Priority]] |
+| Type  | Initiation | Travel Rate                                      |
+| ----- | ---------- | ------------------------------------------------ |
+| Walk  | 10         | 3m per [[Ticks, Priority & Resolution\|Tick]]    |
+| Run   | 8          | 6m per [[Ticks, Priority & Resolution\|Tick]]    |
+| Climb | 5          | 0.75m per [[Ticks, Priority & Resolution\|Tick]] |
 
 Unlike workers, a soldiers size means climbing is genuine effort rather than effortless wall-walking — slower and more deliberate, but still capable.
 

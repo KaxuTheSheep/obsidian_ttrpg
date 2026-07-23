@@ -31,12 +31,12 @@ Sturdiness can be recovered through:
 ## Buying Sturdiness
 Additional Sturdiness can be purchased using Trait Points. As bought Sturdiness increases, each point costs more and requires greater physical conditioning to sustain.
 
-| Bought Sturdiness | Cost Per Point | [[Attributes|Vitality]] Requirement |
+| Bought Sturdiness | Cost Per Point | [[Attributes\|Vitality]] Requirement |
 |---|---|---|
 | 1–5 | 1 point | None |
-| 6–10 | 2 points | [[Attributes|Vitality]] 2 |
-| 11–20 | 3 points | [[Attributes|Vitality]] 4 |
-| 21+ | 4 points | [[Attributes|Vitality]] 6 |
+| 6–10 | 2 points | [[Attributes\|Vitality]] 2 |
+| 11–20 | 3 points | [[Attributes\|Vitality]] 4 |
+| 21+ | 4 points | [[Attributes\|Vitality]] 6 |
 
 > There is no hard cap on bought Sturdiness. However, the increasing cost and [[Attributes|Vitality]] requirements mean heavy investment crowds out other progression choices significantly.
 

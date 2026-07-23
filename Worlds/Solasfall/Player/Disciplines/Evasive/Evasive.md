@@ -76,7 +76,7 @@ You may declare Dodge and still use Reactive Dodge later in the same Round again
 The Anticipation restriction ("once per Round") is removed — you may use Reactive Dodge as many times as you are targeted, so long as you have not already declared and triggered proactive Dodge this Round.
 
 ## Sustained Motion
-**Prerequisites:** Lingering Guard.
+**Prerequisites:** Lingering Guard, 4 Grace.
 **Cost:** 3 Trait Points.
 Dodge's Evasion bonus window extends by a further **1 Tick step** (total −5 from triggering Attack Tick).
 
