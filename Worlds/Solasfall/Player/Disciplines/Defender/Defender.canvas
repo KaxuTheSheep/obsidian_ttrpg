@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1100,"y":-100,"width":2060,"height":1100,"label":"Defender"},
+		{"id":"t16","type":"text","text":"Immovable Object\nPrereq: Any two of\nPunishing Block,\nRetaliatory Guard,\nOverlapping Defence,\nUnbroken Wall\nCost: 4","x":-100,"y":720,"width":280,"height":140},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-1080,"y":-80,"width":320,"height":60,"color":"3"},
+		{"id":"t12","type":"text","text":"Unrelenting Guard\nPrereq: Reinforced Guard,\n4 Might\nCost: 3","x":-1080,"y":480,"width":260,"height":140},
+		{"id":"t14","type":"text","text":"Unbroken Wall\nPrereq: Reinforced Guard,\nFull Coverage\nCost: 3","x":-760,"y":480,"width":260,"height":140},
+		{"id":"t8","type":"text","text":"Steady Recovery\nPrereq: Braced Guard\nCost: 2","x":-740,"y":250,"width":260,"height":85},
+		{"id":"t13","type":"text","text":"Bulwark Stance\nPrereq: Full Coverage,\n5 Might\nCost: 4","x":-440,"y":480,"width":260,"height":120},
+		{"id":"t5","type":"text","text":"Retaliatory Guard\nPrereq: None\nCost: 2","x":300,"y":490,"width":260,"height":90},
+		{"id":"t3","type":"text","text":"Fluid Guard\nPrereq: None\nCost: 2","x":-80,"y":10,"width":260,"height":100},
+		{"id":"t7","type":"text","text":"Full Coverage\nPrereq: Wide Stance\nCost: 3","x":-440,"y":250,"width":260,"height":95},
+		{"id":"t9","type":"text","text":"Overlapping Defence\nPrereq: Wide Stance\nCost: 3","x":-90,"y":250,"width":260,"height":90},
+		{"id":"t6","type":"text","text":"Reinforced Guard\nPrereq: Braced Guard\nCost: 2","x":-1080,"y":250,"width":260,"height":95},
+		{"id":"t10","type":"text","text":"Punishing Block\nPrereq: Shield Bash\nCost: 3","x":300,"y":250,"width":260,"height":90},
+		{"id":"t11","type":"text","text":"Weight Behind It\nPrereq: Shield Bash,\n3 Might\nCost: 3","x":660,"y":250,"width":260,"height":130},
+		{"id":"t4","type":"text","text":"Shield Bash\nPrereq: None\nRequires shield\nCost: 2","x":300,"y":10,"width":260,"height":120},
+		{"id":"t2","type":"text","text":"Wide Stance\nPrereq: None\nCost: 2","x":-440,"y":10,"width":260,"height":80},
+		{"id":"t1","type":"text","text":"Braced Guard\nPrereq: None\nCost: 2","x":-1080,"y":10,"width":260,"height":90}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e3","fromNode":"t1","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e4","fromNode":"t2","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e5","fromNode":"t4","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e6","fromNode":"t4","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e7","fromNode":"t6","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e8","fromNode":"t7","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e9","fromNode":"t6","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e10","fromNode":"t7","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e11","fromNode":"t10","fromSide":"bottom","toNode":"t16","toSide":"top","color":"3"},
+		{"id":"e12","fromNode":"t5","fromSide":"bottom","toNode":"t16","toSide":"top","color":"3"},
+		{"id":"e13","fromNode":"t9","fromSide":"bottom","toNode":"t16","toSide":"top","color":"3"},
+		{"id":"e14","fromNode":"t14","fromSide":"bottom","toNode":"t16","toSide":"top","color":"3"}
+	]
+}

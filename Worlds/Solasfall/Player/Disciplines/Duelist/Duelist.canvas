@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1100,"y":-100,"width":2200,"height":1100,"label":"Duelist"},
+		{"id":"t2","type":"text","text":"Unbroken Rhythm\nPrereq: None\nCost: 2","x":-400,"y":20,"width":260,"height":100},
+		{"id":"t3","type":"text","text":"Counter Flow\nPrereq: None\nCost: 2","x":0,"y":20,"width":260,"height":100},
+		{"id":"t4","type":"text","text":"Read the Strike\nPrereq: None\nCost: 2","x":400,"y":20,"width":260,"height":100},
+		{"id":"t5","type":"text","text":"Reactive Parry\nPrereq: None\nCost: 3","x":800,"y":20,"width":260,"height":100},
+		{"id":"t8","type":"text","text":"Answering Blow\nPrereq: Counter Flow\nCost: 3","x":0,"y":240,"width":260,"height":100},
+		{"id":"t9","type":"text","text":"Weightless Step\nPrereq: Read the Strike,\n4 Grace\nCost: 3","x":400,"y":240,"width":260,"height":160},
+		{"id":"t10","type":"text","text":"Snap Deflection\nPrereq: Reactive Parry,\n4 Grace\nCost: 3","x":800,"y":240,"width":260,"height":160},
+		{"id":"t13","type":"text","text":"Perfect Deflection\nPrereq: Fluid Guard,\n5 Grace\nCost: 4","x":-600,"y":480,"width":260,"height":120},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-1080,"y":-80,"width":320,"height":60,"color":"3"},
+		{"id":"t1","type":"text","text":"Sure Parry\nPrereq: None\nCost: 2","x":-1080,"y":20,"width":260,"height":100},
+		{"id":"t6","type":"text","text":"Confident Parry\nPrereq: Sure Parry\nCost: 2","x":-1080,"y":240,"width":260,"height":100},
+		{"id":"t12","type":"text","text":"Blade Dancer\nPrereq: Confident Parry,\n4 Grace\nCost: 3","x":-1080,"y":480,"width":260,"height":160},
+		{"id":"t11","type":"text","text":"Fluid Guard\nPrereq: Sure Parry,\n3 Grace\nCost: 3","x":-700,"y":240,"width":260,"height":140},
+		{"id":"t7","type":"text","text":"Flowing Defence\nPrereq: Unbroken Rhythm\nCost: 3","x":-400,"y":240,"width":260,"height":140},
+		{"id":"t15","type":"text","text":"Perpetual Guard\nPrereq: Any two of\nFlowing Defence,\nAnswering Blow,\nBlade Dancer,\nSnap Deflection\nCost: 4","x":-220,"y":820,"width":280,"height":140}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e4","fromNode":"t4","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e5","fromNode":"t5","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e6","fromNode":"t1","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e7","fromNode":"t6","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e8","fromNode":"t11","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e9","fromNode":"t7","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"},
+		{"id":"e10","fromNode":"t8","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"},
+		{"id":"e11","fromNode":"t12","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"},
+		{"id":"e12","fromNode":"t10","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"}
+	]
+}

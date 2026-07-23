@@ -47,7 +47,7 @@ If you continue Parrying:
 ## Counter-[[Attacks|Attack]]
 If chosen:
 - Resolves at the [[Ticks, Priority & Resolution|Priority]] of the incoming [[Attacks|attack]]
-- DoePriority consume [[Actions|Action]] economy
+- Doesn't consume [[Actions|Action]] economy
 - Ends Parry stance afterward
 
 ## Restrictions
