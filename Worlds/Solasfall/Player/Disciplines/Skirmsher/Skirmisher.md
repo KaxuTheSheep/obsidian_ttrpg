@@ -16,12 +16,12 @@ You gain access to a new combined action: move up to your Walk Travel Rate, then
 You gain access to a new combined action: make one weapon [[Attacks|Attack]], then move up to your Walk Travel Rate. Both occur within a single [[Ticks, Priority & Resolution|Tick]] at [[Ticks, Priority & Resolution|Priority]] equal to your weapon's Attack Priority **− 2**. This costs a **Full [[Actions|Action]]**.
 
 ## Quickstep
-**Prerequisites:** None.  
+**Prerequisites:** None, 2 Grace.
 **Cost:** 2 Trait Points.  
 Gain **+1 Initiation [[Ticks, Priority & Resolution|Priority]]** to all [[Movement Types]].
 
 ## Fleeting Motion
-**Prerequisites:** None.  
+**Prerequisites:** None. 
 **Cost:** 2 Trait Points.  
 Gain **+0.5m per [[Ticks, Priority & Resolution|Tick]]** to your Walk and Run Travel Rates.
 
@@ -31,7 +31,7 @@ Gain **+0.5m per [[Ticks, Priority & Resolution|Tick]]** to your Walk and Run Tr
 Gain a further **+1m per [[Ticks, Priority & Resolution|Tick]]** to your Walk Travel Rate specifically.
 
 ## Runner's Instinct
-**Prerequisites:** Quickstep.  
+**Prerequisites:** Quickstep, 3 Grace.
 **Cost:** 2 Trait Points.  
 Gain a further **+1 Initiation [[Ticks, Priority & Resolution|Priority]]** to Run specifically.
 
@@ -66,7 +66,7 @@ Any creature attempting a Reach Punish, [[Parry]] counter-attack, or similar pun
 You gain access to a new combined action: move up to your Walk Travel Rate, then make **two** weapon [[Attacks|Attacks]]. All segments occur within a single [[Ticks, Priority & Resolution|Tick]] at [[Ticks, Priority & Resolution|Priority]] equal to your weapon's Attack Priority **− 2**. This costs **2 Full [[Actions|Actions]]**.
 
 ## Relentless Advance
-**Prerequisites:** Storming Assault.  
+**Prerequisites:** Storming Assault.
 **Cost:** 3 Trait Points.  
 Storming Assault now costs **1 Full [[Actions|Action]]** instead of 2.
 

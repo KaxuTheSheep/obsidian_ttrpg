@@ -1,4 +1,4 @@
-sanctum faction specifics, more details on npc dynamics
+\sanctum faction specifics, more details on npc dynamics
 
 size rules when monsters and npcs exist
 

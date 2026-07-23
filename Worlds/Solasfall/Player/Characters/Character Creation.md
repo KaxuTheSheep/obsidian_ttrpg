@@ -47,13 +47,13 @@ With your race chosen, spend any Trait Points still in your pool on Racial Tree 
 ## Step 4 — Calculate Derived Stats
 With [[Attributes]] and Race both locked in, calculate your derived pools:
 
-| Stat                   | Formula                                                  |
-| ---------------------- | -------------------------------------------------------- |
-| **Blood**              | Base Blood (race) + [[Attributes|Vitality]] + Other Modifiers           |
-| **Sturdiness**         | 6 (base) + [[Attributes|Vitality]] + Bought Increases + Other Modifiers |
-| **Evasion**            | 8 (base) + [[Attributes|Grace]] + Other Modifiers                       |
-| **Sanity**             | 14 (base) + 2 x [[Attributes|Resolve]] + Level + Other Modifiers<br>    |
-| **Inventory Capacity** | 6+ (3 x [[Attributes|Might]])                                           |
+| Stat                   | Formula                                                                  |
+| ---------------------- | ------------------------------------------------------------------------ |
+| **Blood**              | Base Blood (race) + [[Attributes\|Vitality]] + Other Modifiers           |
+| **Sturdiness**         | 6 (base) + [[Attributes\|Vitality]] + Bought Increases + Other Modifiers |
+| **Evasion**            | 8 (base) + [[Attributes\|Grace]] + Other Modifiers                       |
+| **Sanity**             | 14 (base) + 2 x [[Attributes\|Resolve]] + Level + Other Modifiers<br>    |
+| **Inventory Capacity** | 6+ (3 x [[Attributes\|Might]])                                           |
 
 Write these down now. Everything downstream — equipment choices, combat viability, whether you can even survive a first encounter — depends on knowing these numbers before you start spending money.
 

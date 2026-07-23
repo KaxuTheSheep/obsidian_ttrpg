@@ -33,7 +33,7 @@ Axes you wield with the [[Weapon Traits#Sundering|Sundering]] trait may trigger 
 ## Deepened Sunder
 **Prerequisites:** Opened Seams.
 **Cost:** 2 Trait Points.
-Your Sundering effect reduces the target's Armour DR by **4** instead of 2.
+Your Sundering effect can now apply 4 times.
 
 ## Cracking Point
 **Prerequisites:** Deepened Sunder.
@@ -64,8 +64,6 @@ Once per [[Rounds|Round]], you may forgo your ability to Parry or Dodge until th
 **Prerequisites:** All In.
 **Cost:** 3 Trait Points.
 Heavy [[Attacks]] made with an axe no longer reduce [[Ticks, Priority & Resolution|Priority]] at all.
-
----
 
 ## Unbreakable Rhythm
 **Prerequisites:** Armour Breaker, Unstoppable Swing.
