@@ -96,7 +96,7 @@ This [[Weapon|weapon]] can be drawn or stowed as a **free [[Actions|action]]** o
 ### Cumbersome
 [[Drawing & Stowing|Drawing]] or [[Drawing & Stowing|stowing]] this [[Weapon|weapon]] requires a **full [[Actions|action]]**.
 
-### [[Weapon]] Bind
+### Weapon Bind
 A successful [[Parry]] with this [[Weapon|weapon]] can lock the opponent's [[Weapon|weapon]], transitioning into a Bind. When you successfully Parry an [[Attacks|attack]], you may choose to initiate a Bind instead of a counter-[[Attacks|attack]].
 
 **Initiating a Bind:**
@@ -158,7 +158,7 @@ The [[Weapon|weapon]] tumbles in flight, presenting multiple impact faces on arr
 
 ### Light
 - Easy to manoeuvre in tight space.
-- Can be used while **[[Dodge]]** is active without penalty.
+- Can be used while **[[Dodge]]** is active without the disadvantage penalty.
 - Can be **dual-wielded**.
 
 ### Thrown

@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1000,"y":-100,"width":1900,"height":1460,"label":"Skirmisher"},
+		{"id":"t2","type":"text","text":"Parting Blow\nPrereq: None\nCost: 2","x":-200,"y":20,"width":260,"height":80},
+		{"id":"t3","type":"text","text":"Quickstep\nPrereq: None\nCost: 2","x":200,"y":20,"width":260,"height":80},
+		{"id":"t4","type":"text","text":"Fleeting Motion\nPrereq: None\nCost: 2","x":600,"y":20,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Runner's Instinct\nPrereq: Quickstep\nCost: 2","x":200,"y":240,"width":260,"height":80},
+		{"id":"t5","type":"text","text":"Hunter's Stride\nPrereq: Fleeting Motion\nCost: 2","x":600,"y":240,"width":260,"height":140},
+		{"id":"t1","type":"text","text":"Dash Strike\nPrereq: None\nCost: 2","x":-860,"y":20,"width":260,"height":80},
+		{"id":"t14","type":"text","text":"Unbroken Momentum\nPrereq: Any two of\nFull Sprint,\nEvasive Advance,\nRelentless Advance\nCost: 5","x":-860,"y":1140,"width":260,"height":180},
+		{"id":"t10","type":"text","text":"Sweeping Advance\nPrereq: Dash Strike,\nParting Blow\nCost: 3","x":-530,"y":540,"width":260,"height":110},
+		{"id":"t7","type":"text","text":"Practiced Flow\nPrereq: Dash Strike or\nParting Blow\nCost: 2","x":-530,"y":165,"width":260,"height":150},
+		{"id":"t12","type":"text","text":"Storming Assault\nPrereq: Sweeping Advance\nCost: 4","x":-350,"y":780,"width":260,"height":140},
+		{"id":"t13","type":"text","text":"Relentless Advance\nPrereq: Storming Assault\nCost: 3","x":-350,"y":1020,"width":260,"height":120},
+		{"id":"t11","type":"text","text":"Evasive Advance\nPrereq: Sweeping Advance\nCost: 3","x":-700,"y":810,"width":260,"height":110},
+		{"id":"t8","type":"text","text":"Full Sprint\nPrereq: Dash Strike\nCost: 3","x":-860,"y":400,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"Clean Break\nPrereq: Parting Blow\nCost: 2","x":-200,"y":400,"width":260,"height":80},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-980,"y":-80,"width":320,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e4","fromNode":"t4","fromSide":"bottom","toNode":"t5","toSide":"top"},
+		{"id":"e5","fromNode":"t1","fromSide":"bottom","toNode":"t7","toSide":"top","color":"3"},
+		{"id":"e6","fromNode":"t2","fromSide":"bottom","toNode":"t7","toSide":"top","color":"3"},
+		{"id":"e7","fromNode":"t1","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e8","fromNode":"t2","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e9","fromNode":"t10","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e10","fromNode":"t10","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e11","fromNode":"t12","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e12","fromNode":"t8","fromSide":"bottom","toNode":"t14","toSide":"top","color":"3"},
+		{"id":"e13","fromNode":"t11","fromSide":"bottom","toNode":"t14","toSide":"top","color":"3"},
+		{"id":"e14","fromNode":"t13","fromSide":"bottom","toNode":"t14","toSide":"top","color":"3"}
+	]
+}
