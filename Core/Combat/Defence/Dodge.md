@@ -11,13 +11,12 @@ Dodge is declared during the Declaration Phase.
 If Dodge is declared, it activates when the **first [[Attacks|attack]] targets you this [[Rounds|Round]]**.
 When triggered, you perform a Dodge ([[Movement Types|movement]], reflex, or evasive repositioning).
 
-## Effect Window
+### Effect Window
 When activated:
 - Your **[[Evasion]] increases by ([[Attributes|Grace]] + [[Attributes|Insight]])**
 - This bonus lasts until [[Actions|actions]] of **[[Ticks, Priority & Resolution|Tick]] equal to (triggering [[Attacks|attack]] [[Ticks, Priority & Resolution|Tick]] − 3)** have resolved
 - While the bonus is active, any [[Attacks|attack]] you make is at Disadvantage.
 - You may make one free reposition of up to **2 meters** after the triggering [[Attacks|attack]].
-- This reposition does not provoke [[Reactions]].
 - You may freely adjust [[Facing]] as part of this [[Movement Types|movement]].
 
 ## Reactive Dodge (Alternative Use)
@@ -26,7 +25,7 @@ If you did not declare Dodge, you may instead use it as a Reaction when targeted
 - No reposition is gained
 - You may still adjust [[Facing]] as part of the reaction
 
-## Applies Againstx
+## Applies Against
 - Melee [[Attacks|attacks]]
 - Thrown weapons
 - Ranged [[Attacks|attacks]]
