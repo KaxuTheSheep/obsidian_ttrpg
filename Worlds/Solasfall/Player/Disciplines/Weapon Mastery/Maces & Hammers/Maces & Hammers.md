@@ -9,7 +9,7 @@ tags:
 ## Skull-Rattler
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-When you hit a target with a mace or hammer for [[Damage Types|damage]] equal to or greater than half their maximum Sturdiness, they must make a **[[Attributes|Vitality]] Test (DN 12)** or gain **Dazed**.
+When you hit a target with a mace or hammer for [[Damage Types|damage]] equal to or greater than half their maximum Sturdiness, they must make a **[[Attributes|Vitality]] Test (DN 12)** or gain **Dazed(3)**.
 
 ## Concussive Follow-Up
 **Prerequisites:** Skull-Rattler.
@@ -24,7 +24,7 @@ When you score a **Critical Success** with a mace or hammer, you may impose **St
 ## Earthshaker
 **Prerequisites:** Bell-Ringer.
 **Cost:** 3 Trait Points.
-When a **Heavy [[Attacks|Attack]]** with a mace or hammer hits, every creature within 2m of the target (other than yourself) must make a **[[Attributes|Vitality]] Test (DN 12)** or gain **Dazed**.
+When a **Heavy [[Attacks|Attack]]** with a mace or hammer hits, every creature within 2m of the target (other than yourself) must make a **[[Attributes|Vitality]] Test (DN 12)** or gain **Dazed(4)**.
 
 ## Guard Crumple
 **Prerequisites:** None.
@@ -69,7 +69,7 @@ Heavy [[Attacks]] made with a mace or hammer no longer reduce [[Ticks, Priority 
 ## Pulverising Blow
 **Prerequisites:** Guard Breaker, Bell-Ringer.
 **Cost:** 4 Trait Points.
-When you end a Block via **Guard Breaker**, the target immediately suffers **Skull-Rattler**'s effect with no Test allowed — they are simply Dazed.
+When you end a Block via **Guard Breaker**, the target immediately suffers **Skull-Rattler**'s effect with no Test allowed — they are simply Dazed(4).
 
 ## Cataclysmic Swing
 **Prerequisites:** Earthshaker, Juggernaut.

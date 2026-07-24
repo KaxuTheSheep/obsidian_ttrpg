@@ -62,7 +62,7 @@ Increases the Silent Strike bonus by +1, to +4 total.
 ## Mimic Confusion
 Prerequisites: None. 
 Cost: 2 Trait Points. 
-As a Half [[Actions|Action]], you produce a mimicked sound or voice to disorient a target within hearing [[Range & Threat|range]]. The target must make a [[Attributes|Resolve]] Test against DN 10 + your [[Skills|Negotiation]] modifier. On failure, they gain Dazed until the end of their next turn. No usage limit.
+As a Half [[Actions|Action]], you produce a mimicked sound or voice to disorient a target within hearing [[Range & Threat|range]]. The target must make a [[Attributes|Resolve]] Test against DN 10 + your [[Skills|Negotiation]] modifier. On failure, they gain Dazed(2) until the end of their next turn. No usage limit.
 
 ## Environmental Mimicry
 Prerequisites: Mimic Confusion.

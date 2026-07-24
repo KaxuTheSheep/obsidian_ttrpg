@@ -28,9 +28,9 @@ Your [[weapon]] arm is locked by an opponent's [[weapon]]. See [[Weapon Traits#W
 You cannot hear.
 - Automatically fail any **Tests** requiring hearing.
 
-### Dazed
+### Dazed(N)
 Your focus is unstable.
-- The **first Test** you make each [[Rounds|round]] is at **Disadvantage**.
+- Your priority for all actions are reduce by N.
 
 ### Disoriented
 Your coordination breaks for a moment.

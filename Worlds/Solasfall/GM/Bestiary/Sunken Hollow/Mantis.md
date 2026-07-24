@@ -61,7 +61,7 @@ If the target is currently Grappled by the mantis, this [[Attacks|attack]] inste
 
 ### Iridescent Burst (GM Triggered)
 *Its colours erupt without warning, a wash of impossible hues sweeping across its body.*
-When triggered by the GM — typically under severe stress, after landing a killing blow, or during a mating display — all creatures within 6m who can see the mantis must make a [[Attributes|Resolve]] Test (DN 12) or gain **Dazed** until the end of their next turn. This has no inherent [[Attacks|attack]] cost and does not consume the mantis's [[Actions|action]] economy.
+When triggered by the GM — typically under severe stress, after landing a killing blow, or during a mating display — all creatures within 6m who can see the mantis must make a [[Attributes|Resolve]] Test (DN 12) or gain **Dazed(4)** until the end of their next turn. This has no inherent [[Attacks|attack]] cost and does not consume the mantis's [[Actions|action]] economy.
 
 ## Behaviour
 The mantis hunts from stillness, preferring to let prey approach rather than pursuing openly. It targets isolated or distracted creatures first, using camouflage to close distance before committing to a grab. Once engaged it commits fully — pressing the grab and feeding bite combination rather than disengaging, even against superior numbers, unless badly wounded. It does not flee readily once latched onto prey.

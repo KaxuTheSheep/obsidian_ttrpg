@@ -29,17 +29,17 @@ _Roll 1d20 when you score a critical success on a melee or ranged attack. Apply 
 
 | **Roll** | **Effect Description** | **[[Conditions\|Condition]] and Duration** |
 | -------- | ---------------------- | -------------------------- |
-| 1–2 | The attack grazes the target's skin, causing intense pain. | Frightened for 3 [[Rounds]] |
-| 3–4 | The strike severs or disables a tendon or muscle. | Slowed for 2 [[Rounds]] |
-| 5–6 | The blow disorients the target, causing temporary confusion. | Dazed for 2 [[Rounds]] |
-| 7–8 | A sharp strike damages the eyes or sight organs. | Blinded for 1d2 [[Rounds]] |
-| 9–10 | The target staggers from the force, losing balance. | Prone |
-| 11–12 | The attack crushes fingers or hands, dropping their [[weapon]] or temporarily disabling a natural [[weapon]]. | Disarmed |
-| 13–14 | The blow breaks ribs or punctures lungs, making breathing hard. | Breathless for 4 [[Rounds]] |
-| 15–16 | A strike to a joint causes intense pain and limited [[Movement Types\|movement]]. | Immobilised for 2 [[Rounds]] |
-| 17–18 | The target's [[weapon]] is knocked aside, leaving them open. | Vulnerable for 1 [[Rounds\|Round]] |
-| 19 | The strike hits a vital point, stunning the target briefly. | Stunned for 1 [[Rounds\|Round]] |
-| 20 | The attack causes a grievous [[Injuries\|wound]], forcing the target to their knees. | Immobilised and Prone for 2 [[Rounds]] |
+| 1–2 | The attack grazes the target's skin, causing intense pain. | Frightened for 3 [[Rounds]]                |
+| 3–4 | The strike severs or disables a tendon or muscle. | Slowed for 2 [[Rounds]]                    |
+| 5–6 | The blow disorients the target, causing temporary confusion. | Dazed(2) for 2 [[Rounds]]                  |
+| 7–8 | A sharp strike damages the eyes or sight organs. | Blinded for 1d2 [[Rounds]]                 |
+| 9–10 | The target staggers from the force, losing balance. | Prone                                      |
+| 11–12 | The attack crushes fingers or hands, dropping their [[weapon]] or temporarily disabling a natural [[weapon]]. | Disarmed                                   |
+| 13–14 | The blow breaks ribs or punctures lungs, making breathing hard. | Breathless for 4 [[Rounds]]                |
+| 15–16 | A strike to a joint causes intense pain and limited [[Movement Types\|movement]]. | Immobilised for 2 [[Rounds]]               |
+| 17–18 | The target's [[weapon]] is knocked aside, leaving them open. | Vulnerable for 1 [[Rounds\|Round]]         |
+| 19 | The strike hits a vital point, stunning the target briefly. | Stunned for 1 [[Rounds\|Round]]            |
+| 20 | The attack causes a grievous [[Injuries\|wound]], forcing the target to their knees. | Immobilised and Prone for 2 [[Rounds]]     |
 
 ## Special [[Conditions]]
 Some [[conditions]] or statuses affect attacks differently depending on the [[weapon]] type or style. For example, a Prone target takes advantage/disadvantage differently against melee or [[ranged attacks]].

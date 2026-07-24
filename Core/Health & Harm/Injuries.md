@@ -56,15 +56,15 @@ Each permanent injury carries both **narrative** and **mechanical** consequences
 | **Injury** | **Description** | **Lasting Limitation** |
 | ---------- | --------------- | ---------------------- |
 | **Lost Arm** | A full arm is destroyed, amputated, or rendered unusable. | Cannot wield two-handed weapons or carry a shield in that arm. Disadvantage on tasks requiring two hands (e.g., climbing, heavy lifting). |
-| **Lost Leg** | One leg is lost or crushed beyond recovery. | [[Movement Types|Movement]] Distance halved. Disadvantage on checks involving balance, running, or jumping. Requires support (crutch/prosthetic) to move effectively. |
-| **Damaged Eye** | One eye is blinded or severely injured. | –2 to [[Evasion]] and Disadvantage on ranged [[Attacks|attacks]] or [[Skills|perception]] checks involving sight. |
-| **Crushed Spine** | Severe spinal trauma impairs full mobility. | Cannot Run or Jump. [[Movement Types|Movement]] Distance reduced by 75%. May require assistance to move at all. |
+| **Lost Leg** | One leg is lost or crushed beyond recovery. | [[Movement Types\|Movement]] Distance halved. Disadvantage on checks involving balance, running, or jumping. Requires support (crutch/prosthetic) to move effectively. |
+| **Damaged Eye** | One eye is blinded or severely injured. | –2 to [[Evasion]] and Disadvantage on ranged [[Attacks\|attacks]] or [[Skills\|perception]] checks involving sight. |
+| **Crushed Spine** | Severe spinal trauma impairs full mobility. | Cannot Run or Jump. [[Movement Types\|Movement]] Distance reduced by 75%. May require assistance to move at all. |
 | **Mangled Hand** | Fingers or hand destroyed beyond use. | Cannot wield weapons or hold objects with that hand. Disadvantage on precision or tool-related checks. |
 | **Punctured Lung** | Deep injury impairs breathing. | Stamina-related checks suffer Disadvantage. Max [[Sturdiness]] reduced by 2. |
 | **Shattered Jaw** | Jaw crushed or broken, difficult to speak or eat. | Speech-based checks at Disadvantage. |
-| **Fractured Skull** | Traumatic head injury causes chronic disorientation. | Disadvantage on [[Attributes|Insight]] Tests. Disadvantage on Tests to resist Stunned or Dazed [[Conditions|conditions]]. |
+| **Fractured Skull** | Traumatic head injury causes chronic disorientation. | Disadvantage on [[Attributes|Insight]] Tests. Disadvantage on Tests to resist Stunned or Dazed [[Conditions\|conditions]]. |
 | **Severed Ear** | Loss of hearing in one or both ears. | Disadvantage on [[Skills|Perception]] checks relying on sound. Cannot be surprised by audible cues. |
-| **Internal Organ [[Damage Types|Damage]]** | Critical blow damages vital organs. | Max [[Blood]] reduced by 2 permanently. Healing effects restore half their normal amount. |
-| **Burn Scarring** | Severe burns limit mobility and cause chronic pain. | Disadvantage on [[Attributes|Grace]]-based Tests. Cannot wear heavy armour comfortably. |
-| **Nerve [[Damage Types|Damage]]** | Permanent numbness or pain in limbs. | Disadvantage on [[Attributes|Grace]]- or [[Attributes|Might]]-based [[Skills|Skill]] Tests involving fine control. |
-| **Lost Eye (Both)** | Total blindness from dual eye loss. | Permanently Blinded [[Conditions|condition]]. Must rely on other senses or assistance. |
+| **Internal Organ [[Damage Types\|Damage]]** | Critical blow damages vital organs. | Max [[Blood]] reduced by 2 permanently. Healing effects restore half their normal amount. |
+| **Burn Scarring** | Severe burns limit mobility and cause chronic pain. | Disadvantage on [[Attributes\|Grace]]-based Tests. Cannot wear heavy armour comfortably. |
+| **Nerve [[Damage Types\|Damage]]** | Permanent numbness or pain in limbs. | Disadvantage on [[Attributes\|Grace]]- or [[Attributes\|Might]]-based [[Skills\|Skill]] Tests involving fine control. |
+| **Lost Eye (Both)** | Total blindness from dual eye loss. | Permanently Blinded [[Conditions\|condition]]. Must rely on other senses or assistance. |

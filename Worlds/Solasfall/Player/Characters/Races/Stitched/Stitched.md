@@ -24,7 +24,7 @@ A Stitched [[Soul|soul]] is not one coherent [[Mana|mana]] signature but many ov
 Common and one additional language of choice.
 # Traits
 ## Unravelling
-When you take [[Damage Types|damage]] that would reduce your Blood to 0, your body involuntarily separates. You drop to 1 Blood instead of 0, but your parts scatter within 3m of your brain's last position. You gain Disoriented and Dazed until your core components are reassembled. Each reattachment costs a Half [[Actions|Action]].
+When you take [[Damage Types|damage]] that would reduce your Blood to 0, your body involuntarily separates. You drop to 1 Blood instead of 0, but your parts scatter within 3m of your brain's last position. You gain Disoriented and Dazed(3) until your core components are reassembled. Each reattachment costs a Half [[Actions|Action]].
 ## Rethreading
 A Stitched must spend time every 3 days maintaining their physical cohesion — resewing seams, reattaching loosened parts, and reinforcing the [[Mana|mana]] signature binding their composite [[Soul|soul]] together. This can be performed during any rest period given sufficient time and materials.
 - If a Stitched completes their Rethread on schedule, their maximum Sturdiness is maintained normally.
@@ -98,7 +98,7 @@ Detached parts remain functional up to 20m from your brain.
 ## Simultaneous Projection
 Prerequisites: Sensory Projection. 
 Cost: 3 Trait Points. 
-You no longer need to switch between detached parts to perceive through them. You may simultaneously receive sensory input from all detached parts at once. Managing more than three simultaneous feeds requires an [[Attributes|Insight]] Test (DN 8 + number of active feeds) or you gain Dazed until the feeds reduce below that threshold.
+You no longer need to switch between detached parts to perceive through them. You may simultaneously receive sensory input from all detached parts at once. Managing more than three simultaneous feeds requires an [[Attributes|Insight]] Test (DN 8 + number of active feeds) or you gain Dazed(4) until the feeds reduce below that threshold.
 
 ## Scatter Mastery
 Prerequisites: Scatter. 

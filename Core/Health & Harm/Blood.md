@@ -27,7 +27,7 @@ Even when not fully depleted, low Blood imposes penalties reflecting the strain 
 | --------------- | -------------------------------------------------------------------------------------------------------------------- |
 | >50%            | No penalty. The character functions normally.                                                                        |
 | 30–50%          | Gain **Breathless**. Closed [[Injuries\|wounds]] have a 5% chance to reopen.                                         |
-| 10–30%          | Gain **Dazed** and **Disoriented**. [[Evasion]] –2. Closed [[Injuries\|wounds]] have a 10% chance to reopen.         |
+| 10–30%          | Gain **Dazed(1)** and **Disoriented**. [[Evasion]] –2. Closed [[Injuries\|wounds]] have a 10% chance to reopen.      |
 | <10%            | Severe penalties: –3 to all physical Tests. [[Evasion]] –3. Closed [[Injuries\|wounds]] have a 25% chance to reopen. |
 | 0 or below      | All closed [[Injuries\|wounds]] reopen.                                                                              |
 
