@@ -21,7 +21,7 @@ This is the entire risk/reward trade against Flux Casting: no Backlash, ever —
 ## Core Values
 Every Weave circle is defined by the same two values used in Flux Casting, reinterpreted for Weave's purposes:
 
-- **Control DN** — governs **Time**. How many Priority steps the draw takes to complete.
+- **Control DN** — governs **Time**. How many Ticks the draw takes to complete.
 - **Manifest DN** — governs **Defects**. The target number for the Defect Test.
 
 ## Draw Time
@@ -38,14 +38,14 @@ Higher Control DN means a longer, more exposed draw. Complex, powerful circles a
 
 Insight and Grace here are flat modifiers only — Insight does not govern enhancement precision the way it does in Flux Casting, and no Attribute currently offsets or caps how much Manifest DN climbs with Enhancement investment. More power always means a harder Defect Test, full stop.
 
-| Margin vs Manifest DN | Severity |
-|---|---|
-| Meets or exceeds by 5+ | None — the circle performs exactly as designed. |
-| Meets exactly | Minor — a cosmetic or flavour-only defect. |
-| 1–4 below | Moderate — a persistent mechanical flaw. |
-| 5+ below | Severe — a significant, potentially dangerous flaw. |
+| Margin vs Manifest DN  | Severity                                            |
+| ---------------------- | --------------------------------------------------- |
+| Meets or exceeds by 5+ | None — the circle performs exactly as designed.     |
+| Meets exactly          | Minor — a cosmetic or flavour-only defect.          |
+| 1–4 below              | Moderate — a persistent mechanical flaw.            |
+| 5+ below               | Severe — a significant, potentially dangerous flaw. |
 
-The Defect Test is rolled once on completion for a Woven circle or an uninterrupted Drawn Weave. For an interrupted Drawn Weave, it is **re-rolled on every interruption**, and the **worst result stands** — each reroll also carries its own +1 Priority step penalty on top of whatever was already accrued.
+The Defect Test is rolled once on completion for a Woven circle or an uninterrupted Drawn Weave. For an interrupted Drawn Weave, it is **re-rolled on every interruption**, and the **worst result stands** — each reroll also carries its own +1 Tick step penalty on top of whatever was already accrued.
 
 ## Defects Are Permanent
 Once a defect is determined for a specific drawn circle, it is fixed. It is not rerolled on future activations of the same Woven item, and it is not "typical" of that spell in general — two mages who each draw the same spell can end up with entirely different, individually flawed versions. A defect is a property of *that one drawing*, not of the spell as a concept.

@@ -23,7 +23,6 @@ Examples of Full Actions:
 - Declare [[Parry]] stance
 - Declare Active [[Dodge]] stance
 - Run
-- Help
 - Interact (complex or deliberate)
 - [[Brace|Full Brace]]
 

@@ -66,9 +66,10 @@ How the spell is formed and delivered.
 
 | Stat                                            | Value |
 | ----------------------------------------------- | ----- |
-| Control DN                                      | X     |
-| Manifest DN                                     | X     |
+| Control DN/Time                                 | X     |
+| Manifest DN/Defect DN                           | X     |
 | Base [[Ticks, Priority & Resolution\|Priority]] | X     |
+| Action Cost                                     | X     |
 
 ## Base Effect
 What happens at minimum investment.
