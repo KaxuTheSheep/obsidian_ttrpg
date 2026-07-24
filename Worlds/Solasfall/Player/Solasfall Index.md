@@ -21,7 +21,7 @@ Read roughly in this order:
 8. [[Sturdiness]], [[Blood]], [[Sanity]] — the three pools
 9. [[Death]], [[Injuries]] — what happens when pools hit zero
 10. [[Conditions]], [[Afflictions]] — status effects
-11. [[Attacks]], [[Ranged Attacks]] — how hits [[Attributes|resolve]]
+11. [[Attacks]], [[Ranged Attacks]] — how hits resolve
 12. [[Defensive Stances]] → [[Block]], [[Parry]], [[Dodge]]
 13. [[Range & Threat]], [[Close-Quarters]], [[Facing]]
 14. [[Movement Types]], [[Vision]]

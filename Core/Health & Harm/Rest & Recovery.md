@@ -10,7 +10,7 @@ Rest comes in three forms, each offering different degrees of recovery depending
 
 ## Break (≈ 30 minutes)
 A brief recovery during travel or downtime.
-- Restore [[Sturdiness]] to full.
+- Restore [[Sturdiness]] by 2d6+Vitality.
 - You may spend 1 [[Blood]] Die to recover [[Blood]].
 - You may spend 1 [[Sanity]] Die to recover [[Sanity]].
 - Reduce Exhaustion by 1.
@@ -22,12 +22,12 @@ A brief recovery during travel or downtime.
 
 ## Short Rest (≈ 2 hours)
 Time to clean [[Injuries|wounds]], breathe, and recover enough to push forward.
-- Restore [[Sturdiness]] to full.
+- Restore [[Sturdiness]] to (2+Vitality)d6.
 - You may spend any number of [[Blood]] Dice to recover [[Blood]].
 - You may spend any number of [[Sanity]] Dice to recover [[Sanity]].
 - Attempt to close Open [[Injuries|Wounds]] naturally: [[Attributes|Vitality]] Test (DN 14) → on success, the [[Injuries|wound]] becomes Closed.
 - Perform up to 4 Rest Activities.
-- Reduce Exhaustion by 1d4.
+- Reduce Exhaustion by 2.
 
 > Short Rests stabilise [[Injuries|wounds]] — they do not remove them.
 
@@ -46,13 +46,15 @@ Rare. Requires security, shelter, and absence of life-threatening stress.
 
 ## Rest Activities (≈ 30 minutes each)
 
-| Activity                      | Effect                                                                          |
-| ----------------------------- | ------------------------------------------------------------------------------- |
-| Catch Breath                  | Spend 1 [[Blood]] Die to restore [[Blood]].                                     |
-| Patch [[Injuries   \|Wounds]] | [[Skills\|Medicine]] Test (DN 14): close 1 Open [[Injuries\|Wound]] on success. |
-| Sharpen Focus                 | Gain advantage on 1 test of your choice.                                        |
-| Keep Watch                    | You and one ally gain Advantage on [[Skills \|Perception]] during the rest.     |
-| Cook / Eat                    | Restore [[Sturdiness]] to full.                                                 |
-| Repair Gear                   | Remove minor [[Weapon\|weapon]] or armour wear.                                 |
-| Meditate / Reflect            | Reduce Exhaustion by 1.                                                         |
-| Study / Research              | Learn information via relevant [[Skills\|Skill]] Test.                          |
+| Activity                   | Effect                                                                                                                              |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Catch Breath               | Spend 1 [[Blood]] Die to restore [[Blood]].                                                                                         |
+| Patch [[Injuries\|Wounds]] | [[Skills\|Medicine]] Test (DN 14): close 1 Open [[Injuries\|Wound]] on success.                                                     |
+| Sharpen Focus              | Gain advantage on 1 test of your choice.                                                                                            |
+| Keep Watch                 | You and one ally gain Advantage on [[Skills \|Perception]] during the rest.                                                         |
+| Eat                        | Gives 2 [[Sturdiness]] beyond full, consume 1 ration.                                                                               |
+| Cook / Foraging            | Find and cook edible food, 1d20+Survival Roll vs GM determine DN. +1 Ration                                                         |
+| Repair Gear                | Increase the quality of your gear by 1 using a relevant item. This can't exceed the original quality of the gear before any damage. |
+| Meditate / Reflect         | Reduce Exhaustion by 1.                                                                                                             |
+| Study / Research           | Learn information via relevant [[Skills\|Skill]] Test.                                                                              |
+| Sleeping / Napping         | Napping or Resting will remove Exhaustion by 1.                                                                                     |

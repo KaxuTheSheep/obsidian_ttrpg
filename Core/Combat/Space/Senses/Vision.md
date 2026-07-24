@@ -6,14 +6,14 @@ Vision is the primary sense in normal [[Conditions|conditions]]. How far and how
 # Light Scale
 Light is measured on a scale of 0 to 5.
 
-|Level|Description|Example Sources|
-|---|---|---|
-|0|Pitch black|No source, sealed room|
-|1|Near darkness|Dying embers, distant stars|
-|2|Dim|Candle, moonlight|
-|3|Moderate|Torch, lantern|
-|4|Bright|Bonfire, daylight spell|
-|5|Brilliant|Direct sunlight, powerful light [[Magic|magic]]|
+| Level | Description   | Example Sources                                  |
+| ----- | ------------- | ------------------------------------------------ |
+| 0     | Pitch black   | No source, sealed room                           |
+| 1     | Near darkness | Dying embers, distant stars                      |
+| 2     | Dim           | Candle, moonlight                                |
+| 3     | Moderate      | Torch, lantern                                   |
+| 4     | Bright        | Bonfire, daylight spell                          |
+| 5     | Brilliant     | Direct sunlight, powerful light [[Magic\|magic]] |
 
 # Vision Bands
 Each light level produces three bands of visibility radiating outward from the light source.

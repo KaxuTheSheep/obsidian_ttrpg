@@ -54,7 +54,7 @@ Block Die steps follow the standard die step sequence (d2 → d4 → d6 → d8 �
 DR changes by 1 per tier moved away from Standard in either direction. Masterwork armour's +1 Evasion Modifier represents genuinely superior fit and balance, not just protection.
 
 ## Acquiring Quality Items
-Quality above Standard is not something a starting character buys off a shelf casually — Fine and Masterwork items should generally be GM-gated behind commission, reputation, quest reward, or [[Hollowdeep]] recovery rather than sitting in the [[Starting Gear Shop]] price list outright. Shoddy and Worn items, by contrast, are exactly what the Slum District's scavenged black markets or a desperate Weighing-driven pawn sale would produce, and can reasonably be available from character creation.
+Quality above Standard is not something a starting character buys off a shelf casually — Fine and Masterwork items should generally be GM-gated behind commission, reputation, quest reward, or [[Hollowdeep]] recovery rather than sitting in the [[Shop Pricing]] price list outright. Shoddy and Worn items, by contrast, are exactly what the Slum District's scavenged black markets or a desperate Weighing-driven pawn sale would produce, and can reasonably be available from character creation.
 
 ## Degradation
 Equipment does not degrade from ordinary use, ordinary combat, or the simple passing of time. It degrades when the GM calls for it, following a **meaningful narrative event** — this is a storytelling tool, not a tracked resource with pips or a wear counter.

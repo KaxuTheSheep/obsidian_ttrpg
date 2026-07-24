@@ -6,7 +6,7 @@ tags:
 ---
 # Equipment Pricing Reference (GM Only)
 
-Players should never see this formula — they see [[Starting Gear Shop]] only. This exists so you can price new items consistently later without redoing the maths from scratch.
+Players should never see this formula — they see [[Shop Pricing]] only. This exists so you can price new items consistently later without redoing the maths from scratch.
 
 ## Anchors
 - **1 night's rest + 3 meals (vegetable soup):** 10 Gilded Mints
