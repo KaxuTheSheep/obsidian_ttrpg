@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1000,"y":-60,"width":2600,"height":880,"label":"Conduit"},
+		{"id":"t1","type":"text","text":"Steady Current\nPrereq: None\nCost: 2","x":-880,"y":-20,"width":260,"height":100},
+		{"id":"t6","type":"text","text":"Sustained Current\nPrereq: Steady Current\nCost: 2","x":-880,"y":280,"width":260,"height":120},
+		{"id":"t12","type":"text","text":"Unshaken Conductor\nPrereq: Overcharged Casting, Contained Backlash\nCost: 4","x":580,"y":660,"width":320,"height":120},
+		{"id":"t2","type":"text","text":"Environmental Attunement\nPrereq: None\nCost: 2","x":-280,"y":-20,"width":280,"height":100},
+		{"id":"t7","type":"text","text":"Deep Attunement\nPrereq: Environmental\nAttunement\nCost: 3","x":-280,"y":280,"width":280,"height":120},
+		{"id":"t4","type":"text","text":"Backlash Control\nPrereq: None\nCost: 2","x":920,"y":-20,"width":260,"height":100},
+		{"id":"t8","type":"text","text":"Overcharged Casting\nPrereq: Efficient\nCasting\nCost: 3","x":320,"y":280,"width":260,"height":160},
+		{"id":"t9","type":"text","text":"Contained Backlash\nPrereq: Backlash\nControl\nCost: 3","x":920,"y":280,"width":260,"height":140},
+		{"id":"t11","type":"text","text":"Forceful Shaping\nPrereq: Sustained\nCurrent\nCost: 3","x":-880,"y":660,"width":260,"height":120},
+		{"id":"t3","type":"text","text":"Efficient Casting\nPrereq: None\nCost: 2","x":320,"y":-20,"width":260,"height":100},
+		{"id":"t5","type":"text","text":"Mana Sense\nPrereq: None\nCost: 2","x":1310,"y":-20,"width":260,"height":100},
+		{"id":"t10","type":"text","text":"Sensed Weakness\nPrereq:\nMana Sense\nCost: 2","x":1310,"y":285,"width":260,"height":135}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e2","fromNode":"t6","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e3","fromNode":"t2","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e4","fromNode":"t3","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e5","fromNode":"t4","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e6","fromNode":"t5","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e7","fromNode":"t8","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e8","fromNode":"t9","fromSide":"bottom","toNode":"t12","toSide":"top"}
+	]
+}

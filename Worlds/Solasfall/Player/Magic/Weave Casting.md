@@ -21,34 +21,43 @@ This is the entire risk/reward trade against Flux Casting: no Backlash, ever —
 ## Core Values
 Every Weave circle is defined by the same two values used in Flux Casting, reinterpreted for Weave's purposes:
 
-- **Control DN** — governs **Time**. How many Ticks the draw takes to complete.
-- **Manifest DN** — governs **Defects**. The target number for the Defect Test.
+- **Control DN** becomes governs **Time**. How many Ticks the draw takes to complete.
+- **Manifest DN** Becomes governs **Defects DN**. The target number for the Defect Test.
+
+## Enhancement Points
+Spells can be modified by investing Enhancement Points into variables such as [[Range & Threat|range]], [[Damage Types|damage]], area, or special effects.
+- Each point increases:
+    - **Time by +1**
+    - **Defects DN by +2**
+- There is no upper limit to enhancement investment, only increasing risk and difficulty.
 
 ## Draw Time
 Drawing starts at **Priority 16** each round it is worked on.
 
-- **Draw Duration (in Priority steps) = Control DN.**
-- If Control l DN ≤ 16, the draw completes within the round, resolving at Priority `16 − Control DN`.
-- If Control DN > 16, the caster spends the entire round drawing without finishing. Carry the excess (`Control DN − 16`) into the next round as a fresh countdown starting again from Priority 16. Repeat until fully paid off.
+- **Draw Duration (in Priority steps) = Time.**
+- If Time  ≤ 16, the draw completes within the round, resolving at Priority `16 − Control DN`.
+- If Time > 16, the caster spends the entire round drawing without finishing. Carry the excess (Time − 16`) into the next round as a fresh countdown starting again from Priority 16. Repeat until fully paid off.
 
-Higher Control DN means a longer, more exposed draw. Complex, powerful circles are safer once activated but dangerous while still being drawn — this is the core tension of Drawn Weave specifically. Woven circles, drawn outside combat, don't feel this tension at all; Time still applies, but nothing can interrupt it.
+Higher Time means a longer, more exposed draw. Complex, powerful circles are safer once activated but dangerous while still being drawn — this is the core tension of Drawn Weave specifically. Woven circles, drawn outside combat, don't feel this tension at all; Time still applies, but nothing can interrupt it.
 
 ## Defect Test
-**Roll:** `2d10 + Insight + Grace` vs **Manifest DN**.
+**Roll:** `2d10 + Insight + Grace` vs **Defect DN**.
 
 Insight and Grace here are flat modifiers only — Insight does not govern enhancement precision the way it does in Flux Casting, and no Attribute currently offsets or caps how much Manifest DN climbs with Enhancement investment. More power always means a harder Defect Test, full stop.
 
-| Margin vs Manifest DN  | Severity                                            |
-| ---------------------- | --------------------------------------------------- |
-| Meets or exceeds by 5+ | None — the circle performs exactly as designed.     |
-| Meets exactly          | Minor — a cosmetic or flavour-only defect.          |
-| 1–4 below              | Moderate — a persistent mechanical flaw.            |
-| 5+ below               | Severe — a significant, potentially dangerous flaw. |
+| Margin vs Defect DN | Severity |
+| --- | --- |
+| Meets or exceeds by 5+ | None — no defect from this test. |
+| Meets exactly | Minor — a cosmetic or flavour-only defect. |
+| 1–4 below | Moderate — a persistent mechanical flaw. |
+| 5+ below | Severe — a significant, potentially dangerous flaw. |
 
-The Defect Test is rolled once on completion for a Woven circle or an uninterrupted Drawn Weave. For an interrupted Drawn Weave, it is **re-rolled on every interruption**, and the **worst result stands** — each reroll also carries its own +1 Tick step penalty on top of whatever was already accrued.
+By default, completing a Woven circle or an uninterrupted Drawn Weave requires **3 separate Defect Tests**, each rolled independently against the same Defect DN. Every test is rolled regardless of the results of the others — there is no early exit on a success. Each failed test produces its own defect at the severity indicated by its margin; a single circle can end up carrying multiple defects of differing severity stacked together (a Minor and a Severe from two different tests, for example), not just one.
+
+For an interrupted Drawn Weave, each interruption adds **one additional Defect Test** on top of the default 3, along with its own **+1 Time** penalty to remaining draw time. Every defect generated this way is resolved independently using the table above — there is no "worst result stands" here, since every failed test now stands on its own.
 
 ## Defects Are Permanent
-Once a defect is determined for a specific drawn circle, it is fixed. It is not rerolled on future activations of the same Woven item, and it is not "typical" of that spell in general — two mages who each draw the same spell can end up with entirely different, individually flawed versions. A defect is a property of *that one drawing*, not of the spell as a concept.
+Once a defect is determined, it is fixed for that specific working. It cannot be removed, reduced, or repaired — the only way to be rid of it is to fully remake the circle from scratch, generating an entirely new set of Defect Tests. It is not "typical" of that spell in general — two mages who each draw the same spell can end up with entirely different, individually flawed versions.
 
 Defects should be **spell-specific and thematically consistent** — the same instruction that governs Backlash tables in Flux Casting. A Fireball's defects should look like fireball problems: curving trajectories, mistimed detonation, inverted heat. A Weave with no plausible "gone wrong" version for a given defect type shouldn't be forced into one.
 

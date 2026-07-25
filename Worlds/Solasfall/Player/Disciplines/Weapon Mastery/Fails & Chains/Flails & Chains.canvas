@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1220,"y":-80,"width":2480,"height":1340,"label":"Flails & Chains"},
+		{"id":"leg1","type":"text","text":"Red line between nodes means mutually exclusive","x":-1180,"y":-40,"width":260,"height":60,"color":"1"},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-860,"y":-40,"width":320,"height":60,"color":"3"},
+		{"id":"t8","type":"text","text":"Feral Swing\nPrereq: Wild\nMomentum\nCost: 2","x":-460,"y":340,"width":260,"height":120},
+		{"id":"t1","type":"text","text":"Wild Momentum\nPrereq: None\nCost: 2","x":-1020,"y":60,"width":260,"height":100},
+		{"id":"t6","type":"text","text":"Erratic Follow-Through\nPrereq: Wild\nMomentum\nCost: 2","x":-1180,"y":340,"width":290,"height":120},
+		{"id":"t7","type":"text","text":"Tempered Coil\nPrereq: Wild\nMomentum\nCost: 2","x":-820,"y":340,"width":260,"height":120},
+		{"id":"t2","type":"text","text":"Crushing Cascade\nPrereq: None\nCost: 2","x":-460,"y":60,"width":260,"height":100},
+		{"id":"t9","type":"text","text":"Full Swing\nPrereq: Reckless Chain\nCost: 2","x":-140,"y":340,"width":260,"height":120},
+		{"id":"t3","type":"text","text":"Reckless Chain\nPrereq: None\nCost: 2","x":-140,"y":55,"width":260,"height":90},
+		{"id":"t13","type":"text","text":"Uncontrolled\nForce\nPrereq:\nFull Swing\nCost: 3","x":-140,"y":660,"width":260,"height":120},
+		{"id":"t10","type":"text","text":"Tightening Grip\nPrereq:Practiced Coil\nCost: 2","x":590,"y":340,"width":260,"height":120},
+		{"id":"t14","type":"text","text":"Wrenching Pull\nPrereq: Tightening Grip\nCost: 3","x":590,"y":660,"width":260,"height":120},
+		{"id":"t5","type":"text","text":"Fluid Transition\nPrereq: None\nCost: 2","x":250,"y":55,"width":260,"height":90},
+		{"id":"t12","type":"text","text":"Twin Nature\nPrereq: Fluid Transition\nCost: 3","x":250,"y":340,"width":260,"height":120},
+		{"id":"t4","type":"text","text":"Practiced Coil\nPrereq: None\nCost: 2","x":720,"y":55,"width":260,"height":90},
+		{"id":"t16","type":"text","text":"Master of Coils\nPrereq: Any two of\nUncontrolled\nForce,\nWrenching Pull,\nTwin Nature\nCost: 4","x":220,"y":1020,"width":320,"height":200},
+		{"id":"t11","type":"text","text":"Entangling Reach\nPrereq: Practiced Coil\nCost: 2","x":930,"y":340,"width":290,"height":120},
+		{"id":"t15","type":"text","text":"Snared Ground\nPrereq: Entangling Reach\nCost: 3","x":930,"y":660,"width":290,"height":120}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e2","fromNode":"t1","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e3","fromNode":"t1","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e4","fromNode":"t7","fromSide":"right","toNode":"t8","toSide":"left","toEnd":"none","color":"1","label":"X"},
+		{"id":"e5","fromNode":"t3","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e6","fromNode":"t9","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e7","fromNode":"t4","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e8","fromNode":"t4","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e9","fromNode":"t10","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e10","fromNode":"t11","fromSide":"bottom","toNode":"t15","toSide":"top"},
+		{"id":"e11","fromNode":"t5","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e12","fromNode":"t13","fromSide":"bottom","toNode":"t16","toSide":"top","color":"3"},
+		{"id":"e13","fromNode":"t14","fromSide":"bottom","toNode":"t16","toSide":"top","color":"3"},
+		{"id":"e14","fromNode":"t12","fromSide":"bottom","toNode":"t16","toSide":"top","color":"3"}
+	]
+}

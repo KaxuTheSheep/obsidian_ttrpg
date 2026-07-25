@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-880,"y":-100,"width":1540,"height":1100,"label":"Purifier"},
+		{"id":"3a079c68f07fccd8","x":-134,"y":-37,"width":753,"height":544,"color":"1","type":"group","label":"Non Mage"},
+		{"id":"t1","type":"text","text":"Discordant Presence\nPrereq: None\nCost: 2","x":-860,"y":0,"width":260,"height":100},
+		{"id":"t4","type":"text","text":"Attuned Disruption\nPrereq: Discordant Presence\nCost: 2","x":-860,"y":320,"width":260,"height":140},
+		{"id":"t8","type":"text","text":"Spell Contest\nPrereq: Disruptive Channel, Marked Geometry\nCost: 5","x":-340,"y":740,"width":320,"height":180},
+		{"id":"t2","type":"text","text":"Mana Disruption\nPrereq: None\nCost: 2","x":-540,"y":0,"width":260,"height":100},
+		{"id":"t5","type":"text","text":"Disruptive Channel\nPrereq: Mana Disruption\nCost: 2","x":-540,"y":320,"width":260,"height":140},
+		{"id":"t6","type":"text","text":"Marked Geometry\nPrereq: Circle Breaker\nCost: 2","x":-100,"y":320,"width":260,"height":140},
+		{"id":"t3","type":"text","text":"Circle Breaker\nPrereq: None\nCost: 2","x":100,"y":0,"width":260,"height":100},
+		{"id":"t7","type":"text","text":"Shattered Casting\nPrereq: Circle Breaker\nCost: 3","x":340,"y":320,"width":260,"height":140}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t4","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t5","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e4","fromNode":"t3","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e5","fromNode":"t5","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e6","fromNode":"t6","fromSide":"bottom","toNode":"t8","toSide":"top"}
+	]
+}

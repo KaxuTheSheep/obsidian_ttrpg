@@ -5,7 +5,7 @@ tags:
   - Discipline
 ---
 # Sigilwright
-
+![[Sigilwright.png]]
 ## Precise Lines
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
@@ -36,6 +36,21 @@ Once per [[Rounds|Round]], when you are successfully attacked while mid-draw on 
 **Cost:** 3 Trait Points.
 When an interruption forces you to re-roll your Defect Test, you may roll **twice** and take the better result, rather than the worst result standing as normal.
 
+## Tempered Casting
+Prerequisites: None.
+Cost: 3 Trait Points.  
+Reduce the number of default Defect Tests required to complete a Woven circle or uninterrupted Drawn Weave from **3 to 2**.
+
+## Singular Focus
+Prerequisites: Tempered Casting, Level 3. 
+Cost: 4 Trait Points.  
+The reduction from Tempered Casting increases further — you now require only **1** default Defect Test instead of 2.
+
+## Absorbed Interruption
+Prerequisites: Composure Under Draw.
+Cost: 3 Trait Points.  
+The **first** interruption you suffer while mid-draw on a Drawn Weave in a given casting does not add an additional Defect Test on top of the default. Subsequent interruptions during that same draw still add their own Defect Test as normal.
+
 ## Conditional Weaving
 **Prerequisites:** None.
 **Cost:** 3 Trait Points.
@@ -55,6 +70,16 @@ The first Enhancement Point you invest in a Weave circle does not increase its M
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
 Woven circles and [[Magic]] tools you personally construct are treated as one [[Equipment Quality & Degradation|Quality Tier]] higher for the sole purpose of resisting attempts to physically destroy or magically disrupt their circle structure.
+
+## Tool Sense
+**Prerequisites:** Reinforced Circuit.
+**Cost:** 2 Trait Points.
+When constructing a Magic Tool, you may reduce its material cost by **25%** by substituting standard components with more efficient circle geometry that only a trained Weave caster would recognise as viable — you know how to cut corners a common Runeweaver artisan wouldn't dare.
+
+## Dual Circuit
+**Prerequisites:** Tool Sense.
+**Cost:** 4 Trait Points.
+You may encode a **second, independent** magical effect into a single Magic Tool's second circle, provided both effects share the same trigger mechanism. Both effects activate simultaneously on trigger. This does not change the tool's Manifest DN individually per effect, but the GM may increase overall construction time and material cost to reflect the added geometric complexity, and Reinforced Circuit's Quality bonus still applies to the whole item as one structure — damaging it disables both effects at once.
 
 ## Unbroken Geometry
 **Prerequisites:** Exacting Lines, Efficient Inscription.
