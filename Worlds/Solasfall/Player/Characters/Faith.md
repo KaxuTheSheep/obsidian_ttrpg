@@ -9,7 +9,7 @@ Faith Points represent your character’s spiritual investment in the Deities of
 
 ### Faith Points and Devotion
 - **Faith Points:** At character creation, you have **9 Faith Points** to allocate among any of the Deities. These points represent your character’s spiritual investment and grant access to [[Blessings]].
-- **Spreading Faith:** You may distribute your 9 points across multiple Deities, gaining minor [[Blessings]] from each. For example, 3 points in [[The Candle Mother]] and 6 in [[The Ashen Crown]].
+- **Spreading Faith:** You may distribute your 9 points across multiple Deities, gaining minor [[Blessings]] from each. For example, 3 points in [[The Candle Mother]] and 6 in [[Worlds/Solasfall/Player/Disciplines/Divinity/The Ashen Crown]].
 
 ### [[Blessings]] and Effects
 - **Minor [[Blessings]]:** Even partial faith grants mechanical benefits, such as increased melee [[Damage Types|damage]], resistance to certain effects, or minor boons. These [[Blessings]] scale with the number of Faith Points invested in a Deity.

@@ -49,11 +49,8 @@ Incantations are Discipline nodes, available only within a Deity's Follower Disc
 
 Because Incantations are granted rather than built, a GM introducing a new one for their table is effectively deciding what that Deity has chosen to entrust, not designing a spell for a player to discover. The Incantation Blueprint Template below exists to keep that decision consistent across Deities, the same way the Spell Blueprint Template in [[Spell Construction]] keeps spells consistent across mages.
 
-## Radiant and Umbral [[Damage Types|Damage]]
-[[Magic]] is explicit that Radiant and Umbral [[Damage Types|damage]] cannot be produced by trained mages regardless of skill, understanding, or [[Mana|mana]] supply — these forces originate exclusively from Deities and can only be channelled through Followers. In practice, this means any Incantation dealing [[Damage Types|damage]] as a core effect will typically deal Radiant or Umbral [[Damage Types|damage]], depending on the Deity's nature, rather than a conventional [[Damage Types|damage type]].
-
 ## Spells That Imitate Incantations
-A sufficiently determined mage can build a spell that mimics the *utility* of a specific Incantation — a light-suppression spell that behaves something like a Hollow Shade concealment Incantation, for instance. What a mage's spell can never do is reproduce the Incantation's actual mechanics or its Radiant/Umbral output. An imitation spell is still a spell in every respect that matters: it still resolves through Control DN and Manifest DN, still costs Sanity, still risks Backlash on failure, and can still be taught or reverse-engineered by anyone with the aptitude. It simply happens to look similar from the outside. The two systems never merge, no matter how close the flavour gets.
+A sufficiently determined mage can build a spell that mimics the *utility* of a specific Incantation — a light-suppression spell that behaves something like a Hollow Shade concealment Incantation, for instance. An imitation spell is still a spell in every respect that matters: it still resolves through Control DN and Manifest DN, still costs Sanity, still risks Backlash on failure, and can still be taught or reverse-engineered by anyone with the aptitude. It simply happens to look similar from the outside. The two systems never merge, no matter how close the flavour gets.
 
 # Incantation Blueprint Template
 A template for building a new Incantation. Not every field needs to be filled in for every Incantation — some are simpler than others.
@@ -76,7 +73,7 @@ A short description of what the Incantation *is* — how this expresses the Deit
 What happens on success.
 - Primary effect
 - Target rules
-- [[Damage Types|Damage]] type, if any (Radiant/Umbral as applicable)
+- [[Damage Types|Damage]] type
 - Secondary or lingering effects, if any
 
 ## Failure

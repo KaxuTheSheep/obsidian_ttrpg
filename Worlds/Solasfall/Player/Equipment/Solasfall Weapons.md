@@ -11,6 +11,7 @@ All weapons share the following properties:
 **Handedness:** One-Handed, Two-Handed, or Versatile.
 **Weight Class:** Light, Standard, or Heavy.
 **Traits:** Additional rules that modify how the [[Weapon|weapon]] interacts with combat.
+
 # Weapons
 ## Daggers
 Small blades intended for [[Close-Quarters]] control, grappling, and precision strikes. Excel in tight spaces where longer weapons lose leverage.

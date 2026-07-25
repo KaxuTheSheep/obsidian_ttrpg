@@ -22,13 +22,12 @@ Damage types carry no universal rules for creature resistances or weaknesses. In
 ## Environmental Interactions
 Damage types define how [[Attacks|attacks]] interact with the world beyond combat. These interactions are not exhaustive — GMs should apply them with common sense and narrative logic.
 
-| Damage Type | Environmental Interactions |
-|---|---|
-| **Cutting** | Severs ropes, tears canvas, destroys light structures and foliage. |
-| **Piercing** | Punctures containers and barriers, bypasses small gaps in structures. |
-| **Blunt** | Breaks stone and wood, knocks down doors, collapses unstable structures. |
-| **Fire** | Ignites flammable materials, melts ice, provides light, destroys foliage. |
-| **Lightning** | Shorts out mechanisms, conducts through water and metal, may trigger explosive gases. |
-| **Acid** | Dissolves metal over time, corrodes locks and hinges, melts through barriers slowly. |
-| **Radiant** | Disperses magical darkness, disrupts shadow-based phenomena, reveals hidden or concealed things. |
-| **Umbral** | Extinguishes light sources, obscures [[Vision|vision]], interacts with shadow or void-based entities and effects. |
+| Damage Type   | Environmental InteractionS                                                                |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| **Cutting**   | Severs ropes, tears canvas, destroys light structures and foliage.                        |
+| **Piercing**  | Punctures containers and barriers, bypasses small gaps in structures.                     |
+| **Blunt**     | Breaks stone and wood, knocks down doors, collapses unstable structures.                  |
+| **Fire**      | Ignites flammable materials, melts ice, provides light, destroys foliage.                 |
+| **Cold**      | Freezes liquids, causes brittle materials to crack or shatter, extinguishes small flames. |
+| **Lightning** | Shorts out mechanisms, conducts through water and metal, may trigger explosive gases.     |
+| **Acid**      | Dissolves metal over time, corrodes locks and hinges, melts through barriers slowly.      |

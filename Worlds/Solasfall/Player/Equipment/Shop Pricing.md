@@ -79,11 +79,11 @@ tags:
 ### Bows
 
 | Item     | Price | [[Attributes\|Might]] Requirement |
-| -------- | ----- | ------------- | ------------------- |
-| Shortbow | 60    | —             |                     |
-| Recurve  | 65    | —             |                     |
-| Longbow  | 95    | —             |                     |
-| Warbow   | 200   | **4**         |                     |
+| -------- | ----- | --------------------------------- |
+| Shortbow | 60    | —                                 |
+| Recurve  | 65    | —                                 |
+| Longbow  | 95    | —                                 |
+| Warbow   | 200   | **4**                             |
 
 ### Crossbows
 

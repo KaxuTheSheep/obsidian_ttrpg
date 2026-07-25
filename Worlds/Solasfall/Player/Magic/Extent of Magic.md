@@ -40,8 +40,6 @@ At larger scales — cross-dimensional or world-level connections — spatial ma
 
 **Creation from nothing** is impossible. [[Mana]] manipulates existing matter and energy. A fire spell without fuel produces nothing. A healing spell on a corpse with no viable cells achieves nothing. [[Magic]] amplifies and redirects — it does not generate.
 
-**Radiant and Umbral effects** cannot be produced by trained mages regardless of skill, understanding, or [[Mana|mana]] supply. These forces originate exclusively from deities and can only be channelled through Followers whose [[Soul|soul]]-current is synchronised with a deity's [[Mana|mana]] construct. No amount of conventional casting accesses them.
-
 ## The Upper Limits — Rifts and the [[Veil]]
 
 The most demanding magical achievements on record both involve the manipulation of fundamental physical forces at scales no individual caster could sustain alone.
