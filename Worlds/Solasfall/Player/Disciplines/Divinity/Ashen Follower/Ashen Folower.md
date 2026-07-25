@@ -4,9 +4,9 @@ tags:
   - Religion
   - Discipline
 ---
-# The Ashen Follower
+# Ashen Follower
 *All nodes require Follower status (10 Faith Points in The Ashen Crown, personal quest completed).*
-
+![[Ashen Follower.png]]
 ## Blood for Blood
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

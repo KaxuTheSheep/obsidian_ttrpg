@@ -12,7 +12,7 @@ Shields modify **[[Block]]** and **[[Parry]]**, but do not affect melee [[Damage
 Each shield has:
 - A **[[Block]] Die** (how much [[Damage Types|damage]] it can prevent when Blocking)
 - A **[[Parry]] Adjustment** (how it affects finesse defence)
-- A **[[Ticks, Priority & Resolution| Priority]]** (an Priorityion used during blocking and parrying)
+- A **[[Ticks, Priority & Resolution|Priority]]** (an addition used during blocking and parrying)
 - An **[[Evasion]] Modifier** (large shields make you easier to hit)
 
 ### Buckler
