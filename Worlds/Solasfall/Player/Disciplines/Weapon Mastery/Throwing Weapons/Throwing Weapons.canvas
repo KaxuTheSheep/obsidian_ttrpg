@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-940,"y":-80,"width":2060,"height":1320,"label":"Throwing Weapons"},
+		{"id":"t1","type":"text","text":"Snap Draw\nPrereq: None\nCost: 2","x":-860,"y":40,"width":260,"height":80},
+		{"id":"t3","type":"text","text":"Twist the Blade\nPrereq: None\nCost: 2","x":120,"y":40,"width":260,"height":80},
+		{"id":"t7","type":"text","text":"Twin Snap\nPrereq: Snap Draw\nCost: 2","x":-860,"y":300,"width":260,"height":90},
+		{"id":"t12","type":"text","text":"Fluid Grip\nPrereq: Twin Snap\nCost: 3","x":-860,"y":620,"width":260,"height":100},
+		{"id":"t13","type":"text","text":"Efficient Harvest\nPrereq: Grim Harvest,\nWaste Not\nCost: 3","x":120,"y":620,"width":260,"height":140},
+		{"id":"t8","type":"text","text":"Grim Harvest\nPrereq: Twist the Blade\nCost: 3","x":120,"y":300,"width":260,"height":100},
+		{"id":"t10","type":"text","text":"Follow the Blade\nPrereq: Bladed Fallback,\nSnap Draw\nCost: 3","x":-520,"y":300,"width":260,"height":140},
+		{"id":"t5","type":"text","text":"Bladed Fallback\nPrereq: None\nCost: 2","x":-520,"y":40,"width":260,"height":80},
+		{"id":"t6","type":"text","text":"Wild Cast\nPrereq: None\nCost: 2","x":460,"y":40,"width":260,"height":80},
+		{"id":"t11","type":"text","text":"Chaotic Momentum\nPrereq: Wild Cast\nCost: 3","x":460,"y":300,"width":260,"height":100},
+		{"id":"t4","type":"text","text":"Scatter Throw\nPrereq: None\nCost: 3","x":820,"y":40,"width":260,"height":80},
+		{"id":"t9","type":"text","text":"Ricochet\nPrereq: Scatter Throw\nCost: 3","x":820,"y":300,"width":260,"height":100},
+		{"id":"t14","type":"text","text":"Storm of Blades\nPrereq: Ricochet\nCost: 4","x":820,"y":620,"width":260,"height":100},
+		{"id":"t2","type":"text","text":"Waste Not\nPrereq: None\nCost: 2","x":-200,"y":40,"width":260,"height":80},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-920,"y":-60,"width":320,"height":60,"color":"3"},
+		{"id":"t15","type":"text","text":"Master of the Throw\nPrereq: Any two of\nFluid Grip,\nEfficient Harvest,\nStorm of Blades,\nFollow the Blade,\nChaotic Momentum\nCost: 5","x":180,"y":960,"width":320,"height":240}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e2","fromNode":"t3","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e3","fromNode":"t4","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e4","fromNode":"t5","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e5","fromNode":"t1","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e6","fromNode":"t6","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e7","fromNode":"t7","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e8","fromNode":"t8","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e9","fromNode":"t2","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e10","fromNode":"t9","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e11","fromNode":"t12","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"},
+		{"id":"e12","fromNode":"t13","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"},
+		{"id":"e13","fromNode":"t14","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"},
+		{"id":"e14","fromNode":"t10","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"},
+		{"id":"e15","fromNode":"t11","fromSide":"bottom","toNode":"t15","toSide":"top","color":"3"}
+	]
+}

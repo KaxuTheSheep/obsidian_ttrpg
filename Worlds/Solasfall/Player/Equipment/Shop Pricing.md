@@ -69,12 +69,12 @@ tags:
 
 ### Throwing Weapons
 
-| Item | Price |
-|---|---|
-| Throwing Knife | 45 |
-| Francisca | 60 |
-| Javelin | 45 |
-| Throwing Axe | 30 |
+| Item           | Price |
+| -------------- | ----- |
+| Throwing Knife | 10    |
+| Francisca      | 30    |
+| Javelin        | 30    |
+| Throwing Axe   | 15    |
 
 ### Bows
 
