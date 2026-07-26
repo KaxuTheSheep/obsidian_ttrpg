@@ -85,7 +85,7 @@ Your bite sharpens. [[Damage Types|Damage]] increases to 1d6 + [[Attributes|Migh
 ## Latch
 Prerequisites: Enhanced Predator's Bite, Exclusive to [[Soul]] Taste.
 Cost: 3 Trait Points. 
-When your bite [[Attacks|attack]] hits, you may choose to latch onto the target. The target becomes Grappled until they break free or you release. While latched, you deal 1d4 Piercing [[Damage Types|damage]] automatically at the start of each [[Rounds|round]] without spending an [[Actions|action]].
+When your bite [[Attacks|attack]] hits, you may choose to latch onto the target un der the regular [[Core/Combat/Action System/Grapple|Grapple]] rules, where the Roll is equal to the bite attack roll. The target becomes Grappled until they break free or you release. While latched, you deal 1d4 Piercing [[Damage Types|damage]] automatically at the start of each [[Rounds|round]] without spending an [[Actions|action]]. You don't need to unlatch to deal a bite.
 
 ## Feeding
 Prerequisites: Enhanced Predator's Bite. 
