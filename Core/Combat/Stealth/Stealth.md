@@ -5,6 +5,7 @@ aliases:
 tags:
   - Mechanics/Combat
 ---
+# Stealth
 Stealth represents a creature's ability to avoid detection through concealment, stillness, and controlled [[Movement Types|movement]]. It produces the **Hidden** [[Conditions|condition]], tracked individually per observer — you may be Hidden from one creature and detected by another simultaneously.
 
 ## Becoming Hidden

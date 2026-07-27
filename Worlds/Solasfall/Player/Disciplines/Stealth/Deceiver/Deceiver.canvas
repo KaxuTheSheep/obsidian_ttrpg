@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1120,"y":-80,"width":1700,"height":1480,"label":"Deceiver"},
+		{"id":"t5","type":"text","text":"Deflected Suspicion\nPrereq: None\nCost: 2","x":-950,"y":20,"width":260,"height":100},
+		{"id":"t10","type":"text","text":"Practiced Alibi\nPrereq: Deflected Suspicion\nCost: 2","x":-950,"y":300,"width":260,"height":120},
+		{"id":"t16","type":"text","text":"Vanishing Trail\nPrereq: Scapegoat\nCost: 3","x":-950,"y":900,"width":260,"height":100},
+		{"id":"t7","type":"text","text":"Silver Ear\nPrereq: Practiced Listener\nCost: 2","x":-600,"y":300,"width":260,"height":120},
+		{"id":"t2","type":"text","text":"Practiced Listener\nPrereq: None\nCost: 2","x":-600,"y":20,"width":260,"height":100},
+		{"id":"t11","type":"text","text":"Seamless Character\nPrereq: Practiced Persona\nCost: 3","x":20,"y":600,"width":260,"height":120},
+		{"id":"t12","type":"text","text":"Manufactured Trust\nPrereq: Practiced Charm\nCost: 3","x":300,"y":600,"width":260,"height":120},
+		{"id":"t15","type":"text","text":"Long Con\nPrereq: Manufactured Trust\nCost: 3","x":300,"y":900,"width":260,"height":120},
+		{"id":"t3","type":"text","text":"Cold Read\nPrereq: None\nCost: 2","x":-300,"y":20,"width":260,"height":100},
+		{"id":"t1","type":"text","text":"Convincing Guise\nPrereq: None\nCost: 2","x":20,"y":20,"width":260,"height":100},
+		{"id":"t4","type":"text","text":"Silver Approach\nPrereq: None\nCost: 2","x":300,"y":20,"width":260,"height":100},
+		{"id":"t8","type":"text","text":"Practiced Read\nPrereq: Cold Read\nCost: 2","x":-300,"y":300,"width":260,"height":100},
+		{"id":"t6","type":"text","text":"Practiced Persona\nPrereq: Convincing Guise\nCost: 2","x":20,"y":300,"width":260,"height":120},
+		{"id":"t9","type":"text","text":"Practiced Charm\nPrereq: Silver Approach\nCost: 2","x":300,"y":300,"width":260,"height":120},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-1110,"y":-60,"width":320,"height":60,"color":"3"},
+		{"id":"t13","type":"text","text":"Scapegoat\nPrereq: Practiced Alibi\nCost: 3","x":-600,"y":640,"width":260,"height":120},
+		{"id":"t14","type":"text","text":"Master of Faces\nPrereq: Seamless Character\nCost: 3","x":-300,"y":830,"width":260,"height":120},
+		{"id":"t17","type":"text","text":"Master of Masks\nPrereq: Any two of\nMaster of Faces,\nLong Con,\nScapegoat,\nVanishing Trail\nCost: 5","x":-330,"y":1160,"width":320,"height":220}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e4","fromNode":"t4","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e5","fromNode":"t5","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e6","fromNode":"t6","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e7","fromNode":"t9","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e8","fromNode":"t10","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e9","fromNode":"t11","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e10","fromNode":"t12","fromSide":"bottom","toNode":"t15","toSide":"top"},
+		{"id":"e11","fromNode":"t13","fromSide":"bottom","toNode":"t16","toSide":"top"},
+		{"id":"e12","fromNode":"t14","fromSide":"bottom","toNode":"t17","toSide":"top","color":"3"},
+		{"id":"e13","fromNode":"t15","fromSide":"bottom","toNode":"t17","toSide":"top","color":"3"},
+		{"id":"e14","fromNode":"t13","fromSide":"bottom","toNode":"t17","toSide":"top","color":"3"},
+		{"id":"e15","fromNode":"t16","fromSide":"bottom","toNode":"t17","toSide":"top","color":"3"}
+	]
+}
