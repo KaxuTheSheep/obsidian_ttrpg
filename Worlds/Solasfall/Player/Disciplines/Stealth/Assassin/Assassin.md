@@ -94,4 +94,4 @@ Instead of dealing [[Damage Types|damage]], an [[Attacks|Attack]] that would qua
 ## The Perfect Kill
 **Prerequisites:** Any two of Perfect Opening, Reaper's Judgment, Unrelenting, No Second Chances, or Silent Finish. Level 8.
 **Cost:** 6 Trait Points.
-Once per [[Rest & Recovery|Rest]], when you hit a creature that has not detected you, you may deal 15% of their blood as damage straight to their blood, triggering an execute outright.
+[[Attributes|Grace]] per [[Rest & Recovery|Rest]], when you hit a creature that has not detected you, you may deal (15% of their blood + 5% per 20% missing) as damage straight to their blood, this may only trigger once per target.
