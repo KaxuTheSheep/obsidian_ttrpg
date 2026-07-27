@@ -17,14 +17,14 @@ Chill is applied on impact.
 
 ## Variables
 
-| Variable | Base | Scaling |
-|----------|------|---------|
-| Damage | 1d8 cold | +1 die step per point |
-| Range | 15m | +5m per point |
-| Chill Duration | 1 round | +1 round per point |
-| Penetration | Light cover | 2 points: ignores light cover |
-| Action Cost | 2 Actions | -0.5 Actions per point |
-| Priority | 6 + Grace | +2 priority per point |
+| Variable       | Base         | Scaling                       |
+| -------------- | ------------ | ----------------------------- |
+| Damage         | 1d8 cold     | +1 die step per point         |
+| Travel Rate    | 15m per Tick | +5m per point                 |
+| Chill Duration | 1 round      | +1 round per point            |
+| Penetration    | Light cover  | 2 points: ignores light cover |
+| Action Cost    | 2 Actions    | -0.5 Actions per point        |
+| Priority       | 6 + Grace    | +2 priority per point         |
 
 ## Flux Casting
 

@@ -8,7 +8,6 @@
 
 ## Limitations
 - Cannot heal wounds older than 1 hour (cells are already fixed in scarred state)
-- Consumes 1 Stamina from the target (or causes 1 Exhaustion if Stamina is 0)
 - Requires skin-to-skin contact
 
 ## Variables

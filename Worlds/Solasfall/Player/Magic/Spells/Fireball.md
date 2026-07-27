@@ -17,14 +17,14 @@ Burn can be removed through logical physical countermeasures (smothering, immers
 
 ## Variables
 
-|Variable|Base|Scaling|
-|---|---|---|
-|Damage|1d6 fire|+1 die step per point|
-|Radius|1m|+1m per point|
-|Travel Rate|15m per Tick|+5m per point|
-|Burn Duration|2 rounds|+1 round per point|
-|Action Cost|2 Actions|-0.5 Actions per point|
-|Priority|6 + Grace|+2 priority per point|
+| Variable      | Base         | Scaling                |
+| ------------- | ------------ | ---------------------- |
+| Damage        | 1d6 fire     | +1 die step per point  |
+| Radius        | 1m           | +1m per point          |
+| Travel Rate   | 15m per Tick | +5m per point          |
+| Burn Duration | 2 rounds     | +1 round per point     |
+| Action Cost   | 2 Actions    | -0.5 Actions per point |
+| Priority      | 6 + Grace    | +2 priority per point  |
 
 ## Flux Casting
 

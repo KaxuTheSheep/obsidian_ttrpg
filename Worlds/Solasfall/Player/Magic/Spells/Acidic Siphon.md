@@ -17,14 +17,14 @@ Corrosion is applied on impact.
 
 ## Variables
 
-| Variable | Base | Scaling |
-|----------|------|---------|
-| Damage | 1d4 acid | +1 die step per point |
-| Range | 10m | +5m per point |
-| Duration | 2 rounds | +1 round per point |
-| Corrosion | None | 2 points: damages armor (-1 Sturdiness per round) |
-| Action Cost | 2 Actions | -0.5 Actions per point |
-| Priority | 6 + Grace | +2 priority per point |
+| Variable    | Base      | Scaling                                           |
+| ----------- | --------- | ------------------------------------------------- |
+| Damage      | 1d4 acid  | +1 die step per point                             |
+| Travel Rate | 10m/Tick  | +5m/Tick per point                                |
+| Duration    | 2 rounds  | +1 round per point                                |
+| Corrosion   | None      | 2 points: damages armor (-1 Sturdiness per round) |
+| Action Cost | 2 Actions | -0.5 Actions per point                            |
+| Priority    | 6 + Grace | +2 priority per point                             |
 
 ## Flux Casting
 

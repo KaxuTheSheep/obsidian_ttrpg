@@ -15,13 +15,13 @@
 
 ## Variables
 
-| Variable | Base | Scaling |
-|----------|------|---------|
-| Break Free DN | 12 | +1 per point |
-| Duration | 2 rounds | +1 round per point |
-| Range | 10m | +5m per point |
-| Targets | 1 | +1 target per point (must be within 5m of each other) |
-| Priority | 6 + Grace | +2 priority per point |
+| Variable      | Base      | Scaling                                               |
+| ------------- | --------- | ----------------------------------------------------- |
+| Break Free DN | 12        | +1 per point                                          |
+| Duration      | 2 rounds  | +1 round per point                                    |
+| Range         | 10m       | +5m per point                                         |
+| Targets       | 1         | +1 target per point (must be within 5m of each other) |
+| Priority      | 6 + Grace | +2 priority per point                                 |
 
 ## Flux Casting
 

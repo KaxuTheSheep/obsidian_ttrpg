@@ -1,7 +1,7 @@
 
 ## Process
 1. Draw ambient mana
-2. Increase local gravitational field in target area
+2. Increase local gravitational field in target area within range
 3. Apply directional vector to field
 4. Maintain field through continuous mana flow
 5. Release mana
@@ -13,14 +13,15 @@
 
 ## Variables
 
-| Variable | Base | Scaling |
-|----------|------|---------|
-| Area Radius | 3m | +2m per point |
-| Duration | 2 rounds | +1 round per point |
-| Intensity | Double gravity | 2 points: triple gravity |
-| Direction | Downward | 2 points: directional push (choose a direction) |
-| Action Cost | 2 Actions | -0.5 Actions per point |
-| Priority | 7 + Grace | +2 priority per point |
+| Variable    | Base           | Scaling                                         |
+| ----------- | -------------- | ----------------------------------------------- |
+| Area Radius | 3m             | +2m per point                                   |
+| Range       | 15m            | +5m per point                                   |
+| Duration    | 2 rounds       | +1 round per point                              |
+| Intensity   | Double gravity | 2 points: triple gravity                        |
+| Direction   | Downward       | 2 points: directional push (choose a direction) |
+| Action Cost | 2 Actions      | -0.5 Actions per point                          |
+| Priority    | 7 + Grace      | +2 priority per point                           |
 
 ## Flux Casting
 
