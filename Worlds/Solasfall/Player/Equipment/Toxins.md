@@ -30,7 +30,7 @@ Every toxin has a specific antidote. Antidotes are not interchangeable — the a
 ### Thornbleed
 A venom harvested from the barbed spines of a [[Hollowdeep]] creature. Causes rapid internal bleeding that bypasses the body's natural resilience.
 **Preferred Application:** Injected
-**Resist:** [[Attributes|Vitality]] Test DN 13 on application. On success, no effect.
+**Resist:** [[Skills|Endurance]] Test DN 13 on application. On success, no effect.
 **Effect:** On fail, the target takes **1d4 Blood [[Damage Types|damage]] per [[Rounds|round]]**, bypassing Sturdiness.
 **Duration:** 4 [[Rounds|rounds]], then ends automatically.
 **Antidote:** Thornbleed Antidote
@@ -38,7 +38,7 @@ A venom harvested from the barbed spines of a [[Hollowdeep]] creature. Causes ra
 ### Veilbane
 A refined toxin that disrupts the [[Soul|soul]]'s conducting ability, interfering with [[Mana|mana]] flow and destabilising spellcasting entirely.
 **Preferred Application:** Injected
-**Resist:** [[Attributes|Vitality]] Test DN 13 each [[Rounds|round]]. Success ends the effect.
+**Resist:** [[Skills|Endurance]] Test DN 13 each [[Rounds|round]]. Success ends the effect.
 **Effect:** While active, the target has **Disadvantage on all casting Tests**.
 **Duration:** Until a successful resist or antidote.
 **Antidote:** Veilbane Antidote
@@ -46,7 +46,7 @@ A refined toxin that disrupts the [[Soul|soul]]'s conducting ability, interferin
 ### Stoneveil
 A refined toxin that seeps into muscle tissue and dulls physical capability. Affects both strength and coordination simultaneously.
 **Preferred Application:** Injected
-**Resist:** [[Attributes|Vitality]] Test DN 13 on application and each [[Rounds|round]] thereafter. Two consecutive successful resists end the effect.
+**Resist:** [[Skills|Endurance]] Test DN 13 on application and each [[Rounds|round]] thereafter. Two consecutive successful resists end the effect.
 **Effect:** On fail, the target suffers **–3 to all [[Attributes|Might]] and [[Attributes|Grace]] rolls**.
 **Duration:** Until two consecutive resists or antidote.
 **Antidote:** Stoneveil Antidote
@@ -55,7 +55,7 @@ A refined toxin that seeps into muscle tissue and dulls physical capability. Aff
 ### Gravewort Extract
 A bitter extract derived from the Gravewort plant. Thins the blood and prevents wounds from healing naturally.
 **Preferred Application:** Ingested
-**Resist:** [[Attributes|Vitality]] Test DN 13 on application. On success, no effect.
+**Resist:** [[Skills|Endurance]] Test DN 13 on application. On success, no effect.
 **Effect:** On fail:
 - Wounds cannot be removed on any rest.
 - Disadvantage on all Medicine Tests to close wounds.
@@ -65,7 +65,7 @@ A bitter extract derived from the Gravewort plant. Thins the blood and prevents 
 ### Ashdelay
 A fine powder that enters the lungs and lies dormant before triggering a catastrophic internal reaction. The target may feel nothing until it is too late.
 **Preferred Application:** Inhaled
-**Resist:** [[Attributes|Vitality]] Test DN 13 each [[Rounds|round]] for 3 [[Rounds|rounds]]. Succeeding any resist roll shakes off the poison before it triggers.
+**Resist:** [[Skills|Endurance]] Test DN 13 each [[Rounds|round]] for 3 [[Rounds|rounds]]. Succeeding any resist roll shakes off the poison before it triggers.
 **Effect:** If the target fails all 3 resist rolls, they take **3d6 Blood [[Damage Types|damage]]** bypassing Sturdiness at the end of [[Rounds|round]] 3.
 **Duration:** 3 [[Rounds|rounds]], then resolves.
 **Antidote:** Ashdelay Antidote
@@ -73,7 +73,7 @@ A fine powder that enters the lungs and lies dormant before triggering a catastr
 ### Mireveil
 A hallucinogenic compound that distorts perception and fractures the mind. Victims see things that are not there and struggle to process reality.
 **Preferred Application:** Ingested
-**Resist:** [[Attributes|Vitality]] Test DN 13 each [[Rounds|round]]. Success ends the effect.
+**Resist:** [[Skills|Endurance]] Test DN 13 each [[Rounds|round]]. Success ends the effect.
 **Effect:** While active:
 - **–2 to all [[Attributes|Insight]] and Perception Tests.**
 - **1d6 Sanity [[Damage Types|damage]] per [[Rounds|round]].**
@@ -83,7 +83,7 @@ A hallucinogenic compound that distorts perception and fractures the mind. Victi
 ### Hollowdust
 A paralytic powder derived from deep [[Hollowdeep]] fauna. Shuts down voluntary muscle control rapidly and completely.
 **Preferred Application:** Inhaled
-**Resist:** [[Attributes|Vitality]] Test DN 16 on application. Each [[Rounds|round]] thereafter, [[Attributes|Vitality]] Test DN 16 to end the effect.
+**Resist:** [[Skills|Endurance]] Test DN 16 on application. Each [[Rounds|round]] thereafter, [[Skills|Endurance]] Test DN 16 to end the effect.
 **Effect:** On fail, the target gains the [[Conditions#Paralysed|Paralysed]] condition.
 **Duration:** Until a successful resist or antidote.
 **Antidote:** Hollowdust Antidote
@@ -91,7 +91,7 @@ A paralytic powder derived from deep [[Hollowdeep]] fauna. Shuts down voluntary 
 ### Dreamroot
 A sedative compound distilled from a bioluminescent [[Hollowdeep]] fungus. Induces progressive unconsciousness by stacking exhaustion rapidly.
 **Preferred Application:** Ingested
-**Resist:** [[Attributes|Vitality]] Test DN 13 on application only. On success, no effect.
+**Resist:** [[Skills|Endurance]] Test DN 13 on application only. On success, no effect.
 **Effect:** On fail, the target gains **1 level of Exhaustion per [[Rounds|round]]**, up to a maximum of **3 additional Exhaustion levels** from this poison.
 **Duration:** 3 [[Rounds|rounds]], then ends automatically.
 **Antidote:** Dreamroot Antidote

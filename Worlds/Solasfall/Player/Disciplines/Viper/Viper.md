@@ -62,7 +62,7 @@ Once per [[Rounds|Round]], when a toxin you've applied would deal its [[Damage T
 ## Iron Stomach
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-Gain **Advantage** on [[Attributes|Vitality]] Tests made to resist toxins.
+Gain **Advantage** on [[Skills|Endurance]] Tests made to resist toxins.
 
 ## Tempered Body
 **Prerequisites:** Iron Stomach. 
@@ -77,7 +77,7 @@ Now, when you reach 5 immunity points against a specific toxin, the effects of i
 ## Purging Focus
 **Prerequisites:** Tempered Body, Concentrated Dose.
 **Cost:** 3 Trait Points.
-Understanding exactly how a toxin works lets you fight it on your own terms. As a **Half [[Actions|Action]]**, you may attempt an early [[Attributes|Vitality]] Test against an active toxin's resist DN, even if the toxin's own rules don't normally allow a Test until the next [[Rounds|Round]] or trigger point.
+Understanding exactly how a toxin works lets you fight it on your own terms. As a **Half [[Actions|Action]]**, you may attempt an early [[Skills|Endurance]] Test against an active toxin's resist DN, even if the toxin's own rules don't normally allow a Test until the next [[Rounds|Round]] or trigger point.
 
 ## Antidote Blood
 **Prerequisites:** Toxin Blood.
