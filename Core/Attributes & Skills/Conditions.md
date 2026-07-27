@@ -87,7 +87,7 @@ You cannot move from your space.
 You are low to the ground.
 - Melee **[[Attacks|Attack]]** Tests against you are at **Advantage**.
 - Ranged **[[Attacks|Attack]]** Tests against you are at **Disadvantage**.
-- Standing requires **half** your **Walking Distance**.
+- Standing requires **half** your **Walking Travel Rate**.
 
 ### Paralysed
 You are completely immobilised.  
@@ -98,13 +98,13 @@ You suffer all effects of **Stunned**, and additionally:
 
 ### Slowed
 Your [[Movement Types|movement]] is impaired.
-- Your **[[Movement Types|movement]] distances** from [[Movement Types]] are **halved**.
+- Your **[[Movement Types|movement]] travel rate** from [[Movement Types]] are **halved**.
 - [[Movement Types|Movement]]-based **[[Ticks, Priority & Resolution|Priority]]** values suffer **–1**.
 
 ### Stunned
 Your mind or body is overwhelmed.
 - You **cannot take [[Actions]] or [[Reactions]]**.
-- You may still move up to **half** your **Walking Distance**, but cannot use that [[Movement Types|movement]] to [[Attacks|Attack]] or Defend.
+- You may still move up to **half** your **Walking Travel Rate**, but cannot use that [[Movement Types|movement]] to [[Attacks|Attack]] or Defend.
 - **[[Attacks|Attack]]** Tests against you are at **Disadvantage**.
 - Your **[[Sturdiness]]** is ignored; your effective **[[Evasion]] becomes Base [[Evasion]]**.
 
