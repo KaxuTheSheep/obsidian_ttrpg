@@ -16,7 +16,7 @@ tags:
 **Cost:** 3 Trait Points.
 Such [[Attacks|Attacks]] also bypass **[[Sturdiness]]** entirely, applying their [[Damage Types|damage]] directly to [[Blood]].
 
-### Perfect Opening
+## Perfect Opening
 **Prerequisites:** Severing Blow, Level 5, 4 [[Attributes|Grace]] or [[Attributes|Might]].
 **Cost:** 4 Trait Points.
 You score a Critical Success on such [[Attacks|Attacks]] on a natural **9 or 10** instead of only double 10s.
@@ -61,7 +61,6 @@ While you have an active Mark, gain **Advantage** on Tests made to track, follow
 **Cost:** 4 Trait Points.
 Once per encounter, if your Mark would otherwise break line of sight or evade your detection, you may immediately move up to your Run Travel Rate for free as a **Reaction** to close the distance.
 
-
 ## Full Commitment
 **Prerequisites:** None.
 **Cost:** 3 Trait Points.
@@ -95,4 +94,4 @@ Instead of dealing [[Damage Types|damage]], an [[Attacks|Attack]] that would qua
 ## The Perfect Kill
 **Prerequisites:** Any two of Perfect Opening, Reaper's Judgment, Unrelenting, No Second Chances, or Silent Finish. Level 8.
 **Cost:** 6 Trait Points.
-Once per [[Rest & Recovery|Rest]], when you hit a creature that has not detected you, you may treat Executioner's Eye's threshold as met regardless of their current [[Blood]], triggering an execute outright.
+Once per [[Rest & Recovery|Rest]], when you hit a creature that has not detected you, you may deal 15% of their blood as damage straight to their blood, triggering an execute outright.

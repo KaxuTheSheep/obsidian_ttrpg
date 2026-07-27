@@ -3,7 +3,7 @@ tags:
   - Mechanics/Combat
   - Discipline
 ---
-# Deciever
+# Deceiver
 ![[Deceiver.png]]
 ## Convincing Guise
 **Prerequisites:** None.
