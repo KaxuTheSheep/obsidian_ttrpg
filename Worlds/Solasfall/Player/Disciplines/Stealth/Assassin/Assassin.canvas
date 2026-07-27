@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1180,"y":-80,"width":2460,"height":1580,"label":"Assassin"},
+		{"id":"t1","type":"text","text":"Opening the Guard\nPrereq: None\nCost: 2","x":-980,"y":40,"width":260,"height":90},
+		{"id":"t2","type":"text","text":"Executioner's Eye\nPrereq: Level 2\nCost: 4","x":-500,"y":40,"width":260,"height":90},
+		{"id":"t6","type":"text","text":"Severing Blow\nPrereq: Opening the Guard\nCost: 3","x":-980,"y":320,"width":260,"height":120},
+		{"id":"t11","type":"text","text":"Perfect Opening\nPrereq: Severing Blow\nCost: 4","x":-980,"y":640,"width":260,"height":100},
+		{"id":"t3","type":"text","text":"Marked for Death\nPrereq: None\nCost: 2","x":0,"y":40,"width":260,"height":90},
+		{"id":"t4","type":"text","text":"Full Commitment\nPrereq: None\nCost: 3","x":500,"y":40,"width":260,"height":90},
+		{"id":"t5","type":"text","text":"Momentum of the Kill\nPrereq: None\nCost: 2","x":980,"y":40,"width":260,"height":90},
+		{"id":"t7","type":"text","text":"Practiced Execution\nPrereq: Executioner's Eye\nCost: 3","x":-500,"y":320,"width":260,"height":120},
+		{"id":"t8","type":"text","text":"Focused Malice\nPrereq: Marked for Death\nCost: 2","x":0,"y":320,"width":260,"height":120},
+		{"id":"t9","type":"text","text":"Killing Intent\nPrereq: Full Commitment\nCost: 3","x":500,"y":320,"width":260,"height":120},
+		{"id":"t10","type":"text","text":"Second Target\nPrereq: Momentum of the Kill\nCost: 3","x":980,"y":320,"width":260,"height":120},
+		{"id":"t12","type":"text","text":"Merciless Precision\nPrereq: Practiced Execution\nCost: 4","x":-500,"y":640,"width":260,"height":120},
+		{"id":"t14","type":"text","text":"No Second Chances\nPrereq: Killing Intent\nCost: 5","x":500,"y":640,"width":260,"height":120},
+		{"id":"t15","type":"text","text":"Silent Finish\nPrereq: Second Target\nCost: 4","x":980,"y":640,"width":260,"height":100},
+		{"id":"t16","type":"text","text":"Reaper's Judgment\nPrereq: Merciless Precision\nCost: 5","x":-500,"y":800,"width":260,"height":120},
+		{"id":"t17","type":"text","text":"Unrelenting\nPrereq: Undivided Purpose\nCost: 4","x":0,"y":800,"width":260,"height":120},
+		{"id":"t13","type":"text","text":"Undivided Purpose\nPrereq: Focused Malice\nCost: 3","x":0,"y":640,"width":260,"height":120},
+		{"id":"t18","type":"text","text":"The Perfect Kill\nPrereq: Any two of\nPerfect Opening,\nReaper's Judgment,\nUnrelenting,\nNo Second Chances,\nSilent Finish\nCost: 6","x":-120,"y":1240,"width":320,"height":240},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-1140,"y":-60,"width":320,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e2","fromNode":"t2","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e3","fromNode":"t3","fromSide":"bottom","toNode":"t8","toSide":"top"},
+		{"id":"e4","fromNode":"t4","fromSide":"bottom","toNode":"t9","toSide":"top"},
+		{"id":"e5","fromNode":"t5","fromSide":"bottom","toNode":"t10","toSide":"top"},
+		{"id":"e6","fromNode":"t6","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"e7","fromNode":"t7","fromSide":"bottom","toNode":"t12","toSide":"top"},
+		{"id":"e8","fromNode":"t8","fromSide":"bottom","toNode":"t13","toSide":"top"},
+		{"id":"e9","fromNode":"t9","fromSide":"bottom","toNode":"t14","toSide":"top"},
+		{"id":"e10","fromNode":"t10","fromSide":"bottom","toNode":"t15","toSide":"top"},
+		{"id":"e11","fromNode":"t12","fromSide":"bottom","toNode":"t16","toSide":"top"},
+		{"id":"e12","fromNode":"t13","fromSide":"bottom","toNode":"t17","toSide":"top"},
+		{"id":"e13","fromNode":"t11","fromSide":"bottom","toNode":"t18","toSide":"left","color":"3"},
+		{"id":"e14","fromNode":"t16","fromSide":"bottom","toNode":"t18","toSide":"top","color":"3"},
+		{"id":"e15","fromNode":"t17","fromSide":"bottom","toNode":"t18","toSide":"top","color":"3"},
+		{"id":"e16","fromNode":"t14","fromSide":"bottom","toNode":"t18","toSide":"top","color":"3"},
+		{"id":"e17","fromNode":"t15","fromSide":"bottom","toNode":"t18","toSide":"top","color":"3"}
+	]
+}
