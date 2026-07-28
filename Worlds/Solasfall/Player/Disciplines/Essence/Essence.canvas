@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"grp","type":"group","x":-1120,"y":-80,"width":1800,"height":940,"label":"Essence"},
+		{"id":"t1","type":"text","text":"Deeper Reservoir\nPrereq: None\nCost: X","x":-1020,"y":40,"width":260,"height":100,"color":"4"},
+		{"id":"leg2","type":"text","text":"Yellow lines indicate an alternative or multi-choice prerequisite relationship","x":-1080,"y":-60,"width":320,"height":60,"color":"3"},
+		{"id":"t6","type":"text","text":"Steady Attunement\nPrereq: Attuned Vessel\nCost: 3","x":-700,"y":340,"width":260,"height":120},
+		{"id":"t2","type":"text","text":"Attuned Vessel\nPrereq: None\nCost: 2","x":-700,"y":40,"width":260,"height":100},
+		{"id":"t3","type":"text","text":"Self-Taught Severance\nPrereq: None\nCost: 3","x":-400,"y":40,"width":280,"height":100},
+		{"id":"t7","type":"text","text":"Practised Hand\nPrereq: Self-Taught Severance\nCost: 2","x":-400,"y":340,"width":300,"height":120},
+		{"id":"t4","type":"text","text":"Signature Fusion\nPrereq: None\nCost: 4","x":0,"y":40,"width":260,"height":100},
+		{"id":"t5","type":"text","text":"Refined Current\nPrereq: None\nCost: 3","x":400,"y":40,"width":260,"height":100},
+		{"id":"9847c4407d931450","x":-700,"y":-60,"width":360,"height":60,"color":"4","type":"text","text":"Green Nodes indicate repeatable purchase, check the .md file"},
+		{"id":"t8","type":"text","text":"Mastered Weaving\nPrereq: Any two of\nPractised Hand,\nSignature Fusion,\nor Refined Current\nCost: 5","x":-30,"y":640,"width":320,"height":180}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"t2","fromSide":"bottom","toNode":"t6","toSide":"top"},
+		{"id":"e2","fromNode":"t3","fromSide":"bottom","toNode":"t7","toSide":"top"},
+		{"id":"e3","fromNode":"t7","fromSide":"bottom","toNode":"t8","toSide":"top","color":"3"},
+		{"id":"e4","fromNode":"t4","fromSide":"bottom","toNode":"t8","toSide":"top","color":"3"},
+		{"id":"e5","fromNode":"t5","fromSide":"bottom","toNode":"t8","toSide":"top","color":"3"}
+	]
+}
