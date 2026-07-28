@@ -54,7 +54,7 @@ Narrow and dim, with little to no natural bioluminescence — deliberately harde
 
 **Shattered Expanse Portal Alcove**  
 _Connects to: Deep Tunnel D only (dead end)_  
-A small, unremarkable alcove that happens to house the portal onward to the Shattered Expanse. Nothing marks it as significant from the tunnel — no light, no formation, no Guild signage. Easy to miss entirely without knowing it's there.
+A small, unremarkable alcove that happens to house the portal onward to [[the Shattered Expanse]]. Nothing marks it as significant from the tunnel — no light, no formation, no Guild signage. Easy to miss entirely without knowing it's there.
 
 **Deep Tunnel E**  
 _Connects to: Main Hall ↔ Winding Passage_  
@@ -70,7 +70,7 @@ Short but unmistakably wrong — runework and construction material that does no
 
 **Hidden Portal Chamber**  
 _Connects to: Transitional Passage only_  
-Houses the artificial portal proper — unmistakably constructed, leading onward to an The Root Cradle. Who built it, and why, remains unanswered.
+Houses the artificial portal proper — unmistakably constructed, leading onward to an [[The Root Cradle]]. Who built it, and why, remains unanswered.
 
 **Narrow Vent**  
 _Connects to: Stalactite Passage (up) ↔ Lower Passage (down)_  

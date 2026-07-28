@@ -29,7 +29,7 @@ You can perfectly mimic any voice you have heard. Creatures may make an [[Attrib
 Your clear zone extends into what would normally be your blurry zone up to 9m. You cannot see in total darkness.
 
 ## Talon Strike
-As an [[Attacks|attack]], you may use your claws to deal 1d4 + [[Attributes|Grace]] Slashing [[Damage Types|damage]] at [[Ticks, Priority & Resolution|Priority]] 14 + [[Attributes|Grace]]
+As an [[Attacks|attack]], you may use your claws to deal 1d6 + [[Attributes|Grace]] Slashing [[Damage Types|damage]] at [[Ticks, Priority & Resolution|Priority]] 14 + [[Attributes|Grace]]
 
 ## Glide
 When falling, for every 2m you fall you may move 1m horizontally. You take no falling [[Damage Types|damage]] on landing regardless of height, provided you have sufficient horizontal space to glide into.
@@ -43,22 +43,22 @@ Gain +1 training in the [[Skills|Negotiation]] [[Skills|skill]].
 ## Silent Strike
 Prerequisites: None. 
 Cost: 2 Trait Point. 
-[[Attacks]] made against creatures that cannot see you deal +1 [[Damage Types|damage]].
+[[Attacks]] made against creatures that cannot see you deal +2 [[Damage Types|damage]].
 
 ## Improved Silent Strike 
 Prerequisites: Silent Strike. 
 Cost: 1 Trait Point. 
-[[Attacks]] made against creatures that cannot see you deal +1 additional [[Damage Types|damage]], increasing the total bonus to +2.
+[[Attacks]] made against creatures that cannot see you deal +2 additional [[Damage Types|damage]], increasing the total bonus to +4.
 
 ## Enhanced Silent Strike 
 Prerequisites: Improved Silent Strike. 
 Cost: 1 Trait Point. 
-Increases the Silent Strike bonus by +1, to +3 total.
+Increases the Silent Strike bonus by +2, to +6 total.
 
 ## Mastered Silent Strike 
 Prerequisites: Enhanced Silent Strike.
 Cost: 1 Trait Point. 
-Increases the Silent Strike bonus by +1, to +4 total.
+Increases the Silent Strike bonus by +2, to +8 total.
 
 ## Mimic Confusion
 Prerequisites: None. 
