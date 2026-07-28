@@ -5,6 +5,7 @@ tags:
 ---
 # Defender
 ![[Defender.png]]
+[[Defender.canvas]]
 ## Braced Guard
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

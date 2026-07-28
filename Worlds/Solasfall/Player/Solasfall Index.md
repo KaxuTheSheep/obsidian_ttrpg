@@ -57,7 +57,7 @@ Read roughly in this order:
   [[Aetherbron Institution]], [[Riftconjurors Institution]], [[Lifebinders Institution]], [[Prismshapers Institution]], [[Runeweavers Institution]], [[Elemental Conflux Institution]], [[Common Arcanum]]
 
 ### Religion (follower characters, or once faith comes up in play)
-- Individual deities: [[The Blind Shepherd]], [[The Candle Mother]], [[The Verdant Hand]], [[The Emberwright]], [[The Pale Bloom]], [[Worlds/Solasfall/Player/Disciplines/Divinity/The Ashen Crown]]
+- Individual deities: [[The Blind Shepherd]], [[The Candle Mother]], [[The Verdant Hand]], [[The Emberwright]], [[The Pale Bloom]], [[The Ashen Crown]]
 - Forbidden: [[The Maw Below]], [[The Red Thorn]], [[The Hollow Shade]] 
 - [[Blessings]]
 

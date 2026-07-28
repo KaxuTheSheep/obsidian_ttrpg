@@ -5,7 +5,7 @@ tags:
 ---
 # Flails & Chains
 ![[Flails & Chains.png]]
-
+[[Flails & Chains.canvas]]
 ## Wild Momentum
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

@@ -5,7 +5,7 @@ tags:
 ---
 # Infiltrator
 ![[Infiltrator.png]]
-
+[[Infiltrator.canvas]]
 ## Light Feet
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

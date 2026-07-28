@@ -5,6 +5,7 @@ tags:
 ---
 # Axes
 ![[Axes.png]]
+[[Axes.canvas]]
 ## Wide Swing
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

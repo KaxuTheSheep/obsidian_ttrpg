@@ -5,6 +5,7 @@ tags:
 ---
 # Throwing Weapons
 ![[Throwing Weapons.png]]
+[[Throwing Weapons.canvas]]
 ## Snap Draw
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

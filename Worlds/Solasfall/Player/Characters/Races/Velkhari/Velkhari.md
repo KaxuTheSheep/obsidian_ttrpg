@@ -33,6 +33,7 @@ As an [[Attacks|attack]], you may bite a target within melee [[Range & Threat|ra
 
 # Racial Web
 ![[velkhari.png]]
+[[Velkhari.canvas]]
 ## Spider Climb
 Prerequisites: None.
 Cost: 2 Trait Points. 

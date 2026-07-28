@@ -5,6 +5,7 @@ tags:
 ---
 # Armour Mastery
 ![[Armour Mastery.png]]
+[[Armour Mastery.canvas]]
 ## Worn In
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

@@ -39,6 +39,7 @@ Gain +1 training in the [[Skills|Negotiation]] [[Skills|skill]].
 
 # Racial Web
 ![[Kenku.png]]
+[[Kenku.canvas]]
 ## Silent Strike
 Prerequisites: None. 
 Cost: 2 Trait Point. 

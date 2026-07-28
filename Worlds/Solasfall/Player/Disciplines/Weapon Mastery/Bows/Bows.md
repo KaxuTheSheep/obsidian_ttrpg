@@ -5,6 +5,7 @@ tags:
 ---
 # Bows
 ![[Bows.png]]
+[[Bows.canvas]]
 ## Held Draw
 **Prerequisites:** None.
 **Cost:** 3 Trait Points.

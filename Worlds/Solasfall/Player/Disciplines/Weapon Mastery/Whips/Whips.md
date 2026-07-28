@@ -5,6 +5,7 @@ tags:
 ---
 # Whips
 ![[Whips.png]]
+[[Whips.canvas]]
 ## Snap Guard
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

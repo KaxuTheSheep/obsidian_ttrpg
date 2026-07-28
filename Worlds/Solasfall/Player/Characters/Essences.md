@@ -19,7 +19,7 @@ An Essence's power is not simply a readout of its source creature's Blood and St
 Essences are not designed to be strictly ranked against each other. A character optimising toward a specific playstyle gets more value from an Essence that reinforces it than from an objectively "stronger" one that fights their build — a Stealth-focused character with an Essence built around tanking damage will rarely use what it offers. This is a design and roleplay consideration for players and GMs to weigh at the table, not a mechanic the system enforces.
 
 # Essence Capacity
-Characters begin with a capacity of 1 Essence at level 0. Increasing capacity costs Trait Points, purchased through the Essence Discipline tree (see [[Essence]]). Capacity costs scale steeply at the high end — a character carrying many Essences has made a deliberate, expensive investment, not a passive accumulation.
+Characters begin with a capacity of 1 Essence at level 0. Increasing capacity costs Trait Points, purchased through the Essence Discipline tree (see [[Soul Manipulation]]). Capacity costs scale steeply at the high end — a character carrying many Essences has made a deliberate, expensive investment, not a passive accumulation.
 
 # Effect
 After consumption, the Essence grants numeric bonuses to [[Attributes]], modifications to defensive stats, or new abilities reflecting the creature it originated from. Each Essence is unique and bespoke to its source creature — there is no shared tier or template governing exact numbers, only the general principle that stronger or more dangerous creatures produce more significant Essences. See the Essence Blueprint Template for how individual Essences are built.

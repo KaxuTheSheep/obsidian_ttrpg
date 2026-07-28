@@ -4,8 +4,8 @@ tags:
   - Discipline
 ---
 # Essence
-![[Essence.png]]
-
+![[Soul Manipulation.png]]
+[[Soul Manipulation.canvas]]
 ## Deeper Reservoir
 **Prerequisites:** None. Repeatable — each purchase increases your Essence Capacity by 1, up to a maximum of 9.
 **Cost:** 1 Trait Point (2nd Essence Capacity), then 2 / 3 / 5 / 7 / 9 / 12 / 15 for each subsequent purchase up to the 9th.

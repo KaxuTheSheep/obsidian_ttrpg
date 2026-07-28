@@ -5,6 +5,7 @@ tags:
 ---
 # Polearms 
 ![[Polearms.png]]
+[[Polearms.canvas]]
 ## Measured Distance 
 **Prerequisites:** None. 
 **Cost:** 2 Trait Points. 

@@ -5,6 +5,7 @@ tags:
 ---
 # Swords
 ![[Swords.png]]
+[[Swords.canvas]]
 ## Honed Edge
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

@@ -33,6 +33,7 @@ Humans gain one additional Starting Ability as part of their racial traits. This
 
 # Racial Web
 ![[Human.png]]
+[[Human.canvas]]
 ## Resilient Spirit
 Prerequisites: None.
 Cost: 2 Trait Points.

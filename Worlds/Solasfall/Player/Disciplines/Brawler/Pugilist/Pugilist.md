@@ -5,6 +5,7 @@ tags:
 ---
 # Pugilist
 ![[Pugilist.png]]
+[[Pugilist.canvas]]
 ## Iron Fists
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

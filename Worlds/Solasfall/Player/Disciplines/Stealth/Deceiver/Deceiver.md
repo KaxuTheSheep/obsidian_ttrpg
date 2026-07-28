@@ -5,6 +5,7 @@ tags:
 ---
 # Deceiver
 ![[Deceiver.png]]
+[[Deceiver.canvas]]
 ## Convincing Guise
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

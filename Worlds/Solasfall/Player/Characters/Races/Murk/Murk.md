@@ -33,6 +33,7 @@ Your Clear Zone extends into what would normally be your Blurry Zone up to 9m. Y
 
 # Racial Web
 ![[Murk.png]]
+[[Murk.canvas]]
 ## Tongue Lash
 Prerequisites: None.
 Cost: 2 Trait Points. 

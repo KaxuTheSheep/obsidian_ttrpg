@@ -38,6 +38,7 @@ Gain +1 training in one of the following skills of your choice at character crea
 
 # Racial Web
 ![[Cindral.png]]
+[[Cindral.canvas]]
 ## Channelled Emberstrike
 Prerequisites: None.
 Cost: 2 Trait Points. 

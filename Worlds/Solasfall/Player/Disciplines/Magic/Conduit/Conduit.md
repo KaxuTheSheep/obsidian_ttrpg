@@ -6,6 +6,7 @@ tags:
 ---
 # Conduit
 ![[Conduit.png]]
+[[Conduit.canvas]]
 ## Steady Current
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

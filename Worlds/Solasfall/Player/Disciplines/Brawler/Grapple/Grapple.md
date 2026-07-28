@@ -5,6 +5,7 @@ tags:
 ---
 # Grapple
 ![[Grapple.png]]
+[[Grapple.canvas]]
 ## Crushing Grip
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

@@ -6,6 +6,7 @@ tags:
 ---
 # Purifier
 ![[Purifier.png]]
+[[Purifier.canvas]]
 ## Discordant Presence
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

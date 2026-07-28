@@ -5,12 +5,13 @@ tags:
   - Discipline
 ---
 # Ashen Follower
-*All nodes require Follower status (10 Faith Points in The Ashen Crown, personal quest completed).*
+*All nodes require Follower status (10 [[Faith]] Points in [[The Ashen Crown]], personal quest completed).*
 ![[Ashen Follower.png]]
+[[Ashen Follower.canvas]]
 ## Blood for Blood
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-The first time each Round you take damage that reduces your Sturdiness or Blood, your next Attack this Round deals **+2 damage**.
+The first time each [[Rounds|Round]] you take [[Damage Types|damage]] that reduces your [[Sturdiness]] or [[Blood]], your next [[Attacks|Attack]] this [[Rounds|Round]] deals **+2 [[Damage Types|damage]]**.
 
 ## Iron in the Wound
 **Prerequisites:** Blood for Blood.
@@ -20,24 +21,24 @@ The bonus from Blood for Blood increases to **+4**.
 ## Retribution's Edge *(Incantation)*
 **Prerequisites:** Iron in the Wound.
 **Cost:** 3 Trait Points.
-Grants the Incantation **Retribution's Edge** — as a Reaction after taking damage from a melee Attack, strike back at the attacker immediately, dealing your weapon's base damage die with no Attribute added.
-**DN:** 12. **Uses per Rest:** Resolve + 1.
+Grants the Incantation **Retribution's Edge** — as a Reaction after taking [[Damage Types|damage]] from a melee [[Attacks|Attack]], strike back at the attacker immediately, dealing your [[Solasfall Weapons|weapon]]'s base [[Damage Types|damage]] die with no [[Attributes|Attribute]] added.
+**DN:** 12. **Uses per [[Rest & Recovery|Rest]]:** [[Attributes|Resolve]] + 1.
 
 ## Unbroken Line
 **Prerequisites:** Retribution's Edge.
 **Cost:** 2 Trait Points.
-While below 50% Blood, Retribution's Edge's DN is reduced by **3**.
+While below 50% [[Blood]], Retribution's Edge's DN is reduced by **3**.
 
 ## Vengeance Undying *(Incantation)*
 **Prerequisites:** Unbroken Line.
 **Cost:** 4 Trait Points.
-Grants the Incantation **Vengeance Undying** — usable only as a Reaction to being hit by a Critical Success. Deal Blunt damage equal to **2d6 + Resolve** to the attacker, bypassing Sturdiness entirely.
+Grants the Incantation **Vengeance Undying** — usable only as a Reaction to being hit by a Critical Success. Deal Blunt [[Damage Types|damage]] equal to **2d6 + [[Attributes|Resolve]]** to the attacker, bypassing Sturdiness entirely.
 **DN:** 14. **Uses per Rest:** Resolve.
 
 ## The Warmaiden's Answer *(Incantation)*
 **Prerequisites:** Vengeance Undying.
 **Cost:** 5 Trait Points.
-Grants the Incantation **The Warmaiden's Answer** — usable only when an Attack would reduce you to 10% Blood or below. Before damage is applied, unleash a single devastating counter-Attack against the creature that struck you, dealing your weapon's full damage die twice, then resolve the incoming damage as normal.
+Grants the Incantation **The Warmaiden's Answer** — usable only when an [[Attacks|Attack]] would reduce you to 10% [[Blood]] or below. Before [[Damage Types|damage]] is applied, unleash a single devastating counter-[[Attacks|Attack]] against the creature that struck you, dealing your weapon's full [[Damage Types|damage]] die twice, then resolve the incoming damage as normal.
 **DN:** 15. **Uses per Rest:** 1 (does not scale with Resolve).
 
 ## Willing Wound
@@ -59,7 +60,7 @@ While below 50% Blood, DNs for Incantations granted by Willing Wound's line are 
 ## Second Tithe *(Incantation)*
 **Prerequisites:** Bleed for Glory.
 **Cost:** 3 Trait Points.
-Grants the Incantation **Second Tithe** — spend 3 Blood as a Half Action to gain **+4 Priority** to your next Action this Round.
+Grants the Incantation **Second Tithe** — spend 3 Blood as a Half Action to gain **+4 [[Ticks, Priority & Resolution|Priority]]** to your next Action this Round.
 **DN:** 11. **Uses per Rest:** Resolve + 1.
 
 ## The Debt Paid
@@ -70,7 +71,7 @@ The Blood cost of Tithe of Flesh and Second Tithe is reduced by **1** each (mini
 ## Final Offering *(Incantation)*
 **Prerequisites:** The Debt Paid.
 **Cost:** 5 Trait Points.
-Grants the Incantation **Final Offering** — spend up to 15 Blood as a Full Action. Deal Fire damage equal to double the Blood spent to a single target within melee threat range, bypassing Armour DR entirely.
+Grants the Incantation **Final Offering** — spend up to 15 [[Blood]] as a Full Action. Deal Fire damage equal to double the Blood spent to a single target within melee threat range, bypassing Armour DR entirely.
 **DN:** 16. **Uses per Rest:** 1.
 
 ## Marked by Ruin
@@ -109,7 +110,7 @@ Grants the Incantation **Nothing Left Unanswered** — triggers automatically, a
 ## Refuse to Fall
 **Prerequisites:** None.
 **Cost:** 3 Trait Points.
-While in the dying state (0 Blood), you remain conscious and aware rather than falling unconscious. You still gain Exhaustion per Round as normal and cannot take Actions, but you may speak, observe, and use Reactions if otherwise able.
+While in the dying state (0 Blood), you remain conscious and aware rather than falling unconscious. You still gain Exhaustion per Round as normal and cannot take Actions, but you may speak, observe, and use [[Reactions]] if otherwise able.
 
 ## March Everlasting *(Incantation)*
 **Prerequisites:** Refuse to Fall.

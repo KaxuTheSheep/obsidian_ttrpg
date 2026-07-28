@@ -5,6 +5,7 @@ tags:
 ---
 # Daggers
 ![[Daggers.png]]
+[[Daggers.canvas]]
 ## Weak Point
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

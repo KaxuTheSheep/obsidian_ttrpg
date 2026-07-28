@@ -5,6 +5,7 @@ tags:
 ---
 # Viper
 ![[Viper.png]]
+[[Viper.canvas]]
 ## Practiced Application
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

@@ -5,6 +5,7 @@ tags:
 ---
 # Duelist
 ![[Duelist.png]]
+[[Duelist.canvas]]
 ## Sure Parry
 **Prerequisites:** None. 
 **Cost:** 2 Trait Points.

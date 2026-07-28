@@ -5,7 +5,7 @@ tags:
 ---
 # Maces & Hammers
 ![[Maces & Hammers.png]]
-
+[[Maces & Hammers.canvas]]
 ## Skull-Rattler
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

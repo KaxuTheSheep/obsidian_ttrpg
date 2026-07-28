@@ -6,7 +6,7 @@ tags:
 ---
 # Architect
 ![[Architect.png]]
-
+[[Architect.canvas]]
 ## Structural Insight
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

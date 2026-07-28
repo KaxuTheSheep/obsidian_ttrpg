@@ -6,6 +6,7 @@ tags:
 ---
 # Spellslinger
 ![[Spellslinger.png]]
+[[Sigilwright.canvas]]
 ## Battle Focus
 **Prerequisites:** 2 Might or Grace.
 **Cost:** 2 Trait Points.

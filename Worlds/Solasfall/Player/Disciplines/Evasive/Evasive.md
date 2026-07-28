@@ -5,6 +5,7 @@ tags:
 ---
 # Evasive
 ![[Evasive.png]]
+[[Evasive.canvas]]
 ## Light Footwork
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

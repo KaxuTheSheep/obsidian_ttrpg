@@ -5,7 +5,7 @@ tags:
 ---
 # Crossbows
 ![[Crossbows.png]]
-
+[[Crossbows.canvas]]
 ## Practised Hands
 **Prerequisites:** None.
 **Cost:** 1 Trait Point.

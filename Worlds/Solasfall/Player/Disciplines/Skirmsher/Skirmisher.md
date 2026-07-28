@@ -5,6 +5,7 @@ tags:
 ---
 # Skirmisher
 ![[Skirmisher.png]]
+[[Skirmisher.canvas]]
 ## Dash Strike
 **Prerequisites:** None.  
 **Cost:** 2 Trait Points.  

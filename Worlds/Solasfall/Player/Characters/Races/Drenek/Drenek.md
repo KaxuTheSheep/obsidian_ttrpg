@@ -33,6 +33,7 @@ Gain +1 training in Athletics or Endurance of your choice at character creation.
 
 # Racial Web
 ![[Drenek.png]]
+[[Drenek.canvas]]
 ## Heavy Impact
 Prerequisites: None. 
 Cost: 2 Trait Points.

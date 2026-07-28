@@ -5,7 +5,7 @@ tags:
 ---
 # Assassin
 ![[Assassin.png]]
-
+[[Assassin.canvas]]
 ## Opening the Guard
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.

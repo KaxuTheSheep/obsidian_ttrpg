@@ -6,6 +6,7 @@ tags:
 ---
 # Sigilwright
 ![[Sigilwright.png]]
+[[Sigilwright.canvas]]
 ## Precise Lines
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
