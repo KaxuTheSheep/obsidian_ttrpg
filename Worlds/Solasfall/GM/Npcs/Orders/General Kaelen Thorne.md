@@ -30,7 +30,7 @@ tags:
 - **Archmagus Tyren Holl** – Respect for the Aetherbron’s practical application of [[Mana|mana]] in warfare; they’ve collaborated to stabilise [[Veil]] breaches after [[Hollowdeep]] expeditions.
 
 ## Overview
-General **Kaelen Thorne** is both zealot and soldier — a living symbol of the Ashen Crown’s grim doctrine that only fire cleanses. His legend began as a young explorer delving into the early, unstable layers of [[Hollowdeep]]. Lost for weeks within the frozen third floor, he slew a **Morvudd**, a hulking horned beast of famine and rage, by driving a shattered blade through its eye. Its dying breath seared him, leaving scars that Lifebinders could never fully mend.
+General **Kaelen Thorne** is both zealot and soldier — a living symbol of the Ashen Crown’s grim doctrine that only fire cleanses. His legend began as a young explorer delving into the early, unstable layers of [[Hollowdeep]]. Lost for weeks within [[The Frostvein Deep]], he slew a **[[Morvudd]]**, a hulking horned beast of famine and rage, by driving a shattered blade through its eye. Its dying cold breath seared him, leaving frostbite scars that Lifebinders could never fully mend.
 
 He consumed the creature’s **Essence**, gaining unnatural strength and endurance. His sister, newly anointed by the Ashen Crown Sanctum, offered to intercede on his behalf. He refused. That moment, under the half-frozen corpse of the Morvudd, defined them both: she became the Sanctum’s living flame; he became its sword.
 
