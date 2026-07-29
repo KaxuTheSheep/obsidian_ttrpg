@@ -10,18 +10,14 @@ Roll **2d10 + [[Attributes|Grace]]** and compare to the target's [[Evasion]].
 ## Projectile Types
 Ranged weapons [[Falling|fall]] into two categories based on how their projectiles are tracked.
 
-### Tracked Projectiles
-Bows, crossbows, thrown weapons, and similar arms use tracked projectile [[Movement Types|movement]]. The projectile travels through space during the Resolution Phase and can interact with anything in its path.
-
-### Instant Projectiles
-Firearms or Very fast projectiles resolve instantly at the [[Ticks, Priority & Resolution|Tick]] they are fired. Bullet travel time is irrelevant at encounter scale — the projectile arrives in the same [[Ticks, Priority & Resolution|Tick]] step it is launched. No path tracking occurs. The [[Attacks|attack]] simply resolves against the declared target at Initiation [[Ticks, Priority & Resolution|Priority]].
-
 ## Tracked Projectile Resolution
 Tracked projectiles move through space in **path segments** during the Resolution Phase.
 
-- At **Initiation [[Ticks, Priority & Resolution|Priority]] X** the projectile leaves the [[weapon]] at position Y.
-- At **[[Ticks, Priority & Resolution|Tick]] X–1** it has travelled one Travel Rate worth of meters, reaching position Z.
-- **Any creature in the direct path between Y and Z** at that [[Ticks, Priority & Resolution|Priority]] step is a valid hit candidate.
+- At **Initiation [[Ticks, Priority & Resolution|Priority]] X** the projectile leaves the [[weapon]] and move one Travel Rate worth of meters in **[[Ticks, Priority & Resolution|Tick]] X**, at position Y.
+- At **[[Ticks, Priority & Resolution|Tick]] X–1** it has travelled another one Travel Rate worth of meters, reaching position Z, this continues every Tick.
+- If at any point there is a target at the correct **Tick** between the old position and new position, then that's a valid target and you roll attack roll against them.
+- If it doesn't this represents the shot being off target and their minor movements to be enough to essential pass through them and continues.
+- If it hits against the target, take the damage as they normally would.
 - **Non-piercing projectiles** stop at the first creature hit within a segment. Tracking ends.
 - **Piercing projectiles** continue through targets. How many they can pierce is defined by the [[weapon]] (e.g. a heavy crossbow may pierce 1 additional target; a high-powered piercing [[weapon]] may pierce many).
 
@@ -40,7 +36,7 @@ A shortbow is fired at **Initiation [[Ticks, Priority & Resolution|Priority]] 16
 - This continues until the arrow hits a target or is no longer needed to be tracked for whatever other reason.
 
 ## Firearms
-Firearms [[Attributes|resolve]] instantly — no path tracking. The [[Attacks|attack]] resolves at Initiation [[Ticks, Priority & Resolution|Priority]] against the declared target. Initiation [[Ticks, Priority & Resolution|Priority]] represents handling characteristics (aim time, draw, cycling) rather than projectile [[Ticks, Priority & Resolution|Priority]].
+Firearms [[Attributes|resolve]] essential instantly in normal ranges. The [[Attacks|attack]] resolves at Initiation [[Ticks, Priority & Resolution|Priority]] against the declared target, unless the ranges are high enough where tracking is important again.
 
 **General firearm characteristics:**
 - **Pistols / SMGs** — high Initiation [[Ticks, Priority & Resolution|Priority]], lower [[Damage Types|damage]], short–medium optimal [[Range & Threat|range]]
