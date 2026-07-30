@@ -23,8 +23,8 @@ Kenku are avian humanoids, typically standing just under 1.6m tall, with sleek b
 
 | Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
 | ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
-| Walk          | 10                                                    | 3.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
-| Run           | 8                                                     | 8.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Full                     |
+| Walk          | 11                                                    | 3.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Run           | 9                                                     | 8.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Full                     |
 | Climb         | 5                                                     | 2m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
 | Swim          | 4                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
 | Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |

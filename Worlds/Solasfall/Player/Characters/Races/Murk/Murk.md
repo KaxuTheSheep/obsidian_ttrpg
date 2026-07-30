@@ -30,7 +30,7 @@ Murks are amphibious, with smooth, moist skin ranging from green-grey to slate-b
 | Swim          | 4                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
 | Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
 | Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
-| Jump          | 8                                                     | 2.5+[[Attributes\|Might]] meters per Instance<br>2 meter height | Half                     |
+| Jump          | 10                                                    | 2.5+[[Attributes\|Might]] meters per Instance<br>2 meter height | Half                     |
 
 # Languages
 Common and Flowtongue.

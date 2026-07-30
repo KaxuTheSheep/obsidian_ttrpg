@@ -29,7 +29,7 @@ Pale, almost ghostly skin with shark-like teeth and long tongues. Pupil-less eye
 | Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
 | Swim          | 4                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
 | Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
-| Crawl         | 7                                                     | 2.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 11                                                    | 2.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
 | Jump          | 8                                                     | 1.5+[[Attributes\|Might]] meters per Instance<br>1 meter height | Half                     |
 
 # Languages

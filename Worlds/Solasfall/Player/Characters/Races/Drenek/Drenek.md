@@ -25,13 +25,13 @@ Drenek resemble broad, earthen humanoids whose skin mimics stone, bark, or packe
 
 | Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
 | ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
-| Walk          | 10                                                    | 2.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
-| Run           | 8                                                     | 7m/[[Ticks, Priority & Resolution\|Tick]]                       | Full                     |
+| Walk          | 9                                                     | 2.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Run           | 7                                                     | 7m/[[Ticks, Priority & Resolution\|Tick]]                       | Full                     |
 | Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
 | Swim          | 4                                                     | 0m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
 | Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
 | Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
-| Jump          | 8                                                     | 1+[[Attributes\|Might]] meters per Instance<br>0.5 meter height | Half                     |
+| Jump          | 7                                                     | 1+[[Attributes\|Might]] meters per Instance<br>0.5 meter height | Half                     |
 
 # Languages
 Common and Stonechant.
