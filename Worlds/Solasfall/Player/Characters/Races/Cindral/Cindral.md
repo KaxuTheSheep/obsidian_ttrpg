@@ -19,7 +19,21 @@ Cindral possess obsidian-like skin that shifts in opacity, from glossy black gla
 Though humanoid in shape, their movements are deliberate and almost engineered — a reflection of their constructed [[Attributes|grace]] and inner discipline. Many wear heat-resistant fabrics, tempered metal, or volcanic glass adornments, combining function and reverence for their fiery origin. In darkness, a Cindral's body emits a subtle ember-like glow along their fractures — a haunting reminder of both their fragility and endurance.
 # Stats
 **Base Blood:** 8 
-**[[Movement Types|Movement]]:** Standard — see [[Movement Types|Movement]] Types for travel rates. 
+**Base Sturdiness:** 7
+**Base Evasion:** 8
+**Base Sanity:** 14
+**[[Movement Types|Movement]]:** 
+
+| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Walk          | 10                                                    | 3m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Run           | 8                                                     | 8m/[[Ticks, Priority & Resolution\|Tick]]                       | Full                     |
+| Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Swim          | 4                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Jump          | 8                                                     | 1.5+[[Attributes\|Might]] meters per Instance<br>1 meter height | Half                     |
+
 # Languages
 Common and Emberglyphs.
 

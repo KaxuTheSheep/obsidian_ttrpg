@@ -17,9 +17,21 @@ Humans are viewed as weak-bodied but admired for their perseverance and adaptabi
 Murks are amphibious, with smooth, moist skin ranging from green-grey to slate-blue hues. Their eyes are large and reflective, adapted to dim light, and their limbs are long and flexible. Clothing tends toward fitted wraps and waterproof fabrics, designed for [[Movement Types|movement]] both on land and underwater. Many decorate their skin with bioluminescent inks or carved symbols that glow faintly in the dark.
 # Stats
 **Base Blood:** 8
-**[[Movement Types|Movement]]:** Standard — see [[Movement Types|Movement]] Types for travel rates.
-	**Run Travel Rate:** 6m per [[Ticks, Priority & Resolution|Tick]] 
-	**Jump:** 1.5m+ [[Attributes|Might]] (Height 3m)
+**Base Sturdiness:** 5
+**Base Evasion:** 9
+**Base Sanity:** 12
+**[[Movement Types|Movement]]:** 
+
+| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Walk          | 10                                                    | 2.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Run           | 8                                                     | 7m/[[Ticks, Priority & Resolution\|Tick]]                       | Full                     |
+| Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Swim          | 4                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Jump          | 8                                                     | 2.5+[[Attributes\|Might]] meters per Instance<br>2 meter height | Half                     |
+
 # Languages
 Common and Flowtongue.
 # Traits

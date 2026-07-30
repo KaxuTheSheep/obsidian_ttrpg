@@ -15,9 +15,22 @@ Kenku align closely with [[Human|Humans]] in worldview and societal goals, often
 # Appearance
 Kenku are avian humanoids, typically standing just under 1.6m tall, with sleek black or grey feathers. Their eyes are small and intelligent, reflecting light like polished glass. Clothing tends to be layered and practical, designed to allow [[Movement Types|movement]] and accommodate tools or hidden trinkets. Their voices, when mimicked, are eerily perfect reproductions of the sounds they have heard.
 # Stats
-**Base [[Blood]]:** 6
-**[[Movement Types|Movement]]:** Standard — see [[Movement Types|Movement]] Types for travel rates. 
-	**Jump:** 2m (Height 1.5m)
+**Base [[Blood]]:** 8
+**Base Sturdiness:** 4
+**Base Evasion:** 10
+**Base Sanity:** 14
+**[[Movement Types|Movement]]:** 
+
+| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Walk          | 10                                                    | 3.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Run           | 8                                                     | 8.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Full                     |
+| Climb         | 5                                                     | 2m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Swim          | 4                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Jump          | 8                                                     | 2+[[Attributes\|Might]] meters per Instance<br>1.5 meter height | Half                     |
+
 # [[Languages]]
 [[Common]] and [[Cawscript]].
 # Traits

@@ -7,7 +7,7 @@ tags:
 **Calculation:**  
 **Evasion Score = Base Evasion + [[Attributes|Grace]] + Other Modifiers**
 
-- **Base Evasion:** Starts at **8**.
+- **Base Evasion:** A starting value determined by your species or origin as defined in the relevant module.
 - **[[Attributes|Grace]]:** Your [[Attributes|Grace]] [[Attributes|Attribute]], reflecting your natural nimbleness.
 - **Other Modifiers:** Bonuses or penalties from abilities, equipment, [[Conditions|conditions]], or situational factors.
 

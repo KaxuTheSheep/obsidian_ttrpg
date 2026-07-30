@@ -22,7 +22,21 @@ Most major [[Factions]], including the Royal Advisers, Merchant Guild, and [[Mag
 Humans in [[Solasfall]] display diverse physical traits, with a wide variety of skin tones, hair colours, and eye colours. Clothing, hairstyle, and ornamentation vary based on social standing, occupation, and personal taste. They generally have medium builds and average height compared to other [[races]], adaptable to a wide [[Range & Threat|range]] of roles and environments.
 # Stats
 **Base [[Blood]]:** 8 
-**[[Movement Types|Movement]]:** Standard — see [[Movement Types]] for travel rates.
+**Base Sturdiness:** 6
+**Base Evasion:** 8
+**Base Sanity:** 16
+**[[Movement Types|Movement]]:** 
+
+| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Walk          | 10                                                    | 3m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Run           | 8                                                     | 8m/[[Ticks, Priority & Resolution\|Tick]]                       | Full                     |
+| Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Swim          | 4                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Jump          | 8                                                     | 1.5+[[Attributes\|Might]] meters per Instance<br>1 meter height | Half                     |
+
 # [[Languages]]
 [[Common]], [[Solari]], and one additional language of choice.
 # Traits

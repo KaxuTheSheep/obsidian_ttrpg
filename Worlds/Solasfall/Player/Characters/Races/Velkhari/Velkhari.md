@@ -17,12 +17,21 @@ Widely mistrusted, especially by Humans and the faithful. Generally tolerated du
 Pale, almost ghostly skin with shark-like teeth and long tongues. Pupil-less eyes that reflect [[Rift]] energy. Typically wear minimal, practical clothing suited for combat or climbing. Their bodies often show faint [[Rift]] markings or scars from transformation.
 # Stats
 **Base Blood:** 8
-**[[Movement Types|Movement]]:** Deviates from standard — see below. 
-	**Walk Travel Rate:** 3.5m per [[Ticks, Priority & Resolution|Tick]]
-	**Run Travel Rate:** 9.5m per [[Ticks, Priority & Resolution|Tick]]
-	 **Crawl Travel Rate:** 2.5m per [[Ticks, Priority & Resolution|Tick]]
-	**Swim Travel Rate:** 0.5m per [[Ticks, Priority & Resolution|Tick]]
-	**Jump:** 4m + [[Attributes|Might]] (Height 1m base)
+**Base Sturdiness:** 8
+**Base Evasion:** 9
+**Base Sanity:** 8
+**[[Movement Types|Movement]]:** 
+
+| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Walk          | 10                                                    | 4m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Run           | 8                                                     | 10m/[[Ticks, Priority & Resolution\|Tick]]                      | Full                     |
+| Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Swim          | 4                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 7                                                     | 2.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Jump          | 8                                                     | 1.5+[[Attributes\|Might]] meters per Instance<br>1 meter height | Half                     |
+
 # Languages
 Common and Veilscent.
 # Traits

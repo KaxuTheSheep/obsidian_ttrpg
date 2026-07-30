@@ -18,8 +18,22 @@ Stitched are clearly artificial, with visible seams, patches, and varying skin t
 # [[Soul]]
 A Stitched [[Soul|soul]] is not one coherent [[Mana|mana]] signature but many overlapping ones drawn from the lives stitched into their form. This composite signature is unstable in youth and gradually consolidates as one dominant pattern asserts itself. It is neither fully any of its parts nor something entirely new — it is all of them at once, slowly becoming one.
 # Stats
-**Base Blood:** 10 
-**[[Movement Types|Movement]]:** Standard — see [[Movement Types|Movement]] Types for travel rates.
+**Base Blood:** 9
+**Base Sturdiness:** 7 
+**Base Evasion:** 9
+**Base Sanity:** 8
+**[[Movement Types|Movement]]:**
+
+| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Walk          | 10                                                    | 3m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Run           | 8                                                     | 7.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Full                     |
+| Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Swim          | 4                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Jump          | 8                                                     | 1.5+[[Attributes\|Might]] meters per Instance<br>1 meter height | Half                     |
+
 # Languages
 Common and one additional language of choice.
 # Traits
@@ -61,7 +75,7 @@ Prerequisites: Patchwork Form.
 Cost: 2 Trait Points.
 Your reattachment technique becomes faster and more instinctive. Reattaching a body part now costs a Free [[Actions|Action]] instead of a Half [[Actions|Action]].
 
-## Extended [[Range & Threat|Range]]
+## Extended Range
 Prerequisites: Patchwork Form.
 Cost: 2 Trait Points.
 Your composite [[Mana|mana]] signature grows more stable, allowing greater coherence over distance. Detached parts remain functional up to 10m from your brain instead of 5m.
@@ -114,4 +128,4 @@ Your [[Mana|mana]] signature has stabilised enough that Rethreading intervals ex
 ## Convergence
 Prerequisites: Scatter Mastery, Seamless Maintenance. 
 Cost: 4 Trait Points. 
-When your body is scattered, you may declare Convergence as a Half [[Actions|Action]] during the Declaration Phase. Choose a point within your current part-[[Range & Threat|range]] as your brain's destination. During Resolution, all detached parts travel simultaneously toward your brain's position. Each creature whose space lies between a travelling part and your brain takes 1d6 +[[Attributes|Vitality]] Blunt [[Damage Types|damage]] per part that passes through them. Parts travel in straight lines — terrain, cover, and creatures blocking a part's path stop that part's [[Movement Types|movement]] and negate its [[Damage Types|damage]] for that creature. Reassembly completes at the end of the [[Rounds|round]]. Any part that cannot reach the brain due to obstruction must be reattached manually.
+When your body is scattered, you may declare Convergence as a Half [[Actions|Action]] during the Declaration Phase. Choose a point within your current part-[[Range & Threat|range]] as your brain's destination. During Resolution, all detached parts travel simultaneously toward your brain's position. Each creature whose space lies between a travelling part and your brain takes 1d6+[[Attributes|Vitality]] Blunt [[Damage Types|damage]] per part that passes through them. Parts travel in straight lines — terrain, cover, and creatures blocking a part's path stop that part's [[Movement Types|movement]] and negate its [[Damage Types|damage]] for that creature. Reassembly completes at the end of the [[Rounds|round]]. Any part that cannot reach the brain due to obstruction must be reattached manually.

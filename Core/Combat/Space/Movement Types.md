@@ -17,20 +17,6 @@ Every movement type has two values:
 Low commitment movement like Walking initiates quickly but travels slowly. High commitment movement like Running initiates slowly but covers ground far more efficiently once underway.
 
 These values are listed as baseline humanoid values. Race or species entries in the relevant module modify Travel Rate to reflect faster or slower creatures.
-
-## Movement Type Table
-
-| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate [[Ticks, Priority & Resolution\|Tick]]               | [[Actions\|Action]] Cost |
-| ------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | ------------------------ |
-| Walk          | 10                                                    | 3 meters per [[Ticks, Priority & Resolution\|Tick]]              | Free                     |
-| Run           | 8                                                     | 8 meters per [[Ticks, Priority & Resolution\|Tick]]              | Full                     |
-| Climb         | 5                                                     | 1.5 meters per [[Ticks, Priority & Resolution\|Tick]]            | Free                     |
-| Swim          | 4                                                     | 1.5 meters per [[Ticks, Priority & Resolution\|Tick]]            | Free                     |
-| Burrow        | 2                                                     | 0.5 meter per [[Ticks, Priority & Resolution\|Tick]]             | Free                     |
-| Fly           | 5                                                     | 5 meters per [[Ticks, Priority & Resolution\|Tick]]              | Full                     |
-| Crawl         | 7                                                     | 1 meter per [[Ticks, Priority & Resolution\|Tick]]               | Free                     |
-| Jump          | 8                                                     | 1.5 meters + [[Attributes\|Might]] per Instant<br>1 meter height | Half                     |
-
 ## Movement Types
 
 **Walk** Standard movement on flat or gently uneven ground. Quick to initiate but covers ground slowly. Most creatures have a walking distance defined by their species entry in the relevant module.

@@ -16,9 +16,22 @@ Humans view them with neutral respect but rarely engage beyond necessity. Stitch
 # Appearance
 Drenek resemble broad, earthen humanoids whose skin mimics stone, bark, or packed clay, often patterned by natural fissures and mineral striations. Their eyes glow faintly with mineral tones — amber, jade, or dull silver — reflecting the depths of their subterranean origins. Hair is rare; many instead possess ridges, rocky protrusions, or hardened scales across their head and shoulders. Their movements are deliberate and grounded, each step carrying a sense of weight and permanence. They wear durable, reinforced attire, often inscribed with clan sigils or oaths carved into stone or metal plates.
 # Stats
-**Base Blood:** 8
+**Base Blood:** 10
+**Base Sturdiness:** 8
+**Base Evasion:** 6
+**Base Sanity:** 12
 **[[Movement Types|Movement]]:** Standard — see [[Movement Types|Movement]] Types for travel rates. 
 	**Jump:** 1m + [[Attributes|Might]] (Height 0.5m)
+
+| Movement Type | Initiation [[Ticks, Priority & Resolution\|Priority]] | Travel Rate                                                     | [[Actions\|Action]] Cost |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------ |
+| Walk          | 10                                                    | 2.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Run           | 8                                                     | 7m/[[Ticks, Priority & Resolution\|Tick]]                       | Full                     |
+| Climb         | 5                                                     | 1.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Swim          | 4                                                     | 0m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Burrow        | 2                                                     | 0.5m/[[Ticks, Priority & Resolution\|Tick]]                     | Free                     |
+| Crawl         | 7                                                     | 1m/[[Ticks, Priority & Resolution\|Tick]]                       | Free                     |
+| Jump          | 8                                                     | 1+[[Attributes\|Might]] meters per Instance<br>0.5 meter height | Half                     |
 
 # Languages
 Common and Stonechant.

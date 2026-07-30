@@ -7,7 +7,8 @@ Sturdiness represents your character's ability to absorb and withstand physical 
 Unlike [[Blood]], Sturdiness has more sources available to replenish it mid-combat and between encounters. It is meant to be lost and recovered frequently. [[Blood]] is more permanent and harder to restore.
 
 ## Calculation
-**Sturdiness = 6+ [[Attributes|Vitality]] + Bought Increases + Other Modifiers**
+**Sturdiness = Base Sturdiness + [[Attributes|Vitality]] + Bought Increases + Other Modifiers**
+- **Base Sturdiness:** A starting value determined by your species or origin as defined in the relevant module.
 - **[[Attributes|Vitality]]:** Your [[Attributes|Vitality]] [[Attributes|Attribute]] added directly, representing physical [[Skills|endurance]] and robustness.
 - **Bought Increases:** Additional Sturdiness purchased through Trait Points during advancement.
 - **Other Modifiers:** Bonuses or penalties from abilities, [[Conditions|conditions]], equipment, or situational factors.
