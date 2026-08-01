@@ -15,6 +15,7 @@ Kenku align closely with [[Human|Humans]] in worldview and societal goals, often
 # Appearance
 Kenku are avian humanoids, typically standing just under 1.6m tall, with sleek black or grey feathers. Their eyes are small and intelligent, reflecting light like polished glass. Clothing tends to be layered and practical, designed to allow [[Movement Types|movement]] and accommodate tools or hidden trinkets. Their voices, when mimicked, are eerily perfect reproductions of the sounds they have heard.
 # Stats
+**Size:** Smaller Medium
 **Base [[Blood]]:** 8
 **Base Sturdiness:** 4
 **Base Evasion:** 10

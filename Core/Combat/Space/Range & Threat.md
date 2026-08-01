@@ -28,8 +28,8 @@ These distances matter for **control and leverage**, not just whether you _can_ 
 | **Neither combatant is within the other's Threat Range** | Out of range | No melee [[Attacks\|attacks]] possible. |
 
 ### Positioning Example
-- Dagger user (NR 1 + WR 0 = **1 square**)
-- Spear user (NR 1 + WR 1 = **2 squares**)
+- Dagger user (NR 1 + WR 0 = **1 meters**)
+- Spear user (NR 1 + WR 1 = **2 meters**)
 
 | Distance                  | Outcome                                                                                                                                                                                            |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

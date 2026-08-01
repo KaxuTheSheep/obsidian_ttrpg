@@ -16,6 +16,7 @@ Widely mistrusted, especially by Humans and the faithful. Generally tolerated du
 # Appearance
 Pale, almost ghostly skin with shark-like teeth and long tongues. Pupil-less eyes that reflect [[Rift]] energy. Typically wear minimal, practical clothing suited for combat or climbing. Their bodies often show faint [[Rift]] markings or scars from transformation.
 # Stats
+**Size:** Medium
 **Base Blood:** 8
 **Base Sturdiness:** 8
 **Base Evasion:** 9

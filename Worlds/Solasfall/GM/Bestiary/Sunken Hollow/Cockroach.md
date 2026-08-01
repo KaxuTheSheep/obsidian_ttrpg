@@ -35,7 +35,7 @@ Found scavenging throughout [[The Sunken Hollow]], usually alone or in small pai
 | Crawl | 7          | 1.5m per [[Ticks, Priority & Resolution\|Tick]] |
 
 ## [[Mana]] Shell (Passive)
-The cockroach is permanently coated in a thin barrier of conducted [[Mana|mana]]. This barrier has **5 HP** and absorbs all [[Damage Types|damage]] before it reaches [[Sturdiness]] or [[Blood]]. Once reduced to 0, the barrier is gone. If the cockroach goes **5 [[Ticks, Priority & Resolution|Priority]]** without the barrier taking Priorityage Types|damage]], it is recast to full at the start of the next [[Ticks, Priority & Resolution|Priority]] step — this is an active recast, not passive regeneration.
+The cockroach is permanently coated in a thin barrier of conducted [[Mana|mana]]. This barrier has **5 HP** and absorbs all [[Damage Types|damage]] before it reaches [[Sturdiness]] or [[Blood]]. Once reduced to 0, the barrier is gone. If the cockroach goes **5 [[Ticks, Priority & Resolution|Priority]]** without the barrier taking [[Damage Types|damage]], it is recast to full at the start of the next [[Ticks, Priority & Resolution|Priority]] step — this is an active recast, not passive regeneration.
 ## [[Actions]]
 
 ### Bite

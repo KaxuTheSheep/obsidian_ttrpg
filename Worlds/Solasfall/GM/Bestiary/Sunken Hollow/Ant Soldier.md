@@ -43,7 +43,7 @@ Unlike workers, a soldiers size means climbing is genuine effort rather than eff
 **[[Ticks, Priority & Resolution|Priority]]:** 9 + [[Attributes|Might]] (12)
 **[[Range & Threat|Range]]:** +0m
 **Type:** Melee
-**On Hit:** Target makes a [[Attributes|Vitality]] Test (DN 12). On failure, apply **Burn** (2 [[Rounds|rounds]] — 1d2 fire [[Damage Types|damage]] per [[Rounds|round]], bypasses [[Sturdiness]], as per [[Fireball]]'s Burn effect).
+**On Hit:** Target makes a [[Attributes|Vitality]] Test (DN 12). On failure, apply **Burn** (2 [[Rounds|rounds]] — 1d2 Acid [[Damage Types|damage]] per [[Rounds|round]], bypasses [[Sturdiness]], as per [[Fireball]]'s Burn effect).
 
 ## Behaviour
 Soldiers respond to threats, not investigation. They move directly toward combat sounds, worker distress, or confirmed danger to the colony, without the worker's cautious approach. They prioritise the most immediate threat over the most vulnerable target and will not break off an engagement to retreat unless heavily outnumbered or the colony signal indicates withdrawal. They do not flank deliberately, but their numbers and the worker's harrying behaviour often create flanking incidentally.

@@ -23,5 +23,8 @@ List numeric or ability-based bonuses. These should be thematically legible from
 ## Drawback
 The cost of absorbing the creature's full nature, not just its strengths. Should be genuinely felt in play, not a token inconvenience — a predator's Essence should carry something of the predator's vulnerabilities or compulsions, not just its teeth.
 
+## Neural
+Some costs of absorbing the creature's nature can't be categorised as benefits or drawbacks. This may include size of the creature.
+
 ## GM Notes
 Anything relevant to acquisition — is this creature's Essence more or less likely to manifest than usual, any narrative conditions attached to consuming it, or table-specific rulings.

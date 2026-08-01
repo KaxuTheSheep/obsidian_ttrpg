@@ -31,3 +31,5 @@ Damage types define how [[Attacks|attacks]] interact with the world beyond comba
 | **Cold**      | Freezes liquids, causes brittle materials to crack or shatter, extinguishes small flames. |
 | **Lightning** | Shorts out mechanisms, conducts through water and metal, may trigger explosive gases.     |
 | **Acid**      | Dissolves metal over time, corrodes locks and hinges, melts through barriers slowly.      |
+| Mental        | N/A                                                                                       |
+Mental damage instead work on sanity rather than blood. 

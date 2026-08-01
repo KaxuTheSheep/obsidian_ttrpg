@@ -21,6 +21,7 @@ Most major [[Factions]], including the Royal Advisers, Merchant Guild, and [[Mag
 # Appearance
 Humans in [[Solasfall]] display diverse physical traits, with a wide variety of skin tones, hair colours, and eye colours. Clothing, hairstyle, and ornamentation vary based on social standing, occupation, and personal taste. They generally have medium builds and average height compared to other [[races]], adaptable to a wide [[Range & Threat|range]] of roles and environments.
 # Stats
+**Size:** Medium
 **Base [[Blood]]:** 8 
 **Base Sturdiness:** 6
 **Base Evasion:** 8

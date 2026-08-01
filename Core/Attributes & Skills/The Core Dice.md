@@ -37,7 +37,6 @@ The GM sets a Difficulty Number based on how challenging the task is:
 **Modifiers** are additions to your rolls. They can come from [[Attributes]], [[Skills]], and equipment or abilities as defined by the relevant module.
 
 ## Die Steps
-A die step increases or decreases the value of a die by 2.
-**d2 → d4 → d6 → d8 → d10 → d12 → d14 → d16...**
+A die step increases or decreases the value of a die by 2, which caps at 12 and adds a d2 which follows the same ruling.
+**d2 → d4 → d6 → d8 → d10 → d12 → d12+d2 → d12+d4...**
 
-Any die size is valid — a d7 increased by one step becomes a d9. Die steps stack — two steps on a d6 produces a d10. d2 is the floor; a die cannot be reduced below d2.
