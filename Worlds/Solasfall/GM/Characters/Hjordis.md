@@ -1,3 +1,4 @@
 Devote follower of [[The Ashen Crown|Ashen Crown]]
+Priest had small parish of people, mobile priest so didnt ever settle down, now seeks a noble death as is very elderly and knows their days are numbered so looking for something noble that would cement them as remembered by their people as a monument, and their goal is to explore the deepest stretches of [[hollowdeep]] and map it. As well as potentially find a large amount of mordant stones within that can offer a near permanent solution to the barrier. They believe that they as a [[Drenek]] posses the level of will and survivability to accomplish their goals and die nobly attempting it
 
 [[Lynn-Character.pdf]]

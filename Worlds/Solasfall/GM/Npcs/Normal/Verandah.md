@@ -1,13 +1,13 @@
 ---
-
 aliases:
-- Verandah Golddrip
-- Verandah
-- The Nexus Peddler
-- Npc
-- Lore
-- Hollowdeep
-
+  - Verandah Golddrip
+  - Verandah
+  - The Nexus Peddler
+  - Lore
+tags:
+  - Npc
+  - Lore
+  - Hollowdeep
 ---
 
 **Official Title:** None — self-styled "The Nexus Peddler" 
