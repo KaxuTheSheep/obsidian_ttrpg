@@ -2,7 +2,7 @@
 tags:
   - Mechanics/Combat
 ---
-**Evasion** represents your character's ability to avoid incoming [[Attacks|attacks]] through agility, reflexes, and awareness.
++**Evasion** represents your character's ability to avoid incoming [[Attacks|attacks]] through agility, reflexes, and awareness.
 
 **Calculation:**  
 **Evasion Score = Base Evasion + [[Attributes|Grace]] + Other Modifiers**

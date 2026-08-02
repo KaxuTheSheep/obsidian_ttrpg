@@ -105,7 +105,7 @@ Shadow the Blade's shift increases to **2m** and no longer provokes a Reach Puni
 ## Twin Fangs
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-While dual-wielding daggers, your Off-Hand Strike resolves at **–1** of your main-hand [[Weapon|weapon]]'s [[Ticks, Priority & Resolution|Priority]] instead of –2.
+While off-handing a dagger, your Off-Hand Strike resolves at **–1** of your main-hand [[Weapon|weapon]]'s [[Ticks, Priority & Resolution|Priority]] instead of –2.
 
 ## Mirrored Strikes
 **Prerequisites:** Twin Fangs.

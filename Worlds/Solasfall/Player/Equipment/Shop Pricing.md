@@ -100,32 +100,32 @@ tags:
 ## Armour
 
 | Item       | Price | [[Attributes\|Might]] Requirement | DR  |
-| ---------- | ----- | ----------------- | --- |
-| Clothing   | 10    | 0                 | 0   |
-| Leather    | 55    | 1                 | 1   |
-| Brigandine | 90    | 2                 | 2   |
-| Chainmail  | 125   | 3                 | 3   |
-| Half Plate | 200   | **4**             | 4   |
-| Full Plate | 300   | **6**             | 5   |
+| ---------- | ----- | --------------------------------- | --- |
+| Clothing   | 10    | 0                                 | 0   |
+| Leather    | 55    | 1                                 | 1   |
+| Brigandine | 90    | 2                                 | 2   |
+| Chainmail  | 125   | 3                                 | 3   |
+| Half Plate | 200   | **4**                             | 4   |
+| Full Plate | 300   | **6**                             | 5   |
 
 Below the [[Attributes|Might]] requirement, armour cannot be used effectively — check your [[Attributes]] before you buy.
 
 ## Shields
 
-| Item | Price |
-|---|---|
-| Buckler | 35 |
-| Heater | 70 |
-| Pavise | 100 |
+| Item    | Price |
+| ------- | ----- |
+| Buckler | 35    |
+| Heater  | 70    |
+| Pavise  | 100   |
 
 ## Ammunition (bundles of 20)
 
-| Item | Price |
-|---|---|
-| Standard Arrows | 10 |
-| Heavy Arrows | 15 |
-| Standard Bolts | 12 |
-| Heavy Bolts | 18 |
+| Item            | Price |
+| --------------- | ----- |
+| Standard Arrows | 10    |
+| Heavy Arrows    | 15    |
+| Standard Bolts  | 12    |
+| Heavy Bolts     | 18    |
 
 ## Toxins (vial — 10 applications each)
 

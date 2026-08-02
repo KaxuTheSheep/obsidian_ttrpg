@@ -77,7 +77,7 @@ Your [[Skills|skill]] training from Broad Training may be upgraded once more bey
 ## Focused Mastery
 Prerequisites: Disciplined Training, Exclusive to Cross Training.
 Cost: 3 Trait Points.
-Mastery nodes in your chosen [[Weapon|weapon]] category cost 2 fewer Trait Points instead of 1, representing deeper institutional access to formal training.
+While wielding a weapon from your chosen [[Weapon|weapon]] category, you gain +1 to weapon attacks.
 
 ## Cross Training
 Prerequisites: Disciplined Training, Exclusive to Focused Mastery.
