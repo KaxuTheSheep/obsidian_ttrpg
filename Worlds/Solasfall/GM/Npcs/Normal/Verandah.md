@@ -3,7 +3,6 @@ aliases:
   - Verandah Golddrip
   - Verandah
   - The Nexus Peddler
-  - Lore
 tags:
   - Npc
   - Lore

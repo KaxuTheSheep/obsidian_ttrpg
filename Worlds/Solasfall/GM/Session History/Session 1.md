@@ -309,3 +309,5 @@ Party returned to the main chamber and went through to the rift side.
 |Day 2|[[Tarantula]] Burrow entry → Cocoon burned → Ruined Tower → Rest (End Day 2)|
 |Day 3|Tower → Marauder fight → Rest → Cliff structure → Ivan discovered → Return to Main Hall → Stalactite Passage|
 |Day 4|Narrow Vent entry (Session end)|
+
+Leads into [[Session 2]]

@@ -11,6 +11,7 @@ tags:
 **Cost:** 2 Trait Points.
 Coating a [[Weapon|weapon]] with a toxin no longer costs a Half [[Actions|Action]] — it becomes a **free [[Actions|action]]**, once per [[Rounds|Round]].
 
+## Waste Not
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
 Unused applications on a coated [[Weapon|weapon]] no longer degrade after combat ends — a coated blade stays viable until its applications are spent, however much time passes.

@@ -14,7 +14,7 @@ Unarmed [[Attacks]] you make deal **+1 [[Damage Types|damage]]**.
 ## Callused Knuckles
 **Prerequisites:** Iron Fists.
 **Cost:** 1 Trait Point.
-Your unarmed strikes are never treated as makeshift or improvised. You cannot be Disarmed while fighting unarmed, and unarmed [[Attacks]] ignore the first point of DR from any single source per hit (representing knuckle, elbow, and shin conditioning finding the gaps armour can't cover).
+Your unarmed strikes are never treated as makeshift or improvised. Unarmed [[Attacks]] ignore the first point of DR from any single source per hit (representing knuckle, elbow, and shin conditioning finding the gaps armour can't cover).
 
 ## Iron Body
 **Prerequisites:** Iron Fists.

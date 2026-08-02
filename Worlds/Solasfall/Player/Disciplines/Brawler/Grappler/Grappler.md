@@ -4,8 +4,8 @@ tags:
   - Discipline
 ---
 # Grapple
-![[Grapple.png]]
-[[Grapple.canvas]]
+![[Grappler.png]]
+[[Grappler.canvas]]
 ## Crushing Grip
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
