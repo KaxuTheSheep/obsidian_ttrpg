@@ -60,8 +60,8 @@ Above the bodies, clinging to the ceiling / upper walls, were **two large prayin
 - The female **broke the male's neck** and began eating it
 
 **Combat Trigger:**
-- The female mantis noticed the party after finishing its meal (or during)
-- Combat began against the **female mantis** (and potentially the male if still alive — clarify? The prompt says combat started, likely against the female, maybe the male is dead already, but I'll assume they fight the female, and maybe the male was dead, but I'll write it as they fight the female, possibly the male is already dead. The prompt: "Combat started" after the female breaks the male's neck. So they fight the female. I'll state they fight the female mantis.
+- The female mantis noticed the party during its meal
+- Combat began against the **female mantis** 
 
 **Combat Details:**
 - Party fought the **female mantis** in the chamber
@@ -86,6 +86,9 @@ Above the bodies, clinging to the ceiling / upper walls, were **two large prayin
   - Tells the current time
   - Displays a **number** correlating to the number of days spent in the [[Hollowdeep]]
   - This number updates as time passes within the nexus
+
+**Locket:**
+- Containing the decease and their family of kenkus
 
 **Hjordis:**
 - Rescued and introduced to the party
@@ -135,21 +138,33 @@ Above the bodies, clinging to the ceiling / upper walls, were **two large prayin
 
 ### Clara's Personal Action
 - [[Clara]] spent a significant portion of her earnings to **join the Common Arcanum**
-- This represents a character investment — access to arcane resources, training, or connections
+## Solasfall Day 2
 
 ### Carmilla and Bob
-- They both decided to join an apothecary as alchemist apprentices
-
+- They both decided to join an apothecary as alchemist apprentices under [[Theron Vale|Theron]]
+## Solasfall Day 3
+- Clara and Leon go to kenku district
+- They ask a guard and find the home of the locket's owner.
+- They met their mother, a elder kenku with grey feathers.
+- She gives Clara a ring, [[The Shade Ring|Shade Ring]]. 
+## Solasfall Day 4
+- Hjordis goes to the Ashen Sanctum
+- Decides to entertain people as a gladiator in the ashen crown sanctum
+- They make a great performance but lost.
 ---
 
 ## Session Timeline Summary
 
-| Day                | Events                                                                                                                       |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| Day 5 (Hollowdeep) | Narrow Vent → Lower Passage (2 cockroaches) → Sunken Chamber → Mantis fight → Hjordis rescued → Arcane clock & essence found |
-| Day 6 (Hollowdeep) | Return to Main Hall subsection → Verandah the Kenku merchant → Portal to Shattered Expanse located → Camp at Solasfall rift  |
-| Day 1 (Solasfall)  | Return to Solasfall → Guild sale → Clara joins Common Arcanum                                                                |
-| Day 2 (Solasfall)  |                                                                                                                              |
+| Day                  | Events                                                                                                                       |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Day 5 (Hollowdeep)   | Narrow Vent → Lower Passage (2 cockroaches) → Sunken Chamber → Mantis fight → Hjordis rescued → Arcane clock & essence found |
+| Day 6 (Hollowdeep)   | Return to Main Hall subsection → Verandah the Kenku merchant → Portal to Shattered Expanse located → Camp at Solasfall rift  |
+| Day 1 (Solasfall)    | Return to Solasfall → Guild sale → Clara joins Common Arcanum                                                                |
+| Day 2 (Solasfall)    | Both Carmilla and Bob become alchemist apprentices                                                                           |
+| Day 4<br>(Solasfall) | Clara learns magic                                                                                                           |
+| Day 5<br>(Solasfall) | Clara and Leon go to kenku district                                                                                          |
+| Day 6<br>(Solasfall) | Hjordis goes to the Ashen Sanctum                                                                                            |
+
 
 ---
 
@@ -158,6 +173,9 @@ Above the bodies, clinging to the ceiling / upper walls, were **two large prayin
 ### New NPCs
 - [[Verandah]] — kenku merchant, encountered in Main Hall subsection
 - 2 armoured guards (Verandah's retinue)
+- [[Theron Vale]] — Alchemist, encountered by Carmilla and Bob
+- Kenku Mother — By Clara and Leon
+
 
 ### Information Gained
 - Location of the portal to [[The Shattered Expanse]] 

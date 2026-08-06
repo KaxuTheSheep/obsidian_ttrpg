@@ -14,9 +14,9 @@ They cultivate physical skill and craftsmanship as expressions of their enduring
 ## Relationships with Other Races
 Humans are viewed with a mix of resentment and grudging respect, especially for their social dominance. Kenku are tolerated but seen as distant and less spiritually committed. Murks earn some respect for their quiet endurance and connection to nature. Velkhari are considered reckless and unreliable, though respected for their combat prowess. Stitched inspire both pity and curiosity — reminders of survival at great cost. Drenek are regarded as strong but lacking the spiritual depth Cindral prize.
 # Appearance
-Cindral possess obsidian-like skin that shifts in opacity, from glossy black glass to smoke-clouded grey. Beneath the surface, faint cracks glow with inner fire, pulsing in rhythm with their breath or emotion. Their eyes burn with steady flame, varying in hue from deep ember to pale white-gold, betraying mood and [[Attributes|vitality]]. Hair, when present, appears as ashen strands or faintly glowing filaments, often braided or bound to avoid catching alight during intense work.
+Cindral possess obsidian-like skin that shifts in opacity, from glossy black glass to smoke-clouded grey. Faint cracks glow with inner fire, pulsing in rhythm with their breath or emotion. Their eyes burn with steady flame, varying in hue from deep ember to pale white-gold, betraying mood and vitality. Hair, when present, appears as ashen strands or faintly glowing filaments, often braided or bound to avoid catching alight during intense work.
 
-Though humanoid in shape, their movements are deliberate and almost engineered — a reflection of their constructed [[Attributes|grace]] and inner discipline. Many wear heat-resistant fabrics, tempered metal, or volcanic glass adornments, combining function and reverence for their fiery origin. In darkness, a Cindral's body emits a subtle ember-like glow along their fractures — a haunting reminder of both their fragility and endurance.
+Though humanoid in shape, their movements are deliberate and almost engineered — a reflection of their constructed grace and inner discipline. Many wear heat-resistant fabrics, tempered metal, or volcanic glass adornments, combining function and reverence for their fiery origin. In darkness, a Cindral's body emits a subtle ember-like glow along their fractures — a haunting reminder of both their fragility and endurance.
 # Stats
 **Size:** Medium
 **Base Blood:** 8 
@@ -40,13 +40,15 @@ Common and Emberglyphs.
 
 # Traits
 ## Emberlight
-Your skin glows with a faint fiery crackle, shedding dim light in a 3m radius around you. This cannot be suppressed voluntarily — it is a biological constant, not a magical effect.
+Your skin glows with a faint fiery crackle, shedding a light level of 3 in a 3m radius around you. This cannot be suppressed voluntarily, this is an internal magical effect you don't know how to oppress. Due to this glow if you have, under most context you stick out like a sore thumb, when trying to stealth roll 2 sets of disadvantage. 
+
+You also are able to create fire from this ability which manifests as the Emberstrike and subsequent Traits. You are able to create a Fire the size and temperature of a lantern.
 
 ## Heat Resistance
-Your fire-touched physiology reduces all incoming fire [[Damage Types|damage]] by 2. This reflects biological tolerance rather than magical protection.
+Your fire-touched physiology reduces all incoming fire [[Damage Types|damage]] by 2.
 
 ## Emberstrike
-When you make a melee or ranged [[Attacks|attack]], you may choose to channel your body heat through your [[Weapon|weapon]] as part of that [[Attacks|attack]], adding +1 fire [[Damage Types|damage]]. This is a biological output, not a magical effect, and has no usage limit.
+When you make a melee or ranged [[Attacks|attack]], you channel your body heat through your [[Weapon|weapon]] or unarmed strike as part of that [[Attacks|attack]], adding +1 fire [[Damage Types|damage]]. 
 
 ## Fire-forged Endurance
 Gain +1 training in one of the following skills of your choice at character creation: Athletics, Crafting, or Endurance.
@@ -57,12 +59,12 @@ Gain +1 training in one of the following skills of your choice at character crea
 ## Channelled Emberstrike
 Prerequisites: None.
 Cost: 2 Trait Points. 
-You learn to concentrate your body heat into a single focused burst. As a Full [[Actions|Action]], you may channel heat through your [[Weapon|weapon]], dealing [[Weapon|weapon]] [[Damage Types|damage]] + 1d6 fire [[Damage Types|damage]]. Once per Short Rest.
+You learn to concentrate your body heat into a single focused burst. As a Full [[Actions|Action]], you may channel heat through your [[Weapon|weapon]] or unarmed strike, dealing and extra 1d6 fire [[Damage Types|damage]]. Once per Short Rest.
 
 ## Dimmed Emberlight 
 Prerequisites: None. 
 Cost: 1 Trait Point. 
-You learn to partially suppress your internal glow. Your Emberlight radius reduces from 3m to 1.5m at will. You may toggle this freely.
+You learn to partially suppress your internal glow. Your Emberlight radius reduces from 3m to 1.5m and the light level is 2 at will. You may toggle this freely. Instead of 2 sets of disadvantage for stealth, its 1. Any active affects of emberstrike traits are halved and truncated, e.g. the base emberstrike no longer gives +1 damage. 
 
 ## Tempered Resistance
 Prerequisites: None.
@@ -103,7 +105,7 @@ You learn to supercharge ranged projectiles with concentrated heat, causing them
 ## Suppressed Emberlight 
 Prerequisites: Dimmed Emberlight. 
 Cost: 2 Trait Points. 
-You gain full control over your internal glow. You may suppress your Emberlight entirely at will, shedding no light whatsoever. You may toggle freely between all states.
+You gain full control over your internal glow. You may suppress your Emberlight entirely at will, shedding no light whatsoever. You may toggle freely between all states. You have 0 disadvantage to stealth, but you can not use any emberstrike traits.
 
 ## Crafting Affinity
 Prerequisites: None.

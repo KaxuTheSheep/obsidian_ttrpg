@@ -34,7 +34,7 @@ When you successfully identify a spell using Spell Theory, you gain a **+2 bonus
 ## Theoretical Foundation
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-You understand the underlying principles of spell construction well enough to teach others. When assisting another character in spell construction during downtime, you can contribute your Insight bonus to their Tests as a collaborative bonus (+2 per assisting Architect, to a maximum of +6). You also reduce the time required for any spell research you personally undertake by **1 downtime period** (GM's discretion on the baseline duration).
+You understand the underlying principles of spell construction well enough to skip material cost if you are developping a spell with a similar affect to another. E.g. if you're creating a normal fire spell while knowing another fire spells you already understand fire in that context enough to not need any materials.
 
 ## Efficient Research
 **Prerequisites:** Theoretical Foundation.

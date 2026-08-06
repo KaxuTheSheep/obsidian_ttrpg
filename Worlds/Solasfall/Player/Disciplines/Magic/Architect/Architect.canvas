@@ -1,18 +1,18 @@
 {
 	"nodes":[
 		{"id":"grp","type":"group","x":-1220,"y":40,"width":2040,"height":900,"label":"Architect"},
-		{"id":"t1","type":"text","text":"Structural Insight\nPrereq: None\nCost: 2","x":-1180,"y":60,"width":260,"height":100},
-		{"id":"t6","type":"text","text":"Reverse\nEngineering\nPrereq:\nStructural\nInsight\nCost: 2","x":-1180,"y":360,"width":260,"height":120},
-		{"id":"t2","type":"text","text":"Spell Theory\nPrereq: None\nCost: 2","x":-850,"y":60,"width":260,"height":100},
-		{"id":"t12","type":"text","text":"Living Theory\nPrereq: Theoretical\nCountermeasure\nCost: 4","x":-880,"y":750,"width":320,"height":140},
-		{"id":"t7","type":"text","text":"Theoretical\nCountermeasure\nPrereq:\nSpell Theory\nCost: 2","x":-850,"y":360,"width":260,"height":120},
-		{"id":"t9","type":"text","text":"Conceptual Leap\nPrereq:\nTheoretical\nFoundation\nCost: 3","x":-230,"y":360,"width":260,"height":120},
-		{"id":"t10","type":"text","text":"Flexible\nFramework\nPrereq:\nVariable\nUnderstanding\nCost: 3","x":130,"y":360,"width":260,"height":120},
-		{"id":"t8","type":"text","text":"Efficient\nResearch\nPrereq:\nTheoretical\nFoundation\nCost: 2","x":-590,"y":360,"width":260,"height":120},
+		{"id":"t8","type":"text","text":"Efficient Research\nPrereq:\nTheoretical Foundation\nCost: 2","x":-560,"y":360,"width":290,"height":120},
 		{"id":"t5","type":"text","text":"Mana Economizer\nPrereq: None\nCost: 2","x":530,"y":60,"width":260,"height":90},
-		{"id":"t4","type":"text","text":"Variable Understanding\nPrereq: None\nCost: 2","x":110,"y":60,"width":300,"height":100},
-		{"id":"t3","type":"text","text":"Theoretical Foundation\nPrereq: None\nCost: 2","x":-460,"y":60,"width":320,"height":100},
-		{"id":"t11","type":"text","text":"Esoteric Understanding\nPrereq:Efficient Research, Flexible Framework, Mana Economizer\nCost: 4","x":100,"y":750,"width":320,"height":160}
+		{"id":"t9","type":"text","text":"Conceptual Leap\nPrereq:\nTheoretical Foundation\nCost: 3","x":-220,"y":360,"width":290,"height":120},
+		{"id":"t3","type":"text","text":"Theoretical Foundation\nPrereq: None\nCost: 2","x":-395,"y":60,"width":320,"height":100},
+		{"id":"t4","type":"text","text":"Variable Understanding\nPrereq: Theoretical Foundation\nCost: 2","x":110,"y":200,"width":300,"height":120},
+		{"id":"t11","type":"text","text":"Esoteric Understanding\nPrereq: Efficient Research, Flexible Framework, Mana Economizer\nCost: 4","x":100,"y":750,"width":320,"height":160},
+		{"id":"t10","type":"text","text":"Flexible Framework\nPrereq: Variable\nUnderstanding\nCost: 3","x":130,"y":360,"width":260,"height":120},
+		{"id":"t7","type":"text","text":"Theoretical Countermeasure\nPrereq: Spell Theory\nCost: 2","x":-1190,"y":360,"width":260,"height":120},
+		{"id":"t12","type":"text","text":"Living Theory\nPrereq: Theoretical\nCountermeasure\nCost: 4","x":-1220,"y":750,"width":320,"height":140},
+		{"id":"t2","type":"text","text":"Spell Theory\nPrereq: None\nCost: 2","x":-1190,"y":60,"width":260,"height":100},
+		{"id":"t6","type":"text","text":"Reverse Engineering\nPrereq: Structural Insight\nCost: 2","x":-880,"y":360,"width":260,"height":120},
+		{"id":"t1","type":"text","text":"Structural Insight\nPrereq: None\nCost: 2","x":-880,"y":60,"width":260,"height":100}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"t1","fromSide":"bottom","toNode":"t6","toSide":"top"},
@@ -23,6 +23,7 @@
 		{"id":"e7","fromNode":"t4","fromSide":"bottom","toNode":"t10","toSide":"top"},
 		{"id":"e8","fromNode":"t8","fromSide":"bottom","toNode":"t11","toSide":"top"},
 		{"id":"e9","fromNode":"t10","fromSide":"bottom","toNode":"t11","toSide":"top"},
-		{"id":"e10","fromNode":"t5","fromSide":"bottom","toNode":"t11","toSide":"top"}
+		{"id":"e10","fromNode":"t5","fromSide":"bottom","toNode":"t11","toSide":"top"},
+		{"id":"eeab12ef828d04c2","fromNode":"t3","fromSide":"right","toNode":"t4","toSide":"top"}
 	]
 }

@@ -80,8 +80,8 @@ The [[Weapon|weapon]]’s appearance or reputation provokes caution.
 
 ### Silent
 The [[Weapon|weapon]] does not produce audible noise when striking flesh or moving through air.
-- **[[Attacks]]** with this [[Weapon|weapon]] do **not** produce detectable combat noise unless they strike [[Solasfall Armour|Armour]] or metal.
-- Useful for ambush and [[Hollowdeep]] [[Skills|stealth]] operations.
+- **[[Attacks]]** with this weapon do **not** produce detectable combat noise unless they strike [[Solasfall Armour|Armour]] or metal.
+- When attacking from [[Stealth#Attacking from Hidden|Hidden]], you do not leave hidden if the attack misses.
 
 ### Reliable
 The [[Weapon|weapon]]’s balance and design make it consistent and trustworthy.

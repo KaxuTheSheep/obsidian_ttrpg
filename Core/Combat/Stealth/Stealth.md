@@ -28,7 +28,7 @@ Making an [[Attacks|Attack]] against a creature that has not detected you treats
 - You gain **Advantage** on the [[Attacks|Attack]] roll.
 - The target cannot use **[[Dodge]]** or **[[Parry]]** against it.
 
-Making the [[Attacks|Attack]] ends Hidden for you against that target (and typically against anyone else who witnessed it), unless a specific ability states otherwise.
+Making the [[Attacks|Attack]] ends Hidden for you against that target (and typically against anyone else who witnessed it) even if you miss, unless a specific ability states otherwise.
 
 ## Re-entering Hidden
 If you break line of sight with every observer who has detected you — ducking around cover, into darkness, through a door — and spend a Full [[Actions|Action]] doing so without attacking, you may attempt a new [[Skills|Stealth]] Test against those observers at **Disadvantage**, reflecting that they know roughly where to keep looking.
