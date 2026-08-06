@@ -26,25 +26,14 @@ If a creature **moves into the projectile's path** at their own [[Ticks, Priorit
 **Friendly fire applies.** If an ally moves into the projectile's path between segments, they are a valid hit candidate the same as an enemy. Intent does not redirect physics.
 
 ### Travel Rate
-Travel Rate is expressed in **meters per [[Ticks, Priority & Resolution|Priority]] step**. This is listed on the [[weapon]].
+Travel Rate is expressed in **meters per [[Ticks, Priority & Resolution|Tick]] step**. This is listed on the weapon.
 
-### Example
+### Example for a Fantasy setting
 A shortbow is fired at **Initiation [[Ticks, Priority & Resolution|Priority]] 16** with a Travel Rate of **15 meters per [[Ticks, Priority & Resolution|Tick]] step**.
 - [[Ticks, Priority & Resolution|Tick]] 16 → Arrow leaves bow at position Y.
 - [[Ticks, Priority & Resolution|Tick]] 15 → Arrow has travelled 15 meters, reaching position Z. Any creature in the Y–Z path is checked, closest first.
 - [[Ticks, Priority & Resolution|Tick]] 14 → Arrow continues another 15 meters. New segment checked.
 - This continues until the arrow hits a target or is no longer needed to be tracked for whatever other reason.
-
-## Firearms
-Firearms [[Attributes|resolve]] essential instantly in normal ranges. The [[Attacks|attack]] resolves at Initiation [[Ticks, Priority & Resolution|Priority]] against the declared target, unless the ranges are high enough where tracking is important again.
-
-**General firearm characteristics:**
-- **Pistols / SMGs** — high Initiation [[Ticks, Priority & Resolution|Priority]], lower [[Damage Types|damage]], short–medium optimal [[Range & Threat|range]]
-- **Rifles** — moderate Initiation [[Ticks, Priority & Resolution|Priority]], high [[Damage Types|damage]], long optimal [[Range & Threat|range]]
-- **Sniper rifles** — low Initiation [[Ticks, Priority & Resolution|Priority]] (significant aim time), very high [[Damage Types|damage]], extreme [[Range & Threat|range]], high pierce count
-- **Shotguns** — moderate Initiation [[Ticks, Priority & Resolution|Priority]], hits a **cone** rather than a line (width defined by [[Weapon|weapon]]), no pierce, effective at short [[Range & Threat|range]] only
-
-Specific stats are defined in the relevant module's [[Weapon|weapon]] list.
 
 ## [[Range & Threat|Range]]
 Each ranged [[Weapon|weapon]] has an optimal [[Range & Threat|range]] in meters.

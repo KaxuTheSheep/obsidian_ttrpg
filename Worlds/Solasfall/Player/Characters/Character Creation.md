@@ -7,7 +7,6 @@ Trait Points can be spent on:
 - [[Attributes]]
 - Skill training
 - Racial tree nodes
-- [[Weapon]] mastery
 - Sturdiness increases
 - Essence capacity
 - Discipline Nodes

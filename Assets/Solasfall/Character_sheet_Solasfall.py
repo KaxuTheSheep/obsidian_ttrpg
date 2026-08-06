@@ -1,6 +1,6 @@
 """
-character_sheet_final_v7.py
-Final layout with correct scaling and positions.
+character_sheet_final_Solasfall_v12.py
+Final layout with correct scaling and positions with 2 new misc pages.
 """
 
 from reportlab.pdfgen import canvas
@@ -325,6 +325,14 @@ def page2(c):
     bs_h = backstory_h - 14*mm
     add_text_field(c, "field_Backstory", bs_x, bs_y, bs_w, bs_h, multiline=True)
 
+# -------------------- Page 3+4 --------------------
+def page3page4(c):
+    misc_h = 0.985 * H
+    misc_y = H - MARGIN - misc_h
+    draw_bordered_rect(c, MARGIN, misc_y, W-2*MARGIN, misc_h)
+    draw_header(c, 'MISC', MARGIN + 1*mm, misc_y + misc_h - HEADER_TOP_OFFSET)
+    add_text_field(c, "field_Misc", MARGIN + 2*mm, misc_y + 2*mm, W - 2*MARGIN - 4*mm, misc_h -12*mm , multiline=True)
+
 # -------------------- Main --------------------
 def main():
     pdf_file = 'Character_Sheet.pdf'
@@ -332,6 +340,10 @@ def main():
     page1(c)
     c.showPage()
     page2(c)
+    c.showPage()
+    page3page4(c)
+    c.showPage()
+    page3page4(c)
     c.showPage()
     c.save()
     print(f'✅ PDF created: {pdf_file}')

@@ -15,7 +15,7 @@ These mechanics are fundamental and is ideally not changed.
 **Combat flow**
 
 - Combat is divided into [[Rounds]] consisting of a Declaration Phase and a Resolution Phase.
-- [[Actions]] [[Attributes|resolve]] in descending [[Ticks, Priority & Resolution|Priority]] order. TiPriorityAttributes|resolve]] by [[Attributes|Grace]], then GM discretion.
+- [[Actions]] [[Attributes|resolve]] in descending [[Ticks, Priority & Resolution|Priority]] order. [[Attributes|resolve]] by [[Attributes|Grace]], then GM discretion.
 - Each character receives 2.5 [[Actions]] and 1 Reaction per [[Rounds|Round]]. Unused [[Actions|actions]] do not carry over.
 - [[Actions|Action]] types are Full [[Actions|Action]], Half [[Actions|Action]], and Reaction as defined in the core.
 
