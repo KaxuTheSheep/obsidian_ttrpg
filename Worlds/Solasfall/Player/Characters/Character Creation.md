@@ -1,15 +1,5 @@
 ## Overview
-Character creation in [[Solasfall]] uses a single unified currency — **Trait Points** — from level 0 through the entire game. The same points spent at creation are the same points spent advancing your character. There are no separate creation pools or advancement pools. Every choice is deliberate, every investment permanent.
-
-At level 0 you receive **25 Trait Points**. At each level up you receive **15 Trait Points**. Unspent points carry forward indefinitely — there is no penalty for banking them across levels, and some investments are expensive enough to reward planning ahead.
-
-Trait Points can be spent on:
-- [[Attributes]]
-- Skill training
-- Racial tree nodes
-- Sturdiness increases
-- Essence capacity
-- Discipline Nodes
+Character creation in [[Solasfall]] follows the core system's [[Levelling]] system, At level 0 you receive **25 Trait Points**. At each level up you receive **15 Trait Points**.
 
 Characters begin at **level 0** — deliberately vulnerable, barely above civilian capability. This is intentional. The [[Hollowdeep]] is not a place for heroes. It is a place where slightly trained people go because the alternative is execution. Level 0 forces creative problem solving, teaches the limits of the system, and makes the first level up feel genuinely earned.
 
@@ -86,7 +76,7 @@ Once per combat, when an enemy declares an [[Attacks|Attack]] or effect that inc
 ### Craftsman
 You can repair broken gear twice as fast and create simple items given time and materials.
 
-### Intimidating [[Attributes|Presence]]
+### Intimidating Presence
 Once per Rest, force an enemy to make a DN 16 [[Attributes|Resolve]] Test or be Frightened for 1d4 [[Rounds]].
 
 ### Survivor's Instinct
@@ -122,7 +112,7 @@ At each level up you receive Trait Points to spend freely across:
 - [[Attributes]]
 - Skill training
 - Racial tree nodes (subject to level gates)
-- Discipline tree nodes
+- [[Solasfall Disciplines]] tree nodes
 - Sturdiness increases
 - Essence capacity
 

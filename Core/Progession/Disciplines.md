@@ -4,7 +4,7 @@ aliases:
   - Discipline Tree
   - Discipline Node
 tags:
-  - Mechanics/Combat
+  - Mechanics
 ---
 Disciplines represent specialised training paths a character develops over time — combat styles, magical traditions, stealth tradecraft, or any other focused skill set defined by the relevant module. Each Discipline is organised as a **tree** of Nodes, purchased individually with Trait Points.
 
@@ -26,7 +26,6 @@ A Node's prerequisites can take several forms, and a module may combine them:
 - **None** — available to anyone with tree access and enough Trait Points.
 - **A single earlier Node** — the most common form, creating a linear chain within the tree.
 - **A Node plus a minimum Attribute score** — gating a Node behind both investment and raw capability.
-- **Any two (or more) of a listed set of Nodes** — a capstone Node reachable by multiple different paths through the tree, rewarding breadth rather than one specific chain.
 - **Mutual exclusivity** — a module may define two Nodes as mutually exclusive alternatives further down the same tree, where taking one closes off the other, representing a genuine fork in specialisation. This forces players to pick between options rather than dumping trait points into 1 tree and gaining everything mindlessly.
 
 ## What a Node Grants
