@@ -89,11 +89,10 @@ def page1(c):
 
     # ---- LEFT COLUMN ----
     # Attributes
-    attr_h = 0.28 * body_h
+    attr_h = 0.22 * body_h
     attr_y = body_top - attr_h
     draw_bordered_rect(c, col1_x, attr_y, col1_w, attr_h)
     draw_header(c, 'Attributes', col1_x + 4*mm, attr_y + attr_h - HEADER_TOP_OFFSET)
-
     attr_names = ['Might', 'Insight', 'Grace', 'Resolve', 'Vitality', 'Presence']
 
     max_label_len = max(len(name) for name in attr_names)
@@ -111,7 +110,7 @@ def page1(c):
         col = 0 if i < 3 else 1
         row = i % 3
         x_label = start_x + col * (col_width + GUTTER)
-        y_label = attr_y + attr_h - 12*mm - row * row_height
+        y_label = attr_y + attr_h - 14*mm - row * row_height
         draw_text(c, name, x_label, y_label, size=10)
         field_x = x_label
         field_y = y_label - FIELD_HEIGHT - 1*mm
@@ -180,10 +179,9 @@ def page1(c):
         ('DR', 15*mm),
     ]
     row2_base = [
-        ('Blood Dice', 30*mm),
-        ('Sanity Dice', 30*mm),
-        ('Exhaustion', 15*mm),
-        ('Blood Threshold', 32*mm),
+        ('Exhaustion', 20*mm),
+        ('Blood Threshold', 43*mm),
+        ('Sanity Threshold', 45*mm),
     ]
 
     def get_scaled_items(row_base, scale, gap, available):
