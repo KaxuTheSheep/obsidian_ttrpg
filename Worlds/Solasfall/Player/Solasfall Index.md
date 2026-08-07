@@ -34,7 +34,7 @@ Read roughly in this order:
 
 ### Combat extras (reference as they come up)
 - [[Grapple]], [[Unarmed]], [[Off-Hand & Dual-Wielding]]
-- [[Brace]], [[Heavy Attack]], [[Ready Action]], [[Drawing & Stowing]]
+- [[Heavy Attack]], [[Ready Action]], [[Drawing & Stowing]]
 - [[Action Fatigue]], [[Reactions]]
 
 ## 2. [[Solasfall]] — Essential (before session one)

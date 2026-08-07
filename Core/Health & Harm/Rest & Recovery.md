@@ -11,8 +11,8 @@ Rest comes in three forms, each offering different degrees of recovery depending
 ## Break (≈ 30 minutes)
 A brief recovery during travel or downtime.
 - Restore [[Sturdiness]] by 2d6+Vitality.
-- You may spend 1 [[Blood]] Die to recover [[Blood]].
-- You may spend 1 [[Sanity]] Die to recover [[Sanity]].
+- Restore [[Attributes|Vitality]]+1d4 amount of [[Blood]]
+- Restore [[Attributes|Resolve]]+1d4 amount of [[Sanity]]
 - Reduce Exhaustion by 1.
 - Perform 1 Rest Activity.
 - Minor [[Injuries|Wounds]] do not heal, but may be treated.
@@ -23,8 +23,8 @@ A brief recovery during travel or downtime.
 ## Short Rest (≈ 2 hours)
 Time to clean [[Injuries|wounds]], breathe, and recover enough to push forward.
 - Restore [[Sturdiness]] to (2+Vitality)d6.
-- You may spend any number of [[Blood]] Dice to recover [[Blood]].
-- You may spend any number of [[Sanity]] Dice to recover [[Sanity]].
+- Restore [[Attributes|Vitality]]+2d4 amount of [[Blood]]
+- Restore [[Attributes|Resolve]]+2d4 amount of [[Sanity]]
 - Attempt to close Open [[Injuries|Wounds]] naturally: [[Attributes|Vitality]] Test (DN 14) → on success, the [[Injuries|wound]] becomes Closed.
 - Perform up to 4 Rest Activities.
 - Reduce Exhaustion by 2.
@@ -36,13 +36,9 @@ Rare. Requires security, shelter, and absence of life-threatening stress.
 - Fully restore [[Blood]], [[Sturdiness]], and [[Sanity]].
 - Remove all Open and Closed [[Injuries|Wounds]].
 - Reset Exhaustion to 0.
-- Regain all [[Blood]] Dice and [[Sanity]] Dice.
 - Attempt to reduce any [[Afflictions|Affliction]] (Minor or Moderate): [[Attributes|Resolve]] Test (DN 12) → on success, reduce tier by 1.
 
 > Permanent [[Injuries]] remain until treated by advanced means as defined by the relevant module.
-
-## [[Blood]] Dice & [[Sanity]] Dice
-[[Blood]] Dice and [[Sanity]] Dice start at **d4**. They represent your body's and mind's natural capacity to recover during rest. Spent dice are regained on a Long Rest. You gain 1 die every level, settings define how the die value increases.
 
 ## Rest Activities (≈ 30 minutes each)
 

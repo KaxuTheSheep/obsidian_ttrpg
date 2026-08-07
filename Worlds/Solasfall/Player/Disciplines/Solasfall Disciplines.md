@@ -21,6 +21,7 @@ Here is a list of Solasfall's Disciplines:
 - Magic
 	- [[Architect]]
 	- [[Conduit]]
+	- [[Purifier]]
 	- [[Sigilwright]]
 	- [[Spellslinger]]
 - [[Skirmisher]]

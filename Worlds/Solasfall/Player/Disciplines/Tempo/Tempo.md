@@ -9,7 +9,7 @@ tags:
 ## Quickened Mind
 **Prerequisites:** None.
 **Cost:** 3 Trait Points.
-Gain **+0.5 Actions** per Round. This bonus Half Action may only be spent on Half Action-tier activities (drawing/stowing a weapon, Jump, Quick Brace, using a Skill, simple Interact) — it cannot be used to make an Attack, cast a spell, or declare a Defensive Stance.
+Gain **+0.5 Actions** per Round. This bonus Half Action may only be spent on Half Action-tier activities (drawing/stowing a weapon, Jump, using a Skill, simple Interact) — it cannot be used to make an Attack, cast a spell, or declare a Defensive Stance.
 
 ## Sharpened Reflex
 **Prerequisites:** None.

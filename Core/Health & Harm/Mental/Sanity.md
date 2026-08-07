@@ -24,6 +24,3 @@ Sanity is reduced by fear, trauma, psychological strain, and certain encounters 
 | 10–24% | Fracturing | Once per encounter, when choosing to hold position in combat, make a [[Attributes\|Resolve]] Test. |
 | 1–9% | Breaking Point | Before each [[Rest & Recovery\|Rest]], make a [[Attributes\|Resolve]] Test vs DN set by the GM. On a failed Test, gain an [[Afflictions\|Affliction]]. |
 | 0 | Break | Gain 1 [[Afflictions\|Affliction]], then restore Sanity to 1. |
-
-## Sanity Dice
-Sanity Dice represent your mind's natural capacity to recover during [[Rest & Recovery|rest]]. They start at **d4** and you gain 1 die every level, settings define how the die value increases.. Spent dice are regained on a Long [[Rest & Recovery|Rest]].

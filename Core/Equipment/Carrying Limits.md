@@ -7,7 +7,7 @@ Characters can only carry what their body can physically manage. Carrying capaci
 ## Carrying Capacity
 **Capacity = 6 + ([[Attributes|Might]] × 3)**
 
-| [[Attributes|Might]] | Capacity |
+| [[Attributes\|Might]] | Capacity |
 |---|---|
 | 0 | 6 |
 | 1 | 9 |

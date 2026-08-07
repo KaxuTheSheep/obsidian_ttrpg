@@ -24,7 +24,6 @@ Examples of Full Actions:
 - Declare Active [[Dodge]] stance
 - Run
 - Interact (complex or deliberate)
-- [[Brace|Full Brace]]
 
 ### Half Actions
 A Half Action represents a quick or less involved task.  
@@ -35,7 +34,6 @@ Example  of Half Actions:
 - Jump
 - Interact (simple or quick)
 - Drink a potion **(Half Action: roll for risk, Full Action: safe)**
-- [[Brace|Quick Brace]]
 - Using a [[Skills|Skill]]
 
 ### [[Reactions]]

@@ -23,12 +23,10 @@ A high Sturdiness score means your character can absorb many hits before their v
 
 ## Recovering Sturdiness
 Sturdiness can be recovered through:
-- **[[Brace]]** — the primary in-combat recovery [[Actions|action]]
 - **Short or Long [[Rest & Recovery|Rest]]** — fully restores Sturdiness
 - **Specific abilities or effects** as defined by their descriptions
 
-> Sturdiness recovers more easily and from more sources than [[Blood]]. Managing when to [[Brace]] and when to press an [[Attacks|attack]] is a core tactical decision.
-
+> Sturdiness recovers more easily and from more sources than [[Blood]]. Even when low, it doesn't apply the penatlies that [[Blood]] would.
 ## Buying Sturdiness
 Additional Sturdiness can be purchased using Trait Points. As bought Sturdiness increases, each point costs more and requires greater physical conditioning to sustain.
 
