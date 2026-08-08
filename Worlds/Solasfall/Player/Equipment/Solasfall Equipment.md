@@ -15,8 +15,8 @@ Equipment never changes a character’s **[[Attributes]]** directly — instead,
 - **[[Solasfall Armour]]**  
   Protects the body by reducing incoming [[Damage Types|damage]] (**DR**).  
   Heavier [[Solasfall Armour]] requires higher **[[Attributes|Might]]** to wear effectively and reduces mobility.
-- **[[Shields]]**  
+- **[[Solasfall Shields]]**  
   Defensive tools used with the **[[Block]]** [[Actions|action]].  
-  [[Shields]] enhance reactive defense rather than passive [[Evasion]].
+  [[Solasfall Shields]] enhance reactive defense rather than passive [[Evasion]].
 - **[[Solasfall Weapons]]** 
   [[Solasfall Weapons]] differ by **[[Damage Types|damage]]**, **[[Ticks, Priority & Resolution|Priority]]**, and later **Maneuver traits**.

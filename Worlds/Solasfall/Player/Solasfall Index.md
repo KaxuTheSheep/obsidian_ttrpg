@@ -29,7 +29,7 @@ Read roughly in this order:
 
 ### Equipment (reference when buying gear)
 - [[Weapon]] / [[Solasfall Weapons]] / [[Weapon Traits]]
-- [[Solasfall Armour]], [[Shields]]
+- [[Solasfall Armour]], [[Solasfall Shields]]
 - [[Carrying Limits]], [[Solasfall Ammunition]], [[Toxins]]
 
 ### Combat extras (reference as they come up)

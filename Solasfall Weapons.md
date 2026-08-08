@@ -33,7 +33,7 @@ Thin thrusting blade specialised for targeting gaps and weak points.
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** [[Weapon Traits#Penetrating|Penetrating(1)]], [[Weapon Traits#Concealable|Concealable]], [[Weapon Traits#Silent|Silent]], [[Weapon Traits#Nimble|Nimble]]
+**Traits:** [[Weapon Traits#Penetrating|Penetrating]], [[Weapon Traits#Concealable|Concealable]], [[Weapon Traits#Silent|Silent]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Parrying Dagger
 Short blade optimised for [[Off-Hand & Dual-Wielding|off-hand]] defence, binds, and riposte.
@@ -95,7 +95,7 @@ Slender thrusting blade optimised for precision, [[Ticks, Priority & Resolution|
 **[[Range & Threat|Range]]:** +0.65m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** [[Weapon Traits#Guarded|Guarded(+1)]], [[Weapon Traits#Penetrating|Penetrating(2)]], [[Weapon Traits#Nimble|Nimble]]
+**Traits:** [[Weapon Traits#Guarded|Guarded(+1)]], [[Weapon Traits#Penetrating|Penetrating]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Estoc
 Heavy stiff-bladed thrusting sword built to defeat armour. Slower than the Rapier but punishing against protected targets.
@@ -105,7 +105,7 @@ Heavy stiff-bladed thrusting sword built to defeat armour. Slower than the Rapie
 **[[Range & Threat|Range]]:** +0.70m
 **Handedness:** Versatile
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Penetrating|Penetrating(3)]], [[Weapon Traits#Sundering|Sundering]]
+**Traits:** [[Weapon Traits#Penetrating|Penetrating]], [[Weapon Traits#Sundering|Sundering]]
 
 ### Schiavona
 Basket-hilted sword with exceptional hand protection. Favoured by fighters who want reliable offence and a strong defensive foundation.
@@ -125,7 +125,7 @@ Single-edged forward-weighted blade built for powerful committed cuts. Punishing
 **[[Range & Threat|Range]]:** +0.60m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
+**Traits:** [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Unbalanced|Unbalanced]]
 
 ### Greatsword
 Massive two-handed blade at the ceiling of sword [[Damage Types|damage]]. Slow but devastating, rewarding aggressive committed fighters.
@@ -157,7 +157,7 @@ An extended lower blade designed to hook weapons and shields, pulling guards apa
 **[[Range & Threat|Range]]:** +0.60m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Hooking|Hooking(10)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
+**Traits:** [[Weapon Traits#Hooking|Hooking]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced]]
 
 ### Dane Axe
 Long-hafted axe that threatens space like a polearm while hitting like an axe.
@@ -190,7 +190,7 @@ The primitive baseline. Simple, heavy, and brutally effective for what it is.
 **[[Range & Threat|Range]]:** +0.50m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Crushing|Crushing(d6)]], [[Weapon Traits#Reliable|Reliable]]
+**Traits:** [[Weapon Traits#Crushing|Crushing]], [[Weapon Traits#Reliable|Reliable]]
 
 ### Mace
 The workhorse of the category. Purpose built to punish armoured targets through committed strikes.
@@ -200,7 +200,7 @@ The workhorse of the category. Purpose built to punish armoured targets through 
 **[[Range & Threat|Range]]:** +0.55m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Crushing|Crushing(2d4)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
+**Traits:** [[Weapon Traits#Crushing|Crushing]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced]]
 
 ### Morningstar
 A spiked mace head that threatens armoured and unarmoured targets alike through simultaneous blunt and piercing force.
@@ -210,7 +210,7 @@ A spiked mace head that threatens armoured and unarmoured targets alike through 
 **[[Range & Threat|Range]]:** +0.55m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Crushing|Crushing(1d10)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
+**Traits:** [[Weapon Traits#Crushing|Crushing]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced]]
 
 ### War Hammer
 Purpose built armour cracker, versatile enough to go two-handed for devastating committed strikes.
@@ -220,7 +220,7 @@ Purpose built armour cracker, versatile enough to go two-handed for devastating 
 **[[Range & Threat|Range]]:** +0.65m
 **Handedness:** Versatile
 **Weight Class:** Heavy
-**Traits:** [[Weapon Traits#Crushing|Crushing(2d6)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-3)]], [[Weapon Traits#Momentum|Momentum]]
+**Traits:** [[Weapon Traits#Crushing|Crushing]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced]], [[Weapon Traits#Momentum|Momentum]]
 
 ### Maul
 Two-handed, maximum impact. Reliable devastation through sheer committed mass.
@@ -230,7 +230,7 @@ Two-handed, maximum impact. Reliable devastation through sheer committed mass.
 **[[Range & Threat|Range]]:** +0.75m
 **Handedness:** Two-Handed
 **Weight Class:** Heavy
-**Traits:** [[Weapon Traits#Crushing|Crushing(1d10)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-2)]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
+**Traits:** [[Weapon Traits#Crushing|Crushing]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
 
 ## Polearms
 Weapons built around reach, leverage, and controlling space. Polearms threaten enemies before they can close distance, punishing approach and rewarding positioning. All polearms have the Reach trait. The category ranges from the accessible spear to the oppressive pike and the devastating glaive — each demanding a different relationship with distance and commitment.
@@ -262,7 +262,7 @@ A hooked polearm that rewards patience and control. Where other polearms strike,
 **[[Range & Threat|Range]]:** +1.40m
 **Handedness:** Two-Handed
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Hooking|Hooking(13)]], [[Weapon Traits#Guarded|Guarded(+2)]], [[Weapon Traits#Weapon Bind|Weapon Bind]]
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Hooking|Hooking]], [[Weapon Traits#Guarded|Guarded(+2)]], [[Weapon Traits#Weapon Bind|Weapon Bind]]
 
 ### Halberd
 A heavy hybrid that combines axe, hook, and reach into a single punishing [[Weapon|weapon]]. Offensively dominant, defensively minimal.
@@ -272,7 +272,7 @@ A heavy hybrid that combines axe, hook, and reach into a single punishing [[Weap
 **[[Range & Threat|Range]]:** +1.60m
 **Handedness:** Two-Handed
 **Weight Class:** Heavy
-**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Hooking|Hooking(12)]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Sundering|Sundering]]
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Hooking|Hooking]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Sundering|Sundering]]
 
 ### Glaive
 A long blade on a longer haft. Pure cutting reach at the [[Damage Types|damage]] ceiling — no defensive pretension, no subtlety.
@@ -282,7 +282,7 @@ A long blade on a longer haft. Pure cutting reach at the [[Damage Types|damage]]
 **[[Range & Threat|Range]]:** +1.70m
 **Handedness:** Two-Handed
 **Weight Class:** Heavy
-**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Unbalanced|Unbalanced(-2)]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Unbalanced|Unbalanced]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
 
 ## Flails & Chains
 Weapons built around articulated striking heads — ball, blade, or weight connected to haft or handle by chain or rope. Where maces transfer force through rigid structure, flails and chains exploit momentum and unpredictable arcing movement to defeat guard entirely. A skilled defender can read a sword or axe; a flail gives them nothing to read. The category rewards aggression and punishes hesitation, but the same articulation that confounds enemies makes precise defensive use nearly impossible.
@@ -295,7 +295,7 @@ A weighted ball on a short chain, built to confound guard and crack armour throu
 **[[Range & Threat|Range]]:** +0.60m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+3)]], [[Weapon Traits#Volatile|Volatile]], [[Weapon Traits#Crushing|Crushing(1d6)]], [[Weapon Traits#Unbalanced|Unbalanced(-4)]]
+**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+3)]], [[Weapon Traits#Volatile|Volatile]], [[Weapon Traits#Crushing|Crushing]], [[Weapon Traits#Unbalanced|Unbalanced]]
 
 #### Tetsu Chigaki
 A heavy iron-studded club with a chained ball attached, offering two distinct strike modes in a single [[Weapon|weapon]]. Fighters can flow freely between the rigid club end and the flailing chain end within the same [[Rounds|round]].
@@ -306,7 +306,7 @@ A heavy iron-studded club with a chained ball attached, offering two distinct st
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]]
 **[[Range & Threat|Range]]:** +0.55m
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Crushing|Crushing(1d4)]], [[Weapon Traits#Reliable|Reliable]]
+**Traits:** [[Weapon Traits#Crushing|Crushing]], [[Weapon Traits#Reliable|Reliable]]
 
 **Flail End**
 **[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]]
@@ -314,7 +314,7 @@ A heavy iron-studded club with a chained ball attached, offering two distinct st
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]]
 **[[Range & Threat|Range]]:** +0.90m
 **Weight Class:** Standard
-**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+2)]], [[Weapon Traits#Volatile|Volatile]], [[Weapon Traits#Crushing|Crushing(1d6)]]
+**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+2)]], [[Weapon Traits#Volatile|Volatile]], [[Weapon Traits#Crushing|Crushing]]
 
 **Handedness:** Two-Handed. Switching between ends is a free [[Actions|action]] declared at any point during the Declaration Phase. Both ends share the same [[Attacks|attack]] [[Actions|action]] — a fighter may strike with the club end and follow with the flail end within the same [[Rounds|round]] using normal [[Actions|action]] economy.
 
@@ -326,7 +326,7 @@ A curved sickle blade with a weighted chain attached, combining close [[Range & 
 **[[Range & Threat|Range]]:** +0.40m / +1.00m with chain
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+1)]], [[Weapon Traits#Hooking|Hooking(8)]], [[Weapon Traits#Weapon Bind|Weapon Bind]], [[Weapon Traits#Reach|Reach]] (chain only), [[Weapon Traits#Nimble|Nimble]]
+**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+1)]], [[Weapon Traits#Hooking|Hooking]], [[Weapon Traits#Weapon Bind|Weapon Bind]], [[Weapon Traits#Reach|Reach]] (chain only), [[Weapon Traits#Nimble|Nimble]]
 
 #### Meteor Hammer
 Two weighted iron balls connected by a long chain, used for sweeping strikes, wrapping, and binding at extreme [[Range & Threat|range]]. The [[Weapon|weapon]] threatens space like a polearm but with none of a polearm's structural rigidity — every strike is a commitment.

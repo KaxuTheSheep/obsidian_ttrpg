@@ -4,11 +4,17 @@ tags:
   - Economy
   - Item
 ---
-
+## Quality Modifiers
+| Tier       | Price Multiplier |
+| ---------- | ---------------- |
+| Broken     | —                |
+| Shoddy     | ×0.5             |
+| Worn       | ×0.75            |
+| Standard   | ×1               |
+| Fine       | ×1.5             |
+| Masterwork | ×3               |
 ## Weapons
-
 ### Daggers
-
 | Item            | Price |
 | --------------- | ----- |
 | Dagger          | 40    |
@@ -18,7 +24,6 @@ tags:
 | Kukri           | 55    |
 
 ### Swords
-
 | Item | Price |
 |---|---|
 | Shortsword | 35 |
@@ -28,18 +33,14 @@ tags:
 | Schiavona | 55 |
 | Falchion | 55 |
 | Greatsword | 110 |
-
 ### Axes
-
 | Item | Price |
 |---|---|
 | Hand Axe | 50 |
 | Bearded Axe | 55 |
 | Dane Axe | 110 |
 | Greataxe | 125 |
-
 ### Maces & Hammers
-
 | Item | Price |
 |---|---|
 | Club | 50 |
@@ -47,9 +48,7 @@ tags:
 | Morningstar | 60 |
 | War Hammer | 120 |
 | Maul | 130 |
-
 ### Polearms
-
 | Item | Price |
 |---|---|
 | Spear | 75 |
@@ -57,48 +56,38 @@ tags:
 | Bill | 80 |
 | Halberd | 120 |
 | Glaive | 140 |
-
 ### Flails & Chains
-
 | Item          | Price |
 | ------------- | ----- |
 | Flail         | 75    |
 | Tetsu Chigaki | 75    |
 | Kusarigama    | 70    |
 | Meteor Hammer | 130   |
-
 ### Throwing Weapons
-
 | Item           | Price |
 | -------------- | ----- |
 | Throwing Knife | 10    |
 | Francisca      | 30    |
 | Javelin        | 30    |
 | Throwing Axe   | 15    |
-
 ### Bows
-
 | Item     | Price | [[Attributes\|Might]] Requirement |
 | -------- | ----- | --------------------------------- |
 | Shortbow | 60    | —                                 |
 | Recurve  | 65    | —                                 |
 | Longbow  | 95    | —                                 |
 | Warbow   | 200   | **4**                             |
-
 ### Crossbows
-
 | Item           | Price |
 | -------------- | ----- |
 | Light Crossbow | 70    |
 | Heavy Crossbow | 145   |
 ### Unique
-
 | Item  | Price |
 | ----- | ----- |
 | Whips | 55    |
 
 ## Armour
-
 | Item       | Price | [[Attributes\|Might]] Requirement | DR  |
 | ---------- | ----- | --------------------------------- | --- |
 | Clothing   | 10    | 0                                 | 0   |
@@ -107,11 +96,9 @@ tags:
 | Chainmail  | 125   | 3                                 | 3   |
 | Half Plate | 200   | **4**                             | 4   |
 | Full Plate | 300   | **6**                             | 5   |
-
 Below the [[Attributes|Might]] requirement, armour cannot be used effectively — check your [[Attributes]] before you buy.
 
 ## Shields
-
 | Item    | Price |
 | ------- | ----- |
 | Buckler | 35    |
@@ -128,7 +115,6 @@ Below the [[Attributes|Might]] requirement, armour cannot be used effectively �
 | Heavy Bolts     | 18    |
 
 ## Toxins (vial — 10 applications each)
-
 | Item | Price |
 |---|---|
 | Thornbleed | 60 |
@@ -142,7 +128,6 @@ Below the [[Attributes|Might]] requirement, armour cannot be used effectively �
 | Any Antidote | 25 |
 
 ## General Adventuring Gear
-
 | Item                        | Price | Use                                                                                                                                                                              |
 | --------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Backpack                    | 20    | +10 capacity, any items inside the backpack can't be considered as equipped                                                                                                      |
@@ -165,7 +150,6 @@ Below the [[Attributes|Might]] requirement, armour cannot be used effectively �
 | Book (150 pages)            | 25    | A grimoire-sized book with 150 regular pages.                                                                                                                                    |
 
 ## Magical Tools
-
 | Item                         | Price | USE                                                                                                                                                                                                                                                         |
 | ---------------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wayfinder's Compass          | 180   | Ambient-drawn [[Magic\|magic]] tool. This compass's needle points to a specific structure called "The Point" in Solasfall. When outside in Hollowdeep the needle goes crazy unless the rift between is open where it'll vaguely point back to the structure |

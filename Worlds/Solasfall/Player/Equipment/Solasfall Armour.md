@@ -3,7 +3,7 @@ tags:
   - Mechanics/Combat
   - Item
 ---
-Armour reduces incoming [[Damage Types|damage]] and influences physical manoeuvrability. It does not affect [[Actions|action]] [[Ticks, Priority & Resolution|PriorityPriorityquipping armour requires meeting its [[Attributes|Might]] Requirement. If your [[Attributes|Might]] is below this requirement, the armour cannot be used effectively.
+Armour reduces incoming [[Damage Types|damage]] and influences physical manoeuvrability. It does not affect [[Actions|action]] [[Ticks, Priority & Resolution|Priority]]. Equipping armour requires meeting its [[Attributes|Might]] Requirement. If your [[Attributes|Might]] is below this requirement, the armour cannot be used effectively.
 
 ## Armour Categories
 

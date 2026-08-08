@@ -70,7 +70,7 @@ The first Enhancement Point you invest in a Weave circle does not increase its M
 ## Reinforced Circuit
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-Woven circles and [[Magic]] tools you personally construct are treated as one [[Equipment Quality & Degradation|Quality Tier]] higher for the sole purpose of resisting attempts to physically destroy or magically disrupt their circle structure.
+Woven circles and [[Magic]] tools you personally construct are treated as one [[Solasfall Equipment Quality & Degradation|Quality Tier]] higher for the sole purpose of resisting attempts to physically destroy or magically disrupt their circle structure.
 
 ## Tool Sense
 **Prerequisites:** Reinforced Circuit.

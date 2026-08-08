@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Shields
 tags:
   - Mechanics/Combat
   - Item
