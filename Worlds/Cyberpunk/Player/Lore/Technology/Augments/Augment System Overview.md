@@ -18,7 +18,7 @@ Almost all augmentation in New Halcyon runs on SOMA — Standardised Open Modifi
 
 This means the profit layer sits entirely in the augments, services, and subscriptions built on top of SOMA rather than in the standard itself. The standard is free. What runs on it is not.
 
-A small number of individuals run proprietary frameworks — hardware developed by specific conglomerates for their own personnel. These are not consumer products. They exist for control and operational security reasons. See [[Lore/Technology/Augments/Framework]].
+A small number of individuals run proprietary frameworks — hardware developed by specific conglomerates for their own personnel. These are not consumer products. They exist for control and operational security reasons. See [[Framework]].
 
 ---
 

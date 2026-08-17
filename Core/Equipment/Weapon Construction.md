@@ -19,7 +19,7 @@ Weapon Construction covers the classification categories every [[Weapon|weapon]]
 
 ### Versatile
 - Can be wielded with **one** or **two** hands.
-- When wielded with two hands, increase the [[Damage Types|damage]] die by one step (d6 → d8 → d10 → d12 → d14).
+- When wielded with two hands, increase the [[Damage Types|damage]] die by one [[The Core Dice#Die Steps|step]] (d6 → d8 → d10 → d12 → d12+d2).
 
 ## Weight Class
 
@@ -39,8 +39,6 @@ Weapon Construction covers the classification categories every [[Weapon|weapon]]
 
 
 ## Delivery Method
-All [[Weapon|weapons]] 
-
 ### Melee
 This [[Weapon|weapon]] threatens the space immediately around the wielder's body. All [[Attacks|attacks]] made with this [[Weapon|weapon]] follow the [[Range & Threat]] rules for melee threat range, [[Close-Quarters]] interactions, and facing.
 #### Melee Template
