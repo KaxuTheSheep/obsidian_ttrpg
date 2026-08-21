@@ -62,8 +62,8 @@ Each permanent injury carries both **narrative** and **mechanical** consequences
 | **Mangled Hand** | Fingers or hand destroyed beyond use. | Cannot wield weapons or hold objects with that hand. Disadvantage on precision or tool-related checks. |
 | **Punctured Lung** | Deep injury impairs breathing. | Stamina-related checks suffer Disadvantage. Max [[Sturdiness]] reduced by 2. |
 | **Shattered Jaw** | Jaw crushed or broken, difficult to speak or eat. | Speech-based checks at Disadvantage. |
-| **Fractured Skull** | Traumatic head injury causes chronic disorientation. | Disadvantage on [[Attributes|Insight]] Tests. Disadvantage on Tests to resist Stunned or Dazed [[Conditions\|conditions]]. |
-| **Severed Ear** | Loss of hearing in one or both ears. | Disadvantage on [[Skills|Perception]] checks relying on sound. Cannot be surprised by audible cues. |
+| **Fractured Skull** | Traumatic head injury causes chronic disorientation. | Disadvantage on [[Attributes\|Insight]] Tests. Disadvantage on Tests to resist Stunned or Dazed [[Conditions\|conditions]]. |
+| **Severed Ear** | Loss of hearing in one or both ears. | Disadvantage on [[Skills\|Perception]] checks relying on sound. Cannot be surprised by audible cues. |
 | **Internal Organ [[Damage Types\|Damage]]** | Critical blow damages vital organs. | Max [[Blood]] reduced by 2 permanently. Healing effects restore half their normal amount. |
 | **Burn Scarring** | Severe burns limit mobility and cause chronic pain. | Disadvantage on [[Attributes\|Grace]]-based Tests. Cannot wear heavy armour comfortably. |
 | **Nerve [[Damage Types\|Damage]]** | Permanent numbness or pain in limbs. | Disadvantage on [[Attributes\|Grace]]- or [[Attributes\|Might]]-based [[Skills\|Skill]] Tests involving fine control. |

@@ -54,6 +54,7 @@ def add_text_field(c, name, x, y, width, height, multiline=False, font_size=10, 
         forceBorder=False,
         fieldFlags=flags,
         value=default,
+        maxlen=32767 
     )
 
 # -------------------- Page 1 --------------------
@@ -323,13 +324,23 @@ def page2(c):
     bs_h = backstory_h - 14*mm
     add_text_field(c, "field_Backstory", bs_x, bs_y, bs_w, bs_h, multiline=True)
 
-# -------------------- Page 3+4 --------------------
-def page3page4(c):
+# -------------------- Page 3 ------------------
+def page3(c):
     misc_h = 0.985 * H
     misc_y = H - MARGIN - misc_h
     draw_bordered_rect(c, MARGIN, misc_y, W-2*MARGIN, misc_h)
     draw_header(c, 'MISC', MARGIN + 1*mm, misc_y + misc_h - HEADER_TOP_OFFSET)
-    add_text_field(c, "field_Misc", MARGIN + 2*mm, misc_y + 2*mm, W - 2*MARGIN - 4*mm, misc_h -12*mm , multiline=True)
+    add_text_field(c, "field_Misc_1", MARGIN + 2*mm, misc_y + 2*mm, W - 2*MARGIN - 4*mm, misc_h -12*mm , multiline=True)
+
+# -------------------- Page 4 ------------------
+def page4(c):
+    misc_h = 0.985 * H
+    misc_y = H - MARGIN - misc_h
+    draw_bordered_rect(c, MARGIN, misc_y, W-2*MARGIN, misc_h)
+    draw_header(c, 'MISC', MARGIN + 1*mm, misc_y + misc_h - HEADER_TOP_OFFSET)
+    add_text_field(c, "field_Misc_2", MARGIN + 2*mm, misc_y + 2*mm, W - 2*MARGIN - 4*mm, misc_h -12*mm , multiline=True)
+
+
 
 # -------------------- Main --------------------
 def main():
@@ -339,9 +350,9 @@ def main():
     c.showPage()
     page2(c)
     c.showPage()
-    page3page4(c)
+    page3(c)
     c.showPage()
-    page3page4(c)
+    page4(c)
     c.showPage()
     c.save()
     print(f'✅ PDF created: {pdf_file}')
