@@ -23,10 +23,10 @@
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 6 + Enhancement |
-| Manifest DN | 10 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 3 + Enhancement       |
+| Manifest DN | 7 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Object repaired but fragile: -2 Sturdiness until reinforced

@@ -22,10 +22,10 @@
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 7 + Enhancement |
-| Manifest DN | 11 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 4 + Enhancement       |
+| Manifest DN | 7 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Darkness flickers: creatures inside can see for 1 Tick each round
@@ -34,10 +34,10 @@
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 7 + Enhancement (draw time) |
-| Defect DN | 11 + (Enhancement × 2) |
+| Stat      | Value                       |
+| --------- | --------------------------- |
+| Time      | 4 + Enhancement (draw time) |
+| Defect DN | 7 + (Enhancement × 2)       |
 
 **Defect Examples:**
 - Area reduced by half

@@ -26,10 +26,10 @@ Stun is applied on impact if target fails their Sturdiness Test.
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 9 + Enhancement |
-| Manifest DN | 13 + (Enhancement × 2) |
+| Stat        | Value                  |
+| ----------- | ---------------------- |
+| Control DN  | 6 + Enhancement        |
+| Manifest DN | 10 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Arc grounds through caster's own equipment: 1 damage and stunned for 1 Tick
@@ -38,10 +38,10 @@ Stun is applied on impact if target fails their Sturdiness Test.
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 9 + Enhancement (draw time) |
-| Defect DN | 13 + (Enhancement × 2) |
+| Stat      | Value                  |
+| --------- | ---------------------- |
+| Time      | 6 + Enhancement        |
+| Defect DN | 10 + (Enhancement × 2) |
 
 **Defect Examples:**
 - Arc curves unpredictably: -2 to hit

@@ -28,10 +28,10 @@ Corrosion is applied on impact.
 
 ## Flux Casting
 
-| Stat        | Value                  |
-| ----------- | ---------------------- |
-| Control DN  | 8 + Enhancement        |
-| Manifest DN | 12 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 5 + Enhancement       |
+| Manifest DN | 9 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Acid forms on caster's hands: 1d4 damage to caster
@@ -40,10 +40,10 @@ Corrosion is applied on impact.
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 8 + Enhancement (draw time) |
-| Defect DN | 12 + (Enhancement × 2) |
+| Stat      | Value                 |
+| --------- | --------------------- |
+| Time      | 5 + Enhancement       |
+| Defect DN | 9 + (Enhancement × 2) |
 
 **Defect Examples:**
 - Duration reduced by half

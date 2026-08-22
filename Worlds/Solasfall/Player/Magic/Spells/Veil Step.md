@@ -25,10 +25,10 @@
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 10 + Enhancement |
-| Manifest DN | 14 + (Enhancement × 2) |
+| Stat        | Value                  |
+| ----------- | ---------------------- |
+| Control DN  | 7 + Enhancement        |
+| Manifest DN | 11 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Spatial displacement: emerge 1d3m off-target (GM determines direction)
@@ -37,10 +37,10 @@
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 10 + Enhancement (draw time) |
-| Defect DN | 14 + (Enhancement × 2) |
+| Stat      | Value                       |
+| --------- | --------------------------- |
+| Time      | 7 + Enhancement (draw time) |
+| Defect DN | 11 + (Enhancement × 2)      |
 
 **Defect Examples:**
 - Afterimage visible (can be targeted; -2 to hit caster for 1 round)

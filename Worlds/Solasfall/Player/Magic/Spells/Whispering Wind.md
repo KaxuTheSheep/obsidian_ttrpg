@@ -24,10 +24,10 @@
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 5 + Enhancement |
-| Manifest DN | 9 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 2 + Enhancement       |
+| Manifest DN | 4 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Wind carries voice in the wrong direction: message goes to the wrong target
@@ -36,10 +36,10 @@
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 5 + Enhancement (draw time) |
-| Defect DN | 9 + (Enhancement × 2) |
+| Stat      | Value                       |
+| --------- | --------------------------- |
+| Time      | 2 + Enhancement (draw time) |
+| Defect DN | 4 + (Enhancement × 2)       |
 
 **Defect Examples:**
 - Message is garbled (requires Insight Test to interpret)

@@ -28,10 +28,10 @@ Burn can be removed through logical physical countermeasures (smothering, immers
 
 ## Flux Casting
 
-| Stat        | Value                  |
-| ----------- | ---------------------- |
-| Control DN  | 8 + Enhancement        |
-| Manifest DN | 12 + (Enhancement x 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 5 + Enhancement       |
+| Manifest DN | 9 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Premature detonation at caster position
@@ -42,10 +42,10 @@ Burn can be removed through logical physical countermeasures (smothering, immers
 
 ## Weave Casting
 
-| Stat      | Value                       |
-| --------- | --------------------------- |
-| Time      | 8 + Enhancement (draw time) |
-| Defect DN | 12 + (Enhancement x 2)      |
+| Stat      | Value                 |
+| --------- | --------------------- |
+| Time      | 5 + Enhancement       |
+| Defect DN | 9 + (Enhancement × 2) |
 
 **Defect Examples:**
 - Projectile curves slightly on release 

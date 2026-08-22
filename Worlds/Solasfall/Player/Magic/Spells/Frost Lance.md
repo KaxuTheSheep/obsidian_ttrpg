@@ -28,10 +28,10 @@ Chill is applied on impact.
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 7 + Enhancement |
-| Manifest DN | 11 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 4 + Enhancement       |
+| Manifest DN | 8 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Frost crystallizes on caster's hands (-1 Grace until cleaned off, 1 round)
@@ -40,10 +40,10 @@ Chill is applied on impact.
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 7 + Enhancement (draw time) |
-| Defect DN | 11 + (Enhancement × 2) |
+| Stat      | Value                 |
+| --------- | --------------------- |
+| Time      | 4 + Enhancement       |
+| Defect DN | 8 + (Enhancement × 2) |
 
 **Defect Examples:**
 - Projectile curves slightly on release

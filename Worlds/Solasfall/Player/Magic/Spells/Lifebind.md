@@ -22,10 +22,10 @@
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 6 + Enhancement |
-| Manifest DN | 10 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 3 + Enhancement       |
+| Manifest DN | 7 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Healing redirected to non-essential tissue: target heals but gains 1 Exhaustion from wasted energy
@@ -34,10 +34,10 @@
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 6 + Enhancement (draw time) |
-| Defect DN | 10 + (Enhancement × 2) |
+| Stat      | Value                 |
+| --------- | --------------------- |
+| Time      | 3 + Enhancement       |
+| Defect DN | 7 + (Enhancement × 2) |
 
 **Defect Examples:**
 - Healing reduced by half

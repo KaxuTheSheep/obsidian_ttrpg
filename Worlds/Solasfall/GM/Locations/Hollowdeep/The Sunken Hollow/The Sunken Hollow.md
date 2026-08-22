@@ -54,7 +54,7 @@ Narrow and dim, with little to no natural bioluminescence — deliberately harde
 
 **Shattered Expanse Portal Alcove**  
 _Connects to: Deep Tunnel D only (dead end)_  
-A small, unremarkable alcove that happens to house the portal onward to [[the Shattered Expanse]]. Nothing marks it as significant from the tunnel — no light, no formation, no Guild signage. Easy to miss entirely without knowing it's there.
+A small, unremarkable alcove that happens to house the portal onward to [[The Shattered Expanse]]. Nothing marks it as significant from the tunnel — no light, no formation, no Guild signage. Easy to miss entirely without knowing it's there.
 
 **Deep Tunnel E**  
 _Connects to: Main Hall ↔ Winding Passage_  

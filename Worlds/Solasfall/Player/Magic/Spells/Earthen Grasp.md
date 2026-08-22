@@ -24,10 +24,10 @@
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 8 + Enhancement |
-| Manifest DN | 12 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 5 + Enhancement       |
+| Manifest DN | 9 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Ground shifts under caster instead: caster must make Grace Test or fall prone
@@ -36,10 +36,10 @@
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 8 + Enhancement (draw time) |
-| Defect DN | 12 + (Enhancement × 2) |
+| Stat      | Value                 |
+| --------- | --------------------- |
+| Time      | 5 + Enhancement       |
+| Defect DN | 9 + (Enhancement × 2) |
 
 **Defect Examples:**
 - Area smaller by half

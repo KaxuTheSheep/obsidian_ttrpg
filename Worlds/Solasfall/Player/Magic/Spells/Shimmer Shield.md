@@ -24,10 +24,10 @@
 
 ## Flux Casting
 
-| Stat | Value |
-|------|-------|
-| Control DN | 8 + Enhancement |
-| Manifest DN | 12 + (Enhancement × 2) |
+| Stat        | Value                 |
+| ----------- | --------------------- |
+| Control DN  | 4 + Enhancement       |
+| Manifest DN | 8 + (Enhancement × 2) |
 
 **Backlash Examples:**
 - Shield flickers: becomes transparent at the wrong moments, granting no Defense for 1 round segment
@@ -36,10 +36,10 @@
 
 ## Weave Casting
 
-| Stat | Value |
-|------|-------|
-| Time | 8 + Enhancement (draw time) |
-| Defect DN | 12 + (Enhancement × 2) |
+| Stat      | Value                 |
+| --------- | --------------------- |
+| Time      | 4 + Enhancement       |
+| Defect DN | 8 + (Enhancement × 2) |
 
 **Defect Examples:**
 - Shield only blocks from one direction (GM determines which)
